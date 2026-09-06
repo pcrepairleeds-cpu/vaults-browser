@@ -97,7 +97,7 @@ export class IconTileComponent {
   readonly variant = input<IconTileVariant>("primary");
 
   /**
-   * Optional custom hex color (e.g. `#175ddc`) — typically used to match a user's avatar color.
+   * Optional custom hex color (e.g. `#058181`) — typically used to match a user's avatar color.
    * When set, it takes precedence over `variant`/`emphasis`: the fill matches the color, the
    * foreground (icon) color is chosen for contrast, and the border is the color adjusted ±15%
    * lightness.

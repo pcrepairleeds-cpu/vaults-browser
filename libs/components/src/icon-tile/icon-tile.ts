@@ -15,7 +15,7 @@ export interface IconTileOptions {
   /** The visual theme of the icon tile */
   variant?: IconTileVariant;
 
-  /** Optional custom hex color (e.g. `#175ddc`); takes precedence over `variant`/`emphasis`. */
+  /** Optional custom hex color (e.g. `#058181`); takes precedence over `variant`/`emphasis`. */
   color?: string;
 
   /** Emphasis level for the decorative color families; ignored by the semantic variants. */
