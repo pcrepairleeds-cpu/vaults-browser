@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "appLogoLabel": {
-    "message": "Bitwarden лого"
+    "message": "QLine Vaults лого"
   },
   "extName": {
-    "message": "Bitwarden Менаџер Лозинке",
+    "message": "QLine Vaults Менаџер Лозинке",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden Password Manager Beta",
+    "message": "QLine Vaults Password Manager Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Било где, Bitwarden лако обезбеђује све ваше лозинке, приступне кључеве и осетљиве информације",
+    "message": "Било где, QLine Vaults лако обезбеђује све ваше лозинке, приступне кључеве и осетљиве информације",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "Креирај налог"
   },
   "newToBitwarden": {
-    "message": "Нови сте у Bitwarden-у?"
+    "message": "Нови сте у QLine Vaults-у?"
   },
   "logInWithPasskey": {
     "message": "Пријавите се са приступним кључем"
@@ -324,22 +324,22 @@
     "message": "Ићи на веб апликацију?"
   },
   "continueToWebAppDesc": {
-    "message": "Истражите више својстава на Bitwarden налогу на веб апликаији."
+    "message": "Истражите више својстава на QLine Vaults налогу на веб апликаији."
   },
   "continueToHelpCenter": {
     "message": "Настави на помоћни центар?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Learn more about how to use Bitwarden у помоћни центар."
+    "message": "Learn more about how to use QLine Vaults у помоћни центар."
   },
   "continueToBrowserExtensionStore": {
     "message": "Желите ли да наставите у продавницу додатака за прегледач?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Помозите другима да сазнају да ли је Bitwarden прави за њих. Посетите продавницу апликација и оставите оцену."
+    "message": "Помозите другима да сазнају да ли је QLine Vaults прави за њих. Посетите продавницу апликација и оставите оцену."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Можете променити главну лозинку на Bitwarden веб апликацији."
+    "message": "Можете променити главну лозинку на QLine Vaults веб апликацији."
   },
   "fingerprintPhrase": {
     "message": "Сигурносна Фраза Сефа",
@@ -356,28 +356,28 @@
     "message": "Одјави се"
   },
   "aboutBitwarden": {
-    "message": "О Bitwarden"
+    "message": "О QLine Vaults"
   },
   "about": {
     "message": "О апликацији"
   },
   "moreFromBitwarden": {
-    "message": "Више од Bitwarden"
+    "message": "Више од QLine Vaults"
   },
   "continueToBitwardenDotCom": {
     "message": "Наставити на bitwarden.com?"
   },
   "bitwardenForBusiness": {
-    "message": "Bitwarden for Business"
+    "message": "QLine Vaults for Business"
   },
   "bitwardenAuthenticator": {
-    "message": "Bitwarden Authenticator"
+    "message": "QLine Vaults Authenticator"
   },
   "continueToAuthenticatorPageDesc": {
     "message": "Bitwarden Authenticator омогућава вам да чувате кључеве аутентификатора и генеришете ТОТП кодове за токове верификације у 2 корака. Сазнајте више на bitwarden.com"
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden Secrets Manager"
+    "message": "QLine Vaults Secrets Manager"
   },
   "continueToSecretsManagerPageDesc": {
     "message": "Сигурно чувајте, управљајте и делите тајне програмера са Bitwarden Secrets Manager. Сазнајте више на bitwarden.com."
@@ -389,10 +389,10 @@
     "message": "Креирајте глатко и безбедно искуство пријављивања без традиционалних лозинки са Passwordless.dev. Сазнајте више на bitwarden.com."
   },
   "freeBitwardenFamilies": {
-    "message": "Бесплатно Bitwarden Families"
+    "message": "Бесплатно QLine Vaults Families"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "Имате право на Бесплатно Bitwarden Families. Искористите ову понуду данас у веб апликацији."
+    "message": "Имате право на Бесплатно QLine Vaults Families. Искористите ову понуду данас у веб апликацији."
   },
   "version": {
     "message": "Верзија"
@@ -455,13 +455,13 @@
     "message": "Помоћ и подршка"
   },
   "helpCenter": {
-    "message": "Bitwarden помоћни центар"
+    "message": "QLine Vaults помоћни центар"
   },
   "communityForums": {
-    "message": "Претражити форуми заједнице Bitwarden-а"
+    "message": "Претражити форуми заједнице QLine Vaults-а"
   },
   "contactSupport": {
-    "message": "Контактирајте подршку Bitwarden-а"
+    "message": "Контактирајте подршку QLine Vaults-а"
   },
   "sync": {
     "message": "Синхронизација"
@@ -483,7 +483,7 @@
     "message": "Аутоматски генеришите јаке, јединствене лозинке за ваше пријаве."
   },
   "bitWebVaultApp": {
-    "message": "Bitwarden веб апликација"
+    "message": "QLine Vaults веб апликација"
   },
   "select": {
     "message": "Изабери"
@@ -804,7 +804,7 @@
     "message": "Download then share the diagnostic report with"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden support",
+    "message": "QLine Vaults support",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1021,10 +1021,10 @@
     "message": "Учините верификацију у 2 корака беспрекорном"
   },
   "totpHelper": {
-    "message": "Bitwarden може да чува и попуњава верификационе кодове у 2 корака. Копирајте и налепите кључ у ово поље."
+    "message": "QLine Vaults може да чува и попуњава верификационе кодове у 2 корака. Копирајте и налепите кључ у ово поље."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden може да чува и попуњава верификационе кодове у 2 корака. Изаберите икону камере да бисте направили снимак екрана QR кода за аутентификацију ове веб локације или копирајте и налепите кључ у ово поље."
+    "message": "QLine Vaults може да чува и попуњава верификационе кодове у 2 корака. Изаберите икону камере да бисте направили снимак екрана QR кода за аутентификацију ове веб локације или копирајте и налепите кључ у ово поље."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Сазнајте више о аутентификаторима"
@@ -1114,7 +1114,7 @@
     "message": "Пријава у два корака чини ваш налог сигурнијим захтевом да верификујете своје податке помоћу другог уређаја, као што су безбедносни кључ, апликација, СМС-а, телефонски позив или имејл. Пријављивање у два корака може се омогућити на веб сефу. Да ли желите да посетите веб страницу сада?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Учините свој налог сигурнијим подешавањем пријаве у два корака у Bitwarden веб апликацији."
+    "message": "Учините свој налог сигурнијим подешавањем пријаве у два корака у QLine Vaults веб апликацији."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Ићи на веб апликацију?"
@@ -1270,7 +1270,7 @@
     "message": "Jump to setting"
   },
   "notificationAddDesc": {
-    "message": "Да ли Bitwarden треба да запамти ову лозинку?"
+    "message": "Да ли QLine Vaults треба да запамти ову лозинку?"
   },
   "notificationAddSave": {
     "message": "Сачувај"
@@ -1306,11 +1306,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "сачувано у Bitwarden.",
+    "message": "сачувано у QLine Vaults.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "ажурирано у Bitwarden.",
+    "message": "ажурирано у QLine Vaults.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1408,13 +1408,13 @@
     "message": "Затражите да сачувате нове приступне кључеве или се пријавите са приступним кључевима ускладиштеним у вашем сефу. Односи се на све пријављене налоге."
   },
   "notificationChangeDesc": {
-    "message": "Да ли желите да ажурирате ову лозинку за Bitwarden?"
+    "message": "Да ли желите да ажурирате ову лозинку за QLine Vaults?"
   },
   "notificationChangeSave": {
     "message": "Ажурирај"
   },
   "notificationUnlockDesc": {
-    "message": "Откључати Bitwarden сеф да би извршили ауто-пуњење."
+    "message": "Откључати QLine Vaults сеф да би извршили ауто-пуњење."
   },
   "notificationUnlock": {
     "message": "Откључај"
@@ -1511,10 +1511,10 @@
     "message": "Ова лозинка ће се користити за извоз и увоз ове датотеке"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Користите кључ за шифровање вашег налога, изведен из корисничког имена и главне лозинке, да шифрујете извоз и ограничите увоз само на тренутни Bitwarden налог."
+    "message": "Користите кључ за шифровање вашег налога, изведен из корисничког имена и главне лозинке, да шифрујете извоз и ограничите увоз само на тренутни QLine Vaults налог."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Подесите лозинку за шифровање извоза и увоз у било који Bitwarden налог користећи лозинку за дешифровање."
+    "message": "Подесите лозинку за шифровање извоза и увоз у било који QLine Vaults налог користећи лозинку за дешифровање."
   },
   "exportTypeHeading": {
     "message": "Тип извоза"
@@ -1543,7 +1543,7 @@
     "message": "Овај извоз шифрује податке користећи кључ за шифровање вашег налога. Ако икада промените кључ за шифровање свог налога, требало би да поново извезете, јер нећете моћи да дешифрујете овај извоз."
   },
   "encExportAccountWarningDesc": {
-    "message": "Кључеви за шифровање налога јединствени су за сваки кориснички налог Bitwarden-а, тако да не можете да увезете шифровани извоз на други налог."
+    "message": "Кључеви за шифровање налога јединствени су за сваки кориснички налог QLine Vaults-а, тако да не можете да увезете шифровани извоз на други налог."
   },
   "exportMasterPassword": {
     "message": "Унети главну лозинку за извоз сефа."
@@ -1751,7 +1751,7 @@
     "message": "Купити премијум"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Можете да купите Премиум у подешавањима налога у веб апликацији Bitwarden."
+    "message": "Можете да купите Премиум у подешавањима налога у веб апликацији QLine Vaults."
   },
   "premiumFeatures": {
     "message": "Надоградите на премиум и добијте:"
@@ -1857,7 +1857,7 @@
     "message": "Апликација Аутентификатор"
   },
   "authenticatorAppDescV2": {
-    "message": "Унесите кôд који генерише апликација за аутентификацију као што је Bitwarden Authenticator.",
+    "message": "Унесите кôд који генерише апликација за аутентификацију као што је QLine Vaults Authenticator.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1943,7 +1943,7 @@
     "message": "Једноставно пронађите предлоге за ауто-пуњење"
   },
   "autofillSpotlightDesc": {
-    "message": "Искључите подешавања ауто-пуњења прегледача, тако да се не сукобљавај са Bitwarden."
+    "message": "Искључите подешавања ауто-пуњења прегледача, тако да се не сукобљавај са QLine Vaults."
   },
   "turnOffBrowserAutofill": {
     "message": "Угасити ауто-пуњење $BROWSER$-а",
@@ -2000,7 +2000,7 @@
     "message": "Прикажи предлоге за ауто-попуњавање у пољима обрасца"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Како Bitwarden штити ваше податке од фишинга?"
+    "message": "Како QLine Vaults штити ваше податке од фишинга?"
   },
   "currentWebsite": {
     "message": "Тренутни сајт"
@@ -2949,7 +2949,7 @@
     "message": "Да ли сте сигурни да желите да промените кључ за шифровање свог налога?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Након ажурирања кључа за шифровање, мораћете да се одјавите и вратите у све Bitwarden апликације које тренутно користите (као што су мобилна апликација или додаци прегледача). Ако се не одјавите и поново пријавите (чиме се преузима ваш нови кључ за шифровање), може доћи до оштећења података. Покушаћемо аутоматски да се одјавимо, али може доћи до одлагања."
+    "message": "Након ажурирања кључа за шифровање, мораћете да се одјавите и вратите у све QLine Vaults апликације које тренутно користите (као што су мобилна апликација или додаци прегледача). Ако се не одјавите и поново пријавите (чиме се преузима ваш нови кључ за шифровање), може доћи до оштећења података. Покушаћемо аутоматски да се одјавимо, али може доћи до одлагања."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Сваки рачун са ограничен извоз који сте сачували постаће неважећи."
@@ -2977,10 +2977,10 @@
     "message": "Поставите PIN"
   },
   "setYourPinCode": {
-    "message": "Поставите свој ПИН код за откључавање Bitwarden-а. Поставке ПИН-а ће се ресетовати ако се икада потпуно одјавите из апликације."
+    "message": "Поставите свој ПИН код за откључавање QLine Vaults-а. Поставке ПИН-а ће се ресетовати ако се икада потпуно одјавите из апликације."
   },
   "setPinCode": {
-    "message": "Можете употребити овај ПИН да би деблокирали Bitwarden. Ваш ПИН ће се ресетовати ако се икада у потпуности одјавите из апликације."
+    "message": "Можете употребити овај ПИН да би деблокирали QLine Vaults. Ваш ПИН ће се ресетовати ако се икада у потпуности одјавите из апликације."
   },
   "pinRequired": {
     "message": "ПИН је обавезан."
@@ -3001,7 +3001,7 @@
     "message": "Чекање потврде са десктопа"
   },
   "awaitDesktopDesc": {
-    "message": "Потврдити са биометриком у Bitwarden Desktop апликацији да би омогућили биометрику у претраживачу."
+    "message": "Потврдити са биометриком у QLine Vaults Desktop апликацији да би омогућили биометрику у претраживачу."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Закључајте са главном лозинком при поновном покретању прегледача"
@@ -3116,7 +3116,7 @@
     "message": "Образац је хостован на другом домену од УРЛ-а ваше сачуване пријаве. Изаберите ОК да бисте ипак аутоматски попунили или Откажи да бисте зауставили."
   },
   "autofillIframeWarningTip": {
-    "message": "Да бисте спречили ово упозорење у будућности, сачувајте ову УРЛ, $HOSTNAME$, у Bitwarden пријавју за овај сајт.",
+    "message": "Да бисте спречили ово упозорење у будућности, сачувајте ову УРЛ, $HOSTNAME$, у QLine Vaults пријавју за овај сајт.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3125,7 +3125,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Ова страница омета искуство коришћења Bitwarden-а. Bitwarden inline мени је привремено онемогућен као безбедносна мера."
+    "message": "Ова страница омета искуство коришћења QLine Vaults-а. QLine Vaults inline мени је привремено онемогућен као безбедносна мера."
   },
   "setMasterPassword": {
     "message": "Постави Главну Лозинку"
@@ -3182,7 +3182,7 @@
     "message": "Ваша нова главна лозинка не испуњава захтеве смерница."
   },
   "receiveMarketingEmails": {
-    "message": "Receive updates from Bitwarden in your inbox."
+    "message": "Receive updates from QLine Vaults in your inbox."
   },
   "unsubscribe": {
     "message": "Одјави се"
@@ -3227,13 +3227,13 @@
     "message": "Интеграција претраживача није омогућена"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Интеграција претраживача није омогућена у Bitwarden Desktop. Омогућите је у подешавањима из Bitwarden Desktop апликације."
+    "message": "Интеграција претраживача није омогућена у QLine Vaults Desktop. Омогућите је у подешавањима из QLine Vaults Desktop апликације."
   },
   "startDesktopTitle": {
-    "message": "Покрени Bitwarden Desktop апликацију"
+    "message": "Покрени QLine Vaults Desktop апликацију"
   },
   "startDesktopDesc": {
-    "message": "Bitwarden Desktop апликација треба да се покрене пре употребе ове функције."
+    "message": "QLine Vaults Desktop апликација треба да се покрене пре употребе ове функције."
   },
   "errorEnableBiometricTitle": {
     "message": "Није могуће омогућити биометрику"
@@ -3287,13 +3287,13 @@
     "message": "Биометрија није успела"
   },
   "biometricsFailedDesc": {
-    "message": "Биометрија се не може завршити, размислите о коришћењу главне лозинке или одјавите се. Ако се ово настави, контактирајте подршку Bitwarden-а."
+    "message": "Биометрија се не може завршити, размислите о коришћењу главне лозинке или одјавите се. Ако се ово настави, контактирајте подршку QLine Vaults-а."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Permission not provided"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the QLine Vaults Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Permission request error"
@@ -3330,7 +3330,7 @@
     "message": "Изузети домени"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden неће тражити да сачува податке за пријављивање за ове домене. Морате освежити страницу да би промене ступиле на снагу."
+    "message": "QLine Vaults неће тражити да сачува податке за пријављивање за ове домене. Морате освежити страницу да би промене ступиле на снагу."
   },
   "blockedDomainsDesc": {
     "message": "Аутоматско попуњавање и сродне функције неће бити понуђене за ове веб сајтове. Морате освежити страницу да би се измене примениле."
@@ -3462,24 +3462,24 @@
     "message": "Илустрација листе пријаве које су ризичне."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Илустрација изгледа странице Bitwarden сефа."
+    "message": "Илустрација изгледа странице QLine Vaults сефа."
   },
   "generatePasswordSlideDesc": {
-    "message": "Брзо генеришите снажну, јединствену лозинку са Bitwarden менијем аутопуњења за коришћење на ризичном сајту.",
+    "message": "Брзо генеришите снажну, јединствену лозинку са QLine Vaults менијем аутопуњења за коришћење на ризичном сајту.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Илустрација Bitwarden-ског менија аутопуњења који приказују генерисану лозинку."
+    "message": "Илустрација QLine Vaults-ског менија аутопуњења који приказују генерисану лозинку."
   },
   "updateInBitwarden": {
-    "message": "Ажурирања у Bitwarden"
+    "message": "Ажурирања у QLine Vaults"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden ће тада затражити да ажурирате лозинку у менаџеру лозинке.",
+    "message": "QLine Vaults ће тада затражити да ажурирате лозинку у менаџеру лозинке.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Илустрација Bitwarden-ског обавештења за ажирриање пријаве."
+    "message": "Илустрација QLine Vaults-ског обавештења за ажирриање пријаве."
   },
   "turnOnAutofill": {
     "message": "Омогућите ауто-пуњење"
@@ -3994,7 +3994,7 @@
     "message": "Грешка при преузимању података за ауто-попуњавање"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden није могао да декриптује ставке из трезора наведене испод."
+    "message": "QLine Vaults није могао да декриптује ставке из трезора наведене испод."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Обратите се корисничкој подршци",
@@ -4098,11 +4098,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Генерисао Bitwarden.",
+    "message": "Генерисао QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Вебсајт: $WEBSITE$. Генерисао Bitwarden.",
+    "message": "Вебсајт: $WEBSITE$. Генерисао QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4300,7 +4300,7 @@
     "message": "Обавештење је послато на ваш уређај."
   },
   "notificationSentDevicePart1": {
-    "message": "Откључај Bitwarden на твом уређају или на"
+    "message": "Откључај QLine Vaults на твом уређају или на"
   },
   "notificationSentDeviceAnchor": {
     "message": "веб апликација"
@@ -4800,15 +4800,15 @@
     "message": "Прескочи на садржај"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwarden мени дугмета ауто-попуњавања",
+    "message": "QLine Vaults мени дугмета ауто-попуњавања",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Пребаци мени ауто-попуњавања Bitwarden-а",
+    "message": "Пребаци мени ауто-попуњавања QLine Vaults-а",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden мени ауто-попуњавања",
+    "message": "QLine Vaults мени ауто-попуњавања",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -4880,7 +4880,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Мени ауто-попуњавања Bitwarden-а је доступан. Притисните тастер са стрелицом надоле да бисте изабрали.",
+    "message": "Мени ауто-попуњавања QLine Vaults-а је доступан. Притисните тастер са стрелицом надоле да бисте изабрали.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5293,7 +5293,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5762,7 +5762,7 @@
     "message": "Активан налог"
   },
   "bitwardenAccount": {
-    "message": "Bitwarden налог"
+    "message": "QLine Vaults налог"
   },
   "availableAccounts": {
     "message": "Доступни налози"
@@ -5808,7 +5808,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Детекција подударања URI-ја је начин на који Bitwarden идентификује предлоге за ауто-попуњавање.",
+    "message": "Детекција подударања URI-ја је начин на који QLine Vaults идентификује предлоге за ауто-попуњавање.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5852,15 +5852,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Урадите да Bitwarden буде ваш подразумевани менаџер лозинки?",
+    "message": "Урадите да QLine Vaults буде ваш подразумевани менаџер лозинки?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Игнорисање ове опције може довести до сукоба између љутопуњења Bitwarden-а и вашег прегледача.",
+    "message": "Игнорисање ове опције може довести до сукоба између љутопуњења QLine Vaults-а и вашег прегледача.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Урадите да Bitwarden буде ваш подразумевани менаџер лозинки",
+    "message": "Урадите да QLine Vaults буде ваш подразумевани менаџер лозинки",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -5868,7 +5868,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "You'll be asked to grant a $BROWSER$ browser permission to make Bitwarden your default password manager.",
+    "message": "You'll be asked to grant a $BROWSER$ browser permission to make QLine Vaults your default password manager.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -5878,11 +5878,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Не може да се постави Bitwarden као подразумевани менаџер лозинки",
+    "message": "Не може да се постави QLine Vaults као подразумевани менаџер лозинки",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Морате дати дозволе за приватност прегледача Bitwarden-у да би се поставио као подразумевани менаџер.",
+    "message": "Морате дати дозволе за приватност прегледача QLine Vaults-у да би се поставио као подразумевани менаџер.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -5890,10 +5890,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Make Bitwarden your browser's default password manager"
+    "message": "Make QLine Vaults your browser's default password manager"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Make Bitwarden your default password manager",
+    "message": "Make QLine Vaults your default password manager",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -5905,13 +5905,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "from the browser prompt to give Bitwarden permission to change your settings."
+    "message": "from the browser prompt to give QLine Vaults permission to change your settings."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "We'll turn off your browser's built-in password manager so you can enjoy a secure login experience."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Made Bitwarden your default browser password manager"
+    "message": "Made QLine Vaults your default browser password manager"
   },
   "allow": {
     "message": "Allow",
@@ -6319,16 +6319,16 @@
     "message": "Download Attachment"
   },
   "downloadBitwarden": {
-    "message": "Преузети Bitwarden"
+    "message": "Преузети QLine Vaults"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "Преузети Bitwarden на све уређаје"
+    "message": "Преузети QLine Vaults на све уређаје"
   },
   "getTheMobileApp": {
     "message": "Узети мобилну апликацију"
   },
   "getTheMobileAppDesc": {
-    "message": "Приступите лозинци у покрету са Bitwarden мобилном апликацијом."
+    "message": "Приступите лозинци у покрету са QLine Vaults мобилном апликацијом."
   },
   "getTheDesktopApp": {
     "message": "Узети desktop апликацију"
@@ -6878,10 +6878,10 @@
     "message": "Биометријско откључавање није доступно због лоше подешених системских датотека."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Биометријско откључавање није доступно јер је Bitwarden апликација на рачунару угашена."
+    "message": "Биометријско откључавање није доступно јер је QLine Vaults апликација на рачунару угашена."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Биометријско откључавање није доступно јер није омогућено за $EMAIL$ у Bitwarden апликацији на рачунару.",
+    "message": "Биометријско откључавање није доступно јер није омогућено за $EMAIL$ у QLine Vaults апликацији на рачунару.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -6913,7 +6913,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Сачувај у Bitwarden",
+    "message": "Сачувај у QLine Vaults",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7139,13 +7139,13 @@
     "message": "Сеф штити више од само ваших лозинки. Овде безбедно чувајте безбедне пријаве, личне карте, картице и белешке."
   },
   "introCarouselLabel": {
-    "message": "Добродошли у Bitwarden"
+    "message": "Добродошли у QLine Vaults"
   },
   "securityPrioritized": {
     "message": "Сигурност, приоритет"
   },
   "securityPrioritizedBody": {
-    "message": "Сачувај пријаве, картице и идентитете у свом безбедном сефу. Bitwarden користи шифровање од почетка-до-краја да заштити оно што вам је важно."
+    "message": "Сачувај пријаве, картице и идентитете у свом безбедном сефу. QLine Vaults користи шифровање од почетка-до-краја да заштити оно што вам је важно."
   },
   "quickLogin": {
     "message": "Брза и лака пријава"
@@ -7163,7 +7163,7 @@
     "message": "Ваши подаци, када и где су вам потребни"
   },
   "secureDevicesBody": {
-    "message": "Сачувајте неограничене лозинке на неограниченим уређајима помоћу Bitwarden мобилних апликација, претраживача и десктоп апликација."
+    "message": "Сачувајте неограничене лозинке на неограниченим уређајима помоћу QLine Vaults мобилних апликација, претраживача и десктоп апликација."
   },
   "nudgeBadgeAria": {
     "message": "1 нотификација"
@@ -7172,7 +7172,7 @@
     "message": "Увоз постојеће лозинке"
   },
   "emptyVaultNudgeBody": {
-    "message": "Користите увозник да брзо преносите пријаве у Bitwarden без да их ручно додате."
+    "message": "Користите увозник да брзо преносите пријаве у QLine Vaults без да их ручно додате."
   },
   "emptyVaultNudgeButton": {
     "message": "Увези сада"
@@ -7291,7 +7291,7 @@
     "message": "О овом подешавању"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden ће користити сачуване URI-јеве за пријаву да би одредио коју икону или URL за промену лозинке треба користити како би побољшао ваше искуство. Никакви подаци нису сакупљени нити сачувани приликом коришћења ове услуге."
+    "message": "QLine Vaults ће користити сачуване URI-јеве за пријаву да би одредио коју икону или URL за промену лозинке треба користити како би побољшао ваше искуство. Никакви подаци нису сакупљени нити сачувани приликом коришћења ове услуге."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Add 3 quick copy buttons next to items to copy your username, password, or verification code to the clipboard."
@@ -7300,7 +7300,7 @@
     "message": "Немате дозволе за преглед ове странице. Покушајте да се пријавите са другим налогом."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly није подржано или није уапљено на вашем прегледачу. WebAssembly је потребно да би се користила апликација Bitwarden.",
+    "message": "WebAssembly није подржано или није уапљено на вашем прегледачу. WebAssembly је потребно да би се користила апликација QLine Vaults.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -7388,7 +7388,7 @@
     "message": "Error: Cannot decrypt"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Ваша организација више не користи главне лозинке за пријаву на Bitwarden. Да бисте наставили, верификујте организацију и домен."
+    "message": "Ваша организација више не користи главне лозинке за пријаву на QLine Vaults. Да бисте наставили, верификујте организацију и домен."
   },
   "continueWithLogIn": {
     "message": "Наставити са пријавом"
@@ -7474,7 +7474,7 @@
     "message": "Подесите метод откључавања да бисте променили радњу временског ограничења"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Managed by the Bitwarden desktop app. Open the desktop app to edit."
+    "message": "Managed by the QLine Vaults desktop app. Open the desktop app to edit."
   },
   "percentageCompleted": {
     "message": "$PERCENT$% complete",
@@ -7576,7 +7576,7 @@
     "message": "user@bitwarden.com, user@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "Download Bitwarden apps"
+    "message": "Download QLine Vaults apps"
   },
   "emailProtected": {
     "message": "Email protected"
@@ -7595,13 +7595,13 @@
     "message": "Share unlock with Desktop"
   },
   "sharedUnlockWithDesktopDescription": {
-    "message": "When enabled, unlock state will be shared with the Bitwarden Desktop app."
+    "message": "When enabled, unlock state will be shared with the QLine Vaults Desktop app."
   },
   "sharedUnlockWithWeb": {
     "message": "Share unlock with web vault"
   },
   "sharedUnlockWithWebDescription": {
-    "message": "When enabled, unlock state will be shared with Bitwarden web vaults."
+    "message": "When enabled, unlock state will be shared with QLine Vaults web vaults."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Shared unlock is not available because you chose not to remember this device. To enable this setting, try logging in again."
@@ -7610,13 +7610,13 @@
     "message": "New permission needed"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "To use shared unlock, Bitwarden needs permission to communicate with the desktop app. When you continue, your browser will ask you to approve it."
+    "message": "To use shared unlock, QLine Vaults needs permission to communicate with the desktop app. When you continue, your browser will ask you to approve it."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden will lock and reload. After you approve, the extension reloads and will lock your vault."
+    "message": "QLine Vaults will lock and reload. After you approve, the extension reloads and will lock your vault."
   },
   "biometricPermissionDesc": {
-    "message": "To use biometric unlock, Bitwarden needs permission to communicate with the desktop app. When you continue, your browser will ask you to approve it."
+    "message": "To use biometric unlock, QLine Vaults needs permission to communicate with the desktop app. When you continue, your browser will ask you to approve it."
   },
   "enterMonth": {
     "message": "Enter month."

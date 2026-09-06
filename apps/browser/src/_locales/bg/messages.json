@@ -1,16 +1,16 @@
 {
   "appName": {
-    "message": "Битуорден (Bitwarden)"
+    "message": "Битуорден (QLine Vaults)"
   },
   "appLogoLabel": {
     "message": "Лого на Битуорден"
   },
   "extName": {
-    "message": "Bitwarden — управител на пароли",
+    "message": "QLine Vaults — управител на пароли",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden — управител на пароли — бета",
+    "message": "QLine Vaults — управител на пароли — бета",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -1132,7 +1132,7 @@
     "message": "Въведение"
   },
   "gettingStartedTutorialVideo": {
-    "message": "Изгледайте въведението, за да извлечете максимална полза от разширението Bitwarden."
+    "message": "Изгледайте въведението, за да извлечете максимална полза от разширението QLine Vaults."
   },
   "syncingComplete": {
     "message": "Синхронизацията завърши"
@@ -1408,7 +1408,7 @@
     "message": "Питане за запазване на нови секретни ключове или за вписване чрез секретни ключове, пазени в трезора. Прилага се за всички регистрации, в които сте вписан(а)."
   },
   "notificationChangeDesc": {
-    "message": "Да се обнови ли паролата в Bitwarden?"
+    "message": "Да се обнови ли паролата в QLine Vaults?"
   },
   "notificationChangeSave": {
     "message": "Осъвременяване"
@@ -2937,7 +2937,7 @@
     "message": "Слаба главна парола"
   },
   "weakMasterPasswordDesc": {
-    "message": "Зададената главна парола е твърде слаба. Главната парола трябва да е силна. Добре е да ползвате цяла фраза за парола, за да защитите данните в трезора в Bitwarden. Уверени ли сте, че искате да ползвате слаба парола?"
+    "message": "Зададената главна парола е твърде слаба. Главната парола трябва да е силна. Добре е да ползвате цяла фраза за парола, за да защитите данните в трезора в QLine Vaults. Уверени ли сте, че искате да ползвате слаба парола?"
   },
   "rotateAccountEncKey": {
     "message": "Ключът за шифриране на акаунта ми също да се смени"
@@ -2977,7 +2977,7 @@
     "message": "Задаване на ПИН"
   },
   "setYourPinCode": {
-    "message": "Задайте ПИН за отключване на Bitwarden. Настройките за ПИН се изчистват при всяко пълно излизане от програмата."
+    "message": "Задайте ПИН за отключване на QLine Vaults. Настройките за ПИН се изчистват при всяко пълно излизане от програмата."
   },
   "setPinCode": {
     "message": "Може да използвате този ПИН за отключване на Битуорден. Вашият ПИН ще се нулира ако в някакъв момент се отпишете напълно от приложението."
