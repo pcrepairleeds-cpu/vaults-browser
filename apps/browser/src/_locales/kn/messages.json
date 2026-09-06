@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "ಬಿಟ್ವಾರ್ಡೆನ್"
+    "message": "QLine Vaults"
   },
   "appLogoLabel": {
     "message": "QLine Vaults logo"
   },
   "extName": {
-    "message": "QLine Vaults Password Manager",
+    "message": "QLine Vaults",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "QLine Vaults Password Manager Beta",
+    "message": "QLine Vaults Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "At home, at work, or on the go, QLine Vaults easily secures all your passwords, passkeys, and sensitive information",
+    "message": "QLine Vaults securely stores and fills your passwords. Provided by QLine IT.",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {

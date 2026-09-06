@@ -3,18 +3,18 @@
     "message": "QLine Vaults"
   },
   "appLogoLabel": {
-    "message": "โลโก้ QLine Vaults"
+    "message": "QLine Vaults logo"
   },
   "extName": {
-    "message": "QLine Vaults Password Manager",
+    "message": "QLine Vaults",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "QLine Vaults Password Manager Beta",
+    "message": "QLine Vaults Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "ไม่ว่าจะอยู่ที่ไหน QLine Vaults ก็สามารถปกป้องรหัสผ่าน พาสคีย์ และข้อมูลสำคัญของคุณได้อย่างง่ายดาย",
+    "message": "QLine Vaults securely stores and fills your passwords. Provided by QLine IT.",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {

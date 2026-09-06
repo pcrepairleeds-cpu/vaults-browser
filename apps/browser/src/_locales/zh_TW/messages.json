@@ -6,15 +6,15 @@
     "message": "QLine Vaults logo"
   },
   "extName": {
-    "message": "QLine Vaults 密碼管理工具",
+    "message": "QLine Vaults",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "QLine Vaults Password Manager Beta",
+    "message": "QLine Vaults Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "無論在家、在工作場所或外出時，QLine Vaults 都能輕鬆保護您的所有密碼、密碼金鑰及敏感資訊。",
+    "message": "QLine Vaults securely stores and fills your passwords. Provided by QLine IT.",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
