@@ -25,14 +25,13 @@
 
   --color-background: 255 255 255;
   --color-background-alt: 243 246 249;
-  --color-background-alt2: 23 92 219;
-  --color-background-alt3: 22 55 146;
-  --color-background-alt4: 2 15 102;
-
-  --color-primary-100: 219 229 246;
-  --color-primary-300: 121 161 233;
-  --color-primary-600: 23 93 220;
-  --color-primary-700: 26 65 172;
+  --color-background-alt2: 5 129 129;
+  --color-background-alt3: 4 107 107;
+  --color-background-alt4: 2 58 58;
+  --color-primary-100: 207 233 233;
+  --color-primary-300: 110 192 192;
+  --color-primary-600: 5 129 129;
+  --color-primary-700: 4 107 107;
 
   --color-secondary-100: 230 233 239;
   --color-secondary-300: 168 179 200;
@@ -68,8 +67,8 @@
   --color-hover-default: rgb(26 65 172 / 0.1);
   --color-hover-contrast: rgb(255 255 255 / 0.15);
 
-  --color-marketing-logo: 23 93 220;
-  --color-bw-blue: 23 93 220;
+  --color-marketing-logo: 5 129 129;
+  --color-bw-blue: 5 129 129;
 
   --tw-ring-offset-color: #ffffff;
 
@@ -497,11 +496,10 @@
   --color-background-alt2: 47 52 61;
   --color-background-alt3: 48 57 70;
   --color-background-alt4: 18 26 39;
-
-  --color-primary-100: 29 46 99;
-  --color-primary-300: 26 65 172;
-  --color-primary-600: 101 171 255;
-  --color-primary-700: 170 195 239;
+  --color-primary-100: 3 80 80;
+  --color-primary-300: 4 107 107;
+  --color-primary-600: 47 168 167;
+  --color-primary-700: 163 214 214;
 
   --color-secondary-100: 48 57 70;
   --color-secondary-300: 82 91 106;
@@ -537,8 +535,8 @@
   --color-hover-default: rgb(170 195 239 / 0.1);
   --color-hover-contrast: rgb(0 0 0 / 0.15);
 
-  --color-marketing-logo: 255 255 255;
-  --color-bw-blue: 23 93 220;
+  --color-marketing-logo: 5 129 129;
+  --color-bw-blue: 5 129 129;
 
   --tw-ring-offset-color: #1f242e;
   --color-illustration-outline: 15 163 162;
