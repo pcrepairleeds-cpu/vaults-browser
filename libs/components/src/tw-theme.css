@@ -74,13 +74,12 @@
   --tw-ring-offset-color: #ffffff;
 
   --tw-sm-breakpoint: 640px;
-
-  --color-illustration-outline: 2 15 102;
-  --color-illustration-bg-primary: 219 229 246;
-  --color-illustration-bg-secondary: 170 195 239;
+  --color-illustration-outline: 2 58 58;
+  --color-illustration-bg-primary: 207 233 233;
+  --color-illustration-bg-secondary: 163 214 214;
   --color-illustration-bg-tertiary: 255 255 255;
   --color-illustration-tertiary: 255 191 0;
-  --color-illustration-logo: 23 93 220;
+  --color-illustration-logo: 5 129 129;
 
   /* ========================================
    * NEW COLOR PALETTE (Hex format)
@@ -542,10 +541,9 @@
   --color-bw-blue: 23 93 220;
 
   --tw-ring-offset-color: #1f242e;
-
-  --color-illustration-outline: 23 93 220;
-  --color-illustration-bg-primary: 170 195 239;
-  --color-illustration-bg-secondary: 121 161 233;
+  --color-illustration-outline: 15 163 162;
+  --color-illustration-bg-primary: 163 214 214;
+  --color-illustration-bg-secondary: 110 192 192;
   --color-illustration-bg-tertiary: 243 246 249;
   --color-illustration-tertiary: 255 191 0;
   --color-illustration-logo: 255 255 255;
