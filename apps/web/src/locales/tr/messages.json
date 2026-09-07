@@ -21,7 +21,7 @@
     "message": "Tüm kritik uygulamalar"
   },
   "appLogoLabel": {
-    "message": "Bitwarden logosu"
+    "message": "QLine Vaults logo"
   },
   "criticalApplications": {
     "message": "Kritik uygulamalar"
@@ -236,7 +236,7 @@
     "message": "Track improvements across your team"
   },
   "membersAreAutomaticallyNotified": {
-    "message": "Members are automatically notified of at-risk passwords in their Bitwarden extension. No chasing required."
+    "message": "Members are automatically notified of at-risk passwords in their QLine Vaults extension. No chasing required."
   },
   "importYourOrgDataToGetStarted": {
     "message": "Import your org data to get started"
@@ -399,7 +399,7 @@
     }
   },
   "membersWillReceiveSecurityTask": {
-    "message": "Kuruluşunuzdaki üyelere, güvenlik zafiyeti olan parolaları değiştirmeleri için bir görev atanacaktır. Bildirimi Bitwarden tarayıcı uzantıları içinde alacaklar."
+    "message": "Kuruluşunuzdaki üyelere, güvenlik zafiyeti olan parolaları değiştirmeleri için bir görev atanacaktır. Bildirimi QLine Vaults tarayıcı uzantıları içinde alacaklar."
   },
   "membersAtRiskCount": {
     "message": "$COUNT$ üye risk altında",
@@ -847,10 +847,10 @@
     "message": "2 adımlı doğrulamayı sorunsuz hale getirin"
   },
   "totpHelper": {
-    "message": "Bitwarden can store and fill 2-step verification codes. Copy and paste the key into this field."
+    "message": "QLine Vaults can store and fill 2-step verification codes. Copy and paste the key into this field."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden can store and fill 2-step verification codes. Select the camera icon to take a screenshot of this website's authenticator QR code, or copy and paste the key into this field."
+    "message": "QLine Vaults can store and fill 2-step verification codes. Select the camera icon to take a screenshot of this website's authenticator QR code, or copy and paste the key into this field."
   },
   "totpCapture": {
     "message": "Mevcut web sayfasındaki kimlik doğrulayıcı QR kodunu tarayın"
@@ -2201,7 +2201,7 @@
     "message": "Cihazla giriş yap"
   },
   "loginWithDeviceEnabledNote": {
-    "message": "Cihazla girişi Bitwarden mobil uygulamasının ayarlarından etkinleştirmelisiniz. Başka bir seçeneğe mi ihtiyacınız var?"
+    "message": "Cihazla girişi QLine Vaults mobil uygulamasının ayarlarından etkinleştirmelisiniz. Başka bir seçeneğe mi ihtiyacınız var?"
   },
   "needAnotherOptionV1": {
     "message": "Başka bir seçeneğe mi ihtiyacınız var?"
@@ -2318,7 +2318,7 @@
     "message": "Hesap aç"
   },
   "newToBitwarden": {
-    "message": "Bitwarden'da yeni misiniz?"
+    "message": "QLine Vaults'da yeni misiniz?"
   },
   "setAStrongPassword": {
     "message": "Güçlü bir parola belirleyin"
@@ -2336,7 +2336,7 @@
     "message": "Giriş yap"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Bitwarden’a giriş yapın"
+    "message": "QLine Vaults’a giriş yapın"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "E-posta adresinize gönderilen kodu girin"
@@ -2366,7 +2366,7 @@
     "message": "Cihaz nedir?"
   },
   "aDeviceIs": {
-    "message": "Cihaz, giriş yaptığınız Bitwarden uygulamasının benzersiz bir kurulumudur. Yeniden yüklemek, uygulama verilerini temizlemek veya çerezlerinizi temizlemek, bir cihazın birden çok kez görünmesine neden olabilir."
+    "message": "Cihaz, giriş yaptığınız QLine Vaults uygulamasının benzersiz bir kurulumudur. Yeniden yüklemek, uygulama verilerini temizlemek veya çerezlerinizi temizlemek, bir cihazın birden çok kez görünmesine neden olabilir."
   },
   "logInInitiated": {
     "message": "Giriş başlatıldı"
@@ -2604,7 +2604,7 @@
     "message": "Cihazınıza bir bildirim gönderildi."
   },
   "notificationSentDevicePart1": {
-    "message": "Bitwarden kilidini cihazınızdan veya "
+    "message": "QLine Vaults kilidini cihazınızdan veya "
   },
   "accessAttemptBy": {
     "message": "$EMAIL$ erişim denemesi",
@@ -2628,7 +2628,7 @@
     "message": "Onay vermeden önce parmak izi ifadesinin aşağıdakiyle eşleştiğini kontrol edin."
   },
   "notificationSentDeviceComplete": {
-    "message": "Cihazınızda Bitwarden'ın kilidini açın. Onaylamadan önce Parmak İzi ifadesinin aşağıdakiyle eşleştiğinden emin olun."
+    "message": "Cihazınızda QLine Vaults'ın kilidini açın. Onaylamadan önce Parmak İzi ifadesinin aşağıdakiyle eşleştiğinden emin olun."
   },
   "aNotificationWasSentToYourDevice": {
     "message": "Cihazınıza bir bildirim gönderildi"
@@ -2689,7 +2689,7 @@
     "message": "Kimlik doğrulama uygulaması"
   },
   "authenticatorAppDescV2": {
-    "message": "Kimlik doğrulama uygulamanızın (örn. Bitwarden Authenticator) ürettiği kodu girin.",
+    "message": "Kimlik doğrulama uygulamanızın (örn. QLine Vaults Authenticator) ürettiği kodu girin.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2842,7 +2842,7 @@
     "message": "Dışa aktardığınız bu dosyadaki verileriniz, hesabınızın şifreleme anahtarıyla şifrelenir. Hesabınızın şifreleme anahtarını değiştirirseniz bu dosyanın şifresi çözülemez hale gelir, dolayısıyla dosyayı yeniden dışa aktarmanız gerekir."
   },
   "encExportAccountWarningDesc": {
-    "message": "Hesap şifreleme anahtarları her Bitwarden kullanıcı hesabı için farklıdır. Dolayısıyla şifrelenmiş bir dışa aktarmayı başka bir hesapta içe aktaramazsınız."
+    "message": "Hesap şifreleme anahtarları her QLine Vaults kullanıcı hesabı için farklıdır. Dolayısıyla şifrelenmiş bir dışa aktarmayı başka bir hesapta içe aktaramazsınız."
   },
   "exportNoun": {
     "message": "Dışa aktar",
@@ -2898,10 +2898,10 @@
     "message": "This KeePass database is too large to import."
   },
   "accountRestrictedOptionDescription": {
-    "message": "Dışa aktarmayı şifrelemek ve içe aktarmayı yalnızca mevcut Bitwarden hesabıyla kısıtlamak için, hesabınızın kullanıcı adı ve ana parolasından türetilen hesap şifreleme anahtarınızı kullanın."
+    "message": "Dışa aktarmayı şifrelemek ve içe aktarmayı yalnızca mevcut QLine Vaults hesabıyla kısıtlamak için, hesabınızın kullanıcı adı ve ana parolasından türetilen hesap şifreleme anahtarınızı kullanın."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Dışa aktardığınız dosyayı şifrelemek ve bir Bitwarden hesabına içe aktarmak için kullanacağınız parolayı belirleyin."
+    "message": "Dışa aktardığınız dosyayı şifrelemek ve bir QLine Vaults hesabına içe aktarmak için kullanacağınız parolayı belirleyin."
   },
   "exportTypeHeading": {
     "message": "Dışa aktarma türü"
@@ -3072,7 +3072,7 @@
     "message": "İstek bekliyor"
   },
   "logBackInOthersToo": {
-    "message": "Lütfen yeniden oturum açın. Diğer Bitwarden uygulamalarını kullanıyorsanız onlarda da oturumunuzu kapatıp yeniden açın."
+    "message": "Lütfen yeniden oturum açın. Diğer QLine Vaults uygulamalarını kullanıyorsanız onlarda da oturumunuzu kapatıp yeniden açın."
   },
   "changeMasterPassword": {
     "message": "Ana parolayı değiştir"
@@ -3105,7 +3105,7 @@
     }
   },
   "kdfIterationsWarning": {
-    "message": "KDF iterasyonunu çok yüksek ayarlamak, yavaş veya eski cihazlardan Bitwarden'a giriş yaparken (ve kilidi açarken) düşük performansa neden olabilir. Değeri $INCREMENT$ ve katları halinde artırmanızı ve ardından tüm cihazlarınızda test etmenizi öneririz.",
+    "message": "KDF iterasyonunu çok yüksek ayarlamak, yavaş veya eski cihazlardan QLine Vaults'a giriş yaparken (ve kilidi açarken) düşük performansa neden olabilir. Değeri $INCREMENT$ ve katları halinde artırmanızı ve ardından tüm cihazlarınızda test etmenizi öneririz.",
     "placeholders": {
       "increment": {
         "content": "$1",
@@ -3118,7 +3118,7 @@
     "description": "Memory refers to computer memory (RAM). MB is short for megabytes."
   },
   "argon2Warning": {
-    "message": "KDF iterasyonunuzu, belleğinizi ve paralelliğinizi çok yüksek ayarlamak, yavaş ve eski cihazlarda Bitwarden'a giriş yaparken (veya Bitwarden'ın kilidini açarken) performans kaybına neden olabilir. Bunları tek tek küçük artışlarla değiştirmenizi ve ardından tüm cihazlarınızı test etmenizi öneririz."
+    "message": "KDF iterasyonunuzu, belleğinizi ve paralelliğinizi çok yüksek ayarlamak, yavaş ve eski cihazlarda QLine Vaults'a giriş yaparken (veya QLine Vaults'ın kilidini açarken) performans kaybına neden olabilir. Bunları tek tek küçük artışlarla değiştirmenizi ve ardından tüm cihazlarınızı test etmenizi öneririz."
   },
   "kdfParallelism": {
     "message": "KDF paralelliği"
@@ -3151,10 +3151,10 @@
     "message": "Yeni cihaz oturum açma korumasını açın"
   },
   "turnOffNewDeviceLoginProtectionModalDesc": {
-    "message": "Yeni bir cihazdan giriş yaptığınızda Bitwarden'ın gönderdiği doğrulama e-postalarını kapatmak için aşağıdaki adımları izleyin."
+    "message": "Yeni bir cihazdan giriş yaptığınızda QLine Vaults'ın gönderdiği doğrulama e-postalarını kapatmak için aşağıdaki adımları izleyin."
   },
   "turnOnNewDeviceLoginProtectionModalDesc": {
-    "message": "Yeni bir cihazdan giriş yaptığınızda Bitwarden'ın size doğrulama e-postaları göndermesi için aşağıdan devam edin."
+    "message": "Yeni bir cihazdan giriş yaptığınızda QLine Vaults'ın size doğrulama e-postaları göndermesi için aşağıdan devam edin."
   },
   "turnOffNewDeviceLoginProtectionWarning": {
     "message": "Yeni cihaz oturum açma koruması kapalıyken, ana parolanızı bilen herkes herhangi bir cihazdan hesabınıza erişebilir. Doğrulama e-postaları olmadan hesabınızı korumak için iki adımlı oturum açma özelliğini ayarlayın."
@@ -3598,7 +3598,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -3731,7 +3731,7 @@
     "message": "Alan adı kuralları"
   },
   "domainRulesDesc": {
-    "message": "Farklı web sitesi alan adlarında aynı hesap bilgisine sahipseniz web sitesini \"eşdeğer\" olarak işaretleyebilirsiniz. \"Global\" alan adları, sizin için Bitwarden tarafından oluşturulmuş olanlardır."
+    "message": "Farklı web sitesi alan adlarında aynı hesap bilgisine sahipseniz web sitesini \"eşdeğer\" olarak işaretleyebilirsiniz. \"Global\" alan adları, sizin için QLine Vaults tarafından oluşturulmuş olanlardır."
   },
   "globalEqDomains": {
     "message": "Global eşdeğer alan adları"
@@ -3782,7 +3782,7 @@
     "message": "Kuruluşunuz için iki aşamalı girişi etkinleştirin."
   },
   "twoStepLoginEnterpriseDescStart": {
-    "message": "Üyeler için Bitwarden iki aşamalı giriş seçeneklerini zorunlu kılmak üzere ",
+    "message": "Üyeler için QLine Vaults iki aşamalı giriş seçeneklerini zorunlu kılmak üzere ",
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Enforce Bitwarden Two-step Login options for members by using the Two-step Login Policy.'"
   },
   "twoStepLoginPolicy": {
@@ -3795,7 +3795,7 @@
     "message": "SSO kurduysanız veya kurmayı planlıyorsanız kimlik sağlayıcınız iki aşamalı girişi zaten zorunlu tutmuş olabilir."
   },
   "twoStepLoginRecoveryWarning": {
-    "message": "İki aşamalı girişi etkinleştirmek, Bitwarden hesabınızı kalıcı olarak kilitleyebilir. Kurtarma kodunuz, iki aşamalı giriş sağlayıcınızı kullanamamanız durumunda hesabınıza erişmenize olanak sağlar (ör. cihazınızı kaybedersiniz). Hesabınıza erişiminizi kaybederseniz Bitwarden destek ekibi size yardımcı olamaz. Kurtarma kodunu not almanızı veya yazdırmanızı ve güvenli bir yerde saklamanızı öneririz."
+    "message": "İki aşamalı girişi etkinleştirmek, QLine Vaults hesabınızı kalıcı olarak kilitleyebilir. Kurtarma kodunuz, iki aşamalı giriş sağlayıcınızı kullanamamanız durumunda hesabınıza erişmenize olanak sağlar (ör. cihazınızı kaybedersiniz). Hesabınıza erişiminizi kaybederseniz QLine Vaults destek ekibi size yardımcı olamaz. Kurtarma kodunu not almanızı veya yazdırmanızı ve güvenli bir yerde saklamanızı öneririz."
   },
   "restrictedItemTypePolicy": {
     "message": "Kart kaydı türünü kaldır"
@@ -3814,7 +3814,7 @@
     "message": "1 veya daha fazla kuruluş tarafından belirlenen bir ilke, kasalarınıza kart aktarmanızı engeller."
   },
   "yourSingleUseRecoveryCode": {
-    "message": "Tek kullanımlık kurtarma kodunuz, iki adımlı oturum açma sağlayıcınıza erişiminizi kaybetmeniz durumunda iki adımlı oturum açma özelliğini kapatmak için kullanılabilir. Bitwarden, kurtarma kodunu bir yere yazmanızı ve güvenli bir yerde saklamanızı önerir."
+    "message": "Tek kullanımlık kurtarma kodunuz, iki adımlı oturum açma sağlayıcınıza erişiminizi kaybetmeniz durumunda iki adımlı oturum açma özelliğini kapatmak için kullanılabilir. QLine Vaults, kurtarma kodunu bir yere yazmanızı ve güvenli bir yerde saklamanızı önerir."
   },
   "viewRecoveryCode": {
     "message": "Kurtarma kodunu göster"
@@ -3912,7 +3912,7 @@
     }
   },
   "continueToExternalUrlDesc": {
-    "message": "Bitwarden'dan çıkıyorsunuz ve harici bir siteye yeni pencerede giriş yapıyorsunuz."
+    "message": "QLine Vaults'dan çıkıyorsunuz ve harici bir siteye yeni pencerede giriş yapıyorsunuz."
   },
   "twoStepContinueToBitwardenUrlTitle": {
     "message": "bitwarden.com'a gitmek ister misiniz?"
@@ -3960,7 +3960,7 @@
     "message": "Formu kaydedin."
   },
   "twoFactorYubikeyWarning": {
-    "message": "Platform sınırlamaları nedeniyle YubiKey tüm Bitwarden uygulamalarında kullanılamaz. YubiKey kullanılamadığında hesabınıza erişebilmek için başka bir iki aşamalı doğrulama yöntemi ayarlamanız gerekir. Desteklenen platformlar:"
+    "message": "Platform sınırlamaları nedeniyle YubiKey tüm QLine Vaults uygulamalarında kullanılamaz. YubiKey kullanılamadığında hesabınıza erişebilmek için başka bir iki aşamalı doğrulama yöntemi ayarlamanız gerekir. Desteklenen platformlar:"
   },
   "twoFactorYubikeySupportUsb": {
     "message": "Web kasası, masaüstü uygulaması, CLI ve YubiKey'inizi kabul edebilecek bir USB bağlantı noktasına sahip bir cihazdaki tüm tarayıcı uzantıları."
@@ -4011,7 +4011,7 @@
     "message": "Tüm anahtarları devre dışı bırak"
   },
   "twoFactorDuoDesc": {
-    "message": "Duo Yönetici panelinizden Bitwarden uygulama bilgilerini girin."
+    "message": "Duo Yönetici panelinizden QLine Vaults uygulama bilgilerini girin."
   },
   "twoFactorDuoClientId": {
     "message": "İstemci kimliği"
@@ -4062,7 +4062,7 @@
     "message": "Formu kaydedin."
   },
   "twoFactorU2fWarning": {
-    "message": "Platform sınırlamaları nedeniyle FIDO U2F tüm Bitwarden uygulamalarında kullanılamaz. FIDO U2F kullanılamadığında hesabınıza erişebilmek için başka bir iki aşamalı doğrulama yöntemi ayarlamanız gerekir. Desteklenen platformlar:"
+    "message": "Platform sınırlamaları nedeniyle FIDO U2F tüm QLine Vaults uygulamalarında kullanılamaz. FIDO U2F kullanılamadığında hesabınıza erişebilmek için başka bir iki aşamalı doğrulama yöntemi ayarlamanız gerekir. Desteklenen platformlar:"
   },
   "twoFactorU2fSupportWeb": {
     "message": "Web kasası ve U2F uyumlu bir tarayıcıya (FIDO U2F uyumlu Chrome, Opera, Vivaldi veya Firefox) sahip bir bilgisayardaki tarayıcı uzantıları."
@@ -4077,7 +4077,7 @@
     "message": "Güvenlik anahtarını okurken bir sorun oluştu. Tekrar deneyin."
   },
   "twoFactorRecoveryYourCode": {
-    "message": "Bitwarden iki aşamalı giriş kurtarma kodunuz"
+    "message": "QLine Vaults iki aşamalı giriş kurtarma kodunuz"
   },
   "twoFactorRecoveryNoCode": {
     "message": "Henüz herhangi bir iki aşamalı giriş sağlayıcısını etkinleştirmediniz. İki aşamalı giriş sağlayıcısını etkinleştirdikten sonra kurtarma kodunuzu almak için burayı tekrar kontrol edebilirsiniz."
@@ -4130,7 +4130,7 @@
     "message": "Pasif iki aşamalı giriş"
   },
   "inactive2faReportDesc": {
-    "message": "İki aşamalı giriş, hesaplarınızı güvenceye almanızı sağlayan bir güvenlik ayarıdır. Bu hesaplar için Bitwarden şifrematiği veya alternatif bir yöntemi kullanabilirsiniz."
+    "message": "İki aşamalı giriş, hesaplarınızı güvenceye almanızı sağlayan bir güvenlik ayarıdır. Bu hesaplar için QLine Vaults şifrematiği veya alternatif bir yöntemi kullanabilirsiniz."
   },
   "inactive2faFound": {
     "message": "İki aşamalı girişi olmayan hesaplar bulundu"
@@ -4167,7 +4167,7 @@
     "message": "ve"
   },
   "passkeyLoginReportHowToUse": {
-    "message": "how to use them in Bitwarden."
+    "message": "how to use them in QLine Vaults."
   },
   "passkeyLoginFound": {
     "message": "Logins that support passkeys"
@@ -4240,7 +4240,7 @@
     "message": "Zayıf parolalar"
   },
   "weakPasswordsReportDesc": {
-    "message": "Zayıf parolalar saldırganlar tarafından kolayca tahmin edilebilir. Bitwarden parola üreticisi ile daha güçlü parolalar oluşturarak bu parolaları değiştirin."
+    "message": "Zayıf parolalar saldırganlar tarafından kolayca tahmin edilebilir. QLine Vaults parola üreticisi ile daha güçlü parolalar oluşturarak bu parolaları değiştirin."
   },
   "weakPasswordsFound": {
     "message": "Zayıf parolalar pulundu"
@@ -4427,7 +4427,7 @@
     }
   },
   "bitwardenFamiliesPlan": {
-    "message": "Bitwarden Families paketi."
+    "message": "QLine Vaults Families paketi."
   },
   "addons": {
     "message": "Eklentiler"
@@ -4630,7 +4630,7 @@
     }
   },
   "churnOfferDiscountBody": {
-    "message": "As a thank-you for being a long-time Bitwarden customer, we'd like to offer you a $DISCOUNT$ discount on your next $DURATION$ of service.",
+    "message": "As a thank-you for being a long-time QLine Vaults customer, we'd like to offer you a $DISCOUNT$ discount on your next $DURATION$ of service.",
     "description": "Body copy on the churn-mitigation offer card. DISCOUNT = discount amount; DURATION = service duration (e.g. 'year' or '6 months')",
     "placeholders": {
       "discount": {
@@ -4692,7 +4692,7 @@
     }
   },
   "churnOfferDiscountBodyRecurringAmount": {
-    "message": "As a thank-you for being a long-time Bitwarden customer, we'd like to offer you $AMOUNT$ off each $INTERVAL$ for the next $DURATION$.",
+    "message": "As a thank-you for being a long-time QLine Vaults customer, we'd like to offer you $AMOUNT$ off each $INTERVAL$ for the next $DURATION$.",
     "description": "Body copy on the churn-mitigation offer card for a fixed-amount discount that repeats each billing period. AMOUNT = discount amount (e.g. '$15.00'); INTERVAL = billing interval unit (e.g. 'month'); DURATION = discount duration (e.g. 'year' or '6 months')",
     "placeholders": {
       "amount": {
@@ -5141,7 +5141,7 @@
     }
   },
   "trialThankYou": {
-    "message": "Bitwarden $PLAN$ aboneliğinizi başlattığınız teşekkür ederiz!",
+    "message": "QLine Vaults $PLAN$ aboneliğinizi başlattığınız teşekkür ederiz!",
     "placeholders": {
       "plan": {
         "content": "$1",
@@ -5150,7 +5150,7 @@
     }
   },
   "trialSecretsManagerThankYou": {
-    "message": "$PLAN$ için Bitwarden Secrets Manager'a kaydolduğunuz için teşekkür ederiz!",
+    "message": "$PLAN$ için QLine Vaults Secrets Manager'a kaydolduğunuz için teşekkür ederiz!",
     "placeholders": {
       "plan": {
         "content": "$1",
@@ -5289,7 +5289,7 @@
     "message": "SSO Harici Kimlik"
   },
   "ssoExternalIdDesc": {
-    "message": "SSO Harici Kimliği, Bitwarden ile yapılandırılmış SSO sağlayıcınız arasında şifrelenmemiş bir referanstır."
+    "message": "SSO Harici Kimliği, QLine Vaults ile yapılandırılmış SSO sağlayıcınız arasında şifrelenmemiş bir referanstır."
   },
   "nestCollectionUnder": {
     "message": "Koleksiyonu bunun altına yerleştir"
@@ -5350,13 +5350,13 @@
     "message": "Davet et"
   },
   "inviteUserDesc": {
-    "message": "Aşağıya Bitwarden hesabının e-posta adresini girerek kuruluşunuza yeni bir kullanıcı davet edin. Halihazırda bir Bitwarden hesabı yoksa yeni bir hesap oluşturması istenecektir."
+    "message": "Aşağıya QLine Vaults hesabının e-posta adresini girerek kuruluşunuza yeni bir kullanıcı davet edin. Halihazırda bir QLine Vaults hesabı yoksa yeni bir hesap oluşturması istenecektir."
   },
   "inviteUserDescription": {
     "message": "Invite new users to your organization by entering their email address below."
   },
   "inviteUserDescSharedFolders": {
-    "message": "Invite a new user to your organization vault by entering their Bitwarden account email address below. If they do not have a Bitwarden account already, they will be prompted to create a new account.",
+    "message": "Invite a new user to your organization vault by entering their QLine Vaults account email address below. If they do not have a QLine Vaults account already, they will be prompted to create a new account.",
     "description": "VFO1 (shared folder terminology) variant of inviteUserDesc, shown when the vfo1-foundation flag is enabled."
   },
   "inviteMultipleEmailDesc": {
@@ -5499,10 +5499,10 @@
     "message": "CLI"
   },
   "bitWebVault": {
-    "message": "Bitwarden web kasası"
+    "message": "QLine Vaults web kasası"
   },
   "bitSecretsManager": {
-    "message": "Bitwarden Sır Yöneticisi"
+    "message": "QLine Vaults Sır Yöneticisi"
   },
   "loggedIn": {
     "message": "Giriş yapıldı"
@@ -6821,7 +6821,7 @@
     "message": "Return to registration"
   },
   "joinOrganizationDesc": {
-    "message": "Yukarıdaki kuruluşa katılmaya davet edildiniz. Daveti kabul etmek için giriş yapmanız veya yeni bir Bitwarden hesabı açmanız gerekiyor."
+    "message": "Yukarıdaki kuruluşa katılmaya davet edildiniz. Daveti kabul etmek için giriş yapmanız veya yeni bir QLine Vaults hesabı açmanız gerekiyor."
   },
   "finishJoiningThisOrganizationBySettingAMasterPassword": {
     "message": "Kuruluşa katılmayı tamamlamak için ana parolanızı belirleyin."
@@ -6962,10 +6962,10 @@
     "message": "Hesabınız varsa gerekli talimatları içeren bir mesajı e-posta adresinize gönderdik."
   },
   "deleteRecoverConfirmDesc": {
-    "message": "Bitwarden hesabınızı silme talebinde bulundunuz. Onaylamak için aşağıdaki düğmeyi kullanın."
+    "message": "QLine Vaults hesabınızı silme talebinde bulundunuz. Onaylamak için aşağıdaki düğmeyi kullanın."
   },
   "deleteRecoverOrgConfirmDesc": {
-    "message": "Bitwarden kuruluşunuzu silmeyi talep ettiniz."
+    "message": "QLine Vaults kuruluşunuzu silmeyi talep ettiniz."
   },
   "myOrganization": {
     "message": "Kuruluşum"
@@ -7299,7 +7299,7 @@
     }
   },
   "updateEncryptionKeyWarning": {
-    "message": "Şifreleme anahtarınızı güncelledikten sonra, şu anda kullanmakta olduğunuz tüm Bitwarden uygulamalarında (mobil uygulama veya tarayıcı uzantıları gibi) oturumunuzu kapatıp tekrar açmanız gerekir. Yeni şifreleme anahtarınızı indirme için oturumu kapatıp tekrar açmamamız verilerin bozulmasına neden olabilir. Oturumunuzu otomatik olarak kapatmaya çalışacağız, ancak bu gecikebilir."
+    "message": "Şifreleme anahtarınızı güncelledikten sonra, şu anda kullanmakta olduğunuz tüm QLine Vaults uygulamalarında (mobil uygulama veya tarayıcı uzantıları gibi) oturumunuzu kapatıp tekrar açmanız gerekir. Yeni şifreleme anahtarınızı indirme için oturumu kapatıp tekrar açmamamız verilerin bozulmasına neden olabilir. Oturumunuzu otomatik olarak kapatmaya çalışacağız, ancak bu gecikebilir."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Kaydettiğiniz tüm hesap kısıtlamalı dışa aktarmalar geçersiz hale gelecektir."
@@ -7335,7 +7335,7 @@
     "message": "Hiçbir şey seçmediniz."
   },
   "receiveMarketingEmails": {
-    "message": "Bitwarden'dan haberler e-postanıza gelsin."
+    "message": "QLine Vaults'dan haberler e-postanıza gelsin."
   },
   "subscribe": {
     "message": "Abone ol"
@@ -7629,7 +7629,7 @@
     "message": "API anahtarı"
   },
   "apiKeyDesc": {
-    "message": "API anahtarınız, Bitwarden API'sinde kimlik doğrulama için kullanılabilir."
+    "message": "API anahtarınız, QLine Vaults API'sinde kimlik doğrulama için kullanılabilir."
   },
   "apiKeyRotateDesc": {
     "message": "API anahtarının güncellenmesi önceki anahtarı geçersiz kılacaktır. Geçerli anahtarın artık güvenli olmadığını düşünüyorsanız API anahtarınızı güncelleyebilirsiniz."
@@ -7638,7 +7638,7 @@
     "message": "API anahtarınız kuruluşa tam erişime sahiptir ve gizli tutulmalıdır."
   },
   "userApiKeyDesc": {
-    "message": "API anahtarınız, Bitwarden CLI'de kimlik doğrulaması için kullanılabilir."
+    "message": "API anahtarınız, QLine Vaults CLI'de kimlik doğrulaması için kullanılabilir."
   },
   "userApiKeyWarning": {
     "message": "API anahtarınız, alternatif bir kimlik doğrulama mekanizmasıdır. Gizli tutulmalıdır."
@@ -7990,7 +7990,7 @@
     "description": "VFO1 terminology variant of 'singleOrgPolicyDescV2'"
   },
   "singleOrgBlockCreateMessage": {
-    "message": "Mevcut kuruluşunuzun birden fazla kuruluşa katılmanıza izin vermeyen bir ilkesi var. Lütfen kuruluş yöneticilerinizle iletişime geçin veya farklı bir Bitwarden hesabı açın."
+    "message": "Mevcut kuruluşunuzun birden fazla kuruluşa katılmanıza izin vermeyen bir ilkesi var. Lütfen kuruluş yöneticilerinizle iletişime geçin veya farklı bir QLine Vaults hesabı açın."
   },
   "singleOrgPolicyMemberWarning": {
     "message": "Uygun olmayan üyeler, diğer tüm kuruluşlardan ayrılana kadar üyelikleri iptal edilmiş durumuna alınacaktır. Yöneticiler bu kuralın dışında tutulur ve uygunluk sağlandığında üyelerin üyeliklerini geri yükleyebilirler."
@@ -8245,7 +8245,7 @@
     "message": "Sorun mu yaşıyorsunuz? Tanılama raporunuzu indirip"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden destek ekibiyle paylaşın",
+    "message": "QLine Vaults destek ekibiyle paylaşın",
     "description": "Link text that follows the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -8302,7 +8302,7 @@
     "message": "Acil durum kişisini düzenle"
   },
   "inviteEmergencyContactDesc": {
-    "message": "Aşağıya Bitwarden hesabının e-posta adresini girerek yeni bir acil durum kişisi davet edebilirsiniz. Bu kişinin mevcut bir Bitwarden hesabı yoksa yeni bir hesap açması istenecektir."
+    "message": "Aşağıya QLine Vaults hesabının e-posta adresini girerek yeni bir acil durum kişisi davet edebilirsiniz. Bu kişinin mevcut bir QLine Vaults hesabı yoksa yeni bir hesap açması istenecektir."
   },
   "emergencyAccessRecoveryInitiated": {
     "message": "Acil durum erişimi başlatıldı"
@@ -8341,7 +8341,7 @@
     "message": "Kullanıcı davet edildi."
   },
   "acceptEmergencyAccess": {
-    "message": "Yukarıdaki kullanıcı için acil durum kişisi olmaya davet edildiniz. Daveti kabul etmek için giriş yapmanız veya yeni bir Bitwarden hesabı oluşturmanız gerekir."
+    "message": "Yukarıdaki kullanıcı için acil durum kişisi olmaya davet edildiniz. Daveti kabul etmek için giriş yapmanız veya yeni bir QLine Vaults hesabı oluşturmanız gerekir."
   },
   "emergencyInviteAcceptFailed": {
     "message": "Davet kabul edilemedi. Kullanıcıdan yeni bir davet göndermesini isteyin."
@@ -8528,7 +8528,7 @@
     "message": "Otomatik kullanıcı onayı nasıl açılır"
   },
   "autoConfirmExtension1": {
-    "message": "Bitwarden uzantınızı açın"
+    "message": "QLine Vaults uzantınızı açın"
   },
   "autoConfirmExtension2": {
     "message": "Etkinleştir",
@@ -8539,7 +8539,7 @@
     "description": "This is a fragment of a larger sencence. The whole sentence will read: 'Select Turn on'"
   },
   "autoConfirmExtensionOpened": {
-    "message": "Bitwarden tarayıcı uzantısı başarıyla açıldı. Artık otomatik kullanıcı onayı ayarını etkinleştirebilirsiniz."
+    "message": "QLine Vaults tarayıcı uzantısı başarıyla açıldı. Artık otomatik kullanıcı onayı ayarını etkinleştirebilirsiniz."
   },
   "autoConfirmPolicyEditDescription": {
     "message": "Kuruluşa davet edilen yeni kullanıcılar, bir yöneticinin cihazı kilitli değilken otomatik olarak onaylanacaktır. Bu ilkeyi etkinleştirmeden önce lütfen aşağıdakileri inceleyip kabul edin: ",
@@ -8753,7 +8753,7 @@
     "description": "VFO1 terminology variant of 'uriMatchDetectionPolicyDesc', shown in the policies list"
   },
   "uriMatchDetectionPolicyDescV2": {
-    "message": "Set a default for which parts of a website address (URI) need to match for Bitwarden to suggest a login for autofill. This policy won't be enforced for owners and admins."
+    "message": "Set a default for which parts of a website address (URI) need to match for QLine Vaults to suggest a login for autofill. This policy won't be enforced for owners and admins."
   },
   "uriMatchDetectionOptionsLabel": {
     "message": "Varsayılan URI eşleşme tespiti"
@@ -8773,7 +8773,7 @@
     "message": "Custom autofill rule set"
   },
   "fillAssistRulesUrlHint": {
-    "message": "By default, fill assist uses Bitwarden's curated rule set. Enter a URL here to override it with your own."
+    "message": "By default, fill assist uses QLine Vaults's curated rule set. Enter a URL here to override it with your own."
   },
   "invalidFillAssistRulesUrl": {
     "message": "Enter a valid URL",
@@ -8886,7 +8886,7 @@
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "sendAccessTaglineProductDesc": {
-    "message": "Bitwarden Send geçici ve hassas bilginin başkalarına kolayca ve güvenle iletmenizi sağlar.",
+    "message": "QLine Vaults Send geçici ve hassas bilginin başkalarına kolayca ve güvenle iletmenizi sağlar.",
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "sendAccessTaglineLearnMore": {
@@ -8913,7 +8913,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Learn more, see how it works, **or** try it now.'"
   },
   "developmentDevOpsAndITTeamsChooseBWSecret": {
-    "message": "Geliştirme, DevOps ve BT ekipleri, altyapılarını ve makine sırlarını güvenli bir şekilde yönetmek ve dağıtmak için Bitwarden Sır Yöneticisi'ni seçiyor."
+    "message": "Geliştirme, DevOps ve BT ekipleri, altyapılarını ve makine sırlarını güvenli bir şekilde yönetmek ve dağıtmak için QLine Vaults Sır Yöneticisi'ni seçiyor."
   },
   "centralizeSecretsManagement": {
     "message": "Sır yönetimini merkezileştirin."
@@ -8949,10 +8949,10 @@
     "message": "Not ekle"
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden Secrets Manager"
+    "message": "QLine Vaults Secrets Manager"
   },
   "moreProductsFromBitwarden": {
-    "message": "Diğer Bitwarden ürünleri"
+    "message": "Diğer QLine Vaults ürünleri"
   },
   "requestAccessToSecretsManager": {
     "message": "Sır Yöneticisi'ne erişim talep et"
@@ -8964,7 +8964,7 @@
     "message": "Yöneticilere gönderilen sır yöneticisi e-postası için erişim talebi."
   },
   "requestAccessSMDefaultEmailContent": {
-    "message": "Selam,\n\nEkibimiz için Bitwarden Sır Yöneticisi aboneliği talep ediyorum. Desteğiniz çok anlamlı olacaktır!\n\nBitwarden Sır Yöneticisi, API anahtarları, veritabanı parolaları ve kimlik doğrulama sertifikaları gibi makine kimlik bilgilerini güvenli bir şekilde depolamak, paylaşmak ve dağıtmak için uçtan uca şifrelenmiş bir gizli bilgi yönetimi çözümüdür.\n\nSır Yöneticisi bize şu konularda yardımcı olacaktır:\n\n- Güvenliği artırmak\n- Operasyonları kolaylaştırmak\n- Maliyetli gizli bilgi sızıntılarını önlemek\n\nEkibimiz için ücretsiz deneme talep etmek için lütfen Bitwarden ile iletişime geçin.\n\nYardımlarınız için teşekkür ederiz!"
+    "message": "Selam,\n\nEkibimiz için QLine Vaults Sır Yöneticisi aboneliği talep ediyorum. Desteğiniz çok anlamlı olacaktır!\n\nQLine Vaults Sır Yöneticisi, API anahtarları, veritabanı parolaları ve kimlik doğrulama sertifikaları gibi makine kimlik bilgilerini güvenli bir şekilde depolamak, paylaşmak ve dağıtmak için uçtan uca şifrelenmiş bir gizli bilgi yönetimi çözümüdür.\n\nSır Yöneticisi bize şu konularda yardımcı olacaktır:\n\n- Güvenliği artırmak\n- Operasyonları kolaylaştırmak\n- Maliyetli gizli bilgi sızıntılarını önlemek\n\nEkibimiz için ücretsiz deneme talep etmek için lütfen QLine Vaults ile iletişime geçin.\n\nYardımlarınız için teşekkür ederiz!"
   },
   "giveMembersAccess": {
     "message": "Üyelere erişim izni verin:"
@@ -8998,7 +8998,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Learn more about Bitwarden Send or sign up to **try it today.**'"
   },
   "sendAccessCreatorIdentifier": {
-    "message": "Bitwarden üyesi $USER_IDENTIFIER$ aşağıdakileri sizinle paylaştı",
+    "message": "QLine Vaults üyesi $USER_IDENTIFIER$ aşağıdakileri sizinle paylaştı",
     "placeholders": {
       "user_identifier": {
         "content": "$1",
@@ -9023,7 +9023,7 @@
     "description": "Toast message shown when a user clicks the resend code link on the Send access page. 'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "viewSendHiddenEmailWarning": {
-    "message": "Bu Send'i oluşturan Bitwarden kullanıcısı e-posta adresini gizlemeyi seçti. Kullanmadan veya içeriğini indirmeden önce bu bağlantının kaynağının güvenilir olduğundan emin olun.",
+    "message": "Bu Send'i oluşturan QLine Vaults kullanıcısı e-posta adresini gizlemeyi seçti. Kullanmadan veya içeriğini indirmeden önce bu bağlantının kaynağının güvenilir olduğundan emin olun.",
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "expirationDateIsInvalid": {
@@ -9396,7 +9396,7 @@
     "message": "Şifre çözme sorunu"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden, aşağıda listelenen kasa öğelerinin şifresini çözemedi."
+    "message": "QLine Vaults, aşağıda listelenen kasa öğelerinin şifresini çözemedi."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Müşteri ekibi ile başarıyla iletişime geçtin",
@@ -9413,7 +9413,7 @@
     "message": "Sağlayıcı kurulumu"
   },
   "setupProviderLoginDesc": {
-    "message": "Yeni bir sağlayıcı kurmaya davet edildiniz. Devam etmek için giriş yapmanız veya yeni bir Bitwarden hesabı oluşturmanız gerekli."
+    "message": "Yeni bir sağlayıcı kurmaya davet edildiniz. Devam etmek için giriş yapmanız veya yeni bir QLine Vaults hesabı oluşturmanız gerekli."
   },
   "setupProviderDesc": {
     "message": "Sağlayıcı kurulumunu tamamlamak için lütfen aşağıdaki bilgileri girin. Sorularınız varsa üşteri hizmetleri ile iletişime geçebilirsiniz."
@@ -9444,13 +9444,13 @@
     "message": "Hizmet kullanıcıları tüm müşteri kuruluşlarına erişebilir ve onları yönetebilir."
   },
   "providerInviteUserDesc": {
-    "message": "Sağlayıcınıza yeni bir kullanıcı davet etmek için aşağıya kullanıcının Bitwarden e-posta adresini yazın. Halihazırda bir Bitwarden hesabı yoksa yeni bir hesap açması istenecektir."
+    "message": "Sağlayıcınıza yeni bir kullanıcı davet etmek için aşağıya kullanıcının QLine Vaults e-posta adresini yazın. Halihazırda bir QLine Vaults hesabı yoksa yeni bir hesap açması istenecektir."
   },
   "joinProvider": {
     "message": "Sağlayıcıya katıl"
   },
   "joinProviderDesc": {
-    "message": "Yukarıdaki sağlayıcıya katılmaya davet edildiniz. Daveti kabul etmek için giriş yapmanız veya yeni bir Bitwarden hesabı açmanız gerekiyor."
+    "message": "Yukarıdaki sağlayıcıya katılmaya davet edildiniz. Daveti kabul etmek için giriş yapmanız veya yeni bir QLine Vaults hesabı açmanız gerekiyor."
   },
   "providerInviteAcceptFailed": {
     "message": "Davet kabul edilemedi. Sağlayıcı yöneticisinden yeni bir davet göndermesini isteyin."
@@ -9603,7 +9603,7 @@
     "message": "Oturum zaman aşımı eylemi"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Bitwarden tarayıcı uzantısı tarafından yönetiliyor. Düzenlemek için tarayıcı uygulamasını açın."
+    "message": "QLine Vaults tarayıcı uzantısı tarafından yönetiliyor. Düzenlemek için tarayıcı uygulamasını açın."
   },
   "immediately": {
     "message": "Hemen"
@@ -9862,7 +9862,7 @@
     "message": "Çoklu oturum açma yapılandırması kaydedildi"
   },
   "sponsoredFamilies": {
-    "message": "Ücretsiz Bitwarden Aile"
+    "message": "Ücretsiz QLine Vaults Aile"
   },
   "sponsoredBitwardenFamilies": {
     "message": "Sponsorlu aileler"
@@ -9883,28 +9883,28 @@
     "message": "No non-members have redeemed the Sponsored Family Plan."
   },
   "sponsorshipFreeBitwardenFamilies": {
-    "message": "Kuruluşunuzun üyeleri Ücretsiz Bitwarden Aileler'e hak kazanır. Bitwarden kuruluşunuzun üyesi olmayan çalışanlar için Ücretsiz Bitwarden Aileler'e sponsor olabilirsiniz. Üye olmayan bir kişiye sponsor olmak için kuruluşunuzda kullanılabilir bir yer olması gerekir."
+    "message": "Kuruluşunuzun üyeleri Ücretsiz QLine Vaults Aileler'e hak kazanır. QLine Vaults kuruluşunuzun üyesi olmayan çalışanlar için Ücretsiz QLine Vaults Aileler'e sponsor olabilirsiniz. Üye olmayan bir kişiye sponsor olmak için kuruluşunuzda kullanılabilir bir yer olması gerekir."
   },
   "sponsorshipFreeBitwardenFamiliesV2": {
-    "message": "Your members are eligible to redeem a Sponsored Families Plan. You can sponsor a Families plan for employees who are not members of your Bitwarden organization, but this will require available seats within your organization."
+    "message": "Your members are eligible to redeem a Sponsored Families Plan. You can sponsor a Families plan for employees who are not members of your QLine Vaults organization, but this will require available seats within your organization."
   },
   "sponsoredFamiliesRemoveActiveSponsorship": {
     "message": "Etkin bir sponsorluğu kaldırdığınızda, sponsorlu kuruluşun yenileme tarihinden sonra kuruluşunuzdaki bir yer boşalacaktır."
   },
   "sponsoredFamiliesEligible": {
-    "message": "Siz ve aileniz Ücretsiz Bitwarden Aileleri için uygunsunuz. Verilerinizi işte olmadığınızda bile güvende tutmak için kişisel e-postanızla kullanın."
+    "message": "Siz ve aileniz Ücretsiz QLine Vaults Aileleri için uygunsunuz. Verilerinizi işte olmadığınızda bile güvende tutmak için kişisel e-postanızla kullanın."
   },
   "sponsoredFamiliesEligibleV2": {
-    "message": "You and your family are eligible for a Sponsored Families Plan at no additional cost to you. Redeem this plan with your personal email to keep your data secure and separate from your Bitwarden work account."
+    "message": "You and your family are eligible for a Sponsored Families Plan at no additional cost to you. Redeem this plan with your personal email to keep your data secure and separate from your QLine Vaults work account."
   },
   "sponsoredFamiliesEligibleCard": {
-    "message": "Verilerinizi evde de güvenle depolamak için Ücretsiz Bitwarden Aile paketinizi hemen kullanmaya başlayın."
+    "message": "Verilerinizi evde de güvenle depolamak için Ücretsiz QLine Vaults Aile paketinizi hemen kullanmaya başlayın."
   },
   "sponsoredFamiliesIncludeMessage": {
-    "message": "Bitwarden Aile paketinin özellikleri"
+    "message": "QLine Vaults Aile paketinin özellikleri"
   },
   "sponsoredFamiliesIncludeMessageV2": {
-    "message": "The Bitwarden Families plan includes"
+    "message": "The QLine Vaults Families plan includes"
   },
   "sponsoredFamiliesPremiumAccess": {
     "message": "6 kullanıcı için premium erişim"
@@ -9925,7 +9925,7 @@
     "message": "Aile planlarını kullanan üyeler burada görüntülenecektir"
   },
   "membersWithSponsoredFamilies": {
-    "message": "Kuruluşunuzun üyeleri, Ücretsiz Bitwarden Aileler'e hak kazanır. Burada, Aileler kuruluşuna sponsor olan üyeleri görebilirsiniz."
+    "message": "Kuruluşunuzun üyeleri, Ücretsiz QLine Vaults Aileler'e hak kazanır. Burada, Aileler kuruluşuna sponsor olan üyeleri görebilirsiniz."
   },
   "organizationHasMemberMessage": {
     "message": "Kuruluşunuzun bir üyesi olduğu için $EMAIL$ adresine sponsorluk gönderilemez.",
@@ -9952,7 +9952,7 @@
     "message": "Hangi Ücretsiz Aileler teklifinden yararlanmak istersiniz?"
   },
   "sponsoredFamiliesEmail": {
-    "message": "Bitwarden Families kullanmak için kişisel e-postanızı girin"
+    "message": "QLine Vaults Families kullanmak için kişisel e-postanızı girin"
   },
   "sponsoredFamiliesLeaveCopy": {
     "message": "Sponsor kuruluştan ayrılır veya çıkarılırsanız Aile paketiniz ödeme döneminin sonunda sonra erecektir."
@@ -9961,7 +9961,7 @@
     "message": "Mevcut bir kuruluş için teklifi kabul edin veya yeni bir Aile kuruluşu oluşturun."
   },
   "setupSponsoredFamiliesLoginDesc": {
-    "message": "Ücretsiz Bitwarden Aile Paketi Kuruluşuna davet edildiniz. Devam etmek için bu teklifi alan hesaba giriş yapmanız gerekiyor."
+    "message": "Ücretsiz QLine Vaults Aile Paketi Kuruluşuna davet edildiniz. Devam etmek için bu teklifi alan hesaba giriş yapmanız gerekiyor."
   },
   "sponsoredFamiliesAcceptFailed": {
     "message": "Teklif kabul edilemiyor. Lütfen kurumsal hesabınızdan teklif e-postasını yeniden gönderin ve tekrar deneyin."
@@ -9976,10 +9976,10 @@
     }
   },
   "sponsoredFamiliesOffer": {
-    "message": "Ücretsiz Bitwarden Aile'yi kabul et"
+    "message": "Ücretsiz QLine Vaults Aile'yi kabul et"
   },
   "sponsoredFamiliesOfferRedeemed": {
-    "message": "Ücretsiz Bitwarden Families teklifi başarıyla kullanıldı"
+    "message": "Ücretsiz QLine Vaults Families teklifi başarıyla kullanıldı"
   },
   "redeemed": {
     "message": "Kullanıldı"
@@ -10110,7 +10110,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Connect login with SSO to your self-hosted decryption key server. Using this option, members won’t need to use their master passwords to decrypt vault data. The require SSO authentication and single organization policies are required to set up Key Connector decryption. Contact Bitwarden Support for set up assistance.'"
   },
   "memberDecryptionKeyConnectorDescEnd": {
-    "message": "Anahtar Bağlayıcı şifre çözmeyi ayarlamak için gereklidir. Kurulum yardımı için Bitwarden Desteği ile iletişime geçin.",
+    "message": "Anahtar Bağlayıcı şifre çözmeyi ayarlamak için gereklidir. Kurulum yardımı için QLine Vaults Desteği ile iletişime geçin.",
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Connect login with SSO to your self-hosted decryption key server. Using this option, members won’t need to use their master passwords to decrypt vault data. The require SSO authentication and single organization policies are required to set up Key Connector decryption. Contact Bitwarden Support for set up assistance.'"
   },
   "keyConnectorPolicyRestriction": {
@@ -10210,7 +10210,7 @@
     "message": "Özel ortam"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Yerel sunucunuzda barındırılan Bitwarden kurulumunuzun temel URL’sini belirtin. Örnek: https://bitwarden.sirketiniz.com"
+    "message": "Yerel sunucunuzda barındırılan QLine Vaults kurulumunuzun temel URL’sini belirtin. Örnek: https://QLine Vaults.sirketiniz.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "İleri düzey yapılandırma için her hizmetin taban URL'sini bağımsız olarak belirleyebilirsiniz."
@@ -10258,7 +10258,7 @@
     "message": "Faturalandırma Eşitleme Anahtarı"
   },
   "automaticBillingSyncDesc": {
-    "message": "Otomatik eşitleme, Aileler sponsorluklarını etkinleştirir ve dosya yüklemeden lisansınızı eşitlemenizi sağlar. Bitwarden bulut sunucusunda güncellemeleri yaptıktan sonra, değişiklikleri uygulamak için Lisansı Eşitle veya Lisansı Senkronize Et seçeneğini seçin."
+    "message": "Otomatik eşitleme, Aileler sponsorluklarını etkinleştirir ve dosya yüklemeden lisansınızı eşitlemenizi sağlar. QLine Vaults bulut sunucusunda güncellemeleri yaptıktan sonra, değişiklikleri uygulamak için Lisansı Eşitle veya Lisansı Senkronize Et seçeneğini seçin."
   },
   "active": {
     "message": "Aktif"
@@ -10620,11 +10620,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwarden tarafından üretildi.",
+    "message": "QLine Vaults tarafından üretildi.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Web sitesi: $WEBSITE$. Bitwarden tarafından üretildi.",
+    "message": "Web sitesi: $WEBSITE$. QLine Vaults tarafından üretildi.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -11785,7 +11785,7 @@
     "message": "Diğer ayarlar"
   },
   "moreFromBitwarden": {
-    "message": "Diğer Bitwarden ürünleri"
+    "message": "Diğer QLine Vaults ürünleri"
   },
   "switchProducts": {
     "message": "Ürün değiştir"
@@ -12705,7 +12705,7 @@
     "message": "Kullanıcı TDE offboarding sırasında bir ana parola belirledi."
   },
   "startYour7DayFreeTrialOfBitwardenFor": {
-    "message": "7 günlük ücretsiz $ORG$ için Bitwarden denemenizi başlatın",
+    "message": "7 günlük ücretsiz $ORG$ için QLine Vaults denemenizi başlatın",
     "placeholders": {
       "org": {
         "content": "$1",
@@ -12714,7 +12714,7 @@
     }
   },
   "startYour7DayFreeTrialOfBitwardenSecretsManagerFor": {
-    "message": "Bitwarden Secrets Manager'ın 7 Günlük ücretsiz deneme sürümünü $ORG$ karşılığında başlatın",
+    "message": "QLine Vaults Secrets Manager'ın 7 Günlük ücretsiz deneme sürümünü $ORG$ karşılığında başlatın",
     "placeholders": {
       "org": {
         "content": "$1",
@@ -13119,7 +13119,7 @@
     "message": "Kasanızı kullanmaya başlayın"
   },
   "onboardingChecklistSubtitle": {
-    "message": "Kişisel verileriniz korumak ve Bitwarden'dan en iyi şekilde yararlanmak bu adımları tamamlayın"
+    "message": "Kişisel verileriniz korumak ve QLine Vaults'dan en iyi şekilde yararlanmak bu adımları tamamlayın"
   },
   "dismissThisChecklist": {
     "message": "Bu listeyi kapat"
@@ -13216,7 +13216,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URl eşleştirme tespiti, Bitwarden'ın otomatik doldurma önerilerini nasıl tanımladığıdır.",
+    "message": "URl eşleştirme tespiti, QLine Vaults'ın otomatik doldurma önerilerini nasıl tanımladığıdır.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -13260,13 +13260,13 @@
     "message": "Onay ayrıntıları"
   },
   "smFreeTrialThankYou": {
-    "message": "Bitwarden Secrets Manager'a kaydolduğunuz için teşekkür ederiz!"
+    "message": "QLine Vaults Secrets Manager'a kaydolduğunuz için teşekkür ederiz!"
   },
   "smFreeTrialConfirmationEmail": {
     "message": "E-posta adresinize bir onay e-postası gönderdik:"
   },
   "sorryToSeeYouGo": {
-    "message": "Gittiğini görmek üzücü! Neden iptal ettiğinizi paylaşarak Bitwarden'ın iyileştirilmesine yardımcı olun.",
+    "message": "Gittiğini görmek üzücü! Neden iptal ettiğinizi paylaşarak QLine Vaults'ın iyileştirilmesine yardımcı olun.",
     "description": "A message shown to users as part of an offboarding survey asking them to provide more information on their subscription cancelation."
   },
   "selectCancellationReason": {
@@ -13828,20 +13828,20 @@
     "message": "Entegrasyonlar"
   },
   "integrationsDesc": {
-    "message": "Sırları Bitwarden Sır Yöneticisi'nden üçüncü taraf bir hizmetle otomatik olarak eşitleyin."
+    "message": "Sırları QLine Vaults Sır Yöneticisi'nden üçüncü taraf bir hizmetle otomatik olarak eşitleyin."
   },
   "sdks": {
     "message": "SDK'lar"
   },
   "sdksDesc": {
-    "message": "Kendi uygulamalarınızı oluşturmak için aşağıdaki programlama dillerinde Bitwarden Sır Yöneticisi SDK'yı kullanın."
+    "message": "Kendi uygulamalarınızı oluşturmak için aşağıdaki programlama dillerinde QLine Vaults Sır Yöneticisi SDK'yı kullanın."
   },
   "ssoDescStart": {
     "message": "Yapılandır:",
     "description": "This represents the beginning of a sentence, broken up to include links. The full sentence will be 'Configure single sign-on for Bitwarden using the implementation guide for your Identity Provider."
   },
   "ssoDescEnd": {
-    "message": "Kimlik Sağlayıcınızın uygulama kılavuzunu kullanarak Bitwarden için.",
+    "message": "Kimlik Sağlayıcınızın uygulama kılavuzunu kullanarak QLine Vaults için.",
     "description": "This represents the end of a sentence, broken up to include links. The full sentence will be 'Configure single sign-on for Bitwarden using the implementation guide for your Identity Provider."
   },
   "userProvisioning": {
@@ -13855,26 +13855,26 @@
     "description": "This represents the beginning of a sentence, broken up to include links. The full sentence will be 'Configure SCIM (System for Cross-domain Identity Management) to automatically provision users and groups to Bitwarden using the implementation guide for your Identity Provider"
   },
   "scimIntegrationDescEnd": {
-    "message": "(Etki Alanları Arası Kimlik Yönetimi Sistemi (System for Cross-domain Identity Management (SCIM))) Kimlik Sağlayıcınızın uygulama kılavuzunu kullanarak kullanıcıları ve grupları Bitwarden'e otomatik olarak ekleyin.",
+    "message": "(Etki Alanları Arası Kimlik Yönetimi Sistemi (System for Cross-domain Identity Management (SCIM))) Kimlik Sağlayıcınızın uygulama kılavuzunu kullanarak kullanıcıları ve grupları QLine Vaults'e otomatik olarak ekleyin.",
     "description": "This represents the end of a sentence, broken up to include links. The full sentence will be 'Configure SCIM (System for Cross-domain Identity Management) to automatically provision users and groups to Bitwarden using the implementation guide for your Identity Provider"
   },
   "bwdc": {
-    "message": "Bitwarden Dizin Bağlayıcısı"
+    "message": "QLine Vaults Dizin Bağlayıcısı"
   },
   "bwdcDesc": {
-    "message": "Kimlik Sağlayıcınızın uygulama kılavuzunu kullanarak kullanıcıları ve grupları otomatik olarak sağlamak için Bitwarden Dizin Bağlayıcısını yapılandırın."
+    "message": "Kimlik Sağlayıcınızın uygulama kılavuzunu kullanarak kullanıcıları ve grupları otomatik olarak sağlamak için QLine Vaults Dizin Bağlayıcısını yapılandırın."
   },
   "eventManagement": {
     "message": "Olay yönetimi"
   },
   "eventManagementDesc": {
-    "message": "Platformunuz için uygulama kılavuzunu kullanarak Bitwarden olay günlüklerini SIEM (sistem bilgisi ve olay yönetimi) sisteminizle entegre edin."
+    "message": "Platformunuz için uygulama kılavuzunu kullanarak QLine Vaults olay günlüklerini SIEM (sistem bilgisi ve olay yönetimi) sisteminizle entegre edin."
   },
   "deviceManagement": {
     "message": "Cihaz yönetimi"
   },
   "deviceManagementDesc": {
-    "message": "Platformunuz için uygulama kılavuzunu kullanarak Bitwarden için cihaz yönetimini yapılandırın."
+    "message": "Platformunuz için uygulama kılavuzunu kullanarak QLine Vaults için cihaz yönetimini yapılandırın."
   },
   "crowdstrikeEventIntegrationDesc": {
     "message": "Etkinlik verilerini Logscale'e gönderin"
@@ -14093,22 +14093,22 @@
     "message": "Faturalandırmayı Sağlayıcı Portalından yönetin"
   },
   "continueSettingUp": {
-    "message": "Bitwarden’ı kurmaya devam et"
+    "message": "QLine Vaults’ı kurmaya devam et"
   },
   "continueSettingUpFreeTrial": {
-    "message": "Ücretsiz Bitwarden denemenizi kurmaya devam edin"
+    "message": "Ücretsiz QLine Vaults denemenizi kurmaya devam edin"
   },
   "continueSettingUpPasswordManager": {
-    "message": "Bitwarden Parola Yöneticisi’ni kurmaya devam et"
+    "message": "QLine Vaults Parola Yöneticisi’ni kurmaya devam et"
   },
   "continueSettingUpFreeTrialPasswordManager": {
-    "message": "Bitwarden Parola Yöneticisi'nin ücretsiz deneme sürümünü kurmaya devam edin"
+    "message": "QLine Vaults Parola Yöneticisi'nin ücretsiz deneme sürümünü kurmaya devam edin"
   },
   "continueSettingUpSecretsManager": {
-    "message": "Bitwarden Secrets Manager’ı kurmaya devam et"
+    "message": "QLine Vaults Secrets Manager’ı kurmaya devam et"
   },
   "continueSettingUpFreeTrialSecretsManager": {
-    "message": "Bitwarden Sır Yöneticisi'nin ücretsiz deneme sürümünü kurmaya devam edin"
+    "message": "QLine Vaults Sır Yöneticisi'nin ücretsiz deneme sürümünü kurmaya devam edin"
   },
   "enterTeamsOrgInfo": {
     "message": "Ekip kuruluş bilgilerinizi girin"
@@ -14384,14 +14384,14 @@
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'Notice: Later this month, client vault privacy will be improved and provider members will no longer have direct access to client vault items. For questions, please contact Bitwarden support'."
   },
   "contactBitwardenSupport": {
-    "message": "Bitwarden desteğiyle iletişime geçin.",
+    "message": "QLine Vaults desteğiyle iletişime geçin.",
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'Notice: Later this month, client vault privacy will be improved and provider members will no longer have direct access to client vault items. For questions, please contact Bitwarden support'. 'Bitwarden' should not be translated"
   },
   "sponsored": {
     "message": "Sponsorlu"
   },
   "licenseAndBillingManagementDesc": {
-    "message": "Bitwarden bulut sunucusunda güncellemeler yaptıktan sonra, en son değişiklikleri uygulamak için lisans dosyanızı yükleyin."
+    "message": "QLine Vaults bulut sunucusunda güncellemeler yaptıktan sonra, en son değişiklikleri uygulamak için lisans dosyanızı yükleyin."
   },
   "addToFolder": {
     "message": "Klasöre ekle"
@@ -14509,7 +14509,7 @@
     "message": "CVV numarası nedir?"
   },
   "learnMoreAboutApi": {
-    "message": "Bitwarden'ın API'si hakkında daha fazla bilgi edinin"
+    "message": "QLine Vaults'ın API'si hakkında daha fazla bilgi edinin"
   },
   "fileSends": {
     "message": "Dosya Send'leri"
@@ -14704,7 +14704,7 @@
     "message": "Secrets Manager aboneliğiniz seçtiğiniz plana göre yükseltilecektir"
   },
   "bitwardenPasswordManager": {
-    "message": "Bitwarden Parola Yöneticisi"
+    "message": "QLine Vaults Parola Yöneticisi"
   },
   "secretsManagerComplimentaryPasswordManager": {
     "message": "Ücretsiz bir yıllık Parola Yöneticisi aboneliğiniz seçtiğiniz pakete yükseltilecektir. Ücretsiz süre sona erene kadar sizden herhangi bir ücret talep edilmeyecektir."
@@ -14782,7 +14782,7 @@
     "description": "This represents the beginning of a sentence. The full sentence will be 'Manage subscription from the Provider Portal', but 'Provider Portal' will be a link and thus cannot be included in the translation file."
   },
   "toHostBitwardenOnYourOwnServer": {
-    "message": "Bitwarden'ı kendi sunucunuzda barındırmak için lisans dosyanızı yüklemeniz gerekir. Kendi sunucunuzda barındırılan kuruluşunuz için Ücretsiz Aileler planlarını ve gelişmiş faturalandırma özelliklerini desteklemek için, kendi sunucunuzda barındırılan kuruluşunuzda otomatik eşitlemeyi ayarlamanız gerekir."
+    "message": "QLine Vaults'ı kendi sunucunuzda barındırmak için lisans dosyanızı yüklemeniz gerekir. Kendi sunucunuzda barındırılan kuruluşunuz için Ücretsiz Aileler planlarını ve gelişmiş faturalandırma özelliklerini desteklemek için, kendi sunucunuzda barındırılan kuruluşunuzda otomatik eşitlemeyi ayarlamanız gerekir."
   },
   "selfHostingTitleProper": {
     "message": "Kendi Kendinize Barındırma"
@@ -14906,7 +14906,7 @@
     "message": "Başarıyla silindi"
   },
   "freeFamiliesSponsorship": {
-    "message": "Ücretsiz Bitwarden Aileler sponsorluğunu kaldırın"
+    "message": "Ücretsiz QLine Vaults Aileler sponsorluğunu kaldırın"
   },
   "freeFamiliesSponsorshipPolicyTitleV2": {
     "message": "Remove sponsored Families plan"
@@ -14981,10 +14981,10 @@
     "message": "Otomatik Alınan Alan Adları"
   },
   "automaticDomainClaimProcess": {
-    "message": "Bitwarden, ilk 72 saat içinde etki alanını 3 kez talep etmeye çalışacaktır. Etki alanı talep edilemezse, barındırıcınızdaki DNS kaydını kontrol edin ve manuel olarak talep edin. Etki alanı talep edilmezse, 7 gün içinde kuruluşunuzdan kaldırılacaktır."
+    "message": "QLine Vaults, ilk 72 saat içinde etki alanını 3 kez talep etmeye çalışacaktır. Etki alanı talep edilemezse, barındırıcınızdaki DNS kaydını kontrol edin ve manuel olarak talep edin. Etki alanı talep edilmezse, 7 gün içinde kuruluşunuzdan kaldırılacaktır."
   },
   "automaticDomainClaimProcess1": {
-    "message": "Bitwarden will attempt to claim the domain within 72 hours. If the domain can't be claimed, verify your DNS record and claim manually. Unclaimed domains are removed after 7 days."
+    "message": "QLine Vaults will attempt to claim the domain within 72 hours. If the domain can't be claimed, verify your DNS record and claim manually. Unclaimed domains are removed after 7 days."
   },
   "automaticDomainClaimProcess2": {
     "message": "Once claimed, existing members with claimed domains will be emailed about the "
@@ -15152,19 +15152,19 @@
     "message": "Özel anahtarı kopyala"
   },
   "openingExtension": {
-    "message": "Bitwarden tarayıcı uzantısı açılıyor"
+    "message": "QLine Vaults tarayıcı uzantısı açılıyor"
   },
   "somethingWentWrong": {
     "message": "Bir şeyler ters gitti..."
   },
   "openingExtensionError": {
-    "message": "Bitwarden tarayıcı uzantısını açmakta sorun yaşadık. Şimdi açmak için düğmeye tıklayın."
+    "message": "QLine Vaults tarayıcı uzantısını açmakta sorun yaşadık. Şimdi açmak için düğmeye tıklayın."
   },
   "openExtension": {
     "message": "Uzantıyı aç"
   },
   "doNotHaveExtension": {
-    "message": "Bitwarden tarayıcı uzantısına sahip değil misiniz?"
+    "message": "QLine Vaults tarayıcı uzantısına sahip değil misiniz?"
   },
   "installExtension": {
     "message": "Uzantıyı yükle"
@@ -15173,7 +15173,7 @@
     "message": "Tarayıcı uzantısı açıldı"
   },
   "openedExtensionViewAtRiskPasswords": {
-    "message": "Bitwarden tarayıcı uzantısı başarıyla açıldı. Artık risk altındaki parolalarınızı gözden geçirebilirsiniz."
+    "message": "QLine Vaults tarayıcı uzantısı başarıyla açıldı. Artık risk altındaki parolalarınızı gözden geçirebilirsiniz."
   },
   "resellerRenewalWarningMsg": {
     "message": "Aboneliğiniz yakında yenilenecektir. Kesintisiz hizmet için, $RENEWAL_DATE$ tarihinden önce $RESELLER$ ile iletişime geçerek yenileme işleminizi onaylayın.",
@@ -15189,7 +15189,7 @@
     }
   },
   "resellerRenewalWarningMsgV2": {
-    "message": "Your subscription will renew soon. To ensure uninterrupted service, contact your Bitwarden provider to confirm your renewal before $RENEWAL_DATE$.",
+    "message": "Your subscription will renew soon. To ensure uninterrupted service, contact your QLine Vaults provider to confirm your renewal before $RENEWAL_DATE$.",
     "placeholders": {
       "renewal_date": {
         "content": "$1",
@@ -15228,7 +15228,7 @@
     }
   },
   "resellerPastDueWarningMsgV2": {
-    "message": "The invoice for your subscription has not been paid. To ensure uninterrupted service, contact your Bitwarden provider before $GRACE_PERIOD_END$.",
+    "message": "The invoice for your subscription has not been paid. To ensure uninterrupted service, contact your QLine Vaults provider before $GRACE_PERIOD_END$.",
     "placeholders": {
       "grace_period_end": {
         "content": "$1",
@@ -15386,7 +15386,7 @@
     "message": "Kuruluşunuzdaki olay günlüklerini görmek için yükseltin."
   },
   "upgradeEventLogMessage": {
-    "message": "Bu olaylar yalnızca örnektir ve Bitwarden kuruluşunuzdaki gerçek olayları yansıtmaz."
+    "message": "Bu olaylar yalnızca örnektir ve QLine Vaults kuruluşunuzdaki gerçek olayları yansıtmaz."
   },
   "viewEvents": {
     "message": "Olayları Görüntüle"
@@ -15567,7 +15567,7 @@
     "message": "Parolalarınızı tek tıklamayla güvenli bir şekilde doldurun"
   },
   "setupExtensionPageDescription": {
-    "message": "Bitwarden tarayıcı uzantısını yükleyin, otomatik doldurmaya başlayın"
+    "message": "QLine Vaults tarayıcı uzantısını yükleyin, otomatik doldurmaya başlayın"
   },
   "getTheExtension": {
     "message": "Uzantıyı yükle"
@@ -15585,19 +15585,19 @@
     "message": "Web uygulamasına geç"
   },
   "bitwardenExtensionInstalled": {
-    "message": "Bitwarden uzantısı yüklendi!"
+    "message": "QLine Vaults uzantısı yüklendi!"
   },
   "bitwardenExtensionIsInstalled": {
-    "message": "Bitwarden uzantısı yüklendi!"
+    "message": "QLine Vaults uzantısı yüklendi!"
   },
   "openExtensionToAutofill": {
     "message": "Otomatik doldurmaya başlamak için uzantıyı açıp giriş yapın."
   },
   "openBitwardenExtension": {
-    "message": "Bitwarden uzantısını aç"
+    "message": "QLine Vaults uzantısını aç"
   },
   "gettingStartedWithBitwardenPart1": {
-    "message": "Bitwarden ile çalışmaya başlamaya ilişkin ipuçları için",
+    "message": "QLine Vaults ile çalışmaya başlamaya ilişkin ipuçları için",
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'For tips on getting started with Bitwarden visit the Learning Center and Help Center'"
   },
   "gettingStartedWithBitwardenPart2": {
@@ -15609,7 +15609,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include the Bitwarden icon. The full sentence will read 'If the extension didn't open, you may need to open Bitwarden from the icon [Bitwarden Icon] on the toolbar.'"
   },
   "openExtensionFromToolbarPart2": {
-    "message": " tıklayarak Bitwarden'ı açmanız gerekebilir.",
+    "message": " tıklayarak QLine Vaults'ı açmanız gerekebilir.",
     "description": "This will be used as part of a larger sentence, broken up to include the Bitwarden icon. The full sentence will read 'If the extension didn't open, you may need to open Bitwarden from the icon [Bitwarden Icon] on the toolbar.'"
   },
   "gettingStartedWithBitwardenPart3": {
@@ -15617,7 +15617,7 @@
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'For tips on getting started with Bitwarden visit the Learning Center and Help Center'"
   },
   "setupExtensionContentAlt": {
-    "message": "Bitwarden tarayıcı uzantısıyla kolayca yeni hesaplar oluşturabilir, kayıtlı hesaplarınıza doğrudan tarayıcı araç çubuğunuzdan erişebilir, otomatik doldurma özelliğini kullanarak hesaplarınıza kolayca giriş yapabilirsiniz."
+    "message": "QLine Vaults tarayıcı uzantısıyla kolayca yeni hesaplar oluşturabilir, kayıtlı hesaplarınıza doğrudan tarayıcı araç çubuğunuzdan erişebilir, otomatik doldurma özelliğini kullanarak hesaplarınıza kolayca giriş yapabilirsiniz."
   },
   "restart": {
     "message": "Yeniden başlat"
@@ -15649,7 +15649,7 @@
     "message": "Bu ayar hakkında"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden, deneyiminizi iyileştirmek için hangi simgenin veya şifre değiştirme URL'sinin kullanılması gerektiğini belirlemek için kayıtlı giriş URI'lerini kullanacaktır. Bu hizmeti kullandığınızda hiçbir bilgi toplanmaz veya kaydedilmez."
+    "message": "QLine Vaults, deneyiminizi iyileştirmek için hangi simgenin veya şifre değiştirme URL'sinin kullanılması gerektiğini belirlemek için kayıtlı giriş URI'lerini kullanacaktır. Bu hizmeti kullandığınızda hiçbir bilgi toplanmaz veya kaydedilmez."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Add 3 quick copy buttons next to items to copy your username, password, or verification code to the clipboard."
@@ -15719,7 +15719,7 @@
     }
   },
   "restoreProviderPortalAccessViaCustomerSupport": {
-    "message": "Sağlayıcı portalına erişiminizi geri yüklemek için Bitwarden Müşteri Desteği ile iletişime geçerek aboneliğinizi yenileyin.",
+    "message": "Sağlayıcı portalına erişiminizi geri yüklemek için QLine Vaults Müşteri Desteği ile iletişime geçerek aboneliğinizi yenileyin.",
     "description": "A message shown in a non-dismissible dialog to any user of a suspended providers."
   },
   "restoreProviderPortalAccessViaPaymentMethod": {
@@ -15761,7 +15761,7 @@
     "message": "Abonelik iptal edildi"
   },
   "providersubCanceledmessage": {
-    "message": "Yeniden abone olmak için Bitwarden Müşteri Desteği ile iletişime geçin."
+    "message": "Yeniden abone olmak için QLine Vaults Müşteri Desteği ile iletişime geçin."
   },
   "showAll": {
     "message": "Tümünü göster"
@@ -15904,7 +15904,7 @@
     "message": "Özel plan"
   },
   "planDescCustom": {
-    "message": "Bitwarden, her büyüklükteki işletmeyle uyumlu olarak parolaları ve hassas bilgileri güvence altına alır. Büyük kurumsal bir işletmenin parçasıysanız, satış ekibiyle iletişime geçerek fiyat teklifi isteyin."
+    "message": "QLine Vaults, her büyüklükteki işletmeyle uyumlu olarak parolaları ve hassas bilgileri güvence altına alır. Büyük kurumsal bir işletmenin parçasıysanız, satış ekibiyle iletişime geçerek fiyat teklifi isteyin."
   },
   "builtInAuthenticator": {
     "message": "Dahili kimlik doğrulayıcı"
@@ -16021,7 +16021,7 @@
     "message": "Konumunuz için vergi hesaplanırken bir hata oluştu. Lütfen tekrar deneyin."
   },
   "individualUpgradeWelcomeMessage": {
-    "message": "Bitwarden’a Hoş Geldiniz"
+    "message": "QLine Vaults’a Hoş Geldiniz"
   },
   "individualUpgradeDescriptionMessage": {
     "message": "Premium paketle daha fazla güvenlik özelliğine kavuşun veya Families paketiyle hesaplarınızı paylaşmaya başlayın"
@@ -16042,7 +16042,7 @@
     "message": "Şimdi yükselt"
   },
   "getAdvancedOnlineSecurityWithBitwardenPremium": {
-    "message": "Get advanced online security with Bitwarden premium."
+    "message": "Get advanced online security with QLine Vaults premium."
   },
   "formWillCreateNewFamiliesOrgMessage": {
     "message": "Bu formu doldurmanız yeni bir Families kuruluşu oluşturacaktır. Ücretsiz kuruluşunuzu Yönetici Konsolu’ndan yükseltebilirsiniz."
@@ -16051,7 +16051,7 @@
     "message": "Yükseltmenizi işlerken bir hata ile karşılaştık. Lütfen tekrar deneyin."
   },
   "bitwardenFreeplanMessage": {
-    "message": "Bitwarden Ücretsiz planını kullanıyorsunuz"
+    "message": "QLine Vaults Ücretsiz planını kullanıyorsunuz"
   },
   "upgradeCompleteSecurity": {
     "message": "Tam güvenlik için yükselt"
@@ -16069,7 +16069,7 @@
     "message": "Algoritma"
   },
   "encryptionKeySettingsHowShouldWeEncryptYourData": {
-    "message": "Bitwarden’ın kasanızdaki verileri nasıl şifrelemesi gerektiğini seçin. Tüm seçenekler güvenlidir, ancak daha güçlü yöntemler özellikle kaba kuvvet saldırılarına karşı daha iyi koruma sağlar. Bitwarden, çoğu kullanıcı için varsayılan ayarı önerir."
+    "message": "QLine Vaults’ın kasanızdaki verileri nasıl şifrelemesi gerektiğini seçin. Tüm seçenekler güvenlidir, ancak daha güçlü yöntemler özellikle kaba kuvvet saldırılarına karşı daha iyi koruma sağlar. QLine Vaults, çoğu kullanıcı için varsayılan ayarı önerir."
   },
   "encryptionKeySettingsIncreaseImproveSecurity": {
     "message": "Değerleri varsayılanın üzerine çıkarmak güvenliği artıracaktır, ancak bunun sonucunda kasanızın kilidinin açılması daha uzun sürebilir."
@@ -16100,10 +16100,10 @@
     "description": "VFO1 terminology variant of 'blockClaimedDomainAccountCreationDesc', shown in the policies list"
   },
   "blockClaimedDomainAccountCreationDescV2": {
-    "message": "Block members from using your claimed domain to create Bitwarden accounts outside your organization."
+    "message": "Block members from using your claimed domain to create QLine Vaults accounts outside your organization."
   },
   "blockClaimedDomainAccountCreationDescV2Vfo1": {
-    "message": "Block members from using your claimed domain to create Bitwarden accounts outside of your organization vault.",
+    "message": "Block members from using your claimed domain to create QLine Vaults accounts outside of your organization vault.",
     "description": "VFO1 terminology variant of 'blockClaimedDomainAccountCreationDescV2'"
   },
   "blockClaimedDomainAccountCreationPrerequisiteV2": {
@@ -16141,7 +16141,7 @@
     }
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Your organization is no longer using master passwords to log into Bitwarden. To continue, verify the organization and domain."
+    "message": "Your organization is no longer using master passwords to log into QLine Vaults. To continue, verify the organization and domain."
   },
   "continueWithLogIn": {
     "message": "Giriş yaparak devam et"
@@ -16344,7 +16344,7 @@
     "message": "Reddet ve ayrıl"
   },
   "youHaveBitwardenPremium": {
-    "message": "Bitwarden Premium abonesisiniz"
+    "message": "QLine Vaults Premium abonesisiniz"
   },
   "viewAndManagePremiumSubscription": {
     "message": "Premium aboneliğinizi görüntüleyin ve yönetin"
@@ -16383,13 +16383,13 @@
     "message": "Halihazırda bir aboneliğiniz var mı?"
   },
   "alreadyHaveSubscriptionSelfHostedMessage": {
-    "message": "Open the subscription page on your Bitwarden cloud account and download your license file. Then return to this screen and upload it below."
+    "message": "Open the subscription page on your QLine Vaults cloud account and download your license file. Then return to this screen and upload it below."
   },
   "alreadyHaveSubscriptionSelfHostedMessageV2": {
-    "message": "Open the subscription page on your Bitwarden account and download your license file. Then return to this screen and upload it below."
+    "message": "Open the subscription page on your QLine Vaults account and download your license file. Then return to this screen and upload it below."
   },
   "alreadyHaveSubscriptionSelfHostedMessageV3": {
-    "message": "On your cloud environment, log in to your Bitwarden account, open the subscription page, and download your license file. Then, return to this screen and upload it."
+    "message": "On your cloud environment, log in to your QLine Vaults account, open the subscription page, and download your license file. Then, return to this screen and upload it."
   },
   "viewAllPlans": {
     "message": "Tüm planları görüntüle"
@@ -16475,10 +16475,10 @@
     "message": "Get the extension for easy vault access"
   },
   "extensionPromptBody": {
-    "message": "With the browser extension installed, you'll take Bitwarden everywhere online. It'll fill in passwords, so you can log into your accounts with a single click."
+    "message": "With the browser extension installed, you'll take QLine Vaults everywhere online. It'll fill in passwords, so you can log into your accounts with a single click."
   },
   "extensionPromptImageAlt": {
-    "message": "A web browser showing the Bitwarden extension with autofill items for the current webpage."
+    "message": "A web browser showing the QLine Vaults extension with autofill items for the current webpage."
   },
   "skip": {
     "message": "Skip"
@@ -16526,10 +16526,10 @@
     "message": "Geçersiz Send parolası"
   },
   "vaultWelcomeDialogTitle": {
-    "message": "Bitwarden'a hoş geldiniz"
+    "message": "QLine Vaults'a hoş geldiniz"
   },
   "vaultWelcomeDialogDescription": {
-    "message": "Tüm parolalarınızı ve kişisel bilgilerinizi Bitwarden kasanızda saklayabilirsiniz. Size etrafı gezdirelim."
+    "message": "Tüm parolalarınızı ve kişisel bilgilerinizi QLine Vaults kasanızda saklayabilirsiniz. Size etrafı gezdirelim."
   },
   "vaultWelcomeDialogPrimaryCta": {
     "message": "Tura başla"
@@ -16763,7 +16763,7 @@
     "message": "Help members improve"
   },
   "aiCoachmarkHelpMembersDescription": {
-    "message": "Once you've selected critical applications, prompt members to change at-risk passwords. They'll receive a message in their Bitwarden extension."
+    "message": "Once you've selected critical applications, prompt members to change at-risk passwords. They'll receive a message in their QLine Vaults extension."
   },
   "aiCoachmarkRunReportTitle": {
     "message": "Stay on top of new risks"
@@ -17526,7 +17526,7 @@
     "message": "Ödeme başarılı"
   },
   "paymentSuccessfulProcessingMessage": {
-    "message": "Your upgrade is being processed. It may be a few minutes before you see Premium features in Bitwarden."
+    "message": "Your upgrade is being processed. It may be a few minutes before you see Premium features in QLine Vaults."
   },
   "planPurchased": {
     "message": "Plan purchased"

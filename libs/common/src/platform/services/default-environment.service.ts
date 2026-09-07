@@ -88,7 +88,15 @@ export const PRODUCTION_REGIONS: RegionConfig[] = [
     key: Region.US,
     domain: "vaults.qlineit.uk",
     urls: {
-      base: "https://vaults.qlineit.uk",
+      base: null,
+      api: "https://vaults.qlineit.uk/api",
+      identity: "https://vaults.qlineit.uk/identity",
+      icons: "https://vaults.qlineit.uk/icons",
+      webVault: "https://vaults.qlineit.uk",
+      notifications: "https://vaults.qlineit.uk/notifications",
+      events: "https://vaults.qlineit.uk/events",
+      scim: "https://vaults.qlineit.uk/scim",
+      send: "https://vaults.qlineit.uk/#/send",
     },
   },
 ];

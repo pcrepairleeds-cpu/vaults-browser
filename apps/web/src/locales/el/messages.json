@@ -21,7 +21,7 @@
     "message": "Όλες οι κρίσιμες εφαρμογές"
   },
   "appLogoLabel": {
-    "message": "Λογότυπο του Bitwarden"
+    "message": "QLine Vaults logo"
   },
   "criticalApplications": {
     "message": "Κρίσιμες εφαρμογές"
@@ -236,7 +236,7 @@
     "message": "Track improvements across your team"
   },
   "membersAreAutomaticallyNotified": {
-    "message": "Members are automatically notified of at-risk passwords in their Bitwarden extension. No chasing required."
+    "message": "Members are automatically notified of at-risk passwords in their QLine Vaults extension. No chasing required."
   },
   "importYourOrgDataToGetStarted": {
     "message": "Import your org data to get started"
@@ -399,7 +399,7 @@
     }
   },
   "membersWillReceiveSecurityTask": {
-    "message": "Members of your organization will be assigned a task to change vulnerable passwords. They’ll receive a notification within their Bitwarden browser extension."
+    "message": "Members of your organization will be assigned a task to change vulnerable passwords. They’ll receive a notification within their QLine Vaults browser extension."
   },
   "membersAtRiskCount": {
     "message": "$COUNT$ members at-risk",
@@ -847,10 +847,10 @@
     "message": "Κάντε την επαλήθευση δύο βημάτων απρόσκοπτη"
   },
   "totpHelper": {
-    "message": "Το Bitwarden μπορεί να αποθηκεύει και να συμπληρώνει τους κωδικούς επαλήθευσης 2 βημάτων. Αντιγράψτε και επικολλήστε το κλειδί σε αυτό το πεδίο."
+    "message": "Το QLine Vaults μπορεί να αποθηκεύει και να συμπληρώνει τους κωδικούς επαλήθευσης 2 βημάτων. Αντιγράψτε και επικολλήστε το κλειδί σε αυτό το πεδίο."
   },
   "totpHelperWithCapture": {
-    "message": "Το Bitwarden μπορεί να αποθηκεύει και να συμπληρώνει τους κωδικούς επαλήθευσης 2 βημάτων. Επιλέξτε το εικονίδιο κάμερας για να καταγράψετε ένα στιγμιότυπο του κωδικού QR ταυτοποίησης αυτού του ιστοτόπου ή αντιγράψτε και επικολλήστε το κλειδί σε αυτό το πεδίο."
+    "message": "Το QLine Vaults μπορεί να αποθηκεύει και να συμπληρώνει τους κωδικούς επαλήθευσης 2 βημάτων. Επιλέξτε το εικονίδιο κάμερας για να καταγράψετε ένα στιγμιότυπο του κωδικού QR ταυτοποίησης αυτού του ιστοτόπου ή αντιγράψτε και επικολλήστε το κλειδί σε αυτό το πεδίο."
   },
   "totpCapture": {
     "message": "Scan authenticator QR code from current webpage"
@@ -2201,7 +2201,7 @@
     "message": "Σύνδεση με συσκευή"
   },
   "loginWithDeviceEnabledNote": {
-    "message": "Η σύνδεση με τη χρήση συσκευής πρέπει να οριστεί στις ρυθμίσεις της εφαρμογής Bitwarden. Χρειάζεστε κάποια άλλη επιλογή;"
+    "message": "Η σύνδεση με τη χρήση συσκευής πρέπει να οριστεί στις ρυθμίσεις της εφαρμογής QLine Vaults. Χρειάζεστε κάποια άλλη επιλογή;"
   },
   "needAnotherOptionV1": {
     "message": "Χρειάζεστε κάποια άλλη επιλογή;"
@@ -2318,7 +2318,7 @@
     "message": "Δημιουργία λογαριασμού"
   },
   "newToBitwarden": {
-    "message": "Νέος χρήστης του Bitwarden;"
+    "message": "Νέος χρήστης του QLine Vaults;"
   },
   "setAStrongPassword": {
     "message": "Ορίστε έναν ισχυρό κωδικό πρόσβασης"
@@ -2336,7 +2336,7 @@
     "message": "Είσοδος"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Log in to Bitwarden"
+    "message": "Log in to QLine Vaults"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Enter the code sent to your email"
@@ -2366,7 +2366,7 @@
     "message": "Τι είναι μια συσκευή;"
   },
   "aDeviceIs": {
-    "message": "A device is a unique installation of the Bitwarden app where you have logged in. Reinstalling, clearing app data, or clearing your cookies could result in a device appearing multiple times."
+    "message": "A device is a unique installation of the QLine Vaults app where you have logged in. Reinstalling, clearing app data, or clearing your cookies could result in a device appearing multiple times."
   },
   "logInInitiated": {
     "message": "Η σύνδεση ξεκίνησε"
@@ -2604,7 +2604,7 @@
     "message": "Μια ειδοποίηση έχει σταλεί στη συσκευή σας."
   },
   "notificationSentDevicePart1": {
-    "message": "Unlock Bitwarden on your device or on the "
+    "message": "Unlock QLine Vaults on your device or on the "
   },
   "accessAttemptBy": {
     "message": "Access attempt by $EMAIL$",
@@ -2628,7 +2628,7 @@
     "message": "Make sure the Fingerprint phrase matches the one below before approving."
   },
   "notificationSentDeviceComplete": {
-    "message": "Unlock Bitwarden on your device. Make sure the Fingerprint phrase matches the one below before approving."
+    "message": "Unlock QLine Vaults on your device. Make sure the Fingerprint phrase matches the one below before approving."
   },
   "aNotificationWasSentToYourDevice": {
     "message": "A notification was sent to your device"
@@ -2689,7 +2689,7 @@
     "message": "Εφαρμογή επαλήθευσης"
   },
   "authenticatorAppDescV2": {
-    "message": "Εισαγάγετε έναν κωδικό που δημιουργήθηκε από μια εφαρμογή ελέγχου ταυτότητας, όπως το Bitwarden Authenticator.",
+    "message": "Εισαγάγετε έναν κωδικό που δημιουργήθηκε από μια εφαρμογή ελέγχου ταυτότητας, όπως το QLine Vaults Authenticator.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2842,7 +2842,7 @@
     "message": "Αυτή η εξαγωγή κρυπτογραφεί τα δεδομένα σας χρησιμοποιώντας το κλειδί κρυπτογράφησης του λογαριασμού σας. Εάν ποτέ περιστρέψετε το κλειδί κρυπτογράφησης του λογαριασμού σας, θα πρέπει να κάνετε εξαγωγή ξανά, καθώς δεν θα μπορείτε να αποκρυπτογραφήσετε αυτό το αρχείο εξαγωγής."
   },
   "encExportAccountWarningDesc": {
-    "message": "Τα κλειδιά κρυπτογράφησης λογαριασμού είναι μοναδικά για κάθε λογαριασμό χρήστη Bitwarden, οπότε δεν μπορείτε να εισάγετε μια κρυπτογραφημένη εξαγωγή σε διαφορετικό λογαριασμό."
+    "message": "Τα κλειδιά κρυπτογράφησης λογαριασμού είναι μοναδικά για κάθε λογαριασμό χρήστη QLine Vaults, οπότε δεν μπορείτε να εισάγετε μια κρυπτογραφημένη εξαγωγή σε διαφορετικό λογαριασμό."
   },
   "exportNoun": {
     "message": "Εξαγωγή",
@@ -2898,10 +2898,10 @@
     "message": "This KeePass database is too large to import."
   },
   "accountRestrictedOptionDescription": {
-    "message": "Χρησιμοποιήστε το κλειδί κρυπτογράφησης του λογαριασμού σας, που προέρχεται από το όνομα χρήστη και τον κύριο κωδικό πρόσβασης του λογαριασμού σας, για να κρυπτογραφήσετε την εξαγωγή και να περιορίσετε την εισαγωγή μόνο στον τρέχοντα λογαριασμό Bitwarden."
+    "message": "Χρησιμοποιήστε το κλειδί κρυπτογράφησης του λογαριασμού σας, που προέρχεται από το όνομα χρήστη και τον κύριο κωδικό πρόσβασης του λογαριασμού σας, για να κρυπτογραφήσετε την εξαγωγή και να περιορίσετε την εισαγωγή μόνο στον τρέχοντα λογαριασμό QLine Vaults."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Ορίστε έναν κωδικό πρόσβασης αρχείου για να κρυπτογραφήσετε την εξαγωγή και να την εισαγάγετε σε οποιονδήποτε λογαριασμό Bitwarden χρησιμοποιώντας τον κωδικό πρόσβασης για αποκρυπτογράφηση."
+    "message": "Ορίστε έναν κωδικό πρόσβασης αρχείου για να κρυπτογραφήσετε την εξαγωγή και να την εισαγάγετε σε οποιονδήποτε λογαριασμό QLine Vaults χρησιμοποιώντας τον κωδικό πρόσβασης για αποκρυπτογράφηση."
   },
   "exportTypeHeading": {
     "message": "Τύπος εξαγωγής"
@@ -3072,7 +3072,7 @@
     "message": "Αίτημα σε εκκρεμότητα"
   },
   "logBackInOthersToo": {
-    "message": "Παρακαλούμε συνδεθείτε ξανά. Εάν χρησιμοποιείτε άλλες εφαρμογές Bitwarden, αποσυνδεθείτε και επιστρέψτε σε αυτές επίσης."
+    "message": "Παρακαλούμε συνδεθείτε ξανά. Εάν χρησιμοποιείτε άλλες εφαρμογές QLine Vaults, αποσυνδεθείτε και επιστρέψτε σε αυτές επίσης."
   },
   "changeMasterPassword": {
     "message": "Αλλαγή Κύριου Κωδικού"
@@ -3105,7 +3105,7 @@
     }
   },
   "kdfIterationsWarning": {
-    "message": "Η ρύθμιση των επαναλήψεων KDF σε υπερβολικά υψηλά επίπεδα μπορεί να οδηγήσει σε κακή απόδοση κατά τη σύνδεση (και ξεκλειδώματος) του Bitwarden σε συσκευές με βραδύτερους CPU. Σας συνιστούμε να αυξήσετε την τιμή σε $INCREMENT$ και στη συνέχεια να δοκιμάσετε όλες τις συσκευές σας.",
+    "message": "Η ρύθμιση των επαναλήψεων KDF σε υπερβολικά υψηλά επίπεδα μπορεί να οδηγήσει σε κακή απόδοση κατά τη σύνδεση (και ξεκλειδώματος) του QLine Vaults σε συσκευές με βραδύτερους CPU. Σας συνιστούμε να αυξήσετε την τιμή σε $INCREMENT$ και στη συνέχεια να δοκιμάσετε όλες τις συσκευές σας.",
     "placeholders": {
       "increment": {
         "content": "$1",
@@ -3118,7 +3118,7 @@
     "description": "Memory refers to computer memory (RAM). MB is short for megabytes."
   },
   "argon2Warning": {
-    "message": "Setting your KDF iterations, memory, and parallelism too high could result in poor performance when logging into (and unlocking) Bitwarden on slower or older devices. We recommend changing these individually in small increments and then test all of your devices."
+    "message": "Setting your KDF iterations, memory, and parallelism too high could result in poor performance when logging into (and unlocking) QLine Vaults on slower or older devices. We recommend changing these individually in small increments and then test all of your devices."
   },
   "kdfParallelism": {
     "message": "Παραλληλισμός KDF"
@@ -3151,10 +3151,10 @@
     "message": "Turn on new device login protection"
   },
   "turnOffNewDeviceLoginProtectionModalDesc": {
-    "message": "Proceed below to turn off the verification emails bitwarden sends when you login from a new device."
+    "message": "Proceed below to turn off the verification emails QLine Vaults sends when you login from a new device."
   },
   "turnOnNewDeviceLoginProtectionModalDesc": {
-    "message": "Proceed below to have bitwarden send you verification emails when you login from a new device."
+    "message": "Proceed below to have QLine Vaults send you verification emails when you login from a new device."
   },
   "turnOffNewDeviceLoginProtectionWarning": {
     "message": "With new device login protection turned off, anyone with your master password can access your account from any device. To protect your account without verification emails, set up two-step login."
@@ -3598,7 +3598,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -3731,7 +3731,7 @@
     "message": "Κανόνες τομέα"
   },
   "domainRulesDesc": {
-    "message": "Αν έχετε την ίδια σύνδεση σε πολλούς διαφορετικούς τομείς ιστοσελίδων, μπορείτε να την επισημάνετε \"Ταυτόσημη\". Οι \"Παγκόσμιοι\" τομείς θα δημιουργηθούν για εσάς από το Bitwarden."
+    "message": "Αν έχετε την ίδια σύνδεση σε πολλούς διαφορετικούς τομείς ιστοσελίδων, μπορείτε να την επισημάνετε \"Ταυτόσημη\". Οι \"Παγκόσμιοι\" τομείς θα δημιουργηθούν για εσάς από το QLine Vaults."
   },
   "globalEqDomains": {
     "message": "Παγκόσμιοι Tαυτόσημοι Tομείς"
@@ -3782,7 +3782,7 @@
     "message": "Ενεργοποιήστε τη σύνδεση δύο βημάτων για τον οργανισμό σας."
   },
   "twoStepLoginEnterpriseDescStart": {
-    "message": "Enforce Bitwarden Two-step Login options for members by using the ",
+    "message": "Enforce QLine Vaults Two-step Login options for members by using the ",
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Enforce Bitwarden Two-step Login options for members by using the Two-step Login Policy.'"
   },
   "twoStepLoginPolicy": {
@@ -3795,7 +3795,7 @@
     "message": "Εάν έχετε ρυθμίσει το SSO ή σκοπεύετε να το κάνετε, η σύνδεση δύο βημάτων ενδέχεται να έχει ήδη επιβληθεί μέσω του παρόχου ταυτότητάς σας."
   },
   "twoStepLoginRecoveryWarning": {
-    "message": "Η ενεργοποίηση σύνδεσης δύο βημάτων μπορεί να κλειδώσει οριστικά το λογαριασμό σας από το Bitwarden. Ένας κωδικός ανάκτησης σάς επιτρέπει να έχετε πρόσβαση στον λογαριασμό σας σε περίπτωση που δεν μπορείτε πλέον να χρησιμοποιήσετε τη σύνδεση δύο βημάτων (π. χ. χάνετε τη συσκευή σας). Η υποστήριξη πελατών του Bitwarden δεν θα είναι σε θέση να σας βοηθήσει αν χάσετε την πρόσβαση στο λογαριασμό σας. Συνιστούμε να γράψετε ή να εκτυπώσετε τον κωδικό ανάκτησης και να τον φυλάξετε σε ασφαλές μέρος."
+    "message": "Η ενεργοποίηση σύνδεσης δύο βημάτων μπορεί να κλειδώσει οριστικά το λογαριασμό σας από το QLine Vaults. Ένας κωδικός ανάκτησης σάς επιτρέπει να έχετε πρόσβαση στον λογαριασμό σας σε περίπτωση που δεν μπορείτε πλέον να χρησιμοποιήσετε τη σύνδεση δύο βημάτων (π. χ. χάνετε τη συσκευή σας). Η υποστήριξη πελατών του QLine Vaults δεν θα είναι σε θέση να σας βοηθήσει αν χάσετε την πρόσβαση στο λογαριασμό σας. Συνιστούμε να γράψετε ή να εκτυπώσετε τον κωδικό ανάκτησης και να τον φυλάξετε σε ασφαλές μέρος."
   },
   "restrictedItemTypePolicy": {
     "message": "Remove card item type"
@@ -3814,7 +3814,7 @@
     "message": "A policy set by 1 or more organizations prevents you from importing cards to your vaults."
   },
   "yourSingleUseRecoveryCode": {
-    "message": "Your single-use recovery code can be used to turn off two-step login in the event that you lose access to your two-step login provider. Bitwarden recommends you write down the recovery code and keep it in a safe place."
+    "message": "Your single-use recovery code can be used to turn off two-step login in the event that you lose access to your two-step login provider. QLine Vaults recommends you write down the recovery code and keep it in a safe place."
   },
   "viewRecoveryCode": {
     "message": "Προβολή κωδικού ανάκτησης"
@@ -3912,7 +3912,7 @@
     }
   },
   "continueToExternalUrlDesc": {
-    "message": "You are leaving Bitwarden and launching an external website in a new window."
+    "message": "You are leaving QLine Vaults and launching an external website in a new window."
   },
   "twoStepContinueToBitwardenUrlTitle": {
     "message": "Συνέχεια στο bitwarden.com;"
@@ -3960,7 +3960,7 @@
     "message": "Αποθηκεύστε τη φόρμα."
   },
   "twoFactorYubikeyWarning": {
-    "message": "Λόγω περιορισμών της πλατφόρμας, το YubiKey δεν μπορεί να χρησιμοποιηθεί σε όλες τις εφαρμογές του Bitwarden. Θα πρέπει να ενεργοποιήσετε έναν άλλο πάροχο σύνδεσης δύο βημάτων, ώστε να έχετε πρόσβαση στον λογαριασμό σας όταν δεν θα μπορείτε να χρησιμοποιήσετε το YubiKey. Υποστηριζόμενες πλατφόρμες:"
+    "message": "Λόγω περιορισμών της πλατφόρμας, το YubiKey δεν μπορεί να χρησιμοποιηθεί σε όλες τις εφαρμογές του QLine Vaults. Θα πρέπει να ενεργοποιήσετε έναν άλλο πάροχο σύνδεσης δύο βημάτων, ώστε να έχετε πρόσβαση στον λογαριασμό σας όταν δεν θα μπορείτε να χρησιμοποιήσετε το YubiKey. Υποστηριζόμενες πλατφόρμες:"
   },
   "twoFactorYubikeySupportUsb": {
     "message": "Web vault, εφαρμογή υπολογιστή, CLI και όλες τις επεκτάσεις του προγράμματος περιήγησης σε μια συσκευή με θύρα USB που μπορεί να δεχτεί YubiKey."
@@ -4011,7 +4011,7 @@
     "message": "Απενεργοποίηση όλων των κλειδιών"
   },
   "twoFactorDuoDesc": {
-    "message": "Καταχωρίστε τις πληροφορίες εφαρμογής Bitwarden από τον πίνακα διαχειριστή Duo."
+    "message": "Καταχωρίστε τις πληροφορίες εφαρμογής QLine Vaults από τον πίνακα διαχειριστή Duo."
   },
   "twoFactorDuoClientId": {
     "message": "Αναγνωριστικό πελάτη"
@@ -4062,7 +4062,7 @@
     "message": "Αποθηκεύστε τη φόρμα."
   },
   "twoFactorU2fWarning": {
-    "message": "Λόγω περιορισμών της πλατφόρμας, το YubiKey δεν μπορεί να χρησιμοποιηθεί σε όλες τις εφαρμογές του Bitwarden. Θα πρέπει να ενεργοποιήσετε έναν άλλο πάροχο σύνδεσης δύο βημάτων, ώστε να έχετε πρόσβαση στον λογαριασμό σας όταν δεν μπορείτε να χρησιμοποιήσετε το YubiKey. Υποστηριζόμενες πλατφόρμες:"
+    "message": "Λόγω περιορισμών της πλατφόρμας, το YubiKey δεν μπορεί να χρησιμοποιηθεί σε όλες τις εφαρμογές του QLine Vaults. Θα πρέπει να ενεργοποιήσετε έναν άλλο πάροχο σύνδεσης δύο βημάτων, ώστε να έχετε πρόσβαση στον λογαριασμό σας όταν δεν μπορείτε να χρησιμοποιήσετε το YubiKey. Υποστηριζόμενες πλατφόρμες:"
   },
   "twoFactorU2fSupportWeb": {
     "message": "Web vault και επεκτάσεις προγραμμάτων περιήγησης σε επιτραπέζιο/φορητό υπολογιστή με ενεργοποιημένη τη δυνατότητα U2F (Chrome, Opera, Vivaldi ή Firefox με ενεργοποιημένο το FIDO U2F)."
@@ -4077,7 +4077,7 @@
     "message": "Παρουσιάστηκε πρόβλημα κατά την ανάγνωση του κλειδιού ασφαλείας. Προσπάθησε ξανά."
   },
   "twoFactorRecoveryYourCode": {
-    "message": "Ο Bitwarden κωδικός ανάκτησης, εισόδου δύο βημάτων"
+    "message": "Ο QLine Vaults κωδικός ανάκτησης, εισόδου δύο βημάτων"
   },
   "twoFactorRecoveryNoCode": {
     "message": "Δεν έχετε ενεργοποιήσει κάποιον πάροχο σύνδεσης δύο παραγόντων ακόμα. Αφού ενεργοποιήσετε έναν πάροχο σύνδεσης, μπορείτε να ελέγξετε εδώ, για τον κωδικό ανάκτησης."
@@ -4167,7 +4167,7 @@
     "message": "and "
   },
   "passkeyLoginReportHowToUse": {
-    "message": "how to use them in Bitwarden."
+    "message": "how to use them in QLine Vaults."
   },
   "passkeyLoginFound": {
     "message": "Logins that support passkeys"
@@ -4240,7 +4240,7 @@
     "message": "Αδύναμοι κωδικοί πρόσβασης"
   },
   "weakPasswordsReportDesc": {
-    "message": "Οι αδύναμοι κωδικοί μπορούν εύκολα να βρεθούν από τους χάκερ με τα αυτοματοποιημένα εργαλεία που χρησιμοποιούν για να σπάσουν τους κωδικούς. Η γεννήτρια κωδικού του Bitwarden μπορεί να σας βοηθήσει να δημιουργήσετε ισχυρούς κωδικούς."
+    "message": "Οι αδύναμοι κωδικοί μπορούν εύκολα να βρεθούν από τους χάκερ με τα αυτοματοποιημένα εργαλεία που χρησιμοποιούν για να σπάσουν τους κωδικούς. Η γεννήτρια κωδικού του QLine Vaults μπορεί να σας βοηθήσει να δημιουργήσετε ισχυρούς κωδικούς."
   },
   "weakPasswordsFound": {
     "message": "Βρέθηκαν αδύναμοι κωδικοί πρόσβασης"
@@ -4427,7 +4427,7 @@
     }
   },
   "bitwardenFamiliesPlan": {
-    "message": "πρόγραμμα «Bitwarden Families»."
+    "message": "πρόγραμμα «QLine Vaults Families»."
   },
   "addons": {
     "message": "Πρόσθετα"
@@ -4630,7 +4630,7 @@
     }
   },
   "churnOfferDiscountBody": {
-    "message": "As a thank-you for being a long-time Bitwarden customer, we'd like to offer you a $DISCOUNT$ discount on your next $DURATION$ of service.",
+    "message": "As a thank-you for being a long-time QLine Vaults customer, we'd like to offer you a $DISCOUNT$ discount on your next $DURATION$ of service.",
     "description": "Body copy on the churn-mitigation offer card. DISCOUNT = discount amount; DURATION = service duration (e.g. 'year' or '6 months')",
     "placeholders": {
       "discount": {
@@ -4692,7 +4692,7 @@
     }
   },
   "churnOfferDiscountBodyRecurringAmount": {
-    "message": "As a thank-you for being a long-time Bitwarden customer, we'd like to offer you $AMOUNT$ off each $INTERVAL$ for the next $DURATION$.",
+    "message": "As a thank-you for being a long-time QLine Vaults customer, we'd like to offer you $AMOUNT$ off each $INTERVAL$ for the next $DURATION$.",
     "description": "Body copy on the churn-mitigation offer card for a fixed-amount discount that repeats each billing period. AMOUNT = discount amount (e.g. '$15.00'); INTERVAL = billing interval unit (e.g. 'month'); DURATION = discount duration (e.g. 'year' or '6 months')",
     "placeholders": {
       "amount": {
@@ -5141,7 +5141,7 @@
     }
   },
   "trialThankYou": {
-    "message": "Ευχαριστούμε για την εγγραφή σας στο Bitwarden για $PLAN$!",
+    "message": "Ευχαριστούμε για την εγγραφή σας στο QLine Vaults για $PLAN$!",
     "placeholders": {
       "plan": {
         "content": "$1",
@@ -5150,7 +5150,7 @@
     }
   },
   "trialSecretsManagerThankYou": {
-    "message": "Ευχαριστούμε για την εγγραφή σας στο Bitwarden Secrets Manager για το πρόγραμμα «$PLAN$»!",
+    "message": "Ευχαριστούμε για την εγγραφή σας στο QLine Vaults Secrets Manager για το πρόγραμμα «$PLAN$»!",
     "placeholders": {
       "plan": {
         "content": "$1",
@@ -5289,7 +5289,7 @@
     "message": "Εξωτερικό αναγνωριστικό SSO"
   },
   "ssoExternalIdDesc": {
-    "message": "SSO External ID is an unencrypted reference between Bitwarden and your configured SSO provider."
+    "message": "SSO External ID is an unencrypted reference between QLine Vaults and your configured SSO provider."
   },
   "nestCollectionUnder": {
     "message": "Ένθεση συλλογής σε"
@@ -5350,13 +5350,13 @@
     "message": "Πρόσκληση"
   },
   "inviteUserDesc": {
-    "message": "Προσκαλέστε έναν νέο χρήστη στον οργανισμό σας εισάγοντας παρακάτω τη διεύθυνση email του λογαριασμού Bitwarden. Αν δεν έχουν ήδη λογαριασμό Bitwarden, θα τους ζητηθεί να δημιουργήσουν ένα νέο λογαριασμό."
+    "message": "Προσκαλέστε έναν νέο χρήστη στον οργανισμό σας εισάγοντας παρακάτω τη διεύθυνση email του λογαριασμού QLine Vaults. Αν δεν έχουν ήδη λογαριασμό QLine Vaults, θα τους ζητηθεί να δημιουργήσουν ένα νέο λογαριασμό."
   },
   "inviteUserDescription": {
     "message": "Invite new users to your organization by entering their email address below."
   },
   "inviteUserDescSharedFolders": {
-    "message": "Invite a new user to your organization vault by entering their Bitwarden account email address below. If they do not have a Bitwarden account already, they will be prompted to create a new account.",
+    "message": "Invite a new user to your organization vault by entering their QLine Vaults account email address below. If they do not have a QLine Vaults account already, they will be prompted to create a new account.",
     "description": "VFO1 (shared folder terminology) variant of inviteUserDesc, shown when the vfo1-foundation flag is enabled."
   },
   "inviteMultipleEmailDesc": {
@@ -5499,10 +5499,10 @@
     "message": "CLI"
   },
   "bitWebVault": {
-    "message": "Κρύπτη ιστού Bitwarden"
+    "message": "Κρύπτη ιστού QLine Vaults"
   },
   "bitSecretsManager": {
-    "message": "Bitwarden Secrets Manager"
+    "message": "QLine Vaults Secrets Manager"
   },
   "loggedIn": {
     "message": "Συνδεδεμένος"
@@ -6821,7 +6821,7 @@
     "message": "Return to registration"
   },
   "joinOrganizationDesc": {
-    "message": "Έχετε προσκληθεί να συμμετάσχετε στον παραπάνω οργανισμό. Για να αποδεχτείτε την πρόσκληση, πρέπει να συνδεθείτε ή να δημιουργήσετε ένα νέο λογαριασμό Bitwarden."
+    "message": "Έχετε προσκληθεί να συμμετάσχετε στον παραπάνω οργανισμό. Για να αποδεχτείτε την πρόσκληση, πρέπει να συνδεθείτε ή να δημιουργήσετε ένα νέο λογαριασμό QLine Vaults."
   },
   "finishJoiningThisOrganizationBySettingAMasterPassword": {
     "message": "Finish joining this organization by setting a master password."
@@ -6962,10 +6962,10 @@
     "message": "Εάν ο λογαριασμός σας υπάρχει ήδη, θα δείτε να σας έχουμε στείλει ένα email με περεταίρω οδηγίες."
   },
   "deleteRecoverConfirmDesc": {
-    "message": "Ζητήσατε να διαγράψετε το λογαριασμό Bitwarden. Κάντε κλικ στο παρακάτω κουμπί για επιβεβαίωση."
+    "message": "Ζητήσατε να διαγράψετε το λογαριασμό QLine Vaults. Κάντε κλικ στο παρακάτω κουμπί για επιβεβαίωση."
   },
   "deleteRecoverOrgConfirmDesc": {
-    "message": "Έχετε ζητήσει να διαγράψετε τον οργανισμό Bitwarden σας."
+    "message": "Έχετε ζητήσει να διαγράψετε τον οργανισμό QLine Vaults σας."
   },
   "myOrganization": {
     "message": "Ο οργανισμός μου"
@@ -7299,7 +7299,7 @@
     }
   },
   "updateEncryptionKeyWarning": {
-    "message": "Μετά την ενημέρωση του κλειδιού κρυπτογράφησης, πρέπει να αποσυνδεθείτε και να επιστρέψετε σε όλες τις εφαρμογές Bitwarden που χρησιμοποιείτε αυτήν τη στιγμή (όπως η εφαρμογή για κινητά ή οι επεκτάσεις του προγράμματος περιήγησης). Η αποτυχία αποσύνδεσης και επαναφοράς (στην οποία γίνεται λήψη του νέου κλειδιού κρυπτογράφησης) ενδέχεται να προκαλέσει καταστροφή δεδομένων. Θα προσπαθήσουμε να αποσυνδεθείτε αυτόματα, ωστόσο αυτό μπορεί να καθυστερήσει."
+    "message": "Μετά την ενημέρωση του κλειδιού κρυπτογράφησης, πρέπει να αποσυνδεθείτε και να επιστρέψετε σε όλες τις εφαρμογές QLine Vaults που χρησιμοποιείτε αυτήν τη στιγμή (όπως η εφαρμογή για κινητά ή οι επεκτάσεις του προγράμματος περιήγησης). Η αποτυχία αποσύνδεσης και επαναφοράς (στην οποία γίνεται λήψη του νέου κλειδιού κρυπτογράφησης) ενδέχεται να προκαλέσει καταστροφή δεδομένων. Θα προσπαθήσουμε να αποσυνδεθείτε αυτόματα, ωστόσο αυτό μπορεί να καθυστερήσει."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Any account restricted exports you have saved will become invalid."
@@ -7335,7 +7335,7 @@
     "message": "Δεν έχετε επιλέξει τίποτα."
   },
   "receiveMarketingEmails": {
-    "message": "Receive updates from Bitwarden in your inbox."
+    "message": "Receive updates from QLine Vaults in your inbox."
   },
   "subscribe": {
     "message": "Εγγραφή"
@@ -7564,7 +7564,7 @@
     "message": "Αδύναμος Κύριος Κωδικός"
   },
   "weakMasterPasswordDesc": {
-    "message": "Ο κύριος κωδικός που έχετε επιλέξει είναι αδύναμος. Θα πρέπει να χρησιμοποιήσετε έναν ισχυρό κύριο κωδικό (ή μια φράση) για την κατάλληλη προστασία του λογαριασμού Bitwarden. Είστε βέβαιοι ότι θέλετε να χρησιμοποιήσετε αυτόν τον κύριο κωδικό;"
+    "message": "Ο κύριος κωδικός που έχετε επιλέξει είναι αδύναμος. Θα πρέπει να χρησιμοποιήσετε έναν ισχυρό κύριο κωδικό (ή μια φράση) για την κατάλληλη προστασία του λογαριασμού QLine Vaults. Είστε βέβαιοι ότι θέλετε να χρησιμοποιήσετε αυτόν τον κύριο κωδικό;"
   },
   "rotateAccountEncKey": {
     "message": "Επίσης, περιστροφή κλειδιού κρυπτογράφησης του λογαριασμού μου"
@@ -7629,7 +7629,7 @@
     "message": "Kλειδί API"
   },
   "apiKeyDesc": {
-    "message": "Το κλειδί API μπορεί να χρησιμοποιηθεί για τον έλεγχο ταυτότητας στο δημόσιο API Bitwarden."
+    "message": "Το κλειδί API μπορεί να χρησιμοποιηθεί για τον έλεγχο ταυτότητας στο δημόσιο API QLine Vaults."
   },
   "apiKeyRotateDesc": {
     "message": "Η περιστροφή του κλειδιού API θα ακυρώσει το προηγούμενο κλειδί. Μπορείτε να περιστρέψετε το κλειδί API αν πιστεύετε ότι το τρέχον κλειδί δεν είναι πλέον ασφαλές στη χρήση."
@@ -7638,7 +7638,7 @@
     "message": "Το κλειδί API έχει πλήρη πρόσβαση στον οργανισμό. Πρέπει να το κρατήσετε μυστικό."
   },
   "userApiKeyDesc": {
-    "message": "Το κλειδί API σας μπορεί να χρησιμοποιηθεί για έλεγχο ταυτότητας στο Bitwarden CLI."
+    "message": "Το κλειδί API σας μπορεί να χρησιμοποιηθεί για έλεγχο ταυτότητας στο QLine Vaults CLI."
   },
   "userApiKeyWarning": {
     "message": "Το κλειδί API σας είναι ένας εναλλακτικός μηχανισμός ελέγχου ταυτότητας. Θα πρέπει να κρατηθεί μυστικό."
@@ -7990,7 +7990,7 @@
     "description": "VFO1 terminology variant of 'singleOrgPolicyDescV2'"
   },
   "singleOrgBlockCreateMessage": {
-    "message": "Ο τρέχων οργανισμός σας έχει μια πολιτική που δεν σας επιτρέπει να συμμετάσχετε σε περισσότερους από έναν οργανισμούς. Επικοινωνήστε με τους διαχειριστές του οργανισμού σας ή εγγραφείτε από διαφορετικό λογαριασμό Bitwarden."
+    "message": "Ο τρέχων οργανισμός σας έχει μια πολιτική που δεν σας επιτρέπει να συμμετάσχετε σε περισσότερους από έναν οργανισμούς. Επικοινωνήστε με τους διαχειριστές του οργανισμού σας ή εγγραφείτε από διαφορετικό λογαριασμό QLine Vaults."
   },
   "singleOrgPolicyMemberWarning": {
     "message": "Non-compliant members will be placed in revoked status until they leave all other organizations. Administrators are exempt and can restore members once compliance is met."
@@ -8245,7 +8245,7 @@
     "message": "Experiencing an issue? Download then share the diagnostic report with"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden support",
+    "message": "QLine Vaults support",
     "description": "Link text that follows the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -8302,7 +8302,7 @@
     "message": "Επεξεργασία επαφής έκτακτης ανάγκης"
   },
   "inviteEmergencyContactDesc": {
-    "message": "Προσκαλέστε μια νέα επαφή έκτακτης ανάγκης, εισάγοντας την διεύθυνση email τους, του λογαριασμού Bitwarden, παρακάτω. Εάν δεν έχουν ήδη λογαριασμό Bitwarden, θα τους ζητηθεί να δημιουργήσουν ένα νέο λογαριασμό."
+    "message": "Προσκαλέστε μια νέα επαφή έκτακτης ανάγκης, εισάγοντας την διεύθυνση email τους, του λογαριασμού QLine Vaults, παρακάτω. Εάν δεν έχουν ήδη λογαριασμό QLine Vaults, θα τους ζητηθεί να δημιουργήσουν ένα νέο λογαριασμό."
   },
   "emergencyAccessRecoveryInitiated": {
     "message": "Έναρξη Πρόσβασης Έκτακτης Ανάγκης"
@@ -8341,7 +8341,7 @@
     "message": "Προσκεκλημένος χρήστης."
   },
   "acceptEmergencyAccess": {
-    "message": "Έχετε προσκληθεί να γίνετε μια επαφή έκτακτης ανάγκης για τον χρήστη που αναφέρεται παραπάνω. Για να αποδεχτείτε την πρόσκληση, πρέπει να συνδεθείτε ή να δημιουργήσετε ένα νέο λογαριασμό Bitwarden."
+    "message": "Έχετε προσκληθεί να γίνετε μια επαφή έκτακτης ανάγκης για τον χρήστη που αναφέρεται παραπάνω. Για να αποδεχτείτε την πρόσκληση, πρέπει να συνδεθείτε ή να δημιουργήσετε ένα νέο λογαριασμό QLine Vaults."
   },
   "emergencyInviteAcceptFailed": {
     "message": "Αδυναμία αποδοχής πρόσκλησης. Ζητήστε από τον χρήστη να στείλει μια νέα πρόσκληση."
@@ -8528,7 +8528,7 @@
     "message": "How to turn on automatic user confirmation"
   },
   "autoConfirmExtension1": {
-    "message": "Open your Bitwarden extension"
+    "message": "Open your QLine Vaults extension"
   },
   "autoConfirmExtension2": {
     "message": "Επιλογή",
@@ -8539,7 +8539,7 @@
     "description": "This is a fragment of a larger sencence. The whole sentence will read: 'Select Turn on'"
   },
   "autoConfirmExtensionOpened": {
-    "message": "Successfully opened the Bitwarden browser extension. You can now activate the automatic user confirmation setting."
+    "message": "Successfully opened the QLine Vaults browser extension. You can now activate the automatic user confirmation setting."
   },
   "autoConfirmPolicyEditDescription": {
     "message": "New users invited to the organization will be automatically confirmed when an admin’s device is unlocked. Before turning on this policy, please review and agree to the following: ",
@@ -8670,7 +8670,7 @@
     "message": "Αφαίρεση Send"
   },
   "disableSendPolicyDesc": {
-    "message": "Μην επιτρέπετε στους χρήστες να δημιουργήσουν ή να επεξεργαστούν μια Αποστολή Bitwarden. Η διαγραφή μιας υπάρχουσας Αποστολής εξακολουθεί να επιτρέπεται.",
+    "message": "Μην επιτρέπετε στους χρήστες να δημιουργήσουν ή να επεξεργαστούν μια Αποστολή QLine Vaults. Η διαγραφή μιας υπάρχουσας Αποστολής εξακολουθεί να επιτρέπεται.",
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "disableSendExemption": {
@@ -8753,7 +8753,7 @@
     "description": "VFO1 terminology variant of 'uriMatchDetectionPolicyDesc', shown in the policies list"
   },
   "uriMatchDetectionPolicyDescV2": {
-    "message": "Set a default for which parts of a website address (URI) need to match for Bitwarden to suggest a login for autofill. This policy won't be enforced for owners and admins."
+    "message": "Set a default for which parts of a website address (URI) need to match for QLine Vaults to suggest a login for autofill. This policy won't be enforced for owners and admins."
   },
   "uriMatchDetectionOptionsLabel": {
     "message": "Default URI match detection"
@@ -8773,7 +8773,7 @@
     "message": "Custom autofill rule set"
   },
   "fillAssistRulesUrlHint": {
-    "message": "By default, fill assist uses Bitwarden's curated rule set. Enter a URL here to override it with your own."
+    "message": "By default, fill assist uses QLine Vaults's curated rule set. Enter a URL here to override it with your own."
   },
   "invalidFillAssistRulesUrl": {
     "message": "Enter a valid URL",
@@ -8886,7 +8886,7 @@
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "sendAccessTaglineProductDesc": {
-    "message": "Το Bitwarden Send μεταδίδει ευαίσθητες, προσωρινές πληροφορίες σε άλλους, εύκολα και με ασφάλεια.",
+    "message": "Το QLine Vaults Send μεταδίδει ευαίσθητες, προσωρινές πληροφορίες σε άλλους, εύκολα και με ασφάλεια.",
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "sendAccessTaglineLearnMore": {
@@ -8913,7 +8913,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Learn more, see how it works, **or** try it now.'"
   },
   "developmentDevOpsAndITTeamsChooseBWSecret": {
-    "message": "Οι ομάδες ανάπτυξης, DevOps και IT επιλέγουν το Bitwarden Secrets Manager για να διαχειρίζονται και να αναπτύσσουν με ασφάλεια την υποδομή τους και τα μυστικά των μηχανημάτων τους."
+    "message": "Οι ομάδες ανάπτυξης, DevOps και IT επιλέγουν το QLine Vaults Secrets Manager για να διαχειρίζονται και να αναπτύσσουν με ασφάλεια την υποδομή τους και τα μυστικά των μηχανημάτων τους."
   },
   "centralizeSecretsManagement": {
     "message": "Centralize secrets management."
@@ -8949,10 +8949,10 @@
     "message": "Προσθήκη σημείωσης"
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden Secrets Manager"
+    "message": "QLine Vaults Secrets Manager"
   },
   "moreProductsFromBitwarden": {
-    "message": "Περισσότερα προϊόντα από το Bitwarden"
+    "message": "Περισσότερα προϊόντα από το QLine Vaults"
   },
   "requestAccessToSecretsManager": {
     "message": "Αίτημα πρόσβασης στο Secrets Manager"
@@ -8964,7 +8964,7 @@
     "message": "Απεστάλη στους διαχειριστές, μέσω email, το αίτημα πρόσβασης στο Secrets Manager."
   },
   "requestAccessSMDefaultEmailContent": {
-    "message": "Γεια σας,\n\nΥποβάλλω ένα αίτημα για μια συνδρομή στο Bitwarden Secrets Manager για την ομάδα μας. Η υποστήριξή σας θα μας βοηθούσε πολύ!\n\nΤο Bitwarden Secrets Manager είναι μια λύση διαχείρισης μυστικών με κρυπτογράφηση από άκρο σε άκρο, η οποία προσφέρει ασφαλή αποθήκευση, κοινοποίηση και διανομή διαπιστευτηρίων μηχανημάτων, όπως κλειδιά API, κωδικούς πρόσβασης βάσεων δεδομένων και πιστοποιητικά ταυτοποίησης.\n\nΤο Secrets Manager θα συμβάλει:\n\n- Στη βελτίωση της ασφάλειας\n- Στη βελτιστοποίηση των εργασιών\n- Στην αποτροπή διαρροών πολύτιμων μυστικών\n\nΓια να αιτηθείτε μια δωρεάν δοκιμαστική περίοδο για την ομάδα μας, παρακαλώ επικοινωνήστε με το Bitwarden.\n\nΣας ευχαριστώ για τη βοήθειά σας!"
+    "message": "Γεια σας,\n\nΥποβάλλω ένα αίτημα για μια συνδρομή στο QLine Vaults Secrets Manager για την ομάδα μας. Η υποστήριξή σας θα μας βοηθούσε πολύ!\n\nΤο QLine Vaults Secrets Manager είναι μια λύση διαχείρισης μυστικών με κρυπτογράφηση από άκρο σε άκρο, η οποία προσφέρει ασφαλή αποθήκευση, κοινοποίηση και διανομή διαπιστευτηρίων μηχανημάτων, όπως κλειδιά API, κωδικούς πρόσβασης βάσεων δεδομένων και πιστοποιητικά ταυτοποίησης.\n\nΤο Secrets Manager θα συμβάλει:\n\n- Στη βελτίωση της ασφάλειας\n- Στη βελτιστοποίηση των εργασιών\n- Στην αποτροπή διαρροών πολύτιμων μυστικών\n\nΓια να αιτηθείτε μια δωρεάν δοκιμαστική περίοδο για την ομάδα μας, παρακαλώ επικοινωνήστε με το QLine Vaults.\n\nΣας ευχαριστώ για τη βοήθειά σας!"
   },
   "giveMembersAccess": {
     "message": "Give members access:"
@@ -8998,7 +8998,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Learn more about Bitwarden Send or sign up to **try it today.**'"
   },
   "sendAccessCreatorIdentifier": {
-    "message": "Το μέλος Bitwarden $USER_IDENTIFIER$ μοιράστηκε τα ακόλουθα μαζί σας",
+    "message": "Το μέλος QLine Vaults $USER_IDENTIFIER$ μοιράστηκε τα ακόλουθα μαζί σας",
     "placeholders": {
       "user_identifier": {
         "content": "$1",
@@ -9023,7 +9023,7 @@
     "description": "Toast message shown when a user clicks the resend code link on the Send access page. 'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "viewSendHiddenEmailWarning": {
-    "message": "Ο χρήστης Bitwarden που δημιούργησε αυτό το send έχει επιλέξει να κρύψει τη διεύθυνση email του. Πρέπει να διασφαλίσετε ότι εμπιστεύεστε την πηγή αυτού του συνδέσμου πριν χρησιμοποιήσετε ή κατεβάσετε το περιεχόμενό του.",
+    "message": "Ο χρήστης QLine Vaults που δημιούργησε αυτό το send έχει επιλέξει να κρύψει τη διεύθυνση email του. Πρέπει να διασφαλίσετε ότι εμπιστεύεστε την πηγή αυτού του συνδέσμου πριν χρησιμοποιήσετε ή κατεβάσετε το περιεχόμενό του.",
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "expirationDateIsInvalid": {
@@ -9396,7 +9396,7 @@
     "message": "Σφάλμα αποκρυπτογράφησης"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden could not decrypt the vault item(s) listed below."
+    "message": "QLine Vaults could not decrypt the vault item(s) listed below."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Contact customer success",
@@ -9413,7 +9413,7 @@
     "message": "Ρύθμιση παρόχου"
   },
   "setupProviderLoginDesc": {
-    "message": "Έχετε προσκληθεί να ρυθμίσετε έναν νέο πάροχο. Για να συνεχίσετε, πρέπει να συνδεθείτε ή να δημιουργήσετε ένα νέο λογαριασμό Bitwarden."
+    "message": "Έχετε προσκληθεί να ρυθμίσετε έναν νέο πάροχο. Για να συνεχίσετε, πρέπει να συνδεθείτε ή να δημιουργήσετε ένα νέο λογαριασμό QLine Vaults."
   },
   "setupProviderDesc": {
     "message": "Παρακαλούμε εισάγετε τα παρακάτω στοιχεία για να ολοκληρώσετε την εγκατάσταση του παρόχου. Επικοινωνήστε με την Υποστήριξη πελατών αν έχετε οποιεσδήποτε απορίες."
@@ -9444,13 +9444,13 @@
     "message": "Οι χρήστες υπηρεσιών μπορούν να έχουν πρόσβαση και να διαχειρίζονται όλους τους οργανισμούς πελατών."
   },
   "providerInviteUserDesc": {
-    "message": "Προσκαλέστε έναν νέο χρήστη στον πάροχο σας εισάγοντας το email λογαριασμού Bitwarden παρακάτω. Εάν δεν έχουν ήδη λογαριασμό Bitwarden, θα τους ζητηθεί να δημιουργήσουν ένα νέο λογαριασμό."
+    "message": "Προσκαλέστε έναν νέο χρήστη στον πάροχο σας εισάγοντας το email λογαριασμού QLine Vaults παρακάτω. Εάν δεν έχουν ήδη λογαριασμό QLine Vaults, θα τους ζητηθεί να δημιουργήσουν ένα νέο λογαριασμό."
   },
   "joinProvider": {
     "message": "Συμμετοχή Στον Πάροχο"
   },
   "joinProviderDesc": {
-    "message": "Έχετε προσκληθεί να συμμετάσχετε στον παραπάνω πάροχο. Για να αποδεχτείτε την πρόσκληση, πρέπει να συνδεθείτε ή να δημιουργήσετε ένα νέο λογαριασμό Bitwarden."
+    "message": "Έχετε προσκληθεί να συμμετάσχετε στον παραπάνω πάροχο. Για να αποδεχτείτε την πρόσκληση, πρέπει να συνδεθείτε ή να δημιουργήσετε ένα νέο λογαριασμό QLine Vaults."
   },
   "providerInviteAcceptFailed": {
     "message": "Αδυναμία αποδοχής πρόσκλησης. Ζητήστε από τον διαχειριστή του παρόχου να στείλει μια νέα πρόσκληση."
@@ -9603,7 +9603,7 @@
     "message": "Session timeout action"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Managed by the Bitwarden browser extension app. Open the browser app to edit."
+    "message": "Managed by the QLine Vaults browser extension app. Open the browser app to edit."
   },
   "immediately": {
     "message": "Αμέσως"
@@ -9862,7 +9862,7 @@
     "message": "Οι ρυθμίσεις για απλή σύνδεση αποθηκεύτηκαν."
   },
   "sponsoredFamilies": {
-    "message": "Δωρεάν Bitwarden Families"
+    "message": "Δωρεάν QLine Vaults Families"
   },
   "sponsoredBitwardenFamilies": {
     "message": "Χορηγούμενες οικογένειες"
@@ -9883,28 +9883,28 @@
     "message": "No non-members have redeemed the Sponsored Family Plan."
   },
   "sponsorshipFreeBitwardenFamilies": {
-    "message": "Members of your organization are eligible for Free Bitwarden Families. You can sponsor Free Bitwarden Families for employees who are not a member of your Bitwarden organization. Sponsoring a non-member requires an available seat within your organization."
+    "message": "Members of your organization are eligible for Free QLine Vaults Families. You can sponsor Free QLine Vaults Families for employees who are not a member of your QLine Vaults organization. Sponsoring a non-member requires an available seat within your organization."
   },
   "sponsorshipFreeBitwardenFamiliesV2": {
-    "message": "Your members are eligible to redeem a Sponsored Families Plan. You can sponsor a Families plan for employees who are not members of your Bitwarden organization, but this will require available seats within your organization."
+    "message": "Your members are eligible to redeem a Sponsored Families Plan. You can sponsor a Families plan for employees who are not members of your QLine Vaults organization, but this will require available seats within your organization."
   },
   "sponsoredFamiliesRemoveActiveSponsorship": {
     "message": "When you remove an active sponsorship, a seat within your organization will be available after the renewal date of the sponsored organization."
   },
   "sponsoredFamiliesEligible": {
-    "message": "Εσείς και η οικογένεια σας έχετε δικαίωμα για Δωρεάν Bitwarden Families. Εξαργυρώστε με το προσωπικό σας email για να διατηρείτε τα δεδομένα σας ασφαλή ακόμα και όταν δεν εργάζεστε."
+    "message": "Εσείς και η οικογένεια σας έχετε δικαίωμα για Δωρεάν QLine Vaults Families. Εξαργυρώστε με το προσωπικό σας email για να διατηρείτε τα δεδομένα σας ασφαλή ακόμα και όταν δεν εργάζεστε."
   },
   "sponsoredFamiliesEligibleV2": {
-    "message": "You and your family are eligible for a Sponsored Families Plan at no additional cost to you. Redeem this plan with your personal email to keep your data secure and separate from your Bitwarden work account."
+    "message": "You and your family are eligible for a Sponsored Families Plan at no additional cost to you. Redeem this plan with your personal email to keep your data secure and separate from your QLine Vaults work account."
   },
   "sponsoredFamiliesEligibleCard": {
-    "message": "Εξαργυρώστε το Δωρεάν Bitwarden Families σήμερα για να διατηρήσουν τα δεδομένα σας ασφαλή ακόμα και όταν δεν είστε στη δουλειά."
+    "message": "Εξαργυρώστε το Δωρεάν QLine Vaults Families σήμερα για να διατηρήσουν τα δεδομένα σας ασφαλή ακόμα και όταν δεν είστε στη δουλειά."
   },
   "sponsoredFamiliesIncludeMessage": {
-    "message": "The Bitwarden for Families plan includes"
+    "message": "The QLine Vaults for Families plan includes"
   },
   "sponsoredFamiliesIncludeMessageV2": {
-    "message": "The Bitwarden Families plan includes"
+    "message": "The QLine Vaults Families plan includes"
   },
   "sponsoredFamiliesPremiumAccess": {
     "message": "Premium πρόσβαση για έως 6 χρήστες"
@@ -9925,7 +9925,7 @@
     "message": "Members who have redeemed family plans will display here"
   },
   "membersWithSponsoredFamilies": {
-    "message": "Members of your organization are eligible for Free Bitwarden Families. Here you can see members who have sponsored a Families organization."
+    "message": "Members of your organization are eligible for Free QLine Vaults Families. Here you can see members who have sponsored a Families organization."
   },
   "organizationHasMemberMessage": {
     "message": "A sponsorship cannot be sent to $EMAIL$ because they are a member of your organization.",
@@ -9952,7 +9952,7 @@
     "message": "Ποια Free Families προσφορά θα θέλατε να εξαργυρώσετε;"
   },
   "sponsoredFamiliesEmail": {
-    "message": "Εισάγετε το προσωπικό σας email για να εξαργυρώσετε το Bitwarden Families"
+    "message": "Εισάγετε το προσωπικό σας email για να εξαργυρώσετε το QLine Vaults Families"
   },
   "sponsoredFamiliesLeaveCopy": {
     "message": "Αν φύγετε ή απομακρυνθείτε από αυτόν τον οργανισμό, το πλάνο Families θα λήξει στο τέλος της περιόδου τιμολόγησης."
@@ -9961,7 +9961,7 @@
     "message": "Αποδοχή προσφοράς για έναν υπάρχοντα οργανισμό ή δημιουργία ενός νέου οργανισμού οικογενειών."
   },
   "setupSponsoredFamiliesLoginDesc": {
-    "message": "Έχετε προσφερθεί έναn δωρεάν οργανισμό πλάνου Bitwarden Families. Για να συνεχίσετε, πρέπει να συνδεθείτε στο λογαριασμό που έλαβε την προσφορά."
+    "message": "Έχετε προσφερθεί έναn δωρεάν οργανισμό πλάνου QLine Vaults Families. Για να συνεχίσετε, πρέπει να συνδεθείτε στο λογαριασμό που έλαβε την προσφορά."
   },
   "sponsoredFamiliesAcceptFailed": {
     "message": "Δεν είναι δυνατή η αποδοχή προσφοράς. Παρακαλώ στείλτε ξανά το email προσφοράς από τον λογαριασμό επιχείρησής σας και προσπαθήστε ξανά."
@@ -9976,10 +9976,10 @@
     }
   },
   "sponsoredFamiliesOffer": {
-    "message": "Αποδοχή Δωρεάν Bitwarden Families"
+    "message": "Αποδοχή Δωρεάν QLine Vaults Families"
   },
   "sponsoredFamiliesOfferRedeemed": {
-    "message": "H Δωρεάν προσφορά Bitwarden Families, εξαργυρώθηκε με επιτυχία"
+    "message": "H Δωρεάν προσφορά QLine Vaults Families, εξαργυρώθηκε με επιτυχία"
   },
   "redeemed": {
     "message": "Εξαργυρώθηκε"
@@ -10110,7 +10110,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Connect login with SSO to your self-hosted decryption key server. Using this option, members won’t need to use their master passwords to decrypt vault data. The require SSO authentication and single organization policies are required to set up Key Connector decryption. Contact Bitwarden Support for set up assistance.'"
   },
   "memberDecryptionKeyConnectorDescEnd": {
-    "message": "are required to set up Key Connector decryption. Contact Bitwarden Support for set up assistance.",
+    "message": "are required to set up Key Connector decryption. Contact QLine Vaults Support for set up assistance.",
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Connect login with SSO to your self-hosted decryption key server. Using this option, members won’t need to use their master passwords to decrypt vault data. The require SSO authentication and single organization policies are required to set up Key Connector decryption. Contact Bitwarden Support for set up assistance.'"
   },
   "keyConnectorPolicyRestriction": {
@@ -10258,7 +10258,7 @@
     "message": "Διακριτικό συγχρονισμού χρέωσης"
   },
   "automaticBillingSyncDesc": {
-    "message": "Automatic sync unlocks Families sponsorships and allows you to sync your license without uploading a file. After making updates in the Bitwarden cloud server, select Sync License to apply changes."
+    "message": "Automatic sync unlocks Families sponsorships and allows you to sync your license without uploading a file. After making updates in the QLine Vaults cloud server, select Sync License to apply changes."
   },
   "active": {
     "message": "Ενεργό"
@@ -10620,11 +10620,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Δημιουργήθηκε από το Bitwarden.",
+    "message": "Δημιουργήθηκε από το QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Ιστότοπος: $WEBSITE$. Δημιουργήθηκε από το Bitwarden.",
+    "message": "Ιστότοπος: $WEBSITE$. Δημιουργήθηκε από το QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -11785,7 +11785,7 @@
     "message": "Περισσότερες ρυθμίσεις"
   },
   "moreFromBitwarden": {
-    "message": "Περισσότερα από το Bitwarden"
+    "message": "Περισσότερα από το QLine Vaults"
   },
   "switchProducts": {
     "message": "Εναλλαγή προϊόντων"
@@ -12705,7 +12705,7 @@
     "message": "User set a master password during TDE offboarding."
   },
   "startYour7DayFreeTrialOfBitwardenFor": {
-    "message": "Start your 7-Day free trial of Bitwarden for $ORG$",
+    "message": "Start your 7-Day free trial of QLine Vaults for $ORG$",
     "placeholders": {
       "org": {
         "content": "$1",
@@ -12714,7 +12714,7 @@
     }
   },
   "startYour7DayFreeTrialOfBitwardenSecretsManagerFor": {
-    "message": "Ξεκινήστε τη δωρεάν δοκιμή 7 ημερών του Bitwarden Secrets Manager για το $ORG$",
+    "message": "Ξεκινήστε τη δωρεάν δοκιμή 7 ημερών του QLine Vaults Secrets Manager για το $ORG$",
     "placeholders": {
       "org": {
         "content": "$1",
@@ -13119,7 +13119,7 @@
     "message": "Get started with your vault"
   },
   "onboardingChecklistSubtitle": {
-    "message": "Complete these steps to secure your personal data and get the most out of Bitwarden"
+    "message": "Complete these steps to secure your personal data and get the most out of QLine Vaults"
   },
   "dismissThisChecklist": {
     "message": "Dismiss this checklist"
@@ -13216,7 +13216,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI match detection is how Bitwarden identifies autofill suggestions.",
+    "message": "URI match detection is how QLine Vaults identifies autofill suggestions.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -13260,13 +13260,13 @@
     "message": "Στοιχεία επιβεβαίωσης"
   },
   "smFreeTrialThankYou": {
-    "message": "Σας ευχαριστούμε για την εγγραφή σας στο Bitwarden Secrets Manager!"
+    "message": "Σας ευχαριστούμε για την εγγραφή σας στο QLine Vaults Secrets Manager!"
   },
   "smFreeTrialConfirmationEmail": {
     "message": "We've sent a confirmation email to your email at "
   },
   "sorryToSeeYouGo": {
-    "message": "Sorry to see you go! Help improve Bitwarden by sharing why you're canceling.",
+    "message": "Sorry to see you go! Help improve QLine Vaults by sharing why you're canceling.",
     "description": "A message shown to users as part of an offboarding survey asking them to provide more information on their subscription cancelation."
   },
   "selectCancellationReason": {
@@ -13828,20 +13828,20 @@
     "message": "Ενσωματώσεις"
   },
   "integrationsDesc": {
-    "message": "Συγχρονίστε αυτόματα τα μυστικά σας από το Bitwarden Secrets Manager σε μια τρίτη υπηρεσία."
+    "message": "Συγχρονίστε αυτόματα τα μυστικά σας από το QLine Vaults Secrets Manager σε μια τρίτη υπηρεσία."
   },
   "sdks": {
     "message": "SDK"
   },
   "sdksDesc": {
-    "message": "Χρησιμοποιήστε το SDK του Bitwarden Secrets Manager στις ακόλουθες γλώσσες προγραμματισμού για να αναπτύξετε τις δικές σας εφαρμογές."
+    "message": "Χρησιμοποιήστε το SDK του QLine Vaults Secrets Manager στις ακόλουθες γλώσσες προγραμματισμού για να αναπτύξετε τις δικές σας εφαρμογές."
   },
   "ssoDescStart": {
     "message": "Διαμόρφωση",
     "description": "This represents the beginning of a sentence, broken up to include links. The full sentence will be 'Configure single sign-on for Bitwarden using the implementation guide for your Identity Provider."
   },
   "ssoDescEnd": {
-    "message": "for Bitwarden using the implementation guide for your Identity Provider.",
+    "message": "for QLine Vaults using the implementation guide for your Identity Provider.",
     "description": "This represents the end of a sentence, broken up to include links. The full sentence will be 'Configure single sign-on for Bitwarden using the implementation guide for your Identity Provider."
   },
   "userProvisioning": {
@@ -13855,26 +13855,26 @@
     "description": "This represents the beginning of a sentence, broken up to include links. The full sentence will be 'Configure SCIM (System for Cross-domain Identity Management) to automatically provision users and groups to Bitwarden using the implementation guide for your Identity Provider"
   },
   "scimIntegrationDescEnd": {
-    "message": "(System for Cross-domain Identity Management) to automatically provision users and groups to Bitwarden using the implementation guide for your Identity Provider.",
+    "message": "(System for Cross-domain Identity Management) to automatically provision users and groups to QLine Vaults using the implementation guide for your Identity Provider.",
     "description": "This represents the end of a sentence, broken up to include links. The full sentence will be 'Configure SCIM (System for Cross-domain Identity Management) to automatically provision users and groups to Bitwarden using the implementation guide for your Identity Provider"
   },
   "bwdc": {
-    "message": "Bitwarden Directory Connector"
+    "message": "QLine Vaults Directory Connector"
   },
   "bwdcDesc": {
-    "message": "Configure Bitwarden Directory Connector to automatically provision users and groups using the implementation guide for your Identity Provider."
+    "message": "Configure QLine Vaults Directory Connector to automatically provision users and groups using the implementation guide for your Identity Provider."
   },
   "eventManagement": {
     "message": "Διαχείριση συμβάντων"
   },
   "eventManagementDesc": {
-    "message": "Integrate Bitwarden event logs with your SIEM (system information and event management) system by using the implementation guide for your platform."
+    "message": "Integrate QLine Vaults event logs with your SIEM (system information and event management) system by using the implementation guide for your platform."
   },
   "deviceManagement": {
     "message": "Διαχείριση συσκευών"
   },
   "deviceManagementDesc": {
-    "message": "Configure device management for Bitwarden using the implementation guide for your platform."
+    "message": "Configure device management for QLine Vaults using the implementation guide for your platform."
   },
   "crowdstrikeEventIntegrationDesc": {
     "message": "Send event data to your Logscale instance"
@@ -14093,22 +14093,22 @@
     "message": "Manage billing from the Provider Portal"
   },
   "continueSettingUp": {
-    "message": "Continue setting up Bitwarden"
+    "message": "Continue setting up QLine Vaults"
   },
   "continueSettingUpFreeTrial": {
-    "message": "Συνεχίστε τη ρύθμιση της δωρεάν δοκιμής σας στο Bitwarden"
+    "message": "Συνεχίστε τη ρύθμιση της δωρεάν δοκιμής σας στο QLine Vaults"
   },
   "continueSettingUpPasswordManager": {
-    "message": "Continue setting up Bitwarden Password Manager"
+    "message": "Continue setting up QLine Vaults Password Manager"
   },
   "continueSettingUpFreeTrialPasswordManager": {
-    "message": "Συνεχίστε τη ρύθμιση της δωρεάν δοκιμής σας στο Bitwarden Password Manager"
+    "message": "Συνεχίστε τη ρύθμιση της δωρεάν δοκιμής σας στο QLine Vaults Password Manager"
   },
   "continueSettingUpSecretsManager": {
-    "message": "Continue setting up Bitwarden Secrets Manager"
+    "message": "Continue setting up QLine Vaults Secrets Manager"
   },
   "continueSettingUpFreeTrialSecretsManager": {
-    "message": "Συνεχίστε τη ρύθμιση της δωρεάν δοκιμής σας στο Bitwarden Secrets Manager"
+    "message": "Συνεχίστε τη ρύθμιση της δωρεάν δοκιμής σας στο QLine Vaults Secrets Manager"
   },
   "enterTeamsOrgInfo": {
     "message": "Εισαγάγετε τις πληροφορίες του οργανισμού Teams σας"
@@ -14384,14 +14384,14 @@
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'Notice: Later this month, client vault privacy will be improved and provider members will no longer have direct access to client vault items. For questions, please contact Bitwarden support'."
   },
   "contactBitwardenSupport": {
-    "message": "contact Bitwarden support.",
+    "message": "contact QLine Vaults support.",
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'Notice: Later this month, client vault privacy will be improved and provider members will no longer have direct access to client vault items. For questions, please contact Bitwarden support'. 'Bitwarden' should not be translated"
   },
   "sponsored": {
     "message": "Χορηγούμενο"
   },
   "licenseAndBillingManagementDesc": {
-    "message": "After making updates in the Bitwarden cloud server, upload your license file to apply the most recent changes."
+    "message": "After making updates in the QLine Vaults cloud server, upload your license file to apply the most recent changes."
   },
   "addToFolder": {
     "message": "Προσθήκη σε φάκελο"
@@ -14509,7 +14509,7 @@
     "message": "Τι είναι ο αριθμός CVV;"
   },
   "learnMoreAboutApi": {
-    "message": "Μάθετε περισσότερα για το API του Bitwarden"
+    "message": "Μάθετε περισσότερα για το API του QLine Vaults"
   },
   "fileSends": {
     "message": "Send αρχείων"
@@ -14704,7 +14704,7 @@
     "message": "Η συνδρομή σας στο Secrets Manager θα αναβαθμιστεί με βάση το επιλεγμένο πρόγραμμα"
   },
   "bitwardenPasswordManager": {
-    "message": "Bitwarden: Διαχείριση κωδικών πρόσβασης"
+    "message": "QLine Vaults: Διαχείριση κωδικών πρόσβασης"
   },
   "secretsManagerComplimentaryPasswordManager": {
     "message": "Η δωρεάν συνδρομή ενός έτους στο Password Manager θα αναβαθμιστεί στο επιλεγμένο πρόγραμμα. Δεν θα χρεωθείτε μέχρι να τελειώσει η δωρεάν περίοδος."
@@ -14782,7 +14782,7 @@
     "description": "This represents the beginning of a sentence. The full sentence will be 'Manage subscription from the Provider Portal', but 'Provider Portal' will be a link and thus cannot be included in the translation file."
   },
   "toHostBitwardenOnYourOwnServer": {
-    "message": "To host Bitwarden on your own server, you will need to upload your license file. To support Free Families plans and advanced billing capabilities for your self-hosted organization, you will need to set up automatic sync in your self-hosted organization."
+    "message": "To host QLine Vaults on your own server, you will need to upload your license file. To support Free Families plans and advanced billing capabilities for your self-hosted organization, you will need to set up automatic sync in your self-hosted organization."
   },
   "selfHostingTitleProper": {
     "message": "Αυτοφιλοξενία"
@@ -14906,7 +14906,7 @@
     "message": "Deleted successfully"
   },
   "freeFamiliesSponsorship": {
-    "message": "Remove Free Bitwarden Families sponsorship"
+    "message": "Remove Free QLine Vaults Families sponsorship"
   },
   "freeFamiliesSponsorshipPolicyTitleV2": {
     "message": "Remove sponsored Families plan"
@@ -14981,10 +14981,10 @@
     "message": "Automatic Claimed Domains"
   },
   "automaticDomainClaimProcess": {
-    "message": "Bitwarden will attempt to claim the domain 3 times during the first 72 hours. If the domain can’t be claimed, check the DNS record in your host and manually claim. The domain will be removed from your organization in 7 days if it is not claimed."
+    "message": "QLine Vaults will attempt to claim the domain 3 times during the first 72 hours. If the domain can’t be claimed, check the DNS record in your host and manually claim. The domain will be removed from your organization in 7 days if it is not claimed."
   },
   "automaticDomainClaimProcess1": {
-    "message": "Bitwarden will attempt to claim the domain within 72 hours. If the domain can't be claimed, verify your DNS record and claim manually. Unclaimed domains are removed after 7 days."
+    "message": "QLine Vaults will attempt to claim the domain within 72 hours. If the domain can't be claimed, verify your DNS record and claim manually. Unclaimed domains are removed after 7 days."
   },
   "automaticDomainClaimProcess2": {
     "message": "Once claimed, existing members with claimed domains will be emailed about the "
@@ -15152,19 +15152,19 @@
     "message": "Αντιγραφή ιδιωτικού κλειδιού"
   },
   "openingExtension": {
-    "message": "Opening the Bitwarden browser extension"
+    "message": "Opening the QLine Vaults browser extension"
   },
   "somethingWentWrong": {
     "message": "Κάτι πήγε στραβά..."
   },
   "openingExtensionError": {
-    "message": "We had trouble opening the Bitwarden browser extension. Click the button to open it now."
+    "message": "We had trouble opening the QLine Vaults browser extension. Click the button to open it now."
   },
   "openExtension": {
     "message": "Άνοιγμα επέκτασης"
   },
   "doNotHaveExtension": {
-    "message": "Don't have the Bitwarden browser extension?"
+    "message": "Don't have the QLine Vaults browser extension?"
   },
   "installExtension": {
     "message": "Εγκατάσταση επέκτασης"
@@ -15173,7 +15173,7 @@
     "message": "Opened the browser extension"
   },
   "openedExtensionViewAtRiskPasswords": {
-    "message": "Successfully opened the Bitwarden browser extension. You can now review your at-risk passwords."
+    "message": "Successfully opened the QLine Vaults browser extension. You can now review your at-risk passwords."
   },
   "resellerRenewalWarningMsg": {
     "message": "Your subscription will renew soon. To ensure uninterrupted service, contact $RESELLER$ to confirm your renewal before $RENEWAL_DATE$.",
@@ -15189,7 +15189,7 @@
     }
   },
   "resellerRenewalWarningMsgV2": {
-    "message": "Your subscription will renew soon. To ensure uninterrupted service, contact your Bitwarden provider to confirm your renewal before $RENEWAL_DATE$.",
+    "message": "Your subscription will renew soon. To ensure uninterrupted service, contact your QLine Vaults provider to confirm your renewal before $RENEWAL_DATE$.",
     "placeholders": {
       "renewal_date": {
         "content": "$1",
@@ -15228,7 +15228,7 @@
     }
   },
   "resellerPastDueWarningMsgV2": {
-    "message": "The invoice for your subscription has not been paid. To ensure uninterrupted service, contact your Bitwarden provider before $GRACE_PERIOD_END$.",
+    "message": "The invoice for your subscription has not been paid. To ensure uninterrupted service, contact your QLine Vaults provider before $GRACE_PERIOD_END$.",
     "placeholders": {
       "grace_period_end": {
         "content": "$1",
@@ -15386,7 +15386,7 @@
     "message": "Upgrade to see event logs from your organization."
   },
   "upgradeEventLogMessage": {
-    "message": "These events are examples only and do not reflect real events within your Bitwarden organization."
+    "message": "These events are examples only and do not reflect real events within your QLine Vaults organization."
   },
   "viewEvents": {
     "message": "Προβολή συμβάντων"
@@ -15567,7 +15567,7 @@
     "message": "Autofill your passwords securely with one click"
   },
   "setupExtensionPageDescription": {
-    "message": "Get the Bitwarden browser extension and start autofilling today"
+    "message": "Get the QLine Vaults browser extension and start autofilling today"
   },
   "getTheExtension": {
     "message": "Λήψη της επέκτασης"
@@ -15585,19 +15585,19 @@
     "message": "Μετάβαση στην εφαρμογή ιστού"
   },
   "bitwardenExtensionInstalled": {
-    "message": "Bitwarden extension installed!"
+    "message": "QLine Vaults extension installed!"
   },
   "bitwardenExtensionIsInstalled": {
-    "message": "Bitwarden extension is installed!"
+    "message": "QLine Vaults extension is installed!"
   },
   "openExtensionToAutofill": {
     "message": "Open the extension to log in and start autofilling."
   },
   "openBitwardenExtension": {
-    "message": "Open Bitwarden extension"
+    "message": "Open QLine Vaults extension"
   },
   "gettingStartedWithBitwardenPart1": {
-    "message": "For tips on getting started with Bitwarden visit the",
+    "message": "For tips on getting started with QLine Vaults visit the",
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'For tips on getting started with Bitwarden visit the Learning Center and Help Center'"
   },
   "gettingStartedWithBitwardenPart2": {
@@ -15605,7 +15605,7 @@
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'For tips on getting started with Bitwarden visit the Learning Center and Help Center'"
   },
   "openExtensionFromToolbarPart1": {
-    "message": "If the extension didn't open, you may need to open Bitwarden from the icon ",
+    "message": "If the extension didn't open, you may need to open QLine Vaults from the icon ",
     "description": "This will be used as part of a larger sentence, broken up to include the Bitwarden icon. The full sentence will read 'If the extension didn't open, you may need to open Bitwarden from the icon [Bitwarden Icon] on the toolbar.'"
   },
   "openExtensionFromToolbarPart2": {
@@ -15617,7 +15617,7 @@
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'For tips on getting started with Bitwarden visit the Learning Center and Help Center'"
   },
   "setupExtensionContentAlt": {
-    "message": "With the Bitwarden browser extension you can easily create new logins, access your saved logins directly from your browser toolbar, and sign in to accounts quickly using Bitwarden autofill."
+    "message": "With the QLine Vaults browser extension you can easily create new logins, access your saved logins directly from your browser toolbar, and sign in to accounts quickly using QLine Vaults autofill."
   },
   "restart": {
     "message": "Επανεκκίνηση"
@@ -15649,7 +15649,7 @@
     "message": "Σχετικά με αυτήν τη ρύθμιση"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden will use saved login URIs to identify which icon or change password URL should be used to improve your experience. No information is collected or saved when you use this service."
+    "message": "QLine Vaults will use saved login URIs to identify which icon or change password URL should be used to improve your experience. No information is collected or saved when you use this service."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Add 3 quick copy buttons next to items to copy your username, password, or verification code to the clipboard."
@@ -15719,7 +15719,7 @@
     }
   },
   "restoreProviderPortalAccessViaCustomerSupport": {
-    "message": "To restore access to your provider portal, contact Bitwarden Customer Support to renew your subscription.",
+    "message": "To restore access to your provider portal, contact QLine Vaults Customer Support to renew your subscription.",
     "description": "A message shown in a non-dismissible dialog to any user of a suspended providers."
   },
   "restoreProviderPortalAccessViaPaymentMethod": {
@@ -15761,7 +15761,7 @@
     "message": "Subscription canceled"
   },
   "providersubCanceledmessage": {
-    "message": "To resubscribe, contact Bitwarden Customer Support."
+    "message": "To resubscribe, contact QLine Vaults Customer Support."
   },
   "showAll": {
     "message": "Show all"
@@ -15904,7 +15904,7 @@
     "message": "Προσαρμοσμένο πακέτο"
   },
   "planDescCustom": {
-    "message": "Bitwarden scales with businesses of all sizes to secure passwords and sensitive information. If you're part of a large enterprise, contact sales to request a quote."
+    "message": "QLine Vaults scales with businesses of all sizes to secure passwords and sensitive information. If you're part of a large enterprise, contact sales to request a quote."
   },
   "builtInAuthenticator": {
     "message": "Built-in authenticator"
@@ -16021,7 +16021,7 @@
     "message": "There was an error calculating tax for your location. Please try again."
   },
   "individualUpgradeWelcomeMessage": {
-    "message": "Welcome to Bitwarden"
+    "message": "Welcome to QLine Vaults"
   },
   "individualUpgradeDescriptionMessage": {
     "message": "Unlock more security features with Premium, or start sharing items with Families"
@@ -16042,7 +16042,7 @@
     "message": "Αναβάθμιση τώρα"
   },
   "getAdvancedOnlineSecurityWithBitwardenPremium": {
-    "message": "Get advanced online security with Bitwarden premium."
+    "message": "Get advanced online security with QLine Vaults premium."
   },
   "formWillCreateNewFamiliesOrgMessage": {
     "message": "Completing this form will create a new Families organization. You can upgrade your Free organization from the Admin Console."
@@ -16051,7 +16051,7 @@
     "message": "We encountered an error while processing your upgrade. Please try again."
   },
   "bitwardenFreeplanMessage": {
-    "message": "You have the Bitwarden Free plan"
+    "message": "You have the QLine Vaults Free plan"
   },
   "upgradeCompleteSecurity": {
     "message": "Upgrade for complete security"
@@ -16069,7 +16069,7 @@
     "message": "Αλγόριθμος"
   },
   "encryptionKeySettingsHowShouldWeEncryptYourData": {
-    "message": "Choose how Bitwarden should encrypt your vault data. All options are secure, but stronger methods offer better protection - especially against brute-force attacks. Bitwarden recommends the default setting for most users."
+    "message": "Choose how QLine Vaults should encrypt your vault data. All options are secure, but stronger methods offer better protection - especially against brute-force attacks. QLine Vaults recommends the default setting for most users."
   },
   "encryptionKeySettingsIncreaseImproveSecurity": {
     "message": "Increasing the values above the default will improve security, but your vault may take longer to unlock as a result."
@@ -16100,10 +16100,10 @@
     "description": "VFO1 terminology variant of 'blockClaimedDomainAccountCreationDesc', shown in the policies list"
   },
   "blockClaimedDomainAccountCreationDescV2": {
-    "message": "Block members from using your claimed domain to create Bitwarden accounts outside your organization."
+    "message": "Block members from using your claimed domain to create QLine Vaults accounts outside your organization."
   },
   "blockClaimedDomainAccountCreationDescV2Vfo1": {
-    "message": "Block members from using your claimed domain to create Bitwarden accounts outside of your organization vault.",
+    "message": "Block members from using your claimed domain to create QLine Vaults accounts outside of your organization vault.",
     "description": "VFO1 terminology variant of 'blockClaimedDomainAccountCreationDescV2'"
   },
   "blockClaimedDomainAccountCreationPrerequisiteV2": {
@@ -16141,7 +16141,7 @@
     }
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Your organization is no longer using master passwords to log into Bitwarden. To continue, verify the organization and domain."
+    "message": "Your organization is no longer using master passwords to log into QLine Vaults. To continue, verify the organization and domain."
   },
   "continueWithLogIn": {
     "message": "Continue with log in"
@@ -16344,7 +16344,7 @@
     "message": "Απόρριψη και αποχώρηση"
   },
   "youHaveBitwardenPremium": {
-    "message": "You have Bitwarden Premium"
+    "message": "You have QLine Vaults Premium"
   },
   "viewAndManagePremiumSubscription": {
     "message": "View and manage your Premium subscription"
@@ -16383,13 +16383,13 @@
     "message": "Already have a subscription?"
   },
   "alreadyHaveSubscriptionSelfHostedMessage": {
-    "message": "Open the subscription page on your Bitwarden cloud account and download your license file. Then return to this screen and upload it below."
+    "message": "Open the subscription page on your QLine Vaults cloud account and download your license file. Then return to this screen and upload it below."
   },
   "alreadyHaveSubscriptionSelfHostedMessageV2": {
-    "message": "Open the subscription page on your Bitwarden account and download your license file. Then return to this screen and upload it below."
+    "message": "Open the subscription page on your QLine Vaults account and download your license file. Then return to this screen and upload it below."
   },
   "alreadyHaveSubscriptionSelfHostedMessageV3": {
-    "message": "On your cloud environment, log in to your Bitwarden account, open the subscription page, and download your license file. Then, return to this screen and upload it."
+    "message": "On your cloud environment, log in to your QLine Vaults account, open the subscription page, and download your license file. Then, return to this screen and upload it."
   },
   "viewAllPlans": {
     "message": "Προβολή όλων των πακέτων"
@@ -16475,10 +16475,10 @@
     "message": "Get the extension for easy vault access"
   },
   "extensionPromptBody": {
-    "message": "With the browser extension installed, you'll take Bitwarden everywhere online. It'll fill in passwords, so you can log into your accounts with a single click."
+    "message": "With the browser extension installed, you'll take QLine Vaults everywhere online. It'll fill in passwords, so you can log into your accounts with a single click."
   },
   "extensionPromptImageAlt": {
-    "message": "A web browser showing the Bitwarden extension with autofill items for the current webpage."
+    "message": "A web browser showing the QLine Vaults extension with autofill items for the current webpage."
   },
   "skip": {
     "message": "Παράλειψη"
@@ -16526,10 +16526,10 @@
     "message": "Invalid Send password"
   },
   "vaultWelcomeDialogTitle": {
-    "message": "You're in! Welcome to Bitwarden"
+    "message": "You're in! Welcome to QLine Vaults"
   },
   "vaultWelcomeDialogDescription": {
-    "message": "Store all your passwords and personal info in your Bitwarden vault. We'll show you around."
+    "message": "Store all your passwords and personal info in your QLine Vaults vault. We'll show you around."
   },
   "vaultWelcomeDialogPrimaryCta": {
     "message": "Έναρξη περιήγησης"
@@ -16763,7 +16763,7 @@
     "message": "Help members improve"
   },
   "aiCoachmarkHelpMembersDescription": {
-    "message": "Once you've selected critical applications, prompt members to change at-risk passwords. They'll receive a message in their Bitwarden extension."
+    "message": "Once you've selected critical applications, prompt members to change at-risk passwords. They'll receive a message in their QLine Vaults extension."
   },
   "aiCoachmarkRunReportTitle": {
     "message": "Stay on top of new risks"
@@ -17526,7 +17526,7 @@
     "message": "Payment successful"
   },
   "paymentSuccessfulProcessingMessage": {
-    "message": "Your upgrade is being processed. It may be a few minutes before you see Premium features in Bitwarden."
+    "message": "Your upgrade is being processed. It may be a few minutes before you see Premium features in QLine Vaults."
   },
   "planPurchased": {
     "message": "Plan purchased"

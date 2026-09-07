@@ -21,7 +21,7 @@
     "message": "Všechny kritické aplikace"
   },
   "appLogoLabel": {
-    "message": "Logo Bitwarden"
+    "message": "QLine Vaults logo"
   },
   "criticalApplications": {
     "message": "Kritické aplikace"
@@ -236,7 +236,7 @@
     "message": "Sledujte pokroky v rámci celého týmu"
   },
   "membersAreAutomaticallyNotified": {
-    "message": "Členové jsou automaticky upozorněni na ohrožená hesla v rozšíření Bitwarden. Není třeba nic dohledávat."
+    "message": "Členové jsou automaticky upozorněni na ohrožená hesla v rozšíření QLine Vaults. Není třeba nic dohledávat."
   },
   "importYourOrgDataToGetStarted": {
     "message": "Pro spuštění nahrajte data své organizace"
@@ -399,7 +399,7 @@
     }
   },
   "membersWillReceiveSecurityTask": {
-    "message": "Členům Vaší organizace bude přiřazen úkol ke změně zranitelných hesel. Obdrží oznámení v rámci jejich rozšíření prohlížeče Bitwarden."
+    "message": "Členům Vaší organizace bude přiřazen úkol ke změně zranitelných hesel. Obdrží oznámení v rámci jejich rozšíření prohlížeče QLine Vaults."
   },
   "membersAtRiskCount": {
     "message": "$COUNT$ zranitelných členů",
@@ -847,10 +847,10 @@
     "message": "Bezproblémové dvoufázové ověřování"
   },
   "totpHelper": {
-    "message": "Bitwarden umí ukládat a vyplňovat dvoufázové ověřovací kódy. Zkopírujte a vložte klíč do tohoto pole."
+    "message": "QLine Vaults umí ukládat a vyplňovat dvoufázové ověřovací kódy. Zkopírujte a vložte klíč do tohoto pole."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden umí ukládat a vyplňovat dvoufázové ověřovací kódy. Vyberte ikonu fotoaparátu a pořiďte snímek obrazovky ověřovacího QR kódu této webové stránky nebo klíč zkopírujte a vložte do tohoto pole."
+    "message": "QLine Vaults umí ukládat a vyplňovat dvoufázové ověřovací kódy. Vyberte ikonu fotoaparátu a pořiďte snímek obrazovky ověřovacího QR kódu této webové stránky nebo klíč zkopírujte a vložte do tohoto pole."
   },
   "totpCapture": {
     "message": "Naskenovat QR kód z aktuální webové stránky"
@@ -2201,7 +2201,7 @@
     "message": "Přihlásit se zařízením"
   },
   "loginWithDeviceEnabledNote": {
-    "message": "Přihlášení zařízením musí být nastaveno v aplikaci Bitwarden. Potřebujete další volby?"
+    "message": "Přihlášení zařízením musí být nastaveno v aplikaci QLine Vaults. Potřebujete další volby?"
   },
   "needAnotherOptionV1": {
     "message": "Potřebujete další volby?"
@@ -2318,7 +2318,7 @@
     "message": "Vytvořit účet"
   },
   "newToBitwarden": {
-    "message": "Jste noví na Bitwardenu?"
+    "message": "Jste noví na QLine Vaultsu?"
   },
   "setAStrongPassword": {
     "message": "Nastavit hlavní heslo"
@@ -2336,7 +2336,7 @@
     "message": "Přihlásit se"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Přihlásit se do Bitwardenu"
+    "message": "Přihlásit se do QLine Vaultsu"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Zadejte kód odeslaný na Váš e-mail"
@@ -2366,7 +2366,7 @@
     "message": "Co je to zařízení?"
   },
   "aDeviceIs": {
-    "message": "Zařízení je jedinečná instalace aplikace Bitwarden, ve které jste se přihlásili. Přeinstalování, vymazání dat aplikace nebo vymazání souborů cookie může vést k tomu, že se zařízení objeví vícekrát."
+    "message": "Zařízení je jedinečná instalace aplikace QLine Vaults, ve které jste se přihlásili. Přeinstalování, vymazání dat aplikace nebo vymazání souborů cookie může vést k tomu, že se zařízení objeví vícekrát."
   },
   "logInInitiated": {
     "message": "Bylo zahájeno přihlášení"
@@ -2604,7 +2604,7 @@
     "message": "Na Vaše zařízení bylo odesláno oznámení."
   },
   "notificationSentDevicePart1": {
-    "message": "Odemknout Bitwarden na Vašem zařízení nebo na "
+    "message": "Odemknout QLine Vaults na Vašem zařízení nebo na "
   },
   "accessAttemptBy": {
     "message": "Pokus o přístup z $EMAIL$",
@@ -2628,7 +2628,7 @@
     "message": "Před schválením se ujistěte, že fráze otisku prstu odpovídá frázi níže."
   },
   "notificationSentDeviceComplete": {
-    "message": "Odemkněte Bitwarden na Vašem zařízení. Před schválením se ujistěte, že fráze otisku prstu odpovídá frázi níže."
+    "message": "Odemkněte QLine Vaults na Vašem zařízení. Před schválením se ujistěte, že fráze otisku prstu odpovídá frázi níže."
   },
   "aNotificationWasSentToYourDevice": {
     "message": "Na Vaše zařízení bylo odesláno oznámení"
@@ -2689,7 +2689,7 @@
     "message": "Ověřovací aplikace"
   },
   "authenticatorAppDescV2": {
-    "message": "Zadejte kód vygenerovaný ověřovací aplikací, jako je Bitwarden Authenticator.",
+    "message": "Zadejte kód vygenerovaný ověřovací aplikací, jako je QLine Vaults Authenticator.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2842,7 +2842,7 @@
     "message": "Tento export zašifruje Vaše data pomocí šifrovacího klíče Vašeho účtu. Pokud někdy změníte šifrovací klíč Vašeho účtu, měli by jste vyexportovat data znovu, protože tento exportovaný soubor nebudete moci dešifrovat."
   },
   "encExportAccountWarningDesc": {
-    "message": "Šifrovací klíče účtu jsou pro každý uživatelský účet Bitwardenu jedinečné, takže nelze importovat šifrovaný export do jiného účtu."
+    "message": "Šifrovací klíče účtu jsou pro každý uživatelský účet QLine Vaultsu jedinečné, takže nelze importovat šifrovaný export do jiného účtu."
   },
   "exportNoun": {
     "message": "Export",
@@ -2898,10 +2898,10 @@
     "message": "Tato databáze KeePass je pro import příliš velká."
   },
   "accountRestrictedOptionDescription": {
-    "message": "Pro zašifrování exportu a omezení importu pouze na aktuální účet Bitwardenu použijte šifrovací klíč Vašeho účtu odvozený z uživatelského jména a hlavního hesla."
+    "message": "Pro zašifrování exportu a omezení importu pouze na aktuální účet QLine Vaultsu použijte šifrovací klíč Vašeho účtu odvozený z uživatelského jména a hlavního hesla."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Nastavte heslo pro šifrování exportu a importujte ho do libovolného účtu Bitwardenu pomocí hesla pro dešifrování."
+    "message": "Nastavte heslo pro šifrování exportu a importujte ho do libovolného účtu QLine Vaultsu pomocí hesla pro dešifrování."
   },
   "exportTypeHeading": {
     "message": "Typ exportu"
@@ -3072,7 +3072,7 @@
     "message": "Čekající požadavek"
   },
   "logBackInOthersToo": {
-    "message": "Přihlaste se znovu. Používáte-li jiné aplikace Bitwardenu, přihlaste se znovu i v nich."
+    "message": "Přihlaste se znovu. Používáte-li jiné aplikace QLine Vaultsu, přihlaste se znovu i v nich."
   },
   "changeMasterPassword": {
     "message": "Změnit hlavní heslo"
@@ -3105,7 +3105,7 @@
     }
   },
   "kdfIterationsWarning": {
-    "message": "Nastavení příliš vysoké hodnoty počtu iterací KDF může mít za následek špatný výkon při přihlašování (a odemykání) aplikace Bitwarden na zařízeních se slabým procesorem. Doporučujeme hodnotu navyšovat přírůstkově po $INCREMENT$ a vyzkoušet všechna Vaše zařízení.",
+    "message": "Nastavení příliš vysoké hodnoty počtu iterací KDF může mít za následek špatný výkon při přihlašování (a odemykání) aplikace QLine Vaults na zařízeních se slabým procesorem. Doporučujeme hodnotu navyšovat přírůstkově po $INCREMENT$ a vyzkoušet všechna Vaše zařízení.",
     "placeholders": {
       "increment": {
         "content": "$1",
@@ -3118,7 +3118,7 @@
     "description": "Memory refers to computer memory (RAM). MB is short for megabytes."
   },
   "argon2Warning": {
-    "message": "Nastavení příliš vysoké hodnoty počtu iterací KDF, paměti a paralelity může mít za následek špatný výkon při přihlašování (a odemykání) aplikace Bitwarden na zařízeních se slabým procesorem. Doporučujeme hodnotu navyšovat přírůstkově a vyzkoušet všechna Vaše zařízení."
+    "message": "Nastavení příliš vysoké hodnoty počtu iterací KDF, paměti a paralelity může mít za následek špatný výkon při přihlašování (a odemykání) aplikace QLine Vaults na zařízeních se slabým procesorem. Doporučujeme hodnotu navyšovat přírůstkově a vyzkoušet všechna Vaše zařízení."
   },
   "kdfParallelism": {
     "message": "Paralelita KDF"
@@ -3151,10 +3151,10 @@
     "message": "Zapnout ochranu pro přihlášení z nového zařízení"
   },
   "turnOffNewDeviceLoginProtectionModalDesc": {
-    "message": "Pokračujte níže a vypněte ověřovací e-maily od Bitwardenu, když se přihlásíte z nového zařízení."
+    "message": "Pokračujte níže a vypněte ověřovací e-maily od QLine Vaultsu, když se přihlásíte z nového zařízení."
   },
   "turnOnNewDeviceLoginProtectionModalDesc": {
-    "message": "Níže postupujte tak, aby Vám Bitwarden zasílal ověřovací e-maily při přihlášení z nového zařízení."
+    "message": "Níže postupujte tak, aby Vám QLine Vaults zasílal ověřovací e-maily při přihlášení z nového zařízení."
   },
   "turnOffNewDeviceLoginProtectionWarning": {
     "message": "Pokud je ochrana přihlášení z nového zařízení vypnutá, může kdokoli s Vaším hlavním heslem přistupovat k Vašemu účtu z libovolného zařízení. Chcete-li svůj účet chránit bez ověřovacích e-mailů, nastavte dvoufázové přihlašování."
@@ -3598,7 +3598,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "soubor sem do Bitwardenu.",
+    "message": "soubor sem do QLine Vaultsu.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -3731,7 +3731,7 @@
     "message": "Doménová pravidla"
   },
   "domainRulesDesc": {
-    "message": "Pokud máte stejné přihlašovací údaje napříč různými doménami, můžete je označit jako \"ekvivalentní\". Bitwarden za Vás již vytvořil seznam \"globálních\" domén."
+    "message": "Pokud máte stejné přihlašovací údaje napříč různými doménami, můžete je označit jako \"ekvivalentní\". QLine Vaults za Vás již vytvořil seznam \"globálních\" domén."
   },
   "globalEqDomains": {
     "message": "Globální ekvivalentní domény"
@@ -3782,7 +3782,7 @@
     "message": "Povolí dvoufázové přihlášení pro Vaši organizaci."
   },
   "twoStepLoginEnterpriseDescStart": {
-    "message": "Vynutí dvoufázové přihlášení členů k Bitwardenu použitím ",
+    "message": "Vynutí dvoufázové přihlášení členů k QLine Vaultsu použitím ",
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Enforce Bitwarden Two-step Login options for members by using the Two-step Login Policy.'"
   },
   "twoStepLoginPolicy": {
@@ -3795,7 +3795,7 @@
     "message": "Pokud jste nastavili SSO nebo to plánujete, dvoufázové přihlášení může být již vynuceno prostřednictvím Vašeho poskytovatele identity."
   },
   "twoStepLoginRecoveryWarning": {
-    "message": "Nastavením dvoufázového přihlášení můžete sami sobě znemožnit přihlášení k Vašemu účtu. Obnovovací kód umožňuje přístup do Vašeho účtu i v případě, pokud již nemůžete použít svůj normální způsob dvoufázového přihlášení (např. ztráta zařízení). Pokud ztratíte přístup ke svému účtu, nebude Vám schopna pomoci ani zákaznická podpora Bitwardenu. Doporučujeme si proto kód pro obnovení zapsat nebo vytisknout a uložit jej na bezpečném místě."
+    "message": "Nastavením dvoufázového přihlášení můžete sami sobě znemožnit přihlášení k Vašemu účtu. Obnovovací kód umožňuje přístup do Vašeho účtu i v případě, pokud již nemůžete použít svůj normální způsob dvoufázového přihlášení (např. ztráta zařízení). Pokud ztratíte přístup ke svému účtu, nebude Vám schopna pomoci ani zákaznická podpora QLine Vaultsu. Doporučujeme si proto kód pro obnovení zapsat nebo vytisknout a uložit jej na bezpečném místě."
   },
   "restrictedItemTypePolicy": {
     "message": "Odebrat typ položky karty"
@@ -3814,7 +3814,7 @@
     "message": "Zásady nastavené 1 nebo více organizací Vám brání v importu karet do Vašeho trezoru."
   },
   "yourSingleUseRecoveryCode": {
-    "message": "Jednorázový kód pro obnovení lze použít k vypnutí dvoufázového přihlašování v případě, že ztratíte přístup ke svému poskytovateli dvoufázového přihlašování. Bitwarden doporučuje, abyste si kód pro obnovení zapsali a uložili na bezpečném místě."
+    "message": "Jednorázový kód pro obnovení lze použít k vypnutí dvoufázového přihlašování v případě, že ztratíte přístup ke svému poskytovateli dvoufázového přihlašování. QLine Vaults doporučuje, abyste si kód pro obnovení zapsali a uložili na bezpečném místě."
   },
   "viewRecoveryCode": {
     "message": "Zobrazit kód pro obnovení"
@@ -3912,7 +3912,7 @@
     }
   },
   "continueToExternalUrlDesc": {
-    "message": "Opouštíte Bitwarden a spouštíte externí webové stránky v novém okně."
+    "message": "Opouštíte QLine Vaults a spouštíte externí webové stránky v novém okně."
   },
   "twoStepContinueToBitwardenUrlTitle": {
     "message": "Pokračovat na bitwarden.com?"
@@ -3960,7 +3960,7 @@
     "message": "Uložte formulář."
   },
   "twoFactorYubikeyWarning": {
-    "message": "Z důvodu omezení různých platforem, nemůže být YubiKey použit ve všech aplikacích Bitwardenu. Měli byste povolit jiný způsob dvoufázového přihlášení pro případy, kdy nelze YubiKey použít. Podporované platformy:"
+    "message": "Z důvodu omezení různých platforem, nemůže být YubiKey použit ve všech aplikacích QLine Vaultsu. Měli byste povolit jiný způsob dvoufázového přihlášení pro případy, kdy nelze YubiKey použít. Podporované platformy:"
   },
   "twoFactorYubikeySupportUsb": {
     "message": "Webový trezor, aplikace, CLI a rozšíření pro prohlížeče na zařízeních s USB portem, která akceptují Váš YubiKey."
@@ -4011,7 +4011,7 @@
     "message": "Deaktivovat všechny klíče"
   },
   "twoFactorDuoDesc": {
-    "message": "Zadejte informace o aplikaci Bitwarden z panelu Duo Admin."
+    "message": "Zadejte informace o aplikaci QLine Vaults z panelu Duo Admin."
   },
   "twoFactorDuoClientId": {
     "message": "ID klienta"
@@ -4062,7 +4062,7 @@
     "message": "Uložte formulář."
   },
   "twoFactorU2fWarning": {
-    "message": "Z důvodu omezení různých platforem, nemůže být FIDO U2F použit ve všech aplikacích Bitwardenu. Měli byste povolit jiný způsob dvoufázového přihlášení pro případy, kdy nelze FIDO U2F použít. Podporované platformy:"
+    "message": "Z důvodu omezení různých platforem, nemůže být FIDO U2F použit ve všech aplikacích QLine Vaultsu. Měli byste povolit jiný způsob dvoufázového přihlášení pro případy, kdy nelze FIDO U2F použít. Podporované platformy:"
   },
   "twoFactorU2fSupportWeb": {
     "message": "Webový trezor a rozšíření pro prohlížeče s podporou U2F (Chrome, Opera, Vivaldi nebo Firefox se zapnutým FIDO U2F)."
@@ -4240,7 +4240,7 @@
     "message": "Slabá hesla"
   },
   "weakPasswordsReportDesc": {
-    "message": "Slabá hesla mohou být snadno uhodnuta hackery či automatickými nástroji určenými pro prolomení hesel. Generátor hesel Bitwarden Vám pomůže vytvořit silná hesla."
+    "message": "Slabá hesla mohou být snadno uhodnuta hackery či automatickými nástroji určenými pro prolomení hesel. Generátor hesel QLine Vaults Vám pomůže vytvořit silná hesla."
   },
   "weakPasswordsFound": {
     "message": "Nalezena slabá hesla"
@@ -4427,7 +4427,7 @@
     }
   },
   "bitwardenFamiliesPlan": {
-    "message": "rodinným plánem Bitwardenu."
+    "message": "rodinným plánem QLine Vaultsu."
   },
   "addons": {
     "message": "Doplňky"
@@ -4630,7 +4630,7 @@
     }
   },
   "churnOfferDiscountBody": {
-    "message": "Jako poděkování za to, že jste dlouhodobým zákazníkem Bitwarden, bychom Vám rádi nabídli slevu $DISCOUNT$ na $DURATION$.",
+    "message": "Jako poděkování za to, že jste dlouhodobým zákazníkem QLine Vaults, bychom Vám rádi nabídli slevu $DISCOUNT$ na $DURATION$.",
     "description": "Body copy on the churn-mitigation offer card. DISCOUNT = discount amount; DURATION = service duration (e.g. 'year' or '6 months')",
     "placeholders": {
       "discount": {
@@ -4692,7 +4692,7 @@
     }
   },
   "churnOfferDiscountBodyRecurringAmount": {
-    "message": "Jako poděkování za to, že jste dlouhodobým zákazníkem Bitwarden, bychom Vám rádi nabídli slevu $AMOUNT$ každý $INTERVAL$ na $DURATION$.",
+    "message": "Jako poděkování za to, že jste dlouhodobým zákazníkem QLine Vaults, bychom Vám rádi nabídli slevu $AMOUNT$ každý $INTERVAL$ na $DURATION$.",
     "description": "Body copy on the churn-mitigation offer card for a fixed-amount discount that repeats each billing period. AMOUNT = discount amount (e.g. '$15.00'); INTERVAL = billing interval unit (e.g. 'month'); DURATION = discount duration (e.g. 'year' or '6 months')",
     "placeholders": {
       "amount": {
@@ -5141,7 +5141,7 @@
     }
   },
   "trialThankYou": {
-    "message": "Děkujeme za registraci do Bitwardenu s plánem $PLAN$!",
+    "message": "Děkujeme za registraci do QLine Vaultsu s plánem $PLAN$!",
     "placeholders": {
       "plan": {
         "content": "$1",
@@ -5150,7 +5150,7 @@
     }
   },
   "trialSecretsManagerThankYou": {
-    "message": "Děkujeme za registraci do Správce tajných klíčů Bitwarden s plánem $PLAN$!",
+    "message": "Děkujeme za registraci do Správce tajných klíčů QLine Vaults s plánem $PLAN$!",
     "placeholders": {
       "plan": {
         "content": "$1",
@@ -5283,13 +5283,13 @@
     "message": "Externí ID"
   },
   "externalIdDesc": {
-    "message": "Externí ID je nešifrovaná reference použitá adresářovým konektorem Bitwardenu a API."
+    "message": "Externí ID je nešifrovaná reference použitá adresářovým konektorem QLine Vaultsu a API."
   },
   "ssoExternalId": {
     "message": "Externí SSO ID"
   },
   "ssoExternalIdDesc": {
-    "message": "Externí SSO ID je nešifrovaná reference mezi Bitwardenem a Vaším nastaveným poskytovatelem SSO."
+    "message": "Externí SSO ID je nešifrovaná reference mezi QLine Vaultsem a Vaším nastaveným poskytovatelem SSO."
   },
   "nestCollectionUnder": {
     "message": "Vnořit sbírku pod"
@@ -5350,13 +5350,13 @@
     "message": "Pozvat"
   },
   "inviteUserDesc": {
-    "message": "Pozvěte nového uživatele do Vaší organizace zadáním e-mailové adresy jeho účtu na Bitwardenu. Pokud ještě nemá účet na Bitwardenu, bude vyzván k vytvoření nového účtu."
+    "message": "Pozvěte nového uživatele do Vaší organizace zadáním e-mailové adresy jeho účtu na QLine Vaultsu. Pokud ještě nemá účet na QLine Vaultsu, bude vyzván k vytvoření nového účtu."
   },
   "inviteUserDescription": {
     "message": "Pozvěte nové uživatele do Vaší organizace zadáním jejich e-mailové adresy níže."
   },
   "inviteUserDescSharedFolders": {
-    "message": "Pozvěte nového uživatele do trezoru Vaší organizace zadáním e-mailové adresy jeho účtu na Bitwardenu. Pokud ještě nemá účet na Bitwardenu, bude vyzván k vytvoření nového účtu.",
+    "message": "Pozvěte nového uživatele do trezoru Vaší organizace zadáním e-mailové adresy jeho účtu na QLine Vaultsu. Pokud ještě nemá účet na QLine Vaultsu, bude vyzván k vytvoření nového účtu.",
     "description": "VFO1 (shared folder terminology) variant of inviteUserDesc, shown when the vfo1-foundation flag is enabled."
   },
   "inviteMultipleEmailDesc": {
@@ -5499,10 +5499,10 @@
     "message": "CLI"
   },
   "bitWebVault": {
-    "message": "Webový trezor Bitwardenu"
+    "message": "Webový trezor QLine Vaultsu"
   },
   "bitSecretsManager": {
-    "message": "Správce tajných klíčů Bitwarden"
+    "message": "Správce tajných klíčů QLine Vaults"
   },
   "loggedIn": {
     "message": "Přihlášen"
@@ -6821,7 +6821,7 @@
     "message": "Zpět k registraci"
   },
   "joinOrganizationDesc": {
-    "message": "Byli jste pozváni do výše uvedené organizace. Chcete-li přijmout pozvánku, musíte se přihlásit nebo vytvořit nový účet na Bitwardenu."
+    "message": "Byli jste pozváni do výše uvedené organizace. Chcete-li přijmout pozvánku, musíte se přihlásit nebo vytvořit nový účet na QLine Vaultsu."
   },
   "finishJoiningThisOrganizationBySettingAMasterPassword": {
     "message": "Dokončete připojení k této organizaci nastavením hlavního hesla."
@@ -6962,10 +6962,10 @@
     "message": "Pokud Váš účet existuje, poslali jsme Vám e-mail s dalšími pokyny."
   },
   "deleteRecoverConfirmDesc": {
-    "message": "Požádali jste o smazání svého účtu na Bitwardenu. Pro potvrzení použijte tlačítko níže."
+    "message": "Požádali jste o smazání svého účtu na QLine Vaultsu. Pro potvrzení použijte tlačítko níže."
   },
   "deleteRecoverOrgConfirmDesc": {
-    "message": "Požádali jste o smazání Vaší organizace u Bitwardenu."
+    "message": "Požádali jste o smazání Vaší organizace u QLine Vaultsu."
   },
   "myOrganization": {
     "message": "Moje organizace"
@@ -7299,7 +7299,7 @@
     }
   },
   "updateEncryptionKeyWarning": {
-    "message": "Po aktualizace šifrovacího klíče dojde k odhlášení a budete se muset opětovně přihlásit do všech aplikací Bitwardenu, které aktuálně používáte (např. mobilní aplikace či rozšíření pro prohlížeč). Nezdaří-li se odhlášení a opětovné přihlášení (během něhož bude stažen nový šifrovací klíč), může dojít k poškození dat. Pokusíme se Vás automaticky odhlásit, nicméně, může to chvíli trvat."
+    "message": "Po aktualizace šifrovacího klíče dojde k odhlášení a budete se muset opětovně přihlásit do všech aplikací QLine Vaultsu, které aktuálně používáte (např. mobilní aplikace či rozšíření pro prohlížeč). Nezdaří-li se odhlášení a opětovné přihlášení (během něhož bude stažen nový šifrovací klíč), může dojít k poškození dat. Pokusíme se Vás automaticky odhlásit, nicméně, může to chvíli trvat."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Všechny uložené exporty s omezením účtu se stanou neplatnými."
@@ -7335,7 +7335,7 @@
     "message": "Nevybrali jste žádné položky."
   },
   "receiveMarketingEmails": {
-    "message": "Přijímejte aktualizace od Bitwardenu do doručené pošty."
+    "message": "Přijímejte aktualizace od QLine Vaultsu do doručené pošty."
   },
   "subscribe": {
     "message": "Předplatné"
@@ -7629,7 +7629,7 @@
     "message": "Klíč API"
   },
   "apiKeyDesc": {
-    "message": "Váš klíč API může být použit pro ověření přístupu k veřejnému API Bitwardenu."
+    "message": "Váš klíč API může být použit pro ověření přístupu k veřejnému API QLine Vaultsu."
   },
   "apiKeyRotateDesc": {
     "message": "Změna klíče API zruší platnost předchozího klíče. Klíč API můžete změnit, pokud se domníváte, že aktuální klíč již není bezpečný."
@@ -7638,7 +7638,7 @@
     "message": "Váš klíč API má plný přístup k organizaci. Měl by být uchován v tajnosti."
   },
   "userApiKeyDesc": {
-    "message": "Váš klíč API může být použit k ověření v Bitwarden CLI."
+    "message": "Váš klíč API může být použit k ověření v QLine Vaults CLI."
   },
   "userApiKeyWarning": {
     "message": "Váš klíč API je alternativní ověřovací mechanismus. Měl by být uchován v tajnosti."
@@ -7990,7 +7990,7 @@
     "description": "VFO1 terminology variant of 'singleOrgPolicyDescV2'"
   },
   "singleOrgBlockCreateMessage": {
-    "message": "Vaše aktuální organizace má pravidla, která Vám nedovolují připojit se k více než jedné organizaci. Obraťte se na správce organizace nebo se zaregistrujte z jiného účtu na Bitwardenu."
+    "message": "Vaše aktuální organizace má pravidla, která Vám nedovolují připojit se k více než jedné organizaci. Obraťte se na správce organizace nebo se zaregistrujte z jiného účtu na QLine Vaultsu."
   },
   "singleOrgPolicyMemberWarning": {
     "message": "Nevyhovující členové budou zařazeni do statusu odvolaných členů, dokud neopustí všechny ostatní organizace. Správci jsou osvobozeni a mohou obnovit členy, jakmile je splněna podmínka shody."
@@ -8245,7 +8245,7 @@
     "message": "Máte problém? Stáhněte si a pak sdílejte diagnostický report s"
   },
   "bitwardenSupport": {
-    "message": "podporou Bitwarden",
+    "message": "podporou QLine Vaults",
     "description": "Link text that follows the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -8302,7 +8302,7 @@
     "message": "Upravit nouzový kontakt"
   },
   "inviteEmergencyContactDesc": {
-    "message": "Pozvěte nový nouzový kontakt zadáním uvedené e-mailové adresy účtu na Bitwardenu. Pokud nemá účet na Bitwardenu, bude vyzván k vytvoření nového účtu."
+    "message": "Pozvěte nový nouzový kontakt zadáním uvedené e-mailové adresy účtu na QLine Vaultsu. Pokud nemá účet na QLine Vaultsu, bude vyzván k vytvoření nového účtu."
   },
   "emergencyAccessRecoveryInitiated": {
     "message": "Nouzový přístup byl zahájen"
@@ -8341,7 +8341,7 @@
     "message": "Uživatel byl pozván."
   },
   "acceptEmergencyAccess": {
-    "message": "Byli jste pozváni, abyste se stali nouzovým kontaktem pro výše uvedeného uživatele. Chcete-li přijmout pozvánku, musíte se přihlásit nebo vytvořit nový účet na Bitwardenu."
+    "message": "Byli jste pozváni, abyste se stali nouzovým kontaktem pro výše uvedeného uživatele. Chcete-li přijmout pozvánku, musíte se přihlásit nebo vytvořit nový účet na QLine Vaultsu."
   },
   "emergencyInviteAcceptFailed": {
     "message": "Pozvánku nelze přijmout. Požádejte uživatele o zaslání nové pozvánky."
@@ -8528,7 +8528,7 @@
     "message": "Jak zapnout automatické potvrzení uživatele"
   },
   "autoConfirmExtension1": {
-    "message": "Otevřít rozšíření Bitwarden"
+    "message": "Otevřít rozšíření QLine Vaults"
   },
   "autoConfirmExtension2": {
     "message": "Vybrat",
@@ -8539,7 +8539,7 @@
     "description": "This is a fragment of a larger sencence. The whole sentence will read: 'Select Turn on'"
   },
   "autoConfirmExtensionOpened": {
-    "message": "Rozšíření prohlížeče Bitwarden bylo úspěšně otevřeno. Nyní můžete aktivovat automatické potvrzení uživatele."
+    "message": "Rozšíření prohlížeče QLine Vaults bylo úspěšně otevřeno. Nyní můžete aktivovat automatické potvrzení uživatele."
   },
   "autoConfirmPolicyEditDescription": {
     "message": "Noví uživatelé pozvaní do organizace budou automaticky potvrzeni při odemknutí zařízení správce. Před zapnutím této zásady zkontrolujte a odsouhlaste následující: ",
@@ -8753,7 +8753,7 @@
     "description": "VFO1 terminology variant of 'uriMatchDetectionPolicyDesc', shown in the policies list"
   },
   "uriMatchDetectionPolicyDescV2": {
-    "message": "Nastavte výchozí hodnotu, které části adresy webové stránky (URI) se musí shodovat, aby Bitwarden navrhl přihlašovací údaje pro automatické vyplnění. Toto pravidlo se nebude vztahovat na vlastníky a správce."
+    "message": "Nastavte výchozí hodnotu, které části adresy webové stránky (URI) se musí shodovat, aby QLine Vaults navrhl přihlašovací údaje pro automatické vyplnění. Toto pravidlo se nebude vztahovat na vlastníky a správce."
   },
   "uriMatchDetectionOptionsLabel": {
     "message": "Výchozí zjišťování shody URI"
@@ -8773,7 +8773,7 @@
     "message": "Vlastní sada pravidel automatického vyplňování"
   },
   "fillAssistRulesUrlHint": {
-    "message": "Ve výchozím nastavení asistent vyplňování používá předem vybranou sadu pravidel Bitwardenu. Zadejte sem adresu URL, chcete-li ji nahradit vlastní sadou pravidel."
+    "message": "Ve výchozím nastavení asistent vyplňování používá předem vybranou sadu pravidel QLine Vaultsu. Zadejte sem adresu URL, chcete-li ji nahradit vlastní sadou pravidel."
   },
   "invalidFillAssistRulesUrl": {
     "message": "Zadejte platnou URL adresu",
@@ -8886,7 +8886,7 @@
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "sendAccessTaglineProductDesc": {
-    "message": "Bitwarden Send odesílá citlivé, dočasné informace ostatním snadno a bezpečně.",
+    "message": "QLine Vaults Send odesílá citlivé, dočasné informace ostatním snadno a bezpečně.",
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "sendAccessTaglineLearnMore": {
@@ -8913,7 +8913,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Learn more, see how it works, **or** try it now.'"
   },
   "developmentDevOpsAndITTeamsChooseBWSecret": {
-    "message": "Vývojáři i IT týmy si vybírají Správce tajných klíčů Bitwarden pro bezpečnou správu a nasazení do jejich své infrastruktury a tajných klíčů."
+    "message": "Vývojáři i IT týmy si vybírají Správce tajných klíčů QLine Vaults pro bezpečnou správu a nasazení do jejich své infrastruktury a tajných klíčů."
   },
   "centralizeSecretsManagement": {
     "message": "Centralizujte správu tajných klíčů."
@@ -8949,10 +8949,10 @@
     "message": "Přidat poznámku"
   },
   "bitwardenSecretsManager": {
-    "message": "Správce tajných klíčů Bitwarden"
+    "message": "Správce tajných klíčů QLine Vaults"
   },
   "moreProductsFromBitwarden": {
-    "message": "Více produktů od Bitwardenu"
+    "message": "Více produktů od QLine Vaultsu"
   },
   "requestAccessToSecretsManager": {
     "message": "Požádat o přístup ke Správci tajných klíčů"
@@ -8964,7 +8964,7 @@
     "message": "Žádost o přístup ke Správci tajných klíčů byla odeslána e-mailem správcům."
   },
   "requestAccessSMDefaultEmailContent": {
-    "message": "Zdravím,\n\nžádám o předplatné Správce tajných klíčů Bitwarden pro náš tým. Vaše podpora by pro nás znamenala mnoho!\n\nSprávce tajných klíčů Bitwarden je end-to-end řešení pro správu šifrovaných tajných klíčů pro bezpečné ukládání, sdílení a nasazení strojových pověření, jako jsou klíče API, databázová hesla a ověřovací certifikáty.\n\nSprávce klíčů nám pomůže:\n\n- zlepšit zabezpečení\n- zjednodušit provoz\n- zabránit nákladným únikům tajných klíčů\n\nChcete-li požádat o bezplatnou zkušební verzi pro náš tým, obraťte se na společnost Bitwarden.\n\nDěkujeme Vám za pomoc!"
+    "message": "Zdravím,\n\nžádám o předplatné Správce tajných klíčů QLine Vaults pro náš tým. Vaše podpora by pro nás znamenala mnoho!\n\nSprávce tajných klíčů QLine Vaults je end-to-end řešení pro správu šifrovaných tajných klíčů pro bezpečné ukládání, sdílení a nasazení strojových pověření, jako jsou klíče API, databázová hesla a ověřovací certifikáty.\n\nSprávce klíčů nám pomůže:\n\n- zlepšit zabezpečení\n- zjednodušit provoz\n- zabránit nákladným únikům tajných klíčů\n\nChcete-li požádat o bezplatnou zkušební verzi pro náš tým, obraťte se na společnost QLine Vaults.\n\nDěkujeme Vám za pomoc!"
   },
   "giveMembersAccess": {
     "message": "Umožnit členům přístup:"
@@ -8998,7 +8998,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Learn more about Bitwarden Send or sign up to **try it today.**'"
   },
   "sendAccessCreatorIdentifier": {
-    "message": "Uživatel Bitwarden $USER_IDENTIFIER$ s Vámi sdílí následující",
+    "message": "Uživatel QLine Vaults $USER_IDENTIFIER$ s Vámi sdílí následující",
     "placeholders": {
       "user_identifier": {
         "content": "$1",
@@ -9023,7 +9023,7 @@
     "description": "Toast message shown when a user clicks the resend code link on the Send access page. 'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "viewSendHiddenEmailWarning": {
-    "message": "Uživatel Bitwardenu, který vytvořil tento Send, se rozhodl skrýt svou e-mailovou adresu. Před použitím nebo stažením jeho obsahu byste se měli ujistit, že zdroji tohoto odkazu důvěřujete.",
+    "message": "Uživatel QLine Vaultsu, který vytvořil tento Send, se rozhodl skrýt svou e-mailovou adresu. Před použitím nebo stažením jeho obsahu byste se měli ujistit, že zdroji tohoto odkazu důvěřujete.",
     "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
   },
   "expirationDateIsInvalid": {
@@ -9396,7 +9396,7 @@
     "message": "Chyba dešifrování"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden nemohl dešifrovat níže uvedené položky v trezoru."
+    "message": "QLine Vaults nemohl dešifrovat níže uvedené položky v trezoru."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Kontaktujte zákaznickou podporu,",
@@ -9413,7 +9413,7 @@
     "message": "Nastavení poskytovatele"
   },
   "setupProviderLoginDesc": {
-    "message": "Byli jste pozváni k nastavení nového poskytovatele. Chcete-li pokračovat, musíte se přihlásit nebo vytvořit nový účet na Bitwardenu."
+    "message": "Byli jste pozváni k nastavení nového poskytovatele. Chcete-li pokračovat, musíte se přihlásit nebo vytvořit nový účet na QLine Vaultsu."
   },
   "setupProviderDesc": {
     "message": "Pro dokončení nastavení poskytovatele, zadejte níže uvedené údaje. Pokud máte nějaké dotazy, kontaktujte zákaznickou podporu."
@@ -9444,13 +9444,13 @@
     "message": "Servisní uživatelé mohou přistupovat ke všem klientským organizacím a spravovat je."
   },
   "providerInviteUserDesc": {
-    "message": "Pozvěte nového uživatele k Vašemu poskytovateli zadáním e-mailové adresy jeho účtu na Bitwardenu. Pokud ještě nemá účet na Bitwardenu, bude vyzván k vytvoření nového účtu."
+    "message": "Pozvěte nového uživatele k Vašemu poskytovateli zadáním e-mailové adresy jeho účtu na QLine Vaultsu. Pokud ještě nemá účet na QLine Vaultsu, bude vyzván k vytvoření nového účtu."
   },
   "joinProvider": {
     "message": "Připojit se k poskytovateli"
   },
   "joinProviderDesc": {
-    "message": "Byly jste pozváni se připojit k výše uvedenému poskytovateli. Pro přijetí pozvánky se musíte přihlásit nebo si založit nový účet na Bitwardenu."
+    "message": "Byly jste pozváni se připojit k výše uvedenému poskytovateli. Pro přijetí pozvánky se musíte přihlásit nebo si založit nový účet na QLine Vaultsu."
   },
   "providerInviteAcceptFailed": {
     "message": "Nelze přijmout pozvánku. Požádejte správce poskytovatele o zaslání nové pozvánky."
@@ -9603,7 +9603,7 @@
     "message": "Akce časového limitu relace"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Spravováno rozšířením prohlížeče Bitwarden. Pro úpravu otevřete rozšíření prohlížeče."
+    "message": "Spravováno rozšířením prohlížeče QLine Vaults. Pro úpravu otevřete rozšíření prohlížeče."
   },
   "immediately": {
     "message": "Okamžitě"
@@ -9862,7 +9862,7 @@
     "message": "Konfigurace jednotného přihlášení byla uložena"
   },
   "sponsoredFamilies": {
-    "message": "Bitwarden pro rodinu zdarma"
+    "message": "QLine Vaults pro rodinu zdarma"
   },
   "sponsoredBitwardenFamilies": {
     "message": "Sponzorované rodiny"
@@ -9883,28 +9883,28 @@
     "message": "Žádný nečlen zatím nevyužil sponzorovaný rodinný tarif."
   },
   "sponsorshipFreeBitwardenFamilies": {
-    "message": "Členové Vaší organizace mají nárok na bezplatné rodiny Bitwarden. Můžete sponzorovat zdarma rodiny Bitwarden pro zaměstnance, kteří nejsou členy Vaší organizace Bitwarden. Sponzorování nečlena vyžaduje dostupné místo ve Vaší organizaci."
+    "message": "Členové Vaší organizace mají nárok na bezplatné rodiny QLine Vaults. Můžete sponzorovat zdarma rodiny QLine Vaults pro zaměstnance, kteří nejsou členy Vaší organizace QLine Vaults. Sponzorování nečlena vyžaduje dostupné místo ve Vaší organizaci."
   },
   "sponsorshipFreeBitwardenFamiliesV2": {
-    "message": "Vaši členové mají nárok na využití sponzorovaného rodinného tarifu. Můžete sponzorovat rodinný tarif pro zaměstnance, kteří nejsou členy Vaší organizace Bitwarden, ale k tomu je nutné, aby ve Vaší organizaci byla k dispozici volná místa."
+    "message": "Vaši členové mají nárok na využití sponzorovaného rodinného tarifu. Můžete sponzorovat rodinný tarif pro zaměstnance, kteří nejsou členy Vaší organizace QLine Vaults, ale k tomu je nutné, aby ve Vaší organizaci byla k dispozici volná místa."
   },
   "sponsoredFamiliesRemoveActiveSponsorship": {
     "message": "Pokud odeberete aktivní sponzorství, bude po datu obnovení sponzorované organizace k dispozici volný uživatel ve Vaší organizaci."
   },
   "sponsoredFamiliesEligible": {
-    "message": "Vy a Vaše rodina máte nárok na Bitwarden pro rodinu zdarma. Nárok můžete uplatnit Vaším osobním e-mailem, abyste zajistili bezpečnost Vašich dat, i když nejste v práci."
+    "message": "Vy a Vaše rodina máte nárok na QLine Vaults pro rodinu zdarma. Nárok můžete uplatnit Vaším osobním e-mailem, abyste zajistili bezpečnost Vašich dat, i když nejste v práci."
   },
   "sponsoredFamiliesEligibleV2": {
-    "message": "Vy a vaše rodina máte nárok na program \"Sponsored Families Plan\", a to bez jakýchkoli dodatečných nákladů. Tento program si aktivujte pomocí svého osobního e-mailu, abyste zajistili bezpečnost svých dat a oddělili je od svého pracovního účtu v Bitwardenu."
+    "message": "Vy a vaše rodina máte nárok na program \"Sponsored Families Plan\", a to bez jakýchkoli dodatečných nákladů. Tento program si aktivujte pomocí svého osobního e-mailu, abyste zajistili bezpečnost svých dat a oddělili je od svého pracovního účtu v QLine Vaultsu."
   },
   "sponsoredFamiliesEligibleCard": {
-    "message": "Uplatněte ještě dnes svůj plán Bitwarden pro rodinu zdarma, aby byla Vaše data bezpečná, i když nejste v práci."
+    "message": "Uplatněte ještě dnes svůj plán QLine Vaults pro rodinu zdarma, aby byla Vaše data bezpečná, i když nejste v práci."
   },
   "sponsoredFamiliesIncludeMessage": {
-    "message": "Plán Bitwarden pro rodiny zahrnuje"
+    "message": "Plán QLine Vaults pro rodiny zahrnuje"
   },
   "sponsoredFamiliesIncludeMessageV2": {
-    "message": "Plán \"Bitwarden Families\" obsahuje"
+    "message": "Plán \"QLine Vaults Families\" obsahuje"
   },
   "sponsoredFamiliesPremiumAccess": {
     "message": "Prémiový přístup až pro 6 uživatelů"
@@ -9925,7 +9925,7 @@
     "message": "Zde se zobrazí členové, kteří využili rodinné plány"
   },
   "membersWithSponsoredFamilies": {
-    "message": "Členové Vaší organizace mají nárok na bezplatné rodiny Bitwarden. Zde můžete vidět členy, kteří sponzorovali organizaci rodin."
+    "message": "Členové Vaší organizace mají nárok na bezplatné rodiny QLine Vaults. Zde můžete vidět členy, kteří sponzorovali organizaci rodin."
   },
   "organizationHasMemberMessage": {
     "message": "Sponzorství nemůže být odesláno do $EMAIL$, protože je členem Vaší organizace.",
@@ -9949,10 +9949,10 @@
     "message": "Vyberte organizaci, kterou chcete sponzorovat"
   },
   "familiesSponsoringOrgSelect": {
-    "message": "Kterou nabídku Bitwarden pro rodinu zdarma chcete uplatnit?"
+    "message": "Kterou nabídku QLine Vaults pro rodinu zdarma chcete uplatnit?"
   },
   "sponsoredFamiliesEmail": {
-    "message": "Pro uplatnění Bitwarden Families zadejte Váš osobní e-mail"
+    "message": "Pro uplatnění QLine Vaults Families zadejte Váš osobní e-mail"
   },
   "sponsoredFamiliesLeaveCopy": {
     "message": "Pokud odeberete nabídku nebo budete odebráni ze sponzorské organizace, Vaše sponzorství rodiny vyprší k dalšímu datu obnovy."
@@ -9961,7 +9961,7 @@
     "message": "Přijmout nabídku pro existující organizaci nebo vytvořit novou organizaci rodin."
   },
   "setupSponsoredFamiliesLoginDesc": {
-    "message": "Byl Vám nabídnut bezplatný plán organizace Bitwarden pro rodinu zdarma. Chcete-li pokračovat, musíte se přihlásit k účtu, který obdržel nabídku."
+    "message": "Byl Vám nabídnut bezplatný plán organizace QLine Vaults pro rodinu zdarma. Chcete-li pokračovat, musíte se přihlásit k účtu, který obdržel nabídku."
   },
   "sponsoredFamiliesAcceptFailed": {
     "message": "Nelze přijmout nabídku. Znovu odešlete e-mail s nabídkou z účtu Enterprise a zkuste to znovu."
@@ -9976,10 +9976,10 @@
     }
   },
   "sponsoredFamiliesOffer": {
-    "message": "Přijmout Bitwarden pro rodinu zdarma"
+    "message": "Přijmout QLine Vaults pro rodinu zdarma"
   },
   "sponsoredFamiliesOfferRedeemed": {
-    "message": "Nabídka Bitwarden pro rodinu zdarma byla úspěšně uplatněna"
+    "message": "Nabídka QLine Vaults pro rodinu zdarma byla úspěšně uplatněna"
   },
   "redeemed": {
     "message": "Uplatněno"
@@ -10110,7 +10110,7 @@
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Connect login with SSO to your self-hosted decryption key server. Using this option, members won’t need to use their master passwords to decrypt vault data. The require SSO authentication and single organization policies are required to set up Key Connector decryption. Contact Bitwarden Support for set up assistance.'"
   },
   "memberDecryptionKeyConnectorDescEnd": {
-    "message": "Pro pomoc při nastavení kontaktujte podporu Bitwarden.",
+    "message": "Pro pomoc při nastavení kontaktujte podporu QLine Vaults.",
     "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'Connect login with SSO to your self-hosted decryption key server. Using this option, members won’t need to use their master passwords to decrypt vault data. The require SSO authentication and single organization policies are required to set up Key Connector decryption. Contact Bitwarden Support for set up assistance.'"
   },
   "keyConnectorPolicyRestriction": {
@@ -10210,7 +10210,7 @@
     "message": "Vlastní prostředí"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Zadejte základní URL adresu Vaší vlastní hostované aplikace Bitwarden. Příklad: https://bitwarden.spolecnost.cz"
+    "message": "Zadejte základní URL adresu Vaší vlastní hostované aplikace QLine Vaults. Příklad: https://QLine Vaults.spolecnost.cz"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Pro rozšířená nastavení můžete zadat základní URL adresu každé služby zvlášť."
@@ -10258,7 +10258,7 @@
     "message": "Fakturační synchronizační token"
   },
   "automaticBillingSyncDesc": {
-    "message": "Automatická synchronizace odemkne sponzorství Families a automatickou synchronizaci licencí na serveru bez nutnosti nahrát soubor. Po provedení aktualizací na cloudovém serveru Bitwardenu použijte pro použití změn funkci \"Synchronizovat licenci\"."
+    "message": "Automatická synchronizace odemkne sponzorství Families a automatickou synchronizaci licencí na serveru bez nutnosti nahrát soubor. Po provedení aktualizací na cloudovém serveru QLine Vaultsu použijte pro použití změn funkci \"Synchronizovat licenci\"."
   },
   "active": {
     "message": "Aktivní"
@@ -10620,11 +10620,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Vygenerováno Bitwardenem.",
+    "message": "Vygenerováno QLine Vaultsem.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Webová stránka: $WEBSITE$. Vygenerováno Bitwardenem.",
+    "message": "Webová stránka: $WEBSITE$. Vygenerováno QLine Vaultsem.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -11785,7 +11785,7 @@
     "message": "Další nastavení"
   },
   "moreFromBitwarden": {
-    "message": "Více od Bitwardenu"
+    "message": "Více od QLine Vaultsu"
   },
   "switchProducts": {
     "message": "Přepnout produkty"
@@ -12705,7 +12705,7 @@
     "message": "Uživatel nastavil hlavní heslo během TDE offboardingu."
   },
   "startYour7DayFreeTrialOfBitwardenFor": {
-    "message": "Začněte 7denní bezplatnou zkušební verzi Bitwardenu pro $ORG$",
+    "message": "Začněte 7denní bezplatnou zkušební verzi QLine Vaultsu pro $ORG$",
     "placeholders": {
       "org": {
         "content": "$1",
@@ -12714,7 +12714,7 @@
     }
   },
   "startYour7DayFreeTrialOfBitwardenSecretsManagerFor": {
-    "message": "Začněte 7denní bezplatnou zkušební verzi Správce tajných klíčů Bitwarden pro $ORG$",
+    "message": "Začněte 7denní bezplatnou zkušební verzi Správce tajných klíčů QLine Vaults pro $ORG$",
     "placeholders": {
       "org": {
         "content": "$1",
@@ -13119,7 +13119,7 @@
     "message": "Začněte s Vaším trezorem"
   },
   "onboardingChecklistSubtitle": {
-    "message": "Dokončete tyto kroky pro zabezpečení Vašich osobních údajů a získejte co nejvíce z Bitwardenu"
+    "message": "Dokončete tyto kroky pro zabezpečení Vašich osobních údajů a získejte co nejvíce z QLine Vaultsu"
   },
   "dismissThisChecklist": {
     "message": "Zavřít tento kontrolní seznam"
@@ -13216,7 +13216,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Detekce shody URI je způsob, jakým Bitwarden identifikuje návrhy automatického vyplňování.",
+    "message": "Detekce shody URI je způsob, jakým QLine Vaults identifikuje návrhy automatického vyplňování.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -13260,13 +13260,13 @@
     "message": "Detaily potvrzení"
   },
   "smFreeTrialThankYou": {
-    "message": "Děkujeme za registraci do Správce tajných klíčů Bitwarden!"
+    "message": "Děkujeme za registraci do Správce tajných klíčů QLine Vaults!"
   },
   "smFreeTrialConfirmationEmail": {
     "message": "Potvrzovací e-mail byl odeslán na "
   },
   "sorryToSeeYouGo": {
-    "message": "Je nám líto, že odcházíte! Pomozte nám Bitwarden vylepšit a řekněte nám, co se Vám nelíbí.",
+    "message": "Je nám líto, že odcházíte! Pomozte nám QLine Vaults vylepšit a řekněte nám, co se Vám nelíbí.",
     "description": "A message shown to users as part of an offboarding survey asking them to provide more information on their subscription cancelation."
   },
   "selectCancellationReason": {
@@ -13828,20 +13828,20 @@
     "message": "Integrace"
   },
   "integrationsDesc": {
-    "message": "Automaticky synchronizuje tajné klíče se Správce tajných klíčů Bitwarden do služby třetí strany."
+    "message": "Automaticky synchronizuje tajné klíče se Správce tajných klíčů QLine Vaults do služby třetí strany."
   },
   "sdks": {
     "message": "SDK"
   },
   "sdksDesc": {
-    "message": "Použije SDK Správce tajných klíčů Bitwarden v následujících programovacích jazycích k vytvoření vlastních aplikací."
+    "message": "Použije SDK Správce tajných klíčů QLine Vaults v následujících programovacích jazycích k vytvoření vlastních aplikací."
   },
   "ssoDescStart": {
     "message": "Nastavit",
     "description": "This represents the beginning of a sentence, broken up to include links. The full sentence will be 'Configure single sign-on for Bitwarden using the implementation guide for your Identity Provider."
   },
   "ssoDescEnd": {
-    "message": "Bitwarden pomocí průvodce implementací Vašeho poskytovatele identity.",
+    "message": "QLine Vaults pomocí průvodce implementací Vašeho poskytovatele identity.",
     "description": "This represents the end of a sentence, broken up to include links. The full sentence will be 'Configure single sign-on for Bitwarden using the implementation guide for your Identity Provider."
   },
   "userProvisioning": {
@@ -13855,26 +13855,26 @@
     "description": "This represents the beginning of a sentence, broken up to include links. The full sentence will be 'Configure SCIM (System for Cross-domain Identity Management) to automatically provision users and groups to Bitwarden using the implementation guide for your Identity Provider"
   },
   "scimIntegrationDescEnd": {
-    "message": "(Systém pro správu identity napříč doménami) automaticky poskytuje uživatelům a skupinám Bitwarden pomocí prováděcího průvodce pro Vašeho poskytovatele identity.",
+    "message": "(Systém pro správu identity napříč doménami) automaticky poskytuje uživatelům a skupinám QLine Vaults pomocí prováděcího průvodce pro Vašeho poskytovatele identity.",
     "description": "This represents the end of a sentence, broken up to include links. The full sentence will be 'Configure SCIM (System for Cross-domain Identity Management) to automatically provision users and groups to Bitwarden using the implementation guide for your Identity Provider"
   },
   "bwdc": {
-    "message": "Konektor adresáře Bitwarden"
+    "message": "Konektor adresáře QLine Vaults"
   },
   "bwdcDesc": {
-    "message": "Nastaví konektor adresáře Bitwarden tak, aby automaticky poskytoval uživatele a skupiny pomocí implementačního průvodce pro Vašeho poskytovatele identity."
+    "message": "Nastaví konektor adresáře QLine Vaults tak, aby automaticky poskytoval uživatele a skupiny pomocí implementačního průvodce pro Vašeho poskytovatele identity."
   },
   "eventManagement": {
     "message": "Správa událostí"
   },
   "eventManagementDesc": {
-    "message": "Integruje logy událostí Bitwardenu do systému SIEM (systémové informace a správu událostí) pomocí implementačního průvodce Vaší platformy."
+    "message": "Integruje logy událostí QLine Vaultsu do systému SIEM (systémové informace a správu událostí) pomocí implementačního průvodce Vaší platformy."
   },
   "deviceManagement": {
     "message": "Správa zařízení"
   },
   "deviceManagementDesc": {
-    "message": "Nastaví správu zařízení pro Bitwarden pomocí implementačního průvodce pro Vaši platformu."
+    "message": "Nastaví správu zařízení pro QLine Vaults pomocí implementačního průvodce pro Vaši platformu."
   },
   "crowdstrikeEventIntegrationDesc": {
     "message": "Odeslat data události do Vaší instance Logscale"
@@ -14093,22 +14093,22 @@
     "message": "Spravovat fakturaci z portálu poskytovatele"
   },
   "continueSettingUp": {
-    "message": "Pokračovat v nastavení Bitwardenu"
+    "message": "Pokračovat v nastavení QLine Vaultsu"
   },
   "continueSettingUpFreeTrial": {
-    "message": "Pokračujte v nastavení zkušební verze aplikace Bitwarden"
+    "message": "Pokračujte v nastavení zkušební verze aplikace QLine Vaults"
   },
   "continueSettingUpPasswordManager": {
-    "message": "Pokračujte v nastavení Správce hesel Bitwarden"
+    "message": "Pokračujte v nastavení Správce hesel QLine Vaults"
   },
   "continueSettingUpFreeTrialPasswordManager": {
-    "message": "Pokračujte v nastavení bezplatného zkušebního období Správce hesel Bitwarden"
+    "message": "Pokračujte v nastavení bezplatného zkušebního období Správce hesel QLine Vaults"
   },
   "continueSettingUpSecretsManager": {
-    "message": "Pokračujte v nastavení Správce tajných klíčů Bitwarden"
+    "message": "Pokračujte v nastavení Správce tajných klíčů QLine Vaults"
   },
   "continueSettingUpFreeTrialSecretsManager": {
-    "message": "Pokračujte v nastavení bezplatného zkušebního období Správce tajných klíčů Bitwarden"
+    "message": "Pokračujte v nastavení bezplatného zkušebního období Správce tajných klíčů QLine Vaults"
   },
   "enterTeamsOrgInfo": {
     "message": "Zadejte informace o Teams Vaší organizace"
@@ -14384,14 +14384,14 @@
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'Notice: Later this month, client vault privacy will be improved and provider members will no longer have direct access to client vault items. For questions, please contact Bitwarden support'."
   },
   "contactBitwardenSupport": {
-    "message": "obraťte na podporu společnosti Bitwarden.",
+    "message": "obraťte na podporu společnosti QLine Vaults.",
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'Notice: Later this month, client vault privacy will be improved and provider members will no longer have direct access to client vault items. For questions, please contact Bitwarden support'. 'Bitwarden' should not be translated"
   },
   "sponsored": {
     "message": "Sponzorováno"
   },
   "licenseAndBillingManagementDesc": {
-    "message": "Po provedení aktualizací na cloudovém serveru Bitwardenu nahrajte Váš licenční soubor pro použití nejnovějších změn."
+    "message": "Po provedení aktualizací na cloudovém serveru QLine Vaultsu nahrajte Váš licenční soubor pro použití nejnovějších změn."
   },
   "addToFolder": {
     "message": "Přidat do složky"
@@ -14509,7 +14509,7 @@
     "message": "Co je číslo CVV?"
   },
   "learnMoreAboutApi": {
-    "message": "Další informace o API Bitwardenu"
+    "message": "Další informace o API QLine Vaultsu"
   },
   "fileSends": {
     "message": "Sends se soubory"
@@ -14704,7 +14704,7 @@
     "message": "Vaše předplatné Správce tajných klíčů bude aktualizováno na základě vybraného tarifu"
   },
   "bitwardenPasswordManager": {
-    "message": "Správce hesel Bitwarden"
+    "message": "Správce hesel QLine Vaults"
   },
   "secretsManagerComplimentaryPasswordManager": {
     "message": "Vaše doplňkové roční předplatné Správce hesel bude aktualizováno na vybraný plán. Poplatek Vám bude účtován až po skončení bezplatného období."
@@ -14782,7 +14782,7 @@
     "description": "This represents the beginning of a sentence. The full sentence will be 'Manage subscription from the Provider Portal', but 'Provider Portal' will be a link and thus cannot be included in the translation file."
   },
   "toHostBitwardenOnYourOwnServer": {
-    "message": "Chcete-li hostovat Bitwarden na vlastním serveru, musíte nahrát licenční soubor. Chcete-li podporovat plány Free Families a pokročilé možnosti účtování pro Vaši vlastní hostovanou organizaci, budete muset nastavit automatickou synchronizaci ve Vaší vlastní hostované organizaci."
+    "message": "Chcete-li hostovat QLine Vaults na vlastním serveru, musíte nahrát licenční soubor. Chcete-li podporovat plány Free Families a pokročilé možnosti účtování pro Vaši vlastní hostovanou organizaci, budete muset nastavit automatickou synchronizaci ve Vaší vlastní hostované organizaci."
   },
   "selfHostingTitleProper": {
     "message": "Vlastní server"
@@ -14906,7 +14906,7 @@
     "message": "Úspěšně smazáno"
   },
   "freeFamiliesSponsorship": {
-    "message": "Odebrat sponzorství Free Bitwarden Families"
+    "message": "Odebrat sponzorství Free QLine Vaults Families"
   },
   "freeFamiliesSponsorshipPolicyTitleV2": {
     "message": "Odebrat sponzorovaný plán Families"
@@ -14981,10 +14981,10 @@
     "message": "Automaticky uplatněné domény"
   },
   "automaticDomainClaimProcess": {
-    "message": "Bitwarden se pokusí uplatnit doménu třikrát během prvních 72 hodin. Pokud doménu nelze uplatnit, zkontrolujte záznam DNS v hostitelském počítači a uplatněte ji ručně. Pokud se doménu nepodaří uplatnit, bude z Vaší organizace odebrána do 7 dnů."
+    "message": "QLine Vaults se pokusí uplatnit doménu třikrát během prvních 72 hodin. Pokud doménu nelze uplatnit, zkontrolujte záznam DNS v hostitelském počítači a uplatněte ji ručně. Pokud se doménu nepodaří uplatnit, bude z Vaší organizace odebrána do 7 dnů."
   },
   "automaticDomainClaimProcess1": {
-    "message": "Bitwarden se pokusí nárokovat doménu do 72 hodin. Pokud doménu nelze nárokovat, ověřte svůj DNS záznam a nárokujte ručně. Nenárokované domény jsou odebrány po 7 dnech."
+    "message": "QLine Vaults se pokusí nárokovat doménu do 72 hodin. Pokud doménu nelze nárokovat, ověřte svůj DNS záznam a nárokujte ručně. Nenárokované domény jsou odebrány po 7 dnech."
   },
   "automaticDomainClaimProcess2": {
     "message": "Po nárokování budou stávající členové s nárokovanými doménami obeznámeni e-mailem o "
@@ -15152,19 +15152,19 @@
     "message": "Kopírovat soukromý klíč"
   },
   "openingExtension": {
-    "message": "Otevírání rozšíření Bitwarden pro prohlížeč"
+    "message": "Otevírání rozšíření QLine Vaults pro prohlížeč"
   },
   "somethingWentWrong": {
     "message": "Něco se pokazilo…"
   },
   "openingExtensionError": {
-    "message": "Měli jsme potíže s otevřením rozšíření Bitwarden pro pohlížeč. Klepněte na tlačítko pro jeho otevření."
+    "message": "Měli jsme potíže s otevřením rozšíření QLine Vaults pro pohlížeč. Klepněte na tlačítko pro jeho otevření."
   },
   "openExtension": {
     "message": "Otevřít rozšíření"
   },
   "doNotHaveExtension": {
-    "message": "Nemáte rozšíření Bitwarden pro prohlížeč?"
+    "message": "Nemáte rozšíření QLine Vaults pro prohlížeč?"
   },
   "installExtension": {
     "message": "Nainstalovat rozšíření"
@@ -15173,7 +15173,7 @@
     "message": "Otevřeno rozšíření prohlížeče"
   },
   "openedExtensionViewAtRiskPasswords": {
-    "message": "Rozšíření Bitwarden pro prohlížeč bylo úspěšně otevřeno. Nyní můžete zkontrolovat Vaše zranitelná hesla."
+    "message": "Rozšíření QLine Vaults pro prohlížeč bylo úspěšně otevřeno. Nyní můžete zkontrolovat Vaše zranitelná hesla."
   },
   "resellerRenewalWarningMsg": {
     "message": "Vaše předplatné se brzy obnoví. Chcete-li zajistit nepřerušenou službu, kontaktujte $RESELLER$ pro potvrzení obnovení před $RENEWAL_DATE$.",
@@ -15189,7 +15189,7 @@
     }
   },
   "resellerRenewalWarningMsgV2": {
-    "message": "Vaše předplatné se brzy obnoví. Chcete-li zajistit nepřerušenou službu, kontaktujte poskytovatele Bitwardenu pro potvrzení obnovení před $RENEWAL_DATE$.",
+    "message": "Vaše předplatné se brzy obnoví. Chcete-li zajistit nepřerušenou službu, kontaktujte poskytovatele QLine Vaultsu pro potvrzení obnovení před $RENEWAL_DATE$.",
     "placeholders": {
       "renewal_date": {
         "content": "$1",
@@ -15228,7 +15228,7 @@
     }
   },
   "resellerPastDueWarningMsgV2": {
-    "message": "Faktura za Vaše předplatné nebyla zaplacena. Chcete-li zajistit nepřerušovanou službu, kontaktujte poskytovatele Bitwardenu pro potvrzení obnovení před $GRACE_PERIOD_END$.",
+    "message": "Faktura za Vaše předplatné nebyla zaplacena. Chcete-li zajistit nepřerušovanou službu, kontaktujte poskytovatele QLine Vaultsu pro potvrzení obnovení před $GRACE_PERIOD_END$.",
     "placeholders": {
       "grace_period_end": {
         "content": "$1",
@@ -15386,7 +15386,7 @@
     "message": "Aktualizujte pro zobrazení logů událostí z Vaší organizace."
   },
   "upgradeEventLogMessage": {
-    "message": "Tyto události jsou jen příklady a neodrážejí skutečné události v rámci Vaší organizace Bitwarden."
+    "message": "Tyto události jsou jen příklady a neodrážejí skutečné události v rámci Vaší organizace QLine Vaults."
   },
   "viewEvents": {
     "message": "Zobrazit události"
@@ -15567,7 +15567,7 @@
     "message": "Bezpečné automatické vyplňování hesel jedním klepnutím"
   },
   "setupExtensionPageDescription": {
-    "message": "Získejte rozšíření Bitwarden pro prohlížeč a začněte s automatickým vyplňováním ještě dnes"
+    "message": "Získejte rozšíření QLine Vaults pro prohlížeč a začněte s automatickým vyplňováním ještě dnes"
   },
   "getTheExtension": {
     "message": "Získat rozšíření"
@@ -15585,19 +15585,19 @@
     "message": "Přeskočit na webovou aplikaci"
   },
   "bitwardenExtensionInstalled": {
-    "message": "Rozšíření Bitwarden nainstalováno!"
+    "message": "Rozšíření QLine Vaults nainstalováno!"
   },
   "bitwardenExtensionIsInstalled": {
-    "message": "Rozšíření Bitwarden je nainstalováno!"
+    "message": "Rozšíření QLine Vaults je nainstalováno!"
   },
   "openExtensionToAutofill": {
     "message": "Otevřete rozšíření pro příhlášení a spuštění automatického vyplňování."
   },
   "openBitwardenExtension": {
-    "message": "Otevřít rozšíření Bitwarden"
+    "message": "Otevřít rozšíření QLine Vaults"
   },
   "gettingStartedWithBitwardenPart1": {
-    "message": "Pro tipy, jak začít používat Bitwarden, navštivte",
+    "message": "Pro tipy, jak začít používat QLine Vaults, navštivte",
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'For tips on getting started with Bitwarden visit the Learning Center and Help Center'"
   },
   "gettingStartedWithBitwardenPart2": {
@@ -15605,7 +15605,7 @@
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'For tips on getting started with Bitwarden visit the Learning Center and Help Center'"
   },
   "openExtensionFromToolbarPart1": {
-    "message": "Pokud není rozšíření otevřeno, možná budete muset otevřít Bitwarden z ikony ",
+    "message": "Pokud není rozšíření otevřeno, možná budete muset otevřít QLine Vaults z ikony ",
     "description": "This will be used as part of a larger sentence, broken up to include the Bitwarden icon. The full sentence will read 'If the extension didn't open, you may need to open Bitwarden from the icon [Bitwarden Icon] on the toolbar.'"
   },
   "openExtensionFromToolbarPart2": {
@@ -15617,7 +15617,7 @@
     "description": "This will be displayed as part of a larger sentence. The whole sentence reads: 'For tips on getting started with Bitwarden visit the Learning Center and Help Center'"
   },
   "setupExtensionContentAlt": {
-    "message": "Pomocí rozšíření Bitwarden pro prohlížeč můžete snadno vytvářet nová přihlašovací jména, přistupovat k uloženým přihlašovacím jménům přímo z panelu nástrojů prohlížeče a rychle se přihlašovat k účtům pomocí automatického vyplňování."
+    "message": "Pomocí rozšíření QLine Vaults pro prohlížeč můžete snadno vytvářet nová přihlašovací jména, přistupovat k uloženým přihlašovacím jménům přímo z panelu nástrojů prohlížeče a rychle se přihlašovat k účtům pomocí automatického vyplňování."
   },
   "restart": {
     "message": "Restartovat"
@@ -15649,7 +15649,7 @@
     "message": "O tomto nastavení"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden bude používat uložené přihlašovací URI k identifikaci, která ikona nebo změna adresy URL by měla být použita pro zlepšení Vašeho zážitku. Při používání této služby nejsou shromažďovány ani ukládány žádné informace."
+    "message": "QLine Vaults bude používat uložené přihlašovací URI k identifikaci, která ikona nebo změna adresy URL by měla být použita pro zlepšení Vašeho zážitku. Při používání této služby nejsou shromažďovány ani ukládány žádné informace."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Přidá vedle položek 3 tlačítka pro rychlé kopírování, pomocí kterých můžete zkopírovat své uživatelské jméno, heslo nebo ověřovací kód do schránky."
@@ -15719,7 +15719,7 @@
     }
   },
   "restoreProviderPortalAccessViaCustomerSupport": {
-    "message": "Chcete-li obnovit přístup k portálu poskytovatele, obraťte se na zákaznickou podporu Bitwarden pro obnovení předplatného.",
+    "message": "Chcete-li obnovit přístup k portálu poskytovatele, obraťte se na zákaznickou podporu QLine Vaults pro obnovení předplatného.",
     "description": "A message shown in a non-dismissible dialog to any user of a suspended providers."
   },
   "restoreProviderPortalAccessViaPaymentMethod": {
@@ -15761,7 +15761,7 @@
     "message": "Předplatné bylo zrušeno"
   },
   "providersubCanceledmessage": {
-    "message": "Chcete-li se znovu přihlásit, kontaktujte zákaznickou podporu Bitwarden."
+    "message": "Chcete-li se znovu přihlásit, kontaktujte zákaznickou podporu QLine Vaults."
   },
   "showAll": {
     "message": "Zobrazit vše"
@@ -15904,7 +15904,7 @@
     "message": "Vlastní plán"
   },
   "planDescCustom": {
-    "message": "Bitwarden se přizpůsobí firmám všech velikostí a zajistí bezpečnost hesel a citlivých informací. Pokud jste součástí velké společnosti, kontaktujte obchodní oddělení a požádejte o cenovou nabídku."
+    "message": "QLine Vaults se přizpůsobí firmám všech velikostí a zajistí bezpečnost hesel a citlivých informací. Pokud jste součástí velké společnosti, kontaktujte obchodní oddělení a požádejte o cenovou nabídku."
   },
   "builtInAuthenticator": {
     "message": "Vestavěný autentifikátor"
@@ -16021,7 +16021,7 @@
     "message": "Došlo k chybě při výpočtu daně pro Vaši polohu. Zkuste to znovu."
   },
   "individualUpgradeWelcomeMessage": {
-    "message": "Vítejte v Bitwardenu"
+    "message": "Vítejte v QLine Vaultsu"
   },
   "individualUpgradeDescriptionMessage": {
     "message": "Odemkněte více bezpečnostních funkcí s licencí Premium, nebo začněte sdílet položky s Rodinami"
@@ -16042,7 +16042,7 @@
     "message": "Aktualizovat nyní"
   },
   "getAdvancedOnlineSecurityWithBitwardenPremium": {
-    "message": "Získejte pokročilé zabezpečení online s Bitwarden Premium."
+    "message": "Získejte pokročilé zabezpečení online s QLine Vaults Premium."
   },
   "formWillCreateNewFamiliesOrgMessage": {
     "message": "Vyplněním tohoto formuláře vytvoříte novou organizaci Rodin. Můžete vylepšit svou bezplatnou organizaci z konzole správce."
@@ -16051,7 +16051,7 @@
     "message": "Při zpracování aktualizace došlo k chybě. Zkuste to znovu."
   },
   "bitwardenFreeplanMessage": {
-    "message": "Máte bezplatný plán Bitwarden"
+    "message": "Máte bezplatný plán QLine Vaults"
   },
   "upgradeCompleteSecurity": {
     "message": "Aktualizujte pro úplné zabezpečení"
@@ -16069,7 +16069,7 @@
     "message": "Algoritmus"
   },
   "encryptionKeySettingsHowShouldWeEncryptYourData": {
-    "message": "Vyberte, jak by Bitwarden měl šifrovat Vaše data trezoru. Všechny volby jsou bezpečné, ale silnější metody poskytují lepší ochranu - zejména proti útokům silou. Bitwarden doporučuje výchozí nastavení pro většinu uživatelů."
+    "message": "Vyberte, jak by QLine Vaults měl šifrovat Vaše data trezoru. Všechny volby jsou bezpečné, ale silnější metody poskytují lepší ochranu - zejména proti útokům silou. QLine Vaults doporučuje výchozí nastavení pro většinu uživatelů."
   },
   "encryptionKeySettingsIncreaseImproveSecurity": {
     "message": "Zvýšení hodnot nad výchozím nastavením zvýší zabezpečení, ale odemknutí Vašeho trezoru může trvat déle."
@@ -16100,10 +16100,10 @@
     "description": "VFO1 terminology variant of 'blockClaimedDomainAccountCreationDesc', shown in the policies list"
   },
   "blockClaimedDomainAccountCreationDescV2": {
-    "message": "Zabrání členům v tom, aby pomocí Vaší zaregistrované domény zakládali účty Bitwarden mimo Vaši organizaci."
+    "message": "Zabrání členům v tom, aby pomocí Vaší zaregistrované domény zakládali účty QLine Vaults mimo Vaši organizaci."
   },
   "blockClaimedDomainAccountCreationDescV2Vfo1": {
-    "message": "Zabrání členům v tom, aby pomocí Vaší zaregistrované domény zakládali účty Bitwarden mimo trezor Vaší organizace.",
+    "message": "Zabrání členům v tom, aby pomocí Vaší zaregistrované domény zakládali účty QLine Vaults mimo trezor Vaší organizace.",
     "description": "VFO1 terminology variant of 'blockClaimedDomainAccountCreationDescV2'"
   },
   "blockClaimedDomainAccountCreationPrerequisiteV2": {
@@ -16141,7 +16141,7 @@
     }
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Vaše organizace již k přihlášení do Bitwardenu nepoužívá hlavní hesla. Chcete-li pokračovat, ověřte organizaci a doménu."
+    "message": "Vaše organizace již k přihlášení do QLine Vaultsu nepoužívá hlavní hesla. Chcete-li pokračovat, ověřte organizaci a doménu."
   },
   "continueWithLogIn": {
     "message": "Pokračovat s přihlášením"
@@ -16344,7 +16344,7 @@
     "message": "Odmítnout a opustit"
   },
   "youHaveBitwardenPremium": {
-    "message": "Máte Bitwarden Premium"
+    "message": "Máte QLine Vaults Premium"
   },
   "viewAndManagePremiumSubscription": {
     "message": "Zobrazit a spravovat předplatné Premium"
@@ -16383,13 +16383,13 @@
     "message": "Již máte předplatné?"
   },
   "alreadyHaveSubscriptionSelfHostedMessage": {
-    "message": "Otevřete stránku s předplatným na Vašem účtu Bitwarden a stáhněte si licenční soubor. Poté se vraťte na tuto obrazovku a nahrajte jej níže."
+    "message": "Otevřete stránku s předplatným na Vašem účtu QLine Vaults a stáhněte si licenční soubor. Poté se vraťte na tuto obrazovku a nahrajte jej níže."
   },
   "alreadyHaveSubscriptionSelfHostedMessageV2": {
-    "message": "Otevřete stránku s předplatným na Vašem účtu Bitwarden a stáhněte si licenční soubor. Poté se vraťte na tuto obrazovku a nahrajte jej níže."
+    "message": "Otevřete stránku s předplatným na Vašem účtu QLine Vaults a stáhněte si licenční soubor. Poté se vraťte na tuto obrazovku a nahrajte jej níže."
   },
   "alreadyHaveSubscriptionSelfHostedMessageV3": {
-    "message": "Ve svém cloudovém prostředí se přihlaste ke svému účtu Bitwarden, otevřete stránku předplatného a stáhněte si licenční soubor. Poté se vraťte na tuto obrazovku a soubor nahrajte."
+    "message": "Ve svém cloudovém prostředí se přihlaste ke svému účtu QLine Vaults, otevřete stránku předplatného a stáhněte si licenční soubor. Poté se vraťte na tuto obrazovku a soubor nahrajte."
   },
   "viewAllPlans": {
     "message": "Zobraz všechny plány"
@@ -16475,10 +16475,10 @@
     "message": "Získejte rozšíření pro snadný přístup k trezoru"
   },
   "extensionPromptBody": {
-    "message": "S nainstalovaným rozšířením prohlížeče budete mít Bitwarden všude online. Budou se vyplňovat hesla, takže se můžete přihlásit do svých účtů jediným klepnutím."
+    "message": "S nainstalovaným rozšířením prohlížeče budete mít QLine Vaults všude online. Budou se vyplňovat hesla, takže se můžete přihlásit do svých účtů jediným klepnutím."
   },
   "extensionPromptImageAlt": {
-    "message": "Webový prohlížeč zobrazující rozšíření Bitwarden s položkami automatického vyplňování aktuální webové stránky."
+    "message": "Webový prohlížeč zobrazující rozšíření QLine Vaults s položkami automatického vyplňování aktuální webové stránky."
   },
   "skip": {
     "message": "Přeskočit"
@@ -16526,10 +16526,10 @@
     "message": "Neplatné heslo k Send"
   },
   "vaultWelcomeDialogTitle": {
-    "message": "Jste u nás! Vítejte v Bitwardenu"
+    "message": "Jste u nás! Vítejte v QLine Vaultsu"
   },
   "vaultWelcomeDialogDescription": {
-    "message": "Uložte všechna Vaše hesla a osobní informace v trezoru Bitwarden. Provedeme Vás tady."
+    "message": "Uložte všechna Vaše hesla a osobní informace v trezoru QLine Vaults. Provedeme Vás tady."
   },
   "vaultWelcomeDialogPrimaryCta": {
     "message": "Zahájit prohlídku"
@@ -16763,7 +16763,7 @@
     "message": "Pomozte členům se zlepšovat"
   },
   "aiCoachmarkHelpMembersDescription": {
-    "message": "Jakmile vyberete klíčové aplikace, vyzvěte členy, aby si změnili ohrožená hesla. Zpráva se jim zobrazí v rozšíření Bitwarden."
+    "message": "Jakmile vyberete klíčové aplikace, vyzvěte členy, aby si změnili ohrožená hesla. Zpráva se jim zobrazí v rozšíření QLine Vaults."
   },
   "aiCoachmarkRunReportTitle": {
     "message": "Mějte přehled o nových rizicích"
@@ -17526,7 +17526,7 @@
     "message": "Platba proběhla úspěšně"
   },
   "paymentSuccessfulProcessingMessage": {
-    "message": "Aktualizace je zpracovávána. Může trvat několik minut před tím, než v Bitwardenu uvidíte funkce Premium."
+    "message": "Aktualizace je zpracovávána. Může trvat několik minut před tím, než v QLine Vaultsu uvidíte funkce Premium."
   },
   "planPurchased": {
     "message": "Předplatné je zakoupeno"
