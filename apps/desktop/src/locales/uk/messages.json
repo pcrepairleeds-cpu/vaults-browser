@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "Увімкнути агента SSH"
   },
   "enableSshAgentDesc": {
-    "message": "Увімкніть агента SSH, щоб підписувати запити SSH безпосередньо зі сховища Bitwarden."
+    "message": "Увімкніть агента SSH, щоб підписувати запити SSH безпосередньо зі сховища QLine Vaults."
   },
   "enableSshAgentHelp": {
-    "message": "Агент SSH – це служба, призначена для розробників, яка дає можливість підписувати запити SSH безпосередньо зі сховища Bitwarden."
+    "message": "Агент SSH – це служба, призначена для розробників, яка дає можливість підписувати запити SSH безпосередньо зі сховища QLine Vaults."
   },
   "sshAgentPromptBehavior": {
     "message": "Запитувати авторизацію у разі використання SSH-агента"
@@ -781,7 +781,7 @@
     "message": "Синхронізувати з браузером"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "Щоб під'єднатися до $VAULTURL$, вам потрібно синхронізувати свій типовий браузер з програмою Bitwarden. Після синхронізації вас буде переспрямовано назад до цієї програми.",
+    "message": "Щоб під'єднатися до $VAULTURL$, вам потрібно синхронізувати свій типовий браузер з програмою QLine Vaults. Після синхронізації вас буде переспрямовано назад до цієї програми.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Помилка розшифрування"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden не зміг розшифрувати вказані нижче елементи сховища."
+    "message": "QLine Vaults не зміг розшифрувати вказані нижче елементи сховища."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Зверніться до служби підтримки клієнтів,",
@@ -1480,7 +1480,7 @@
     "message": "Створити обліковий запис"
   },
   "newToBitwarden": {
-    "message": "Вперше у Bitwarden?"
+    "message": "Вперше у QLine Vaults?"
   },
   "setAStrongPassword": {
     "message": "Встановіть надійний пароль"
@@ -1492,7 +1492,7 @@
     "message": "Увійти"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Log in to Bitwarden"
+    "message": "Log in to QLine Vaults"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Введіть код, надісланий вам електронною поштою"
@@ -1650,7 +1650,7 @@
     "message": "Непередбачена помилка"
   },
   "closeThisBitwardenWindow": {
-    "message": "Закрийте це вікно Bitwarden і повторіть спробу."
+    "message": "Закрийте це вікно QLine Vaults і повторіть спробу."
   },
   "itemInformation": {
     "message": "Інформація про запис"
@@ -1724,7 +1724,7 @@
     "message": "Програма автентифікації"
   },
   "authenticatorAppDescV2": {
-    "message": "Введіть код, згенерований програмою для автентифікації, як-от Bitwarden Authenticator.",
+    "message": "Введіть код, згенерований програмою для автентифікації, як-от an authenticator app.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Середовище власного хостингу"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Вкажіть основну URL-адресу вашого встановлення Bitwarden на власному хостингу. Зразок: https://bitwarden.company.com"
+    "message": "Вкажіть основну URL-адресу вашого встановлення QLine Vaults на власному хостингу. Зразок: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Для розширеної конфігурації ви можете вказати основну URL-адресу окремо для кожної служби."
@@ -1872,7 +1872,7 @@
     "message": "Are you sure you want to rotate your account's encryption key?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "After updating your encryption key, you are required to log out and back in to all Bitwarden applications that you are currently using (such as the mobile app or browser extensions). Failure to log out and back in (which downloads your new encryption key) may result in data corruption. We will attempt to log you out automatically, however, it may be delayed."
+    "message": "After updating your encryption key, you are required to log out and back in to all QLine Vaults applications that you are currently using (such as the mobile app or browser extensions). Failure to log out and back in (which downloads your new encryption key) may result in data corruption. We will attempt to log you out automatically, however, it may be delayed."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Any account restricted exports you have saved will become invalid."
@@ -1968,7 +1968,7 @@
     "message": "Продовжити у вебпрограмі?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Ви можете змінити головний пароль у вебпрограмі Bitwarden."
+    "message": "Ви можете змінити головний пароль у вебпрограмі QLine Vaults."
   },
   "fingerprintPhrase": {
     "message": "Фраза відбитка",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "Двоетапна перевірка дає змогу надійніше захистити ваш обліковий запис, вимагаючи підтвердження входу з використанням іншого пристрою, наприклад, за допомогою ключа безпеки, програми автентифікації, SMS, телефонного виклику, або е-пошти. Ви можете налаштувати двоетапну перевірку в сховищі на bitwarden.com. Хочете перейти на вебсайт зараз?"
+    "message": "Двоетапна перевірка дає змогу надійніше захистити ваш обліковий запис, вимагаючи підтвердження входу з використанням іншого пристрою, наприклад, за допомогою ключа безпеки, програми автентифікації, SMS, телефонного виклику, або е-пошти. Ви можете налаштувати двоетапну перевірку в сховищі на vaults.qlineit.uk. Хочете перейти на вебсайт зараз?"
   },
   "twoStepLogin": {
     "message": "Двоетапна перевірка"
@@ -2120,19 +2120,19 @@
     "message": "No details to copy"
   },
   "runInBackground": {
-    "message": "Keep Bitwarden running in the background"
+    "message": "Keep QLine Vaults running in the background"
   },
   "runInBackgroundDesc": {
-    "message": "When you close the window, Bitwarden is accessible from the tray. Recommended when using the SSH agent or browser integration."
+    "message": "When you close the window, QLine Vaults is accessible from the tray. Recommended when using the SSH agent or browser integration."
   },
   "runInBackgroundDescMac": {
-    "message": "When you close the window, Bitwarden is accessible from the menu bar. Recommended when using the SSH agent or browser integration."
+    "message": "When you close the window, QLine Vaults is accessible from the menu bar. Recommended when using the SSH agent or browser integration."
   },
   "openAtLogin": {
     "message": "Запускати автоматично при вході"
   },
   "openAtLoginDesc": {
-    "message": "Запускати програму Bitwarden для комп'ютера автоматично із входом у систему."
+    "message": "Запускати програму QLine Vaults для комп'ютера автоматично із входом у систему."
   },
   "language": {
     "message": "Мова"
@@ -2255,7 +2255,7 @@
     "message": "Керувати передплатою"
   },
   "premiumManageAlert": {
-    "message": "Ви можете керувати передплатою у сховищі на bitwarden.com. Хочете перейти на вебсайт зараз?"
+    "message": "Ви можете керувати передплатою у сховищі на vaults.qlineit.uk. Хочете перейти на вебсайт зараз?"
   },
   "premiumSignUpStorage": {
     "message": "1 ГБ зашифрованого сховища для файлів."
@@ -2264,7 +2264,7 @@
     "message": "Придбати Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Ви можете придбати Premium у налаштуваннях облікового запису вебпрограми Bitwarden."
+    "message": "Ви можете придбати Premium у налаштуваннях облікового запису вебпрограми QLine Vaults."
   },
   "month": {
     "message": "місяць"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Про Bitwarden"
+    "message": "Про QLine Vaults"
   },
   "services": {
     "message": "Сервіси"
   },
   "hideBitwarden": {
-    "message": "Приховати Bitwarden"
+    "message": "Приховати QLine Vaults"
   },
   "hideOthers": {
     "message": "Приховати інше"
@@ -2501,7 +2501,7 @@
     "message": "Показати все"
   },
   "quitBitwarden": {
-    "message": "Вийти з Bitwarden"
+    "message": "Вийти з QLine Vaults"
   },
   "valueCopied": {
     "message": "$VALUE$ скопійовано",
@@ -2647,13 +2647,13 @@
     "message": "Цей пароль буде використано для експортування та імпортування цього файлу"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Використовуйте ключ шифрування свого облікового запису, створений на основі імені користувача й головного пароля, щоб зашифрувати експортовані дані та обмежити можливість імпортування лише до поточного облікового запису Bitwarden."
+    "message": "Використовуйте ключ шифрування свого облікового запису, створений на основі імені користувача й головного пароля, щоб зашифрувати експортовані дані та обмежити можливість імпортування лише до поточного облікового запису QLine Vaults."
   },
   "passwordProtected": {
     "message": "Захищено паролем"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Встановіть пароль файлу, щоб зашифрувати експортовані дані та імпортувати до будь-якого облікового запису Bitwarden за допомогою цього пароля."
+    "message": "Встановіть пароль файлу, щоб зашифрувати експортовані дані та імпортувати до будь-якого облікового запису QLine Vaults за допомогою цього пароля."
   },
   "exportTypeHeading": {
     "message": "Тип експорту"
@@ -2684,7 +2684,7 @@
     "message": "Цей експорт шифрує ваші дані за допомогою ключа шифрування облікового запису. Якщо ви коли-небудь оновите ключ шифрування облікового запису, необхідно виконати експорт знову, оскільки не зможете розшифрувати цей файл експорту."
   },
   "encExportAccountWarningDesc": {
-    "message": "Ключі шифрування унікальні для кожного облікового запису користувача Bitwarden, тому ви не можете імпортувати зашифрований експорт до іншого облікового запису."
+    "message": "Ключі шифрування унікальні для кожного облікового запису користувача QLine Vaults, тому ви не можете імпортувати зашифрований експорт до іншого облікового запису."
   },
   "noOrganizationsList": {
     "message": "Ви не входите до жодної організації. Організації дозволяють безпечно обмінюватися записами з іншими користувачами."
@@ -2714,7 +2714,7 @@
     "message": "Ненадійний головний пароль"
   },
   "weakMasterPasswordDesc": {
-    "message": "Ваш головний пароль ненадійний. Для належного захисту свого облікового запису Bitwarden використовуйте надійний головний пароль (або парольну фразу). Ви дійсно хочете використати цей пароль?"
+    "message": "Ваш головний пароль ненадійний. Для належного захисту свого облікового запису QLine Vaults використовуйте надійний головний пароль (або парольну фразу). Ви дійсно хочете використати цей пароль?"
   },
   "pin": {
     "message": "PIN-код",
@@ -2724,7 +2724,7 @@
     "message": "Розблокування з PIN-кодом"
   },
   "setYourPinCode": {
-    "message": "Встановіть PIN-код для розблокування Bitwarden. Налаштування PIN-коду будуть скинуті, якщо ви коли-небудь повністю вийдете з програми."
+    "message": "Встановіть PIN-код для розблокування QLine Vaults. Налаштування PIN-коду будуть скинуті, якщо ви коли-небудь повністю вийдете з програми."
   },
   "pinRequired": {
     "message": "Необхідний PIN-код."
@@ -2742,7 +2742,7 @@
     "message": "Розблокувати за допомогою системної автентифікації"
   },
   "windowsHelloConsentMessage": {
-    "message": "Перевірити на Bitwarden."
+    "message": "Перевірити на QLine Vaults."
   },
   "unlockWithTouchId": {
     "message": "Розблокувати з Touch ID"
@@ -2978,10 +2978,10 @@
     "message": "Спростіть двоетапну перевірку"
   },
   "totpHelper": {
-    "message": "Bitwarden може автоматично заповнювати одноразові коди двоетапної перевірки. Скопіюйте і вставте ключ у це поле."
+    "message": "QLine Vaults може автоматично заповнювати одноразові коди двоетапної перевірки. Скопіюйте і вставте ключ у це поле."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden може автоматично заповнювати одноразові коди двоетапної перевірки. Відкрийте камеру, щоб сканувати QR-код на цьому вебсайті, або скопіюйте і вставте ключ у це поле."
+    "message": "QLine Vaults може автоматично заповнювати одноразові коди двоетапної перевірки. Відкрийте камеру, щоб сканувати QR-код на цьому вебсайті, або скопіюйте і вставте ключ у це поле."
   },
   "premium": {
     "message": "Premium",
@@ -3067,7 +3067,7 @@
     "message": "One or more organization policies require the master password to meet the following requirements:"
   },
   "receiveMarketingEmails": {
-    "message": "Receive updates from Bitwarden in your inbox."
+    "message": "Receive updates from QLine Vaults in your inbox."
   },
   "unsubscribe": {
     "message": "Відписатися"
@@ -3091,7 +3091,7 @@
     "message": "Дозволити інтеграцію з браузером DuckDuckGo"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "Користуйтеся Bitwarden під час роботи з браузером DuckDuckGo."
+    "message": "Користуйтеся QLine Vaults під час роботи з браузером DuckDuckGo."
   },
   "enableHardwareAcceleration": {
     "message": "Використовувати апаратне прискорення"
@@ -3103,7 +3103,7 @@
     "message": "Схвалити"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$ хоче з'єднатися з Bitwarden",
+    "message": "$APPID$ хоче з'єднатися з QLine Vaults",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Згенеровано Bitwarden.",
+    "message": "Згенеровано QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Вебсайт: $WEBSITE$. Згенеровано Bitwarden.",
+    "message": "Вебсайт: $WEBSITE$. Згенеровано QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "Сповіщення надіслано на ваш пристрій"
   },
   "notificationSentDevicePart1": {
-    "message": "Розблокуйте Bitwarden на своєму пристрої або у "
+    "message": "Розблокуйте QLine Vaults на своєму пристрої або у "
   },
   "notificationSentDeviceAnchor": {
     "message": "вебпрограмі"
@@ -4000,7 +4000,7 @@
     "message": "Після схвалення запиту ви отримаєте сповіщення"
   },
   "needAnotherOption": {
-    "message": "Потрібно увімкнути схвалення запитів на вхід у налаштуваннях програми Bitwarden. Потрібен інший варіант?"
+    "message": "Потрібно увімкнути схвалення запитів на вхід у налаштуваннях програми QLine Vaults. Потрібен інший варіант?"
   },
   "viewAllLogInOptions": {
     "message": "Переглянути всі варіанти входу"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden рекомендує оновити ваші біометричні налаштування, щоб вимагати головний пароль (або PIN) під час першого розблокування. Чи бажаєте оновити налаштування зараз?"
+    "message": "QLine Vaults рекомендує оновити ваші біометричні налаштування, щоб вимагати головний пароль (або PIN) під час першого розблокування. Чи бажаєте оновити налаштування зараз?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Оновлення рекомендованих налаштувань"
@@ -4265,7 +4265,7 @@
     "message": "What is a device?"
   },
   "aDeviceIs": {
-    "message": "A device is a unique installation of the Bitwarden app where you have logged in. Reinstalling, clearing app data, or clearing your cookies could result in a device appearing multiple times."
+    "message": "A device is a unique installation of the QLine Vaults app where you have logged in. Reinstalling, clearing app data, or clearing your cookies could result in a device appearing multiple times."
   },
   "deviceListDescriptionTemp": {
     "message": "Your account was logged in to each of the devices below."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Виявлення збігів URI – це спосіб ідентифікації пропозицій автозаповнення Bitwarden.",
+    "message": "Виявлення збігів URI – це спосіб ідентифікації пропозицій автозаповнення QLine Vaults.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Download then share the diagnostic report with"
   },
   "bitwardenSupport": {
-    "message": "Підтримка Bitwarden",
+    "message": "Підтримка QLine Vaults",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "Біометричне розблокування недоступне через неправильно налаштовані системні файли."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "Біометричне розблокування недоступне, оскільки воно не увімкнене для $EMAIL$ у програмі Bitwarden для комп'ютера.",
+    "message": "Біометричне розблокування недоступне, оскільки воно не увімкнене для $EMAIL$ у програмі QLine Vaults для комп'ютера.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "Налаштувати двоетапну перевірку"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden надсилатиме код підтвердження на електронну пошту вашого облікового запису під час входу з нових пристроїв, починаючи з лютого 2025 року."
+    "message": "QLine Vaults надсилатиме код підтвердження на електронну пошту вашого облікового запису під час входу з нових пристроїв, починаючи з лютого 2025 року."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "Ви можете налаштувати двоетапну перевірку як альтернативний спосіб захисту свого облікового запису, або змінити електронну пошту на таку, до якої ви маєте доступ."
@@ -5541,7 +5541,7 @@
     "message": "Дозволити захоплення екрана"
   },
   "allowScreenshotsDesc": {
-    "message": "Дозволити захоплення екрана і перегляд у віддаленому доступі комп'ютерної програми Bitwarden. Вимкнення цього параметра запобігає доступу на деяких зовнішніх дисплеях."
+    "message": "Дозволити захоплення екрана і перегляд у віддаленому доступі комп'ютерної програми QLine Vaults. Вимкнення цього параметра запобігає доступу на деяких зовнішніх дисплеях."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Вікно підтвердження все ще видиме"
@@ -5687,7 +5687,7 @@
     "message": "Про ці налаштування"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden використовуватиме збережені URI-адреси записів для визначення піктограм вебсайтів або URL-адрес для зміни паролів, щоб вдосконалити вашу роботу. Під час використання цієї послуги ваша інформація не збирається і не зберігається."
+    "message": "QLine Vaults використовуватиме збережені URI-адреси записів для визначення піктограм вебсайтів або URL-адрес для зміни паролів, щоб вдосконалити вашу роботу. Під час використання цієї послуги ваша інформація не збирається і не зберігається."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Add 3 quick copy buttons next to items to copy your username, password, or verification code to the clipboard."
@@ -5927,7 +5927,7 @@
     "message": "Згорнути"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden не перевіряє місця введення. Переконайтеся, що у вас відкрите правильне вікно і вибрано потрібне поле, перш ніж застосувати комбінацію клавіш."
+    "message": "QLine Vaults не перевіряє місця введення. Переконайтеся, що у вас відкрите правильне вікно і вибрано потрібне поле, перш ніж застосувати комбінацію клавіш."
   },
   "typeShortcut": {
     "message": "Введіть комбінацію клавіш"
@@ -6080,7 +6080,7 @@
     "message": "Покращити до Premium"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Ваша організація більше не використовує головні паролі для входу в Bitwarden. Щоб продовжити, підтвердьте організацію та домен."
+    "message": "Ваша організація більше не використовує головні паролі для входу в QLine Vaults. Щоб продовжити, підтвердьте організацію та домен."
   },
   "continueWithLogIn": {
     "message": "Перейти до входу"
@@ -6329,10 +6329,10 @@
     "message": "Введіть декілька адрес е-пошти, розділяючи їх комою."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "Reorder $LABEL$. Use arrow key to move item up or down.",

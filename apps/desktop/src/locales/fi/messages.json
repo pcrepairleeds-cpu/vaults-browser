@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "Ota SSH-agentti käyttöön"
   },
   "enableSshAgentDesc": {
-    "message": "Enable the SSH agent to sign SSH requests right from your Bitwarden vault."
+    "message": "Enable the SSH agent to sign SSH requests right from your QLine Vaults vault."
   },
   "enableSshAgentHelp": {
-    "message": "The SSH agent is a service targeted at developers that allows you to sign SSH requests directly from your Bitwarden vault."
+    "message": "The SSH agent is a service targeted at developers that allows you to sign SSH requests directly from your QLine Vaults vault."
   },
   "sshAgentPromptBehavior": {
     "message": "Ask for authorization when using SSH agent"
@@ -781,7 +781,7 @@
     "message": "Sync with browser"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "To connect to $VAULTURL$, you need to sync your default browser with the Bitwarden app. You’ll be redirected back to this app once your browser is synced.",
+    "message": "To connect to $VAULTURL$, you need to sync your default browser with the QLine Vaults app. You’ll be redirected back to this app once your browser is synced.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Virhe salauksen purussa"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden ei voinut purkaa alla olevien holvin kohteiden salausta."
+    "message": "QLine Vaults ei voinut purkaa alla olevien holvin kohteiden salausta."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Contact customer success",
@@ -1480,7 +1480,7 @@
     "message": "Luo tili"
   },
   "newToBitwarden": {
-    "message": "Oletko uusi Bitwarden-käyttäjä?"
+    "message": "Oletko uusi QLine Vaults-käyttäjä?"
   },
   "setAStrongPassword": {
     "message": "Aseta vahva salasana"
@@ -1492,7 +1492,7 @@
     "message": "Kirjaudu"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Log in to Bitwarden"
+    "message": "Log in to QLine Vaults"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Syötä sähköpostitse vastaanottamasi koodi"
@@ -1650,7 +1650,7 @@
     "message": "Unexpected error"
   },
   "closeThisBitwardenWindow": {
-    "message": "Close this Bitwarden window and try again."
+    "message": "Close this QLine Vaults window and try again."
   },
   "itemInformation": {
     "message": "Kohteen tiedot"
@@ -1724,7 +1724,7 @@
     "message": "Todennussovellus"
   },
   "authenticatorAppDescV2": {
-    "message": "Syötä Bitwarden Authenticatorin kaltaisen todennusovelluksen luoma koodi.",
+    "message": "Syötä an authenticator appin kaltaisen todennusovelluksen luoma koodi.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Itse ylläpidetty palvelinympäristö"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Määritä itse ylläpitämäsi Bitwarden-asennuksen perusosoite. Esimerkki: https://bitwarden.yritys.fi."
+    "message": "Määritä itse ylläpitämäsi QLine Vaults-asennuksen perusosoite. Esimerkki: https://bitwarden.yritys.fi."
   },
   "selfHostedCustomEnvHeader": {
     "message": "Edistynyttä määritystä varten voit syöttää jokaisen palvelun perusosoitteen erikseen."
@@ -1872,7 +1872,7 @@
     "message": "Are you sure you want to rotate your account's encryption key?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "After updating your encryption key, you are required to log out and back in to all Bitwarden applications that you are currently using (such as the mobile app or browser extensions). Failure to log out and back in (which downloads your new encryption key) may result in data corruption. We will attempt to log you out automatically, however, it may be delayed."
+    "message": "After updating your encryption key, you are required to log out and back in to all QLine Vaults applications that you are currently using (such as the mobile app or browser extensions). Failure to log out and back in (which downloads your new encryption key) may result in data corruption. We will attempt to log you out automatically, however, it may be delayed."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Any account restricted exports you have saved will become invalid."
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "Kaksivaiheinen kirjautuminen parantaa tilisi suojausta vaatimalla kirjautumisen vahvistuksen salasanan lisäksi suojausavaimen, todennussovelluksen, tekstiviestin, puhelun tai sähköpostin avulla. Voit ottaa kaksivaiheisen kirjautumisen käyttöön bitwarden.com‑verkkoholvissa. Haluatko avata sen nyt?"
+    "message": "Kaksivaiheinen kirjautuminen parantaa tilisi suojausta vaatimalla kirjautumisen vahvistuksen salasanan lisäksi suojausavaimen, todennussovelluksen, tekstiviestin, puhelun tai sähköpostin avulla. Voit ottaa kaksivaiheisen kirjautumisen käyttöön vaults.qlineit.uk‑verkkoholvissa. Haluatko avata sen nyt?"
   },
   "twoStepLogin": {
     "message": "Kaksivaiheinen kirjautuminen"
@@ -2120,19 +2120,19 @@
     "message": "No details to copy"
   },
   "runInBackground": {
-    "message": "Keep Bitwarden running in the background"
+    "message": "Keep QLine Vaults running in the background"
   },
   "runInBackgroundDesc": {
-    "message": "When you close the window, Bitwarden is accessible from the tray. Recommended when using the SSH agent or browser integration."
+    "message": "When you close the window, QLine Vaults is accessible from the tray. Recommended when using the SSH agent or browser integration."
   },
   "runInBackgroundDescMac": {
-    "message": "When you close the window, Bitwarden is accessible from the menu bar. Recommended when using the SSH agent or browser integration."
+    "message": "When you close the window, QLine Vaults is accessible from the menu bar. Recommended when using the SSH agent or browser integration."
   },
   "openAtLogin": {
     "message": "Käynnistä automaattisesti kirjauduttaessa"
   },
   "openAtLoginDesc": {
-    "message": "Käynnistä Bitwarden-sovellus automaattisesti kirjautumisen yhteydessä."
+    "message": "Käynnistä QLine Vaults-sovellus automaattisesti kirjautumisen yhteydessä."
   },
   "language": {
     "message": "Kieli"
@@ -2171,7 +2171,7 @@
     }
   },
   "restartToUpdate": {
-    "message": "Käynnistä Bitwarden uudelleen päivittääksesi sen"
+    "message": "Käynnistä QLine Vaults uudelleen päivittääksesi sen"
   },
   "restartToUpdateDesc": {
     "message": "Versio $VERSION_NUM$ on valmis asennettavaksi. Sovellus tulee käynnistää uudelleen, jotta asennus voidaan suorittaa loppuun. Haluatko käynnistää sovelluksen uudelleen ja päivittää nyt?",
@@ -2255,7 +2255,7 @@
     "message": "Hallitse jäsenyyttä"
   },
   "premiumManageAlert": {
-    "message": "Voit hallita jäsenyyttäsi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?"
+    "message": "Voit hallita jäsenyyttäsi vaults.qlineit.uk-verkkoholvissa. Haluatko käydä sivustolla nyt?"
   },
   "premiumSignUpStorage": {
     "message": "1 Gt salattua tallennustilaa tiedostoliitteille."
@@ -2492,7 +2492,7 @@
     "message": "Palvelut"
   },
   "hideBitwarden": {
-    "message": "Piilota Bitwarden"
+    "message": "Piilota QLine Vaults"
   },
   "hideOthers": {
     "message": "Piilota muut"
@@ -2501,7 +2501,7 @@
     "message": "Näytä kaikki"
   },
   "quitBitwarden": {
-    "message": "Sulje Bitwarden"
+    "message": "Sulje QLine Vaults"
   },
   "valueCopied": {
     "message": "$VALUE$ kopioitu",
@@ -2647,13 +2647,13 @@
     "message": "Tätä salasanaa käytetään tämän tiedoston viennissä ja tuonnissa"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Salaa vienti ja rajoita tuonti vain nykyiselle Bitwarden-tilille tilisi käyttäjätunnukseen ja pääsalasanaan pohjautuvalla salausavaimella."
+    "message": "Salaa vienti ja rajoita tuonti vain nykyiselle QLine Vaults-tilille tilisi käyttäjätunnukseen ja pääsalasanaan pohjautuvalla salausavaimella."
   },
   "passwordProtected": {
     "message": "Salasanasuojattu"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Salaa vientitiedosto salasanalla, joka mahdollistaa sen tuonnin mille tahansa Bitwarden-tilille."
+    "message": "Salaa vientitiedosto salasanalla, joka mahdollistaa sen tuonnin mille tahansa QLine Vaults-tilille."
   },
   "exportTypeHeading": {
     "message": "Viennin tyyppi"
@@ -2684,7 +2684,7 @@
     "message": "Tämä vienti salaa tietosi käyttäen käyttäjätilisi salausavaimella. Jos joskus uudistat tilisi salausavaimen, tulee sinun viedä tiedot uudelleen, koska et voi enää purkaa nyt viedyn tiedoston salausta."
   },
   "encExportAccountWarningDesc": {
-    "message": "Tilin salausavaimet ovat ainutlaatuisia jokaiselle Bitwarden-käyttäjätilille, joten et voi tuoda salattua vientitiedostoa toiselle tilille."
+    "message": "Tilin salausavaimet ovat ainutlaatuisia jokaiselle QLine Vaults-käyttäjätilille, joten et voi tuoda salattua vientitiedostoa toiselle tilille."
   },
   "noOrganizationsList": {
     "message": "Et kuulu mihinkään organisaatioon. Organisaatioiden avulla voit jakaa kohteita turvallisesti muiden käyttäjien kanssa."
@@ -2714,7 +2714,7 @@
     "message": "Heikko pääsalasana"
   },
   "weakMasterPasswordDesc": {
-    "message": "Valitsemasi pääsalasana on heikko. Sinun tulisi käyttää vahvaa pääsalasanaa (tai salalausetta) suojataksesi Bitwarden-tilisi kunnolla. Haluatko varmasti käyttää tätä pääsalasanaa?"
+    "message": "Valitsemasi pääsalasana on heikko. Sinun tulisi käyttää vahvaa pääsalasanaa (tai salalausetta) suojataksesi QLine Vaults-tilisi kunnolla. Haluatko varmasti käyttää tätä pääsalasanaa?"
   },
   "pin": {
     "message": "PIN",
@@ -2742,7 +2742,7 @@
     "message": "Avaa järjestelmän tunnistautumisella"
   },
   "windowsHelloConsentMessage": {
-    "message": "Vahvista Bitwarden."
+    "message": "Vahvista QLine Vaults."
   },
   "unlockWithTouchId": {
     "message": "Avaa Touch ID:llä"
@@ -2978,10 +2978,10 @@
     "message": "Tee kaksivaiheisesta kirjautumisesta saumatonta"
   },
   "totpHelper": {
-    "message": "Bitwarden voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kopioi ja liitä todennusavain tähän kenttään."
+    "message": "QLine Vaults voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kopioi ja liitä todennusavain tähän kenttään."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kamerakuvakkeella voit kaapata todennusavaimen avoimen sivun QR-koodista automaattisesti, tai voit kopioida ja liittää sen tähän kenttään manuaalisesti."
+    "message": "QLine Vaults voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kamerakuvakkeella voit kaapata todennusavaimen avoimen sivun QR-koodista automaattisesti, tai voit kopioida ja liittää sen tähän kenttään manuaalisesti."
   },
   "premium": {
     "message": "Premium",
@@ -3067,7 +3067,7 @@
     "message": "One or more organization policies require the master password to meet the following requirements:"
   },
   "receiveMarketingEmails": {
-    "message": "Receive updates from Bitwarden in your inbox."
+    "message": "Receive updates from QLine Vaults in your inbox."
   },
   "unsubscribe": {
     "message": "Lopeta tilaus"
@@ -3979,7 +3979,7 @@
     "message": "Laitteeseesi lähetettiin ilmoitus"
   },
   "notificationSentDevicePart1": {
-    "message": "Avaa Bitwarden laitteellasi tai "
+    "message": "Avaa QLine Vaults laitteellasi tai "
   },
   "notificationSentDeviceAnchor": {
     "message": "web app"
@@ -4000,7 +4000,7 @@
     "message": "Ilmoitamme sinulle, kun pyyntösi on hyväksytty"
   },
   "needAnotherOption": {
-    "message": "Laitteella kirjautuminen on määritettävä Bitwarden-sovelluksen asetuksista. Tarvitsetko eri vaihtoehdon?"
+    "message": "Laitteella kirjautuminen on määritettävä QLine Vaults-sovelluksen asetuksista. Tarvitsetko eri vaihtoehdon?"
   },
   "viewAllLogInOptions": {
     "message": "Näytä kaikki kirjautumisvaihtoehdot"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden suosittelee biometrisen kirjautumisen asetustesi muuttamista niin, että pääsalasana (tai PIN-koodi) on syötettävä ensimmäisellä avauskerralla. Haluatko muuttaa asetuksia nyt?"
+    "message": "QLine Vaults suosittelee biometrisen kirjautumisen asetustesi muuttamista niin, että pääsalasana (tai PIN-koodi) on syötettävä ensimmäisellä avauskerralla. Haluatko muuttaa asetuksia nyt?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Suositeltava asetusmuutos"
@@ -4265,7 +4265,7 @@
     "message": "What is a device?"
   },
   "aDeviceIs": {
-    "message": "A device is a unique installation of the Bitwarden app where you have logged in. Reinstalling, clearing app data, or clearing your cookies could result in a device appearing multiple times."
+    "message": "A device is a unique installation of the QLine Vaults app where you have logged in. Reinstalling, clearing app data, or clearing your cookies could result in a device appearing multiple times."
   },
   "deviceListDescriptionTemp": {
     "message": "Your account was logged in to each of the devices below."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI match detection is how Bitwarden identifies autofill suggestions.",
+    "message": "URI match detection is how QLine Vaults identifies autofill suggestions.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Download then share the diagnostic report with"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden support",
+    "message": "QLine Vaults support",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5464,7 +5464,7 @@
     "message": "Set up two-step login"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden will send a code to your account email to verify logins from new devices starting in February 2025."
+    "message": "QLine Vaults will send a code to your account email to verify logins from new devices starting in February 2025."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "You can set up two-step login as an alternative way to protect your account or change your email to one you can access."
@@ -5541,7 +5541,7 @@
     "message": "Salli kuvankaappaus"
   },
   "allowScreenshotsDesc": {
-    "message": "Allow the Bitwarden desktop application to be captured in screenshots and viewed in remote desktop sessions. Disabling this will prevent access on some external displays."
+    "message": "Allow the QLine Vaults desktop application to be captured in screenshots and viewed in remote desktop sessions. Disabling this will prevent access on some external displays."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Vahvista, että ikkuna on vielä näkyvissä"
@@ -5687,7 +5687,7 @@
     "message": "About this setting"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden will use saved login URIs to identify which icon or change password URL should be used to improve your experience. No information is collected or saved when you use this service."
+    "message": "QLine Vaults will use saved login URIs to identify which icon or change password URL should be used to improve your experience. No information is collected or saved when you use this service."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Add 3 quick copy buttons next to items to copy your username, password, or verification code to the clipboard."
@@ -5927,7 +5927,7 @@
     "message": "Show less"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden does not validate input locations, be sure you are in the right window and field before using the shortcut."
+    "message": "QLine Vaults does not validate input locations, be sure you are in the right window and field before using the shortcut."
   },
   "typeShortcut": {
     "message": "Type shortcut"
@@ -6080,7 +6080,7 @@
     "message": "Upgrade to Premium"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Your organization is no longer using master passwords to log into Bitwarden. To continue, verify the organization and domain."
+    "message": "Your organization is no longer using master passwords to log into QLine Vaults. To continue, verify the organization and domain."
   },
   "continueWithLogIn": {
     "message": "Continue with log in"
@@ -6329,10 +6329,10 @@
     "message": "Enter multiple emails by separating with a comma."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "Reorder $LABEL$. Use arrow key to move item up or down.",

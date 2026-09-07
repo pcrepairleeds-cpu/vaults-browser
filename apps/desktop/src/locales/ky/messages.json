@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "SSH агентин иштетүү"
   },
   "enableSshAgentDesc": {
-    "message": "SSH агентин Bitwarden коддоочу жайыңыздан түз SSH сурамдарына кол коюу үчүн иштетиңиз."
+    "message": "SSH агентин QLine Vaults коддоочу жайыңыздан түз SSH сурамдарына кол коюу үчүн иштетиңиз."
   },
   "enableSshAgentHelp": {
-    "message": "SSH агенти иштеп чыгуучуларга багытталган кызмат, ал сизге SSH сурамдарына Bitwarden коддоочу жайыңыздан түз кол коюуга мүмкүндүк берет."
+    "message": "SSH агенти иштеп чыгуучуларга багытталган кызмат, ал сизге SSH сурамдарына QLine Vaults коддоочу жайыңыздан түз кол коюуга мүмкүндүк берет."
   },
   "sshAgentPromptBehavior": {
     "message": "SSH агентин колдонууда уруксат сураш"
@@ -781,7 +781,7 @@
     "message": "Браузер менен синхрондоштуруу"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "$VAULTURL$ туташуу үчүн демейки браузериңизди Bitwarden колдонмосу менен синхрондоштуруу керек. Браузериңиз синхрондоштурулгандан кийин сиз бул колдонмого кайра багытталасыз.",
+    "message": "$VAULTURL$ туташуу үчүн демейки браузериңизди QLine Vaults колдонмосу менен синхрондоштуруу керек. Браузериңиз синхрондоштурулгандан кийин сиз бул колдонмого кайра багытталасыз.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Дешифрлөө катасы"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden төмөндө көрсөтүлгөн коддоочу жай элементтерин дешифрлей алган жок."
+    "message": "QLine Vaults төмөндө көрсөтүлгөн коддоочу жай элементтерин дешифрлей алган жок."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Кардарларды колдоо кызматына кайрылыңыз",
@@ -1480,7 +1480,7 @@
     "message": "Аккаунт түзүү"
   },
   "newToBitwarden": {
-    "message": "Bitwarden менен жаңы тааныштыңызбы?"
+    "message": "QLine Vaults менен жаңы тааныштыңызбы?"
   },
   "setAStrongPassword": {
     "message": "Күчтүү сырсөз орнотуу"
@@ -1492,7 +1492,7 @@
     "message": "Кирүү"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Bitwarden кирүү"
+    "message": "QLine Vaults кирүү"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Электрондук почтаңызга жөнөтүлгөн кодду киргизиңиз"
@@ -1650,7 +1650,7 @@
     "message": "Күтүлбөгөн ката"
   },
   "closeThisBitwardenWindow": {
-    "message": "Bitwarden терезесин жаап, кайра аракет кылыңыз."
+    "message": "QLine Vaults терезесин жаап, кайра аракет кылыңыз."
   },
   "itemInformation": {
     "message": "Элементтин маалыматы"
@@ -1724,7 +1724,7 @@
     "message": "Аутентификатор колдонмосу"
   },
   "authenticatorAppDescV2": {
-    "message": "Bitwarden Authenticator сыяктуу аутентификатор колдонмосу тарабынан түзүлгөн кодду киргизиңиз.",
+    "message": "an authenticator app сыяктуу аутентификатор колдонмосу тарабынан түзүлгөн кодду киргизиңиз.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Өз сервериндеги чөйрө"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Өз сервериңиздеги Bitwarden орнотуунун базалык URL дарегин көрсөтүңүз. Мисалы: https://bitwarden.company.com"
+    "message": "Өз сервериңиздеги QLine Vaults орнотуунун базалык URL дарегин көрсөтүңүз. Мисалы: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Өркүндөтүлгөн конфигурация үчүн, ар бир кызматтын базалык URL дарегин өзүнчө көрсөтө аласыз."
@@ -1872,7 +1872,7 @@
     "message": "Аккаунтуңуздун шифрлөө ачкычын ротациялагыңыз келерине ишенесизби?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Шифрлөө ачкычын жаңырткандан кийин, сиз учурда колдонуп жаткан бардык Bitwarden колдонмолорунан (мисалы, мобилдик колдонмо же браузер кеңейтүүлөрү) чыгып, кайра киришиңиз керек. Чыгып кайра кирбөө (жаңы шифрлөө ачкычын жүктөп алуу) маалыматтардын бузулушуна алып келиши мүмкүн. Биз сизди автоматтык түрдө чыгарууга аракет кылабыз, бирок бул кечигиши мүмкүн."
+    "message": "Шифрлөө ачкычын жаңырткандан кийин, сиз учурда колдонуп жаткан бардык QLine Vaults колдонмолорунан (мисалы, мобилдик колдонмо же браузер кеңейтүүлөрү) чыгып, кайра киришиңиз керек. Чыгып кайра кирбөө (жаңы шифрлөө ачкычын жүктөп алуу) маалыматтардын бузулушуна алып келиши мүмкүн. Биз сизди автоматтык түрдө чыгарууга аракет кылабыз, бирок бул кечигиши мүмкүн."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Сиз сактаган аккаунт чектелген экспорттордун баары жараксыз болуп калат."
@@ -1968,7 +1968,7 @@
     "message": "Веб-колдонмого улантуу?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Башкы сырсөздү Bitwarden веб-колдонмосунда өзгөртө аласыз."
+    "message": "Башкы сырсөздү QLine Vaults веб-колдонмосунда өзгөртө аласыз."
   },
   "fingerprintPhrase": {
     "message": "Манжа изинин сөз айкашы",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "Эки кадамдуу кирүү сиздин аккаунтуңузду коопсуз кылат, анткени кирүүнү башка түзмөк (коопсуздук ачкычы, аутентификатор колдонмосу, SMS, телефон чалуу же электрондук почта) аркылуу текшерүүнү талап кылат. Эки кадамдуу кирүүнү bitwarden.com веб-коддоочу жайында орното аласыз. Азыр веб-сайтка барууну каалайсызбы?"
+    "message": "Эки кадамдуу кирүү сиздин аккаунтуңузду коопсуз кылат, анткени кирүүнү башка түзмөк (коопсуздук ачкычы, аутентификатор колдонмосу, SMS, телефон чалуу же электрондук почта) аркылуу текшерүүнү талап кылат. Эки кадамдуу кирүүнү vaults.qlineit.uk веб-коддоочу жайында орното аласыз. Азыр веб-сайтка барууну каалайсызбы?"
   },
   "twoStepLogin": {
     "message": "Эки кадамдуу кирүү"
@@ -2120,19 +2120,19 @@
     "message": "Көчүрүү үчүн маалымат жок"
   },
   "runInBackground": {
-    "message": "Bitwarden'ди фондо иштетип туруу"
+    "message": "QLine Vaults'ди фондо иштетип туруу"
   },
   "runInBackgroundDesc": {
-    "message": "Терезени жапканда Bitwarden берилмелер панелинен жеткиликтүү. SSH агенти же браузер интеграциясы колдонулганда сунушталат."
+    "message": "Терезени жапканда QLine Vaults берилмелер панелинен жеткиликтүү. SSH агенти же браузер интеграциясы колдонулганда сунушталат."
   },
   "runInBackgroundDescMac": {
-    "message": "Терезени жапканда Bitwarden меню тилкесинде жеткиликтүү. SSH агенти же браузер интеграциясы колдонулганда сунушталат."
+    "message": "Терезени жапканда QLine Vaults меню тилкесинде жеткиликтүү. SSH агенти же браузер интеграциясы колдонулганда сунушталат."
   },
   "openAtLogin": {
     "message": "Кирүүдө автоматтык түрдө баштоо"
   },
   "openAtLoginDesc": {
-    "message": "Bitwarden иш такта колдонмосун кирүүдө автоматтык түрдө баштоо."
+    "message": "QLine Vaults иш такта колдонмосун кирүүдө автоматтык түрдө баштоо."
   },
   "language": {
     "message": "Тил"
@@ -2255,7 +2255,7 @@
     "message": "Мүчөлүктү башкаруу"
   },
   "premiumManageAlert": {
-    "message": "Мүчөлүгүңүздү bitwarden.com веб-коддоочу жайында башкара аласыз. Азыр веб-сайтка барууну каалайсызбы?"
+    "message": "Мүчөлүгүңүздү vaults.qlineit.uk веб-коддоочу жайында башкара аласыз. Азыр веб-сайтка барууну каалайсызбы?"
   },
   "premiumSignUpStorage": {
     "message": "Файл тиркемелер үчүн 1 ГБ шифрленген сактагыч."
@@ -2264,7 +2264,7 @@
     "message": "Premium сатып алуу"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Premium'ди Bitwarden веб-колдонмосундагы аккаунт параметрлеринен сатып ала аласыз."
+    "message": "Premium'ди QLine Vaults веб-колдонмосундагы аккаунт параметрлеринен сатып ала аласыз."
   },
   "month": {
     "message": "ай"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Bitwarden жөнүндө"
+    "message": "QLine Vaults жөнүндө"
   },
   "services": {
     "message": "Кызматтар"
   },
   "hideBitwarden": {
-    "message": "Bitwarden жашыруу"
+    "message": "QLine Vaults жашыруу"
   },
   "hideOthers": {
     "message": "Башкаларды жашыруу"
@@ -2501,7 +2501,7 @@
     "message": "Баарын көрсөтүү"
   },
   "quitBitwarden": {
-    "message": "Bitwarden чыгуу"
+    "message": "QLine Vaults чыгуу"
   },
   "valueCopied": {
     "message": "$VALUE$ көчүрүлдү",
@@ -2647,13 +2647,13 @@
     "message": "Бул сырсөз файлды экспорттоо жана импорттоо үчүн колдонулат"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Экспортту шифрлөө жана импортту учурдагы Bitwarden аккаунтуна гана чектөө үчүн аккаунтуңуздун колдонуучу атынан жана башкы сырсөздөн алынган аккаунт шифрлөө ачкычын колдонуңуз."
+    "message": "Экспортту шифрлөө жана импортту учурдагы QLine Vaults аккаунтуна гана чектөө үчүн аккаунтуңуздун колдонуучу атынан жана башкы сырсөздөн алынган аккаунт шифрлөө ачкычын колдонуңуз."
   },
   "passwordProtected": {
     "message": "Сырсөз менен корголгон"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Экспортту шифрлөө жана аны дешифрлөө үчүн сырсөздү колдонуп, каалаган Bitwarden аккаунтуна импорттоо үчүн файл сырсөзүн орнотуңуз."
+    "message": "Экспортту шифрлөө жана аны дешифрлөө үчүн сырсөздү колдонуп, каалаган QLine Vaults аккаунтуна импорттоо үчүн файл сырсөзүн орнотуңуз."
   },
   "exportTypeHeading": {
     "message": "Экспорттоо түрү"
@@ -2684,7 +2684,7 @@
     "message": "Бул экспорт маалыматыңызды аккаунтуңуздун шифрлөө ачкычы менен шифрлейт. Эгер сиз аккаунтуңуздун шифрлөө ачкычын ротацияласаңыз, кайра экспорттоо керек, анткени бул экспорт файлын дешифрлей албай каласыз."
   },
   "encExportAccountWarningDesc": {
-    "message": "Аккаунт шифрлөө ачкычтары ар бир Bitwarden колдонуучу аккаунтуна уникалдуу, ошондуктан шифрленген экспортту башка аккаунтка импорттой албайсыз."
+    "message": "Аккаунт шифрлөө ачкычтары ар бир QLine Vaults колдонуучу аккаунтуна уникалдуу, ошондуктан шифрленген экспортту башка аккаунтка импорттой албайсыз."
   },
   "noOrganizationsList": {
     "message": "Сиз эч бир уюмга кирбейсиз. Уюмдар элементтерди башка колдонуучулар менен коопсуз бөлүшүүгө мүмкүндүк берет."
@@ -2714,7 +2714,7 @@
     "message": "Алсыз башкы сырсөз"
   },
   "weakMasterPasswordDesc": {
-    "message": "Сиз тандаган башкы сырсөз алсыз. Bitwarden аккаунтуңузду туура коргоо үчүн күчтүү башкы сырсөздү (же сырсөз айкашын) колдонушуңуз керек. Бул башкы сырсөздү колдонгуңуз келерине ишенесизби?"
+    "message": "Сиз тандаган башкы сырсөз алсыз. QLine Vaults аккаунтуңузду туура коргоо үчүн күчтүү башкы сырсөздү (же сырсөз айкашын) колдонушуңуз керек. Бул башкы сырсөздү колдонгуңуз келерине ишенесизби?"
   },
   "pin": {
     "message": "PIN",
@@ -2724,7 +2724,7 @@
     "message": "PIN менен ачуу"
   },
   "setYourPinCode": {
-    "message": "Bitwarden ачуу үчүн PIN кодун орнотуңуз. Эгер сиз колдонмодон толук чыксаңыз, PIN параметрлери баштапкы абалга келет."
+    "message": "QLine Vaults ачуу үчүн PIN кодун орнотуңуз. Эгер сиз колдонмодон толук чыксаңыз, PIN параметрлери баштапкы абалга келет."
   },
   "pinRequired": {
     "message": "PIN коду талап кылынат."
@@ -2742,7 +2742,7 @@
     "message": "Системалык аутентификация менен ачуу"
   },
   "windowsHelloConsentMessage": {
-    "message": "Bitwarden үчүн текшерүү."
+    "message": "QLine Vaults үчүн текшерүү."
   },
   "unlockWithTouchId": {
     "message": "Touch ID менен ачуу"
@@ -2978,10 +2978,10 @@
     "message": "2 кадамдуу текшерүүнү үзгүлтүксүз кылуу"
   },
   "totpHelper": {
-    "message": "Bitwarden 2 кадамдуу текшерүү коддорун сактап, толтура алат. Ачкычты көчүрүп, бул талаага кыстырыңыз."
+    "message": "QLine Vaults 2 кадамдуу текшерүү коддорун сактап, толтура алат. Ачкычты көчүрүп, бул талаага кыстырыңыз."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden 2 кадамдуу текшерүү коддорун сактап, толтура алат. Бул веб-сайттын аутентификатор QR кодун скриншоттоо үчүн камера сөлөкөтүн тандаңыз же ачкычты көчүрүп, бул талаага кыстырыңыз."
+    "message": "QLine Vaults 2 кадамдуу текшерүү коддорун сактап, толтура алат. Бул веб-сайттын аутентификатор QR кодун скриншоттоо үчүн камера сөлөкөтүн тандаңыз же ачкычты көчүрүп, бул талаага кыстырыңыз."
   },
   "premium": {
     "message": "Premium",
@@ -3067,7 +3067,7 @@
     "message": "Бир же бир нече уюм саясаттары башкы сырсөздүн төмөнкү талаптарга жооп беришин талап кылат:"
   },
   "receiveMarketingEmails": {
-    "message": "Bitwarden'ден жаңыртууларды кирүү кутуңузда алыңыз."
+    "message": "QLine Vaults'ден жаңыртууларды кирүү кутуңузда алыңыз."
   },
   "unsubscribe": {
     "message": "Жазылуудан чыгуу"
@@ -3091,7 +3091,7 @@
     "message": "DuckDuckGo браузер интеграциясына уруксат берүү"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "DuckDuckGo менен серептегенде Bitwarden коддоочу жайыңызды колдонуңуз."
+    "message": "DuckDuckGo менен серептегенде QLine Vaults коддоочу жайыңызды колдонуңуз."
   },
   "enableHardwareAcceleration": {
     "message": "Аппараттык ылдамдатууну колдонуу"
@@ -3103,7 +3103,7 @@
     "message": "Бекитүү"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$ Bitwarden'ге туташууну каалайт",
+    "message": "$APPID$ QLine Vaults'ге туташууну каалайт",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwarden тарабынан түзүлгөн.",
+    "message": "QLine Vaults тарабынан түзүлгөн.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Веб-сайт: $WEBSITE$. Bitwarden тарабынан түзүлгөн.",
+    "message": "Веб-сайт: $WEBSITE$. QLine Vaults тарабынан түзүлгөн.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "Түзмөгүңүзгө билдирүү жөнөтүлдү"
   },
   "notificationSentDevicePart1": {
-    "message": "Bitwarden'ди түзмөгүңүздө же "
+    "message": "QLine Vaults'ди түзмөгүңүздө же "
   },
   "notificationSentDeviceAnchor": {
     "message": "веб-колдонмодо"
@@ -4000,7 +4000,7 @@
     "message": "Сурам бекитилгенде сизге билдирүү келет"
   },
   "needAnotherOption": {
-    "message": "Түзмөк менен кирүү Bitwarden колдонмосунун параметрлеринде орнотулушу керек. Башка параметр керекпи?"
+    "message": "Түзмөк менен кирүү QLine Vaults колдонмосунун параметрлеринде орнотулушу керек. Башка параметр керекпи?"
   },
   "viewAllLogInOptions": {
     "message": "Бардык кирүү параметрлерин көрүү"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden биометрикалык параметрлериңизди биринчи ачууда башкы сырсөздү (же PINди) талап кылуу үчүн жаңыртууну сунуштайт. Параметрлериңизди азыр жаңырткыңыз келеби?"
+    "message": "QLine Vaults биометрикалык параметрлериңизди биринчи ачууда башкы сырсөздү (же PINди) талап кылуу үчүн жаңыртууну сунуштайт. Параметрлериңизди азыр жаңырткыңыз келеби?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Сунушталган параметрлерди жаңыртуу"
@@ -4265,7 +4265,7 @@
     "message": "Түзмөк деген эмне?"
   },
   "aDeviceIs": {
-    "message": "Түзмөк – бул сиз кирген Bitwarden колдонмосунун уникалдуу орнотуусу. Колдонмону кайра орнотуу, колдонмо маалыматтарын же кукилерди тазалоо түзмөктүн бир нече жолу пайда болушуна алып келиши мүмкүн."
+    "message": "Түзмөк – бул сиз кирген QLine Vaults колдонмосунун уникалдуу орнотуусу. Колдонмону кайра орнотуу, колдонмо маалыматтарын же кукилерди тазалоо түзмөктүн бир нече жолу пайда болушуна алып келиши мүмкүн."
   },
   "deviceListDescriptionTemp": {
     "message": "Аккаунтуңуз төмөнкү түзмөктөрдүн ар бирине кирген."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI дал келүүнү аныктоо – Bitwarden автотолтуруу сунуштарын кантип аныктайт.",
+    "message": "URI дал келүүнү аныктоо – QLine Vaults автотолтуруу сунуштарын кантип аныктайт.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Диагностикалык отчетту жүктөп алып, аны төмөнкү менен бөлүшүңүз"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden колдоо",
+    "message": "QLine Vaults колдоо",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "Системалык файлдардын туура эмес конфигурациясына байланыштуу биометрикалык ачуу мүмкүн эмес."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "Bitwarden иш такта колдонмосунда $EMAIL$ үчүн иштетилбегендиктен биометрикалык ачуу мүмкүн эмес.",
+    "message": "QLine Vaults иш такта колдонмосунда $EMAIL$ үчүн иштетилбегендиктен биометрикалык ачуу мүмкүн эмес.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "Эки кадамдуу кирүүнү орнотуу"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden 2025-жылдын февраль айынан баштап жаңы түзмөктөрдөн кирүүнү текшерүү үчүн аккаунт электрондук почтаңызга код жөнөтөт."
+    "message": "QLine Vaults 2025-жылдын февраль айынан баштап жаңы түзмөктөрдөн кирүүнү текшерүү үчүн аккаунт электрондук почтаңызга код жөнөтөт."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "Аккаунтуңузду коргоонун альтернативдүү жолу катары эки кадамдуу кирүүнү орното аласыз же электрондук почтаңызды кире ала турган дарекке өзгөртө аласыз."
@@ -5541,7 +5541,7 @@
     "message": "Экранды кармоого уруксат берүү"
   },
   "allowScreenshotsDesc": {
-    "message": "Bitwarden иш такта колдонмосун скриншоттордо кармоого жана алыскы иш такта сессияларында көрүүгө уруксат берүү. Бул өчүрүлсө, кээ бир тышкы дисплейлерде кирүү мүмкүн эмес болот."
+    "message": "QLine Vaults иш такта колдонмосун скриншоттордо кармоого жана алыскы иш такта сессияларында көрүүгө уруксат берүү. Бул өчүрүлсө, кээ бир тышкы дисплейлерде кирүү мүмкүн эмес болот."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Терезенин көрүнүп турганын ырастаңыз"
@@ -5687,7 +5687,7 @@
     "message": "Бул параметр жөнүндө"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden тажрыйбаңызды жакшыртуу үчүн кайсы сөлөкөт же сырсөздү өзгөртүү URL дареги колдонуларын аныктоо үчүн сакталган кирүү URI даректерин колдонот. Бул кызматты колдонгондо эч кандай маалымат чогултулбайт же сакталбайт."
+    "message": "QLine Vaults тажрыйбаңызды жакшыртуу үчүн кайсы сөлөкөт же сырсөздү өзгөртүү URL дареги колдонуларын аныктоо үчүн сакталган кирүү URI даректерин колдонот. Бул кызматты колдонгондо эч кандай маалымат чогултулбайт же сакталбайт."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Колдонуучунун атын, сырсөздү же текшерүү кодун буферге көчүрүү үчүн элементтердин жанына 3 тез көчүрүү баскычын кошуңуз."
@@ -5927,7 +5927,7 @@
     "message": "Азыраак көрсөтүү"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden киргизүү жайларын текшербейт, жарлыкты колдонуудан мурун туура терезеде жана талаада экениңизди текшериңиз."
+    "message": "QLine Vaults киргизүү жайларын текшербейт, жарлыкты колдонуудан мурун туура терезеде жана талаада экениңизди текшериңиз."
   },
   "typeShortcut": {
     "message": "Жарлыкты териңиз"
@@ -6080,7 +6080,7 @@
     "message": "Premium'ге өркүндөтүү"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Уюмуңуз эми Bitwarden'ге кирүү үчүн башкы сырсөздөрдү колдонбойт. Улантуу үчүн уюмду жана доменди ырастаңыз."
+    "message": "Уюмуңуз эми QLine Vaults'ге кирүү үчүн башкы сырсөздөрдү колдонбойт. Улантуу үчүн уюмду жана доменди ырастаңыз."
   },
   "continueWithLogIn": {
     "message": "Кирүүнү улантуу"
@@ -6329,10 +6329,10 @@
     "message": "Бир нече электрондук почталарды үтүр менен бөлүп киргизиңиз."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "$LABEL$ кайра тартипке келтирүү. Элементти өйдө же ылдый жылдыруу үчүн ок баскычын колдонуңуз.",

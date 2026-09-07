@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "אפשר סוכן SSH"
   },
   "enableSshAgentDesc": {
-    "message": "אפשר את סוכן ה־SSH על מנת לחתום בקשות SSH היישר מכספת ה־Bitwarden שלך."
+    "message": "אפשר את סוכן ה־SSH על מנת לחתום בקשות SSH היישר מכספת ה־QLine Vaults שלך."
   },
   "enableSshAgentHelp": {
-    "message": "סוכן ה־SSH הוא שירות המיועד למפתחים שמאפשר לך לחתום בקשות SSH היישר מכספת ה־Bitwarden שלך."
+    "message": "סוכן ה־SSH הוא שירות המיועד למפתחים שמאפשר לך לחתום בקשות SSH היישר מכספת ה־QLine Vaults שלך."
   },
   "sshAgentPromptBehavior": {
     "message": "בקש אישור בעת שימוש בסוכן SSH"
@@ -781,7 +781,7 @@
     "message": "סנכרן עם הדפדפן"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "כדי להתחבר ל-$VAULTURL$, עליך לסנכרן את דפדפן ברירת המחדל שלך עם אפליקציית Bitwarden. תופנה חזרה לאפליקציה זו לאחר סינכרון הדפדפן.",
+    "message": "כדי להתחבר ל-$VAULTURL$, עליך לסנכרן את דפדפן ברירת המחדל שלך עם אפליקציית QLine Vaults. תופנה חזרה לאפליקציה זו לאחר סינכרון הדפדפן.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "שגיאת פענוח"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden לא יכל לפענח את פריט(י) הכספת המפורט(ים) להלן."
+    "message": "QLine Vaults לא יכל לפענח את פריט(י) הכספת המפורט(ים) להלן."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "צור קשר עם הצלחת לקוחות",
@@ -1480,7 +1480,7 @@
     "message": "צור חשבון"
   },
   "newToBitwarden": {
-    "message": "חדש ב־Bitwarden?"
+    "message": "חדש ב־QLine Vaults?"
   },
   "setAStrongPassword": {
     "message": "הגדר סיסמה חזקה"
@@ -1492,7 +1492,7 @@
     "message": "התחבר"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "התחבר ל-Bitwarden"
+    "message": "התחבר ל-QLine Vaults"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "הזן את הקוד שנשלח לדוא\"ל שלך"
@@ -1650,7 +1650,7 @@
     "message": "שגיאה בלתי צפויה"
   },
   "closeThisBitwardenWindow": {
-    "message": "סגור חלון זה של Bitwarden ונסה שוב."
+    "message": "סגור חלון זה של QLine Vaults ונסה שוב."
   },
   "itemInformation": {
     "message": "מידע על הפריט"
@@ -1724,7 +1724,7 @@
     "message": "אפליקציית אימות"
   },
   "authenticatorAppDescV2": {
-    "message": "הזן קוד שנוצר על ידי יישום מאמת כמו מאמת Bitwarden.",
+    "message": "הזן קוד שנוצר על ידי יישום מאמת כמו מאמת QLine Vaults.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "סביבה על שרתים מקומיים"
   },
   "selfHostedBaseUrlHint": {
-    "message": "ציין את בסיס ה־URL של התקנת Bitwarden באירוח מקומי שלך. דוגמה: https://bitwarden.company.com"
+    "message": "ציין את בסיס ה־URL של התקנת QLine Vaults באירוח מקומי שלך. דוגמה: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "עבור תצורה מתקדמת, באפשרותך לציין את בסיס ה־URL של כל שירות בנפרד."
@@ -1872,7 +1872,7 @@
     "message": "האם אתה בטוח שברצונך לסובב את מפתח ההצפנה של חשבונך?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "לאחר עדכון מפתח ההצפנה שלך, עליך להתנתק ולהיכנס שוב לכל יישומי Bitwarden שבהם אתה משתמש כרגע (כגון אפליקציה לנייד או תוספי דפדפן). אי התנתקות וכניסה חוזרת (אשר מורידה את מפתח ההצפנה החדש שלך) עלולה לגרום לשחיתות נתונים. ננסה לנתק אותך אוטומטית, אך ייתכן עיכוב."
+    "message": "לאחר עדכון מפתח ההצפנה שלך, עליך להתנתק ולהיכנס שוב לכל יישומי QLine Vaults שבהם אתה משתמש כרגע (כגון אפליקציה לנייד או תוספי דפדפן). אי התנתקות וכניסה חוזרת (אשר מורידה את מפתח ההצפנה החדש שלך) עלולה לגרום לשחיתות נתונים. ננסה לנתק אותך אוטומטית, אך ייתכן עיכוב."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "כל ייצוא מוגבל לחשבון ששמרת יהפוך ללא תקף."
@@ -1968,7 +1968,7 @@
     "message": "להמשיך אל יישום רשת?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "אתה יכול לשנות את הסיסמה הראשית שלך ביישום הרשת של Bitwarden."
+    "message": "אתה יכול לשנות את הסיסמה הראשית שלך ביישום הרשת של QLine Vaults."
   },
   "fingerprintPhrase": {
     "message": "סיסמת טביעת אצבע",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "אימות דו שלבי הופך את החשבון שלך למאובטח יותר בכך שתצטרך לאשר התחברות בעזרת מפתח אבטחה, תוכנת אימות, SMS, שיחת טלפון, או אימייל. ניתן להפעיל את \"אימות דו שלבי\" בכספת שבאתר bitwarden.com. האם ברצונך לפתוח את האתר כעת?"
+    "message": "אימות דו שלבי הופך את החשבון שלך למאובטח יותר בכך שתצטרך לאשר התחברות בעזרת מפתח אבטחה, תוכנת אימות, SMS, שיחת טלפון, או אימייל. ניתן להפעיל את \"אימות דו שלבי\" בכספת שבאתר vaults.qlineit.uk. האם ברצונך לפתוח את האתר כעת?"
   },
   "twoStepLogin": {
     "message": "אימות דו שלבי להתחברות"
@@ -2120,19 +2120,19 @@
     "message": "אין פרטים להעתקה"
   },
   "runInBackground": {
-    "message": "שמור את Bitwarden פועל ברקע"
+    "message": "שמור את QLine Vaults פועל ברקע"
   },
   "runInBackgroundDesc": {
-    "message": "בסגירת החלון, Bitwarden נגיש ממגש המערכת. מומלץ בעת שימוש ב-SSH agent או בשילוב דפדפן."
+    "message": "בסגירת החלון, QLine Vaults נגיש ממגש המערכת. מומלץ בעת שימוש ב-SSH agent או בשילוב דפדפן."
   },
   "runInBackgroundDescMac": {
-    "message": "בסגירת החלון, Bitwarden נגיש מסרגל התפריטים. מומלץ בעת שימוש ב-SSH agent או בשילוב דפדפן."
+    "message": "בסגירת החלון, QLine Vaults נגיש מסרגל התפריטים. מומלץ בעת שימוש ב-SSH agent או בשילוב דפדפן."
   },
   "openAtLogin": {
     "message": "התחל אוטומטית בכניסה"
   },
   "openAtLoginDesc": {
-    "message": "התחל את יישום שולחן העבודה של Bitwarden אוטומטית בכניסה."
+    "message": "התחל את יישום שולחן העבודה של QLine Vaults אוטומטית בכניסה."
   },
   "language": {
     "message": "שפה"
@@ -2255,7 +2255,7 @@
     "message": "נהל חברות"
   },
   "premiumManageAlert": {
-    "message": "באפשרותך לנהל את החשבון שלך דרך הכספת באתר bitwarden.com. האם ברצונך לפתוח את האתר כעת?"
+    "message": "באפשרותך לנהל את החשבון שלך דרך הכספת באתר vaults.qlineit.uk. האם ברצונך לפתוח את האתר כעת?"
   },
   "premiumSignUpStorage": {
     "message": "1 ג'יגה של מקום אחסון מוצפן עבור קבצים מצורפים."
@@ -2264,7 +2264,7 @@
     "message": "רכוש פרימיום"
   },
   "premiumPurchaseAlertV2": {
-    "message": "אתה יכול לרכוש פרימיום מהגדרות החשבון שלך ביישום הרשת של Bitwarden."
+    "message": "אתה יכול לרכוש פרימיום מהגדרות החשבון שלך ביישום הרשת של QLine Vaults."
   },
   "month": {
     "message": "חודש"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "אודות Bitwarden"
+    "message": "אודות QLine Vaults"
   },
   "services": {
     "message": "שירותים"
   },
   "hideBitwarden": {
-    "message": "הסתר את Bitwarden"
+    "message": "הסתר את QLine Vaults"
   },
   "hideOthers": {
     "message": "הסתר אחרים"
@@ -2647,13 +2647,13 @@
     "message": "סיסמה זו תשמש כדי לייצא ולייבא קובץ זה"
   },
   "accountRestrictedOptionDescription": {
-    "message": "השתמש במפתח הצפנת החשבון שלך, הנגזר משם המשתמש והסיסמה הראשית של חשבונך, כדי להצפין את הייצוא ולהגביל את הייבוא רק לחשבון Bitwarden הנוכחי."
+    "message": "השתמש במפתח הצפנת החשבון שלך, הנגזר משם המשתמש והסיסמה הראשית של חשבונך, כדי להצפין את הייצוא ולהגביל את הייבוא רק לחשבון QLine Vaults הנוכחי."
   },
   "passwordProtected": {
     "message": "מוגן סיסמה"
   },
   "passwordProtectedOptionDescription": {
-    "message": "הגדר סיסמת קובץ כדי להצפין את הייצוא ולייבא אותו לכל חשבון Bitwarden באמצעות הסיסמה לפענוח."
+    "message": "הגדר סיסמת קובץ כדי להצפין את הייצוא ולייבא אותו לכל חשבון QLine Vaults באמצעות הסיסמה לפענוח."
   },
   "exportTypeHeading": {
     "message": "סוג ייצוא"
@@ -2684,7 +2684,7 @@
     "message": "יצוא זה מצפין את המידע שלך בעזרת מפתח ההצפנה הנוכחי שלך. אם תחליף (rotate) את מפתחות ההצפנה של החשבון שלך, עליך לבצע ייצוא חדש משום שלא תוכל לפענח את הקובץ הקיים."
   },
   "encExportAccountWarningDesc": {
-    "message": "מפתחות הצפנת חשבון ייחודיים לכל חשבון משתמש של Bitwarden, כך שלא ניתן לייבא ייצוא מוצפן לחשבון אחר."
+    "message": "מפתחות הצפנת חשבון ייחודיים לכל חשבון משתמש של QLine Vaults, כך שלא ניתן לייבא ייצוא מוצפן לחשבון אחר."
   },
   "noOrganizationsList": {
     "message": "אינך משויך לארגון. ניתן לשתף באופן מאובטח פריטים רק עם משתמשים אחרים בתוך ארגון."
@@ -2724,7 +2724,7 @@
     "message": "בטל נעילה עם קוד PIN"
   },
   "setYourPinCode": {
-    "message": "קבע קוד PIN לביטול נעילת Bitwarden. הגדרות הPIN יאופסו אם תבצע יציאה מהתוכנה."
+    "message": "קבע קוד PIN לביטול נעילת QLine Vaults. הגדרות הPIN יאופסו אם תבצע יציאה מהתוכנה."
   },
   "pinRequired": {
     "message": "נדרש קוד PIN."
@@ -2742,7 +2742,7 @@
     "message": "בטל נעילה עם אימות מערכת"
   },
   "windowsHelloConsentMessage": {
-    "message": "אימות עבור Bitwarden."
+    "message": "אימות עבור QLine Vaults."
   },
   "unlockWithTouchId": {
     "message": "שחרור נעילה עם Touch ID"
@@ -2978,10 +2978,10 @@
     "message": "הפוך את האימות הדו־שלבי לחלק"
   },
   "totpHelper": {
-    "message": "Bitwarden יכול לאחסן ולמלא קודים של אימות דו־שלבי. העתק והדבק את המפתח לתוך שדה זה."
+    "message": "QLine Vaults יכול לאחסן ולמלא קודים של אימות דו־שלבי. העתק והדבק את המפתח לתוך שדה זה."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden יכול לאחסן ולמלא קודים של אימות דו־שלבי. בחר את סמל המצלמה כדי לצלם את הקוד QR המאמת של אתר זה, או העתק והדבק את המפתח לתוך שדה זה."
+    "message": "QLine Vaults יכול לאחסן ולמלא קודים של אימות דו־שלבי. בחר את סמל המצלמה כדי לצלם את הקוד QR המאמת של אתר זה, או העתק והדבק את המפתח לתוך שדה זה."
   },
   "premium": {
     "message": "פרימיום",
@@ -3067,7 +3067,7 @@
     "message": "מדיניות ארגון אחת או יותר מחייבת את סיסמת האב לעמוד בדרישות הבאות:"
   },
   "receiveMarketingEmails": {
-    "message": "קבל עדכונים מ-Bitwarden בתיבת הדואר הנכנס שלך."
+    "message": "קבל עדכונים מ-QLine Vaults בתיבת הדואר הנכנס שלך."
   },
   "unsubscribe": {
     "message": "בטל הרשמה"
@@ -3091,7 +3091,7 @@
     "message": "אפשר שילוב דפדפן DuckDuckGo"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "השתמש בכספת Bitwarden שלך בעת גלישה עם DuckDuckGo."
+    "message": "השתמש בכספת QLine Vaults שלך בעת גלישה עם DuckDuckGo."
   },
   "enableHardwareAcceleration": {
     "message": "השתמש בהאצת חומרה"
@@ -3103,7 +3103,7 @@
     "message": "אשר"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$ רוצה להתחבר אל Bitwarden",
+    "message": "$APPID$ רוצה להתחבר אל QLine Vaults",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "נוצר על ידי Bitwarden.",
+    "message": "נוצר על ידי QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "אתר: $WEBSITE$. נוצר על ידי Bitwarden.",
+    "message": "אתר: $WEBSITE$. נוצר על ידי QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "התראה נשלחה למכשיר שלך"
   },
   "notificationSentDevicePart1": {
-    "message": "בטל נעילת Bitwarden במכשיר שלך או ב"
+    "message": "בטל נעילת QLine Vaults במכשיר שלך או ב"
   },
   "notificationSentDeviceAnchor": {
     "message": "יישום רשת"
@@ -4000,7 +4000,7 @@
     "message": "תקבל התראה כאשר הבקשה תאושר"
   },
   "needAnotherOption": {
-    "message": "כניסה עם מכשיר צריכה להיות מוגדרת בהגדרות של היישום Bitwarden. צריך אפשרות אחרת?"
+    "message": "כניסה עם מכשיר צריכה להיות מוגדרת בהגדרות של היישום QLine Vaults. צריך אפשרות אחרת?"
   },
   "viewAllLogInOptions": {
     "message": "הצג את כל אפשרויות הכניסה"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden ממליץ לעדכן את הגדרות הזיהוי הביומטרי שלך כך שתדרש סיסמה ראשית (או PIN) בכניסה הראשונית. האם ברצונך לעדכן את ההגדרות שלך עכשיו?"
+    "message": "QLine Vaults ממליץ לעדכן את הגדרות הזיהוי הביומטרי שלך כך שתדרש סיסמה ראשית (או PIN) בכניסה הראשונית. האם ברצונך לעדכן את ההגדרות שלך עכשיו?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "עדכון הגדרות מומלץ"
@@ -4265,7 +4265,7 @@
     "message": "מהו מכשיר?"
   },
   "aDeviceIs": {
-    "message": "מכשיר הוא התקנה ייחודית של אפליקציית Bitwarden שבה התחברת. התקנה מחדש, ניקוי נתוני אפליקציה או ניקוי עוגיות עלולים לגרום למכשיר להופיע מספר פעמים."
+    "message": "מכשיר הוא התקנה ייחודית של אפליקציית QLine Vaults שבה התחברת. התקנה מחדש, ניקוי נתוני אפליקציה או ניקוי עוגיות עלולים לגרום למכשיר להופיע מספר פעמים."
   },
   "deviceListDescriptionTemp": {
     "message": "חשבונך היה מחובר לכל אחד מהמכשירים שלהלן."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "זיהוי התאמת URI הוא האופן שבו Bitwarden מזהה הצעות למילוי אוטומטי.",
+    "message": "זיהוי התאמת URI הוא האופן שבו QLine Vaults מזהה הצעות למילוי אוטומטי.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "הורד ואז שתף את דוח האבחון עם"
   },
   "bitwardenSupport": {
-    "message": "תמיכת Bitwarden",
+    "message": "תמיכת QLine Vaults",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "ביטול נעילה ביומטרי אינו זמין בשל קבצי מערכת המוגדרים באופן שגוי."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "ביטול נעילה ביומטרי אינו זמין בגלל שהוא לא מופעל עבור $EMAIL$ ביישום שולחן העבודה של Bitwarden.",
+    "message": "ביטול נעילה ביומטרי אינו זמין בגלל שהוא לא מופעל עבור $EMAIL$ ביישום שולחן העבודה של QLine Vaults.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "הגדר כניסה דו-שלבית"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden ישלח קוד לכתובת הדוא\"ל של חשבונך כדי לוודא כניסות ממכשירים חדשים החל מפברואר 2025."
+    "message": "QLine Vaults ישלח קוד לכתובת הדוא\"ל של חשבונך כדי לוודא כניסות ממכשירים חדשים החל מפברואר 2025."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "אתה יכול להגדיר כניסה דו-שלבית כדרך חלופית להגן על חשבונך או לשנות את הדוא\"ל שלך לכתובת אליה יש לך גישה."
@@ -5541,7 +5541,7 @@
     "message": "אפשר לכידת מסך"
   },
   "allowScreenshotsDesc": {
-    "message": "אפשר ליישום שולחן העבודה של Bitwarden להילכד בצילומי מסך ולהיות מוצג בהפעלות שולחן עבודה מרוחק. השבתה תמנע גישה בצגים חיצוניים מסוימים."
+    "message": "אפשר ליישום שולחן העבודה של QLine Vaults להילכד בצילומי מסך ולהיות מוצג בהפעלות שולחן עבודה מרוחק. השבתה תמנע גישה בצגים חיצוניים מסוימים."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "אשר שהחלון עדיין גלוי"
@@ -5687,7 +5687,7 @@
     "message": "אודות הגדרה זו"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden ישתמש בכתובות URI של כניסות שמורות כדי לזהות באיזה סמל או URL לשינוי סיסמה יש להשתמש על מנת לשפר את החוויה שלך. לא נאסף או נשמר מידע כלשהו כאשר אתה משתמש בשירות זה."
+    "message": "QLine Vaults ישתמש בכתובות URI של כניסות שמורות כדי לזהות באיזה סמל או URL לשינוי סיסמה יש להשתמש על מנת לשפר את החוויה שלך. לא נאסף או נשמר מידע כלשהו כאשר אתה משתמש בשירות זה."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "הוסף 3 לחצני העתקה מהירה לצד פריטים כדי להעתיק את שם המשתמש, הסיסמה או קוד האימות שלך ללוח."
@@ -5927,7 +5927,7 @@
     "message": "הצג פחות"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden לא מאמת את מקומות הקלט, נא לוודא שזה החלון והשדה הנכונים בטרם שימוש בקיצור הדרך."
+    "message": "QLine Vaults לא מאמת את מקומות הקלט, נא לוודא שזה החלון והשדה הנכונים בטרם שימוש בקיצור הדרך."
   },
   "typeShortcut": {
     "message": "הקלד קיצור דרך"
@@ -6080,7 +6080,7 @@
     "message": "שדרג לפרימיום"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "הארגון שלך כבר לא משתמש בסיסמאות אב כדי להתחבר ל-Bitwarden. כדי להמשיך, אמת את הארגון והדומיין."
+    "message": "הארגון שלך כבר לא משתמש בסיסמאות אב כדי להתחבר ל-QLine Vaults. כדי להמשיך, אמת את הארגון והדומיין."
   },
   "continueWithLogIn": {
     "message": "המשך בכניסה"
@@ -6329,10 +6329,10 @@
     "message": "הזן מספר כתובות דוא\"ל על ידי הפרדה בפסיק."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "סדר מחדש $LABEL$. השתמש במקשי החצים כדי להזיז פריט מעלה או מטה.",

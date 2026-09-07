@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "SSH ଏଜେଣ୍ଟ ସକ୍ଷମ କରନ୍ତୁ"
   },
   "enableSshAgentDesc": {
-    "message": "ଆପଣଙ୍କ Bitwarden ଭଣ୍ଡାରରୁ ସିଧାସଳଖ SSH ଅନୁରୋଧକୁ ସାଇନ୍ କରିବା ପାଇଁ SSH ଏଜେଣ୍ଟକୁ ସକ୍ଷମ କରନ୍ତୁ।"
+    "message": "ଆପଣଙ୍କ QLine Vaults ଭଣ୍ଡାରରୁ ସିଧାସଳଖ SSH ଅନୁରୋଧକୁ ସାଇନ୍ କରିବା ପାଇଁ SSH ଏଜେଣ୍ଟକୁ ସକ୍ଷମ କରନ୍ତୁ।"
   },
   "enableSshAgentHelp": {
-    "message": "SSH ଏଜେଣ୍ଟ ହେଉଛି ଡେଭେଲପରମାନଙ୍କ ପାଇଁ ଏକ ସେବା ଯାହା ଆପଣଙ୍କୁ ଆପଣଙ୍କ Bitwarden ଭଣ୍ଡାରରୁ ସିଧାସଳଖ SSH ଅନୁରୋଧକୁ ସାଇନ୍ କରିବାକୁ ଅନୁମତି ଦିଏ।"
+    "message": "SSH ଏଜେଣ୍ଟ ହେଉଛି ଡେଭେଲପରମାନଙ୍କ ପାଇଁ ଏକ ସେବା ଯାହା ଆପଣଙ୍କୁ ଆପଣଙ୍କ QLine Vaults ଭଣ୍ଡାରରୁ ସିଧାସଳଖ SSH ଅନୁରୋଧକୁ ସାଇନ୍ କରିବାକୁ ଅନୁମତି ଦିଏ।"
   },
   "sshAgentPromptBehavior": {
     "message": "SSH ଏଜେଣ୍ଟ ବ୍ୟବହାର କଲାବେଳେ ଅନୁମତି ମାଗନ୍ତୁ"
@@ -781,7 +781,7 @@
     "message": "ବ୍ରାଉଜର୍ ସହ ସିଙ୍କ୍ କରନ୍ତୁ"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "$VAULTURL$ ସହ ସଂଯୋଗ କରିବାକୁ, ଆପଣଙ୍କୁ ଆପଣଙ୍କ ଡିଫଲ୍ଟ ବ୍ରାଉଜର୍ Bitwarden ଆପ୍ ସହ ସିଙ୍କ୍ କରିବାକୁ ହେବ। ଥରେ ଆପଣଙ୍କ ବ୍ରାଉଜର୍ ସିଙ୍କ୍ ହେଲେ ଆପଣ ଏହି ଆପ୍ କୁ ପୁନଃ ନିର୍ଦ୍ଦେଶିତ ହେବେ।",
+    "message": "$VAULTURL$ ସହ ସଂଯୋଗ କରିବାକୁ, ଆପଣଙ୍କୁ ଆପଣଙ୍କ ଡିଫଲ୍ଟ ବ୍ରାଉଜର୍ QLine Vaults ଆପ୍ ସହ ସିଙ୍କ୍ କରିବାକୁ ହେବ। ଥରେ ଆପଣଙ୍କ ବ୍ରାଉଜର୍ ସିଙ୍କ୍ ହେଲେ ଆପଣ ଏହି ଆପ୍ କୁ ପୁନଃ ନିର୍ଦ୍ଦେଶିତ ହେବେ।",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "ଡିକ୍ରିପ୍ସନ୍ ତ୍ରୁଟି"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden ନିମ୍ନରେ ତାଲିକାଭୁକ୍ତ ଭଣ୍ଡାର ଆଇଟମ୍(ଗୁଡ଼ିକ)କୁ ଡିକ୍ରିପ୍ଟ କରିପାରିଲା ନାହିଁ।"
+    "message": "QLine Vaults ନିମ୍ନରେ ତାଲିକାଭୁକ୍ତ ଭଣ୍ଡାର ଆଇଟମ୍(ଗୁଡ଼ିକ)କୁ ଡିକ୍ରିପ୍ଟ କରିପାରିଲା ନାହିଁ।"
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "ଗ୍ରାହକ ସଫଳତା ସମ୍ପର୍କ କରନ୍ତୁ",
@@ -1480,7 +1480,7 @@
     "message": "ଆକାଉଣ୍ଟ ସୃଷ୍ଟି କରନ୍ତୁ"
   },
   "newToBitwarden": {
-    "message": "Bitwarden ରେ ନୂଆ?"
+    "message": "QLine Vaults ରେ ନୂଆ?"
   },
   "setAStrongPassword": {
     "message": "ଏକ ଶକ୍ତ ପାସୱର୍ଡ ସେଟ୍ କରନ୍ତୁ"
@@ -1492,7 +1492,7 @@
     "message": "ଲଗ ଇନ୍ କରନ୍ତୁ"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Bitwarden ରେ ଲଗ ଇନ୍ କରନ୍ତୁ"
+    "message": "QLine Vaults ରେ ଲଗ ଇନ୍ କରନ୍ତୁ"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "ଆପଣଙ୍କ ଇମେଲ୍ ରେ ପଠାଯାଇଥିବା କୋଡ୍ ଦିଅନ୍ତୁ"
@@ -1650,7 +1650,7 @@
     "message": "ଅପ୍ରତ୍ୟାଶିତ ତ୍ରୁଟି"
   },
   "closeThisBitwardenWindow": {
-    "message": "ଏହି Bitwarden ୱିଣ୍ଡୋ ବନ୍ଦ କରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।"
+    "message": "ଏହି QLine Vaults ୱିଣ୍ଡୋ ବନ୍ଦ କରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।"
   },
   "itemInformation": {
     "message": "ଆଇଟମ୍ ସୂଚନା"
@@ -1724,7 +1724,7 @@
     "message": "ପ୍ରାମାଣିକ ଆପ୍"
   },
   "authenticatorAppDescV2": {
-    "message": "Bitwarden Authenticator ଭଳି ପ୍ରାମାଣିକ ଆପ୍ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଥିବା କୋଡ୍ ଦିଅନ୍ତୁ।",
+    "message": "an authenticator app ଭଳି ପ୍ରାମାଣିକ ଆପ୍ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଥିବା କୋଡ୍ ଦିଅନ୍ତୁ।",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "ସ୍ୱୟଂ-ହୋଷ୍ଟେଡ୍ ପରିବେଶ"
   },
   "selfHostedBaseUrlHint": {
-    "message": "ଆପଣଙ୍କ ଅନ-ପ୍ରିମିସେସ୍ ହୋଷ୍ଟେଡ୍ Bitwarden ଇନଷ୍ଟଲେସନର ମୂଳ URL ନିର୍ଦ୍ଦିଷ୍ଟ କରନ୍ତୁ। ଉଦାହରଣ: https://bitwarden.company.com"
+    "message": "ଆପଣଙ୍କ ଅନ-ପ୍ରିମିସେସ୍ ହୋଷ୍ଟେଡ୍ QLine Vaults ଇନଷ୍ଟଲେସନର ମୂଳ URL ନିର୍ଦ୍ଦିଷ୍ଟ କରନ୍ତୁ। ଉଦାହରଣ: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "ଉନ୍ନତ କନଫିଗରେସନ୍ ପାଇଁ, ଆପଣ ପ୍ରତ୍ୟେକ ସେବାର ମୂଳ URL ସ୍ୱତନ୍ତ୍ର ଭାବରେ ନିର୍ଦ୍ଦିଷ୍ଟ କରିପାରିବେ।"
@@ -1872,7 +1872,7 @@
     "message": "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣଙ୍କ ଆକାଉଣ୍ଟର ଏନକ୍ରିପ୍ସନ୍ କୀ ରୋଟେଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "ଆପଣଙ୍କ ଏନକ୍ରିପ୍ସନ୍ କୀ ଅପଡେଟ୍ କରିବା ପରେ, ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟବହାର କରୁଥିବା ସମସ୍ତ Bitwarden ଆପ୍ଲିକେସନ୍ (ଯେପରିକି ମୋବାଇଲ୍ ଆପ୍ କିମ୍ବା ବ୍ରାଉଜର୍ ଏକ୍ସଟେନସନ୍) ରୁ ଲଗ୍ ଆଉଟ୍ କରି ପୁନଃ ଲଗ ଇନ୍ କରିବାକୁ ହେବ। ଲଗ୍ ଆଉଟ୍ ଏବଂ ପୁନଃ ଲଗ ଇନ୍ ନକଲେ (ଯାହା ଆପଣଙ୍କ ନୂଆ ଏନକ୍ରିପ୍ସନ୍ କୀ ଡାଉନଲୋଡ୍ କରେ) ଡାଟା ଦୂଷିତ ହୋଇପାରେ। ଆମେ ଆପଣଙ୍କୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଲଗ୍ ଆଉଟ୍ କରିବାକୁ ଚେଷ୍ଟା କରିବୁ, ତଥାପି, ଏହା ବିଳମ୍ବିତ ହୋଇପାରେ।"
+    "message": "ଆପଣଙ୍କ ଏନକ୍ରିପ୍ସନ୍ କୀ ଅପଡେଟ୍ କରିବା ପରେ, ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟବହାର କରୁଥିବା ସମସ୍ତ QLine Vaults ଆପ୍ଲିକେସନ୍ (ଯେପରିକି ମୋବାଇଲ୍ ଆପ୍ କିମ୍ବା ବ୍ରାଉଜର୍ ଏକ୍ସଟେନସନ୍) ରୁ ଲଗ୍ ଆଉଟ୍ କରି ପୁନଃ ଲଗ ଇନ୍ କରିବାକୁ ହେବ। ଲଗ୍ ଆଉଟ୍ ଏବଂ ପୁନଃ ଲଗ ଇନ୍ ନକଲେ (ଯାହା ଆପଣଙ୍କ ନୂଆ ଏନକ୍ରିପ୍ସନ୍ କୀ ଡାଉନଲୋଡ୍ କରେ) ଡାଟା ଦୂଷିତ ହୋଇପାରେ। ଆମେ ଆପଣଙ୍କୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଲଗ୍ ଆଉଟ୍ କରିବାକୁ ଚେଷ୍ଟା କରିବୁ, ତଥାପି, ଏହା ବିଳମ୍ବିତ ହୋଇପାରେ।"
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "ଆପଣ ସଞ୍ଚୟ କରିଥିବା କୌଣସି ଆକାଉଣ୍ଟ-ପ୍ରତିବନ୍ଧିତ ଏକ୍ସପୋର୍ଟ ଅବୈଧ ହୋଇଯିବ।"
@@ -1968,7 +1968,7 @@
     "message": "ୱେବ୍ ଆପ୍ କୁ ଜାରି ରଖିବେ?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "ଆପଣ Bitwarden ୱେବ୍ ଆପ୍ ରେ ଆପଣଙ୍କ ମାଷ୍ଟର ପାସୱର୍ଡ ପରିବର୍ତ୍ତନ କରିପାରିବେ।"
+    "message": "ଆପଣ QLine Vaults ୱେବ୍ ଆପ୍ ରେ ଆପଣଙ୍କ ମାଷ୍ଟର ପାସୱର୍ଡ ପରିବର୍ତ୍ତନ କରିପାରିବେ।"
   },
   "fingerprintPhrase": {
     "message": "ଆଙ୍ଗୁଠି ଛାପ ବାକ୍ୟ",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "ଦୁଇ-ପର୍ଯ୍ୟାୟ ଲଗଇନ୍ ଆପଣଙ୍କ ଆକାଉଣ୍ଟକୁ ଅଧିକ ସୁରକ୍ଷିତ କରେ, ଯାହା ଆପଣଙ୍କୁ ଆପଣଙ୍କ ଲଗଇନ୍ ଅନ୍ୟ ଏକ ଡିଭାଇସ୍ (ଯେପରିକି ସୁରକ୍ଷା କୀ, ପ୍ରାମାଣିକ ଆପ୍, SMS, ଫୋନ୍ କଲ୍, କିମ୍ବା ଇମେଲ୍) ସହ ଯାଞ୍ଚ କରିବାକୁ ଆବଶ୍ୟକ କରେ। ଦୁଇ-ପର୍ଯ୍ୟାୟ ଲଗଇନ୍ bitwarden.com ୱେବ୍ ଭଣ୍ଡାରରେ ସେଟଅପ୍ କରାଯାଇପାରିବ। ଆପଣ ବର୍ତ୍ତମାନ ୱେବସାଇଟ୍ ପରିଦର୍ଶନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+    "message": "ଦୁଇ-ପର୍ଯ୍ୟାୟ ଲଗଇନ୍ ଆପଣଙ୍କ ଆକାଉଣ୍ଟକୁ ଅଧିକ ସୁରକ୍ଷିତ କରେ, ଯାହା ଆପଣଙ୍କୁ ଆପଣଙ୍କ ଲଗଇନ୍ ଅନ୍ୟ ଏକ ଡିଭାଇସ୍ (ଯେପରିକି ସୁରକ୍ଷା କୀ, ପ୍ରାମାଣିକ ଆପ୍, SMS, ଫୋନ୍ କଲ୍, କିମ୍ବା ଇମେଲ୍) ସହ ଯାଞ୍ଚ କରିବାକୁ ଆବଶ୍ୟକ କରେ। ଦୁଇ-ପର୍ଯ୍ୟାୟ ଲଗଇନ୍ vaults.qlineit.uk ୱେବ୍ ଭଣ୍ଡାରରେ ସେଟଅପ୍ କରାଯାଇପାରିବ। ଆପଣ ବର୍ତ୍ତମାନ ୱେବସାଇଟ୍ ପରିଦର୍ଶନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
   },
   "twoStepLogin": {
     "message": "ଦୁଇ-ପର୍ଯ୍ୟାୟ ଲଗଇନ୍"
@@ -2120,19 +2120,19 @@
     "message": "କପି କରିବାକୁ କୌଣସି ବିବରଣୀ ନାହିଁ"
   },
   "runInBackground": {
-    "message": "Bitwarden କୁ ପୃଷ୍ଠଭୂମିରେ ଚଲାନ୍ତୁ"
+    "message": "QLine Vaults କୁ ପୃଷ୍ଠଭୂମିରେ ଚଲାନ୍ତୁ"
   },
   "runInBackgroundDesc": {
-    "message": "ଯେତେବେଳେ ଆପଣ ୱିଣ୍ଡୋ ବନ୍ଦ କରନ୍ତି, Bitwarden ଟ୍ରେ ରୁ ପ୍ରବେଶଯୋଗ୍ୟ। SSH ଏଜେଣ୍ଟ କିମ୍ବା ବ୍ରାଉଜର୍ ଏକୀକରଣ ବ୍ୟବହାର କଲାବେଳେ ସୁପାରିଶ କରାଯାଏ।"
+    "message": "ଯେତେବେଳେ ଆପଣ ୱିଣ୍ଡୋ ବନ୍ଦ କରନ୍ତି, QLine Vaults ଟ୍ରେ ରୁ ପ୍ରବେଶଯୋଗ୍ୟ। SSH ଏଜେଣ୍ଟ କିମ୍ବା ବ୍ରାଉଜର୍ ଏକୀକରଣ ବ୍ୟବହାର କଲାବେଳେ ସୁପାରିଶ କରାଯାଏ।"
   },
   "runInBackgroundDescMac": {
-    "message": "ଯେତେବେଳେ ଆପଣ ୱିଣ୍ଡୋ ବନ୍ଦ କରନ୍ତି, Bitwarden ମେନୁ ବାର୍ ରୁ ପ୍ରବେଶଯୋଗ୍ୟ। SSH ଏଜେଣ୍ଟ କିମ୍ବା ବ୍ରାଉଜର୍ ଏକୀକରଣ ବ୍ୟବହାର କଲାବେଳେ ସୁପାରିଶ କରାଯାଏ।"
+    "message": "ଯେତେବେଳେ ଆପଣ ୱିଣ୍ଡୋ ବନ୍ଦ କରନ୍ତି, QLine Vaults ମେନୁ ବାର୍ ରୁ ପ୍ରବେଶଯୋଗ୍ୟ। SSH ଏଜେଣ୍ଟ କିମ୍ବା ବ୍ରାଉଜର୍ ଏକୀକରଣ ବ୍ୟବହାର କଲାବେଳେ ସୁପାରିଶ କରାଯାଏ।"
   },
   "openAtLogin": {
     "message": "ଲଗଇନ୍ ରେ ସ୍ୱୟଂଚାଳିତ ଭାବେ ଆରମ୍ଭ କରନ୍ତୁ"
   },
   "openAtLoginDesc": {
-    "message": "ଲଗଇନ୍ ରେ Bitwarden ଡେସ୍କଟପ୍ ଆପ୍ଲିକେସନକୁ ସ୍ୱୟଂଚାଳିତ ଭାବେ ଆରମ୍ଭ କରନ୍ତୁ।"
+    "message": "ଲଗଇନ୍ ରେ QLine Vaults ଡେସ୍କଟପ୍ ଆପ୍ଲିକେସନକୁ ସ୍ୱୟଂଚାଳିତ ଭାବେ ଆରମ୍ଭ କରନ୍ତୁ।"
   },
   "language": {
     "message": "ଭାଷା"
@@ -2255,7 +2255,7 @@
     "message": "ସଦସ୍ୟତା ପରିଚାଳନା କରନ୍ତୁ"
   },
   "premiumManageAlert": {
-    "message": "ଆପଣ bitwarden.com ୱେବ୍ ଭଣ୍ଡାରରେ ଆପଣଙ୍କ ସଦସ୍ୟତା ପରିଚାଳନା କରିପାରିବେ। ଆପଣ ବର୍ତ୍ତମାନ ୱେବସାଇଟ୍ ପରିଦର୍ଶନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+    "message": "ଆପଣ vaults.qlineit.uk ୱେବ୍ ଭଣ୍ଡାରରେ ଆପଣଙ୍କ ସଦସ୍ୟତା ପରିଚାଳନା କରିପାରିବେ। ଆପଣ ବର୍ତ୍ତମାନ ୱେବସାଇଟ୍ ପରିଦର୍ଶନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
   },
   "premiumSignUpStorage": {
     "message": "ଫାଇଲ୍ ସଂଲଗ୍ନ ପାଇଁ 1 GB ଏନକ୍ରିପ୍ଟେଡ୍ ସଂରକ୍ଷଣ।"
@@ -2264,7 +2264,7 @@
     "message": "ପ୍ରିମିୟମ୍ କିଣନ୍ତୁ"
   },
   "premiumPurchaseAlertV2": {
-    "message": "ଆପଣ Bitwarden ୱେବ୍ ଆପ୍ ରେ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ସେଟିଂସ୍ ରୁ ପ୍ରିମିୟମ୍ କିଣିପାରିବେ।"
+    "message": "ଆପଣ QLine Vaults ୱେବ୍ ଆପ୍ ରେ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ସେଟିଂସ୍ ରୁ ପ୍ରିମିୟମ୍ କିଣିପାରିବେ।"
   },
   "month": {
     "message": "ମାସ"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Bitwarden ବିଷୟରେ"
+    "message": "QLine Vaults ବିଷୟରେ"
   },
   "services": {
     "message": "ସେବାଗୁଡ଼ିକ"
   },
   "hideBitwarden": {
-    "message": "Bitwarden ଲୁଚାନ୍ତୁ"
+    "message": "QLine Vaults ଲୁଚାନ୍ତୁ"
   },
   "hideOthers": {
     "message": "ଅନ୍ୟମାନଙ୍କୁ ଲୁଚାନ୍ତୁ"
@@ -2501,7 +2501,7 @@
     "message": "ସମସ୍ତ ଦେଖାନ୍ତୁ"
   },
   "quitBitwarden": {
-    "message": "Bitwarden ଛାଡ଼ନ୍ତୁ"
+    "message": "QLine Vaults ଛାଡ଼ନ୍ତୁ"
   },
   "valueCopied": {
     "message": "$VALUE$ କପି ହୋଇଛି",
@@ -2647,13 +2647,13 @@
     "message": "ଏହି ପାସୱର୍ଡ ଏହି ଫାଇଲ୍ ଏକ୍ସପୋର୍ଟ ଏବଂ ଆମଦାନୀ କରିବାକୁ ବ୍ୟବହୃତ ହେବ"
   },
   "accountRestrictedOptionDescription": {
-    "message": "ଆପଣଙ୍କ ଆକାଉଣ୍ଟର ଉପଯୋଗକର୍ତ୍ତା ନାମ ଏବଂ ମାଷ୍ଟର ପାସୱର୍ଡରୁ ପ୍ରାପ୍ତ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ଏନକ୍ରିପ୍ସନ୍ କୀ ବ୍ୟବହାର କରି ଏକ୍ସପୋର୍ଟକୁ ଏନକ୍ରିପ୍ଟ୍ କରନ୍ତୁ ଏବଂ ଆମଦାନୀକୁ କେବଳ ବର୍ତ୍ତମାନର Bitwarden ଆକାଉଣ୍ଟରେ ସୀମିତ ରଖନ୍ତୁ।"
+    "message": "ଆପଣଙ୍କ ଆକାଉଣ୍ଟର ଉପଯୋଗକର୍ତ୍ତା ନାମ ଏବଂ ମାଷ୍ଟର ପାସୱର୍ଡରୁ ପ୍ରାପ୍ତ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ଏନକ୍ରିପ୍ସନ୍ କୀ ବ୍ୟବହାର କରି ଏକ୍ସପୋର୍ଟକୁ ଏନକ୍ରିପ୍ଟ୍ କରନ୍ତୁ ଏବଂ ଆମଦାନୀକୁ କେବଳ ବର୍ତ୍ତମାନର QLine Vaults ଆକାଉଣ୍ଟରେ ସୀମିତ ରଖନ୍ତୁ।"
   },
   "passwordProtected": {
     "message": "ପାସୱର୍ଡ-ସୁରକ୍ଷିତ"
   },
   "passwordProtectedOptionDescription": {
-    "message": "ଏକ୍ସପୋର୍ଟକୁ ଏନକ୍ରିପ୍ଟ୍ କରିବାକୁ ଏବଂ ଡିକ୍ରିପ୍ସନ୍ ପାଇଁ ପାସୱର୍ଡ ବ୍ୟବହାର କରି ଯେ କୌଣସି Bitwarden ଆକାଉଣ୍ଟରେ ଆମଦାନୀ କରିବାକୁ ଏକ ଫାଇଲ୍ ପାସୱର୍ଡ ସେଟ୍ କରନ୍ତୁ।"
+    "message": "ଏକ୍ସପୋର୍ଟକୁ ଏନକ୍ରିପ୍ଟ୍ କରିବାକୁ ଏବଂ ଡିକ୍ରିପ୍ସନ୍ ପାଇଁ ପାସୱର୍ଡ ବ୍ୟବହାର କରି ଯେ କୌଣସି QLine Vaults ଆକାଉଣ୍ଟରେ ଆମଦାନୀ କରିବାକୁ ଏକ ଫାଇଲ୍ ପାସୱର୍ଡ ସେଟ୍ କରନ୍ତୁ।"
   },
   "exportTypeHeading": {
     "message": "ଏକ୍ସପୋର୍ଟ ପ୍ରକାର"
@@ -2684,7 +2684,7 @@
     "message": "ଏହି ଏକ୍ସପୋର୍ଟ ଆପଣଙ୍କ ଆକାଉଣ୍ଟର ଏନକ୍ରିପ୍ସନ୍ କୀ ବ୍ୟବହାର କରି ଆପଣଙ୍କ ଡାଟାକୁ ଏନକ୍ରିପ୍ଟ୍ କରେ। ଯଦି ଆପଣ କେବେ ଆପଣଙ୍କ ଆକାଉଣ୍ଟର ଏନକ୍ରିପ୍ସନ୍ କୀ ରୋଟେଟ୍ କରନ୍ତି, ଆପଣ ପୁନଃ ଏକ୍ସପୋର୍ଟ କରିବା ଉଚିତ୍ କାରଣ ଆପଣ ଏହି ଏକ୍ସପୋର୍ଟ ଫାଇଲ୍ କୁ ଡିକ୍ରିପ୍ଟ୍ କରିପାରିବେ ନାହିଁ।"
   },
   "encExportAccountWarningDesc": {
-    "message": "ଆକାଉଣ୍ଟ ଏନକ୍ରିପ୍ସନ୍ କୀ ପ୍ରତ୍ୟେକ Bitwarden ଉପଯୋଗକର୍ତ୍ତା ଆକାଉଣ୍ଟ ପାଇଁ ଅନନ୍ୟ, ତେଣୁ ଆପଣ ଏକ ଏନକ୍ରିପ୍ଟେଡ୍ ଏକ୍ସପୋର୍ଟକୁ ଅନ୍ୟ ଆକାଉଣ୍ଟରେ ଆମଦାନୀ କରିପାରିବେ ନାହିଁ।"
+    "message": "ଆକାଉଣ୍ଟ ଏନକ୍ରିପ୍ସନ୍ କୀ ପ୍ରତ୍ୟେକ QLine Vaults ଉପଯୋଗକର୍ତ୍ତା ଆକାଉଣ୍ଟ ପାଇଁ ଅନନ୍ୟ, ତେଣୁ ଆପଣ ଏକ ଏନକ୍ରିପ୍ଟେଡ୍ ଏକ୍ସପୋର୍ଟକୁ ଅନ୍ୟ ଆକାଉଣ୍ଟରେ ଆମଦାନୀ କରିପାରିବେ ନାହିଁ।"
   },
   "noOrganizationsList": {
     "message": "ଆପଣ କୌଣସି ସଂଗଠନର ସଦସ୍ୟ ନୁହଁନ୍ତି। ସଂଗଠନ ଆପଣଙ୍କୁ ଅନ୍ୟ ଉପଯୋଗକର୍ତ୍ତାଙ୍କ ସହ ସୁରକ୍ଷିତ ଭାବରେ ଆଇଟମ୍ ଅଂଶୀଦାର କରିବାକୁ ଅନୁମତି ଦିଏ।"
@@ -2714,7 +2714,7 @@
     "message": "ଦୁର୍ବଳ ମାଷ୍ଟର ପାସୱର୍ଡ"
   },
   "weakMasterPasswordDesc": {
-    "message": "ଆପଣ ବାଛିଥିବା ମାଷ୍ଟର ପାସୱର୍ଡ ଦୁର୍ବଳ। ଆପଣଙ୍କ Bitwarden ଆକାଉଣ୍ଟକୁ ଉପଯୁକ୍ତ ଭାବରେ ସୁରକ୍ଷିତ କରିବାକୁ ଆପଣ ଏକ ଶକ୍ତ ମାଷ୍ଟର ପାସୱର୍ଡ (କିମ୍ବା ପାସଫ୍ରେଜ୍) ବ୍ୟବହାର କରିବା ଉଚିତ୍। ଆପଣ ନିଶ୍ଚିତ କି ଏହି ମାଷ୍ଟର ପାସୱର୍ଡ ବ୍ୟବହାର କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
+    "message": "ଆପଣ ବାଛିଥିବା ମାଷ୍ଟର ପାସୱର୍ଡ ଦୁର୍ବଳ। ଆପଣଙ୍କ QLine Vaults ଆକାଉଣ୍ଟକୁ ଉପଯୁକ୍ତ ଭାବରେ ସୁରକ୍ଷିତ କରିବାକୁ ଆପଣ ଏକ ଶକ୍ତ ମାଷ୍ଟର ପାସୱର୍ଡ (କିମ୍ବା ପାସଫ୍ରେଜ୍) ବ୍ୟବହାର କରିବା ଉଚିତ୍। ଆପଣ ନିଶ୍ଚିତ କି ଏହି ମାଷ୍ଟର ପାସୱର୍ଡ ବ୍ୟବହାର କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
   },
   "pin": {
     "message": "PIN",
@@ -2724,7 +2724,7 @@
     "message": "PIN ସହ ଅନଲକ୍ କରନ୍ତୁ"
   },
   "setYourPinCode": {
-    "message": "Bitwarden ଅନଲକ୍ କରିବା ପାଇଁ ଆପଣଙ୍କ PIN କୋଡ୍ ସେଟ୍ କରନ୍ତୁ। ଯଦି ଆପଣ ଆପ୍ଲିକେସନରୁ ସମ୍ପୂର୍ଣ୍ଣ ଲଗ୍ ଆଉଟ୍ କରନ୍ତି ତେବେ ଆପଣଙ୍କ PIN ସେଟିଂସ୍ ରିସେଟ୍ ହୋଇଯିବ।"
+    "message": "QLine Vaults ଅନଲକ୍ କରିବା ପାଇଁ ଆପଣଙ୍କ PIN କୋଡ୍ ସେଟ୍ କରନ୍ତୁ। ଯଦି ଆପଣ ଆପ୍ଲିକେସନରୁ ସମ୍ପୂର୍ଣ୍ଣ ଲଗ୍ ଆଉଟ୍ କରନ୍ତି ତେବେ ଆପଣଙ୍କ PIN ସେଟିଂସ୍ ରିସେଟ୍ ହୋଇଯିବ।"
   },
   "pinRequired": {
     "message": "PIN କୋଡ୍ ଆବଶ୍ୟକ।"
@@ -2742,7 +2742,7 @@
     "message": "ସିଷ୍ଟମ୍ ପ୍ରାମାଣିକତା ସହ ଅନଲକ୍ କରନ୍ତୁ"
   },
   "windowsHelloConsentMessage": {
-    "message": "Bitwarden ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ।"
+    "message": "QLine Vaults ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ।"
   },
   "unlockWithTouchId": {
     "message": "Touch ID ସହ ଅନଲକ୍ କରନ୍ତୁ"
@@ -2978,10 +2978,10 @@
     "message": "2-ପର୍ଯ୍ୟାୟ ଯାଞ୍ଚକୁ ସହଜ କରନ୍ତୁ"
   },
   "totpHelper": {
-    "message": "Bitwarden 2-ପର୍ଯ୍ୟାୟ ଯାଞ୍ଚ କୋଡ୍ ସଂରକ୍ଷଣ ଏବଂ ପୂରଣ କରିପାରିବ। କୀକୁ କପି କରି ଏହି କ୍ଷେତ୍ରରେ ପେଷ୍ଟ କରନ୍ତୁ।"
+    "message": "QLine Vaults 2-ପର୍ଯ୍ୟାୟ ଯାଞ୍ଚ କୋଡ୍ ସଂରକ୍ଷଣ ଏବଂ ପୂରଣ କରିପାରିବ। କୀକୁ କପି କରି ଏହି କ୍ଷେତ୍ରରେ ପେଷ୍ଟ କରନ୍ତୁ।"
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden 2-ପର୍ଯ୍ୟାୟ ଯାଞ୍ଚ କୋଡ୍ ସଂରକ୍ଷଣ ଏବଂ ପୂରଣ କରିପାରିବ। ଏହି ୱେବସାଇଟର ପ୍ରାମାଣିକ QR କୋଡ୍ ର ସ୍କ୍ରିନଶଟ୍ ନେବାକୁ କ୍ୟାମେରା ଆଇକନ୍ ବାଛନ୍ତୁ, କିମ୍ବା କୀକୁ କପି କରି ଏହି କ୍ଷେତ୍ରରେ ପେଷ୍ଟ କରନ୍ତୁ।"
+    "message": "QLine Vaults 2-ପର୍ଯ୍ୟାୟ ଯାଞ୍ଚ କୋଡ୍ ସଂରକ୍ଷଣ ଏବଂ ପୂରଣ କରିପାରିବ। ଏହି ୱେବସାଇଟର ପ୍ରାମାଣିକ QR କୋଡ୍ ର ସ୍କ୍ରିନଶଟ୍ ନେବାକୁ କ୍ୟାମେରା ଆଇକନ୍ ବାଛନ୍ତୁ, କିମ୍ବା କୀକୁ କପି କରି ଏହି କ୍ଷେତ୍ରରେ ପେଷ୍ଟ କରନ୍ତୁ।"
   },
   "premium": {
     "message": "ପ୍ରିମିୟମ୍",
@@ -3067,7 +3067,7 @@
     "message": "ଏକ କିମ୍ବା ଅଧିକ ସଂଗଠନ ନୀତି ମାଷ୍ଟର ପାସୱର୍ଡକୁ ନିମ୍ନଲିଖିତ ଆବଶ୍ୟକତା ପୂରଣ କରିବାକୁ ଆବଶ୍ୟକ କରେ:"
   },
   "receiveMarketingEmails": {
-    "message": "ଆପଣଙ୍କ ଇନବକ୍ସରେ Bitwarden ରୁ ଅପଡେଟ୍ ଗ୍ରହଣ କରନ୍ତୁ।"
+    "message": "ଆପଣଙ୍କ ଇନବକ୍ସରେ QLine Vaults ରୁ ଅପଡେଟ୍ ଗ୍ରହଣ କରନ୍ତୁ।"
   },
   "unsubscribe": {
     "message": "ସବସ୍କ୍ରିପ୍ସନ୍ ବାତିଲ କରନ୍ତୁ"
@@ -3091,7 +3091,7 @@
     "message": "DuckDuckGo ବ୍ରାଉଜର୍ ଏକୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "DuckDuckGo ସହ ବ୍ରାଉଜ୍ କଲାବେଳେ ଆପଣଙ୍କ Bitwarden ଭଣ୍ଡାର ବ୍ୟବହାର କରନ୍ତୁ।"
+    "message": "DuckDuckGo ସହ ବ୍ରାଉଜ୍ କଲାବେଳେ ଆପଣଙ୍କ QLine Vaults ଭଣ୍ଡାର ବ୍ୟବହାର କରନ୍ତୁ।"
   },
   "enableHardwareAcceleration": {
     "message": "ହାର୍ଡୱେୟାର ଆକ୍ସେଲରେସନ୍ ବ୍ୟବହାର କରନ୍ତୁ"
@@ -3103,7 +3103,7 @@
     "message": "ଅନୁମୋଦନ କରନ୍ତୁ"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$ Bitwarden ସହ ସଂଯୋଗ କରିବାକୁ ଚାହେଁ",
+    "message": "$APPID$ QLine Vaults ସହ ସଂଯୋଗ କରିବାକୁ ଚାହେଁ",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwarden ଦ୍ୱାରା ସୃଷ୍ଟି।",
+    "message": "QLine Vaults ଦ୍ୱାରା ସୃଷ୍ଟି।",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "ୱେବସାଇଟ୍: $WEBSITE$। Bitwarden ଦ୍ୱାରା ସୃଷ୍ଟି।",
+    "message": "ୱେବସାଇଟ୍: $WEBSITE$। QLine Vaults ଦ୍ୱାରା ସୃଷ୍ଟି।",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4000,7 +4000,7 @@
     "message": "ଅନୁରୋଧ ଅନୁମୋଦିତ ହେଲେ ଆପଣଙ୍କୁ ସୂଚିତ କରାଯିବ"
   },
   "needAnotherOption": {
-    "message": "ଡିଭାଇସ୍ ସହ ଲଗ ଇନ୍ Bitwarden ଆପ୍ ର ସେଟିଂସ୍ ରେ ସେଟଅପ୍ ହେବା ଆବଶ୍ୟକ। ଅନ୍ୟ ବିକଳ୍ପ ଆବଶ୍ୟକ?"
+    "message": "ଡିଭାଇସ୍ ସହ ଲଗ ଇନ୍ QLine Vaults ଆପ୍ ର ସେଟିଂସ୍ ରେ ସେଟଅପ୍ ହେବା ଆବଶ୍ୟକ। ଅନ୍ୟ ବିକଳ୍ପ ଆବଶ୍ୟକ?"
   },
   "viewAllLogInOptions": {
     "message": "ସମସ୍ତ ଲଗ ଇନ୍ ବିକଳ୍ପ ଦେଖନ୍ତୁ"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden ଆପଣଙ୍କ ବାୟୋମେଟ୍ରିକ୍ ସେଟିଂସ୍ ଅପଡେଟ୍ କରି ପ୍ରଥମ ଅନଲକ୍ ରେ ଆପଣଙ୍କ ମାଷ୍ଟର ପାସୱର୍ଡ (କିମ୍ବା PIN) ଆବଶ୍ୟକ କରିବାକୁ ସୁପାରିଶ କରେ। ଆପଣ ବର୍ତ୍ତମାନ ଆପଣଙ୍କ ସେଟିଂସ୍ ଅପଡେଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+    "message": "QLine Vaults ଆପଣଙ୍କ ବାୟୋମେଟ୍ରିକ୍ ସେଟିଂସ୍ ଅପଡେଟ୍ କରି ପ୍ରଥମ ଅନଲକ୍ ରେ ଆପଣଙ୍କ ମାଷ୍ଟର ପାସୱର୍ଡ (କିମ୍ବା PIN) ଆବଶ୍ୟକ କରିବାକୁ ସୁପାରିଶ କରେ। ଆପଣ ବର୍ତ୍ତମାନ ଆପଣଙ୍କ ସେଟିଂସ୍ ଅପଡେଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "ସୁପାରିଶ କରାଯାଇଥିବା ସେଟିଂସ୍ ଅପଡେଟ୍"
@@ -4265,7 +4265,7 @@
     "message": "ଡିଭାଇସ୍ କ'ଣ?"
   },
   "aDeviceIs": {
-    "message": "ଡିଭାଇସ୍ ହେଉଛି Bitwarden ଆପ୍ ର ଏକ ଅନନ୍ୟ ଇନଷ୍ଟଲେସନ ଯେଉଁଥିରେ ଆପଣ ଲଗ ଇନ୍ କରିଛନ୍ତି। ପୁନଃ ଇନଷ୍ଟଲ୍, ଆପ୍ ଡାଟା ସଫା କରିବା, କିମ୍ବା କୁକି ସଫା କରିବା ଦ୍ୱାରା ଡିଭାଇସ୍ ଏକାଧିକ ଥର ଦେଖାଯାଇପାରେ।"
+    "message": "ଡିଭାଇସ୍ ହେଉଛି QLine Vaults ଆପ୍ ର ଏକ ଅନନ୍ୟ ଇନଷ୍ଟଲେସନ ଯେଉଁଥିରେ ଆପଣ ଲଗ ଇନ୍ କରିଛନ୍ତି। ପୁନଃ ଇନଷ୍ଟଲ୍, ଆପ୍ ଡାଟା ସଫା କରିବା, କିମ୍ବା କୁକି ସଫା କରିବା ଦ୍ୱାରା ଡିଭାଇସ୍ ଏକାଧିକ ଥର ଦେଖାଯାଇପାରେ।"
   },
   "deviceListDescriptionTemp": {
     "message": "ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ନିମ୍ନରେ ଥିବା ପ୍ରତ୍ୟେକ ଡିଭାଇସ୍ ରେ ଲଗ ଇନ୍ ହୋଇଥିଲା।"
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI ମେଳ ଚିହ୍ନଟ ହେଉଛି Bitwarden କିପରି ସ୍ୱୟଂ ପୂରଣ ସୁପାରିଶ ଚିହ୍ନଟ କରେ।",
+    "message": "URI ମେଳ ଚିହ୍ନଟ ହେଉଛି QLine Vaults କିପରି ସ୍ୱୟଂ ପୂରଣ ସୁପାରିଶ ଚିହ୍ନଟ କରେ।",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ରିପୋର୍ଟ ଡାଉନଲୋଡ୍ କରି ସହ ଅଂଶୀଦାର କରନ୍ତୁ"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden ସମର୍ଥନ",
+    "message": "QLine Vaults ସମର୍ଥନ",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "ଭୁଲ୍ କନଫିଗର୍ ହୋଇଥିବା ସିଷ୍ଟମ୍ ଫାଇଲ୍ ହେତୁ ବାୟୋମେଟ୍ରିକ୍ ଅନଲକ୍ ଅନୁପଲବ୍ଧ।"
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "Bitwarden ଡେସ୍କଟପ୍ ଆପ୍ ରେ $EMAIL$ ପାଇଁ ଏହା ସକ୍ଷମ ନଥିବାରୁ ବାୟୋମେଟ୍ରିକ୍ ଅନଲକ୍ ଅନୁପଲବ୍ଧ।",
+    "message": "QLine Vaults ଡେସ୍କଟପ୍ ଆପ୍ ରେ $EMAIL$ ପାଇଁ ଏହା ସକ୍ଷମ ନଥିବାରୁ ବାୟୋମେଟ୍ରିକ୍ ଅନଲକ୍ ଅନୁପଲବ୍ଧ।",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "ଦୁଇ-ପର୍ଯ୍ୟାୟ ଲଗଇନ୍ ସେଟଅପ୍ କରନ୍ତୁ"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden ଫେବୃଆରୀ 2025 ଠାରୁ ନୂଆ ଡିଭାଇସ୍ ରୁ ଲଗଇନ୍ ଯାଞ୍ଚ କରିବାକୁ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ଇମେଲ୍ ରେ ଏକ କୋଡ୍ ପଠାଇବ।"
+    "message": "QLine Vaults ଫେବୃଆରୀ 2025 ଠାରୁ ନୂଆ ଡିଭାଇସ୍ ରୁ ଲଗଇନ୍ ଯାଞ୍ଚ କରିବାକୁ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ଇମେଲ୍ ରେ ଏକ କୋଡ୍ ପଠାଇବ।"
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "ଆପଣ ଆପଣଙ୍କ ଆକାଉଣ୍ଟକୁ ସୁରକ୍ଷିତ କରିବାର ଏକ ବିକଳ୍ପ ଉପାୟ ଭାବରେ ଦୁଇ-ପର୍ଯ୍ୟାୟ ଲଗଇନ୍ ସେଟଅପ୍ କରିପାରିବେ କିମ୍ବା ଆପଣଙ୍କ ଇମେଲ୍ କୁ ଆପଣ ପ୍ରବେଶ କରିପାରୁଥିବା ଇମେଲ୍ ରେ ପରିବର୍ତ୍ତନ କରିପାରିବେ।"
@@ -5541,7 +5541,7 @@
     "message": "ସ୍କ୍ରିନ୍ କ୍ୟାପଚର୍ ଅନୁମତି ଦିଅନ୍ତୁ"
   },
   "allowScreenshotsDesc": {
-    "message": "Bitwarden ଡେସ୍କଟପ୍ ଆପ୍ଲିକେସନକୁ ସ୍କ୍ରିନଶଟ୍ ରେ କ୍ୟାପଚର୍ କରିବାକୁ ଏବଂ ଦୂରସ୍ଥ ଡେସ୍କଟପ୍ ସେସନ୍ ରେ ଦେଖିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ। ଏହାକୁ ନିଷ୍କ୍ରିୟ କଲେ କିଛି ବାହ୍ୟ ଡିସପ୍ଲେରେ ପ୍ରବେଶ ରୋଧ ହୋଇଯିବ।"
+    "message": "QLine Vaults ଡେସ୍କଟପ୍ ଆପ୍ଲିକେସନକୁ ସ୍କ୍ରିନଶଟ୍ ରେ କ୍ୟାପଚର୍ କରିବାକୁ ଏବଂ ଦୂରସ୍ଥ ଡେସ୍କଟପ୍ ସେସନ୍ ରେ ଦେଖିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ। ଏହାକୁ ନିଷ୍କ୍ରିୟ କଲେ କିଛି ବାହ୍ୟ ଡିସପ୍ଲେରେ ପ୍ରବେଶ ରୋଧ ହୋଇଯିବ।"
   },
   "confirmWindowStillVisibleTitle": {
     "message": "ୱିଣ୍ଡୋ ଏପର୍ଯ୍ୟନ୍ତ ଦୃଶ୍ୟମାନ ଅଛି କି ନିଶ୍ଚିତ କରନ୍ତୁ"
@@ -5687,7 +5687,7 @@
     "message": "ଏହି ସେଟିଂ ବିଷୟରେ"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden ଆପଣଙ୍କ ଅଭିଜ୍ଞତା ଉନ୍ନତ କରିବାକୁ କେଉଁ ଆଇକନ୍ କିମ୍ବା ପାସୱର୍ଡ ପରିବର୍ତ୍ତନ URL ବ୍ୟବହାର କରାଯିବ ତାହା ଚିହ୍ନଟ କରିବାକୁ ସଞ୍ଚିତ ଲଗଇନ୍ URI ବ୍ୟବହାର କରିବ। ଆପଣ ଏହି ସେବା ବ୍ୟବହାର କଲାବେଳେ କୌଣସି ସୂଚନା ସଂଗ୍ରହ କିମ୍ବା ସଞ୍ଚିତ ହୋଇବ ନାହିଁ।"
+    "message": "QLine Vaults ଆପଣଙ୍କ ଅଭିଜ୍ଞତା ଉନ୍ନତ କରିବାକୁ କେଉଁ ଆଇକନ୍ କିମ୍ବା ପାସୱର୍ଡ ପରିବର୍ତ୍ତନ URL ବ୍ୟବହାର କରାଯିବ ତାହା ଚିହ୍ନଟ କରିବାକୁ ସଞ୍ଚିତ ଲଗଇନ୍ URI ବ୍ୟବହାର କରିବ। ଆପଣ ଏହି ସେବା ବ୍ୟବହାର କଲାବେଳେ କୌଣସି ସୂଚନା ସଂଗ୍ରହ କିମ୍ବା ସଞ୍ଚିତ ହୋଇବ ନାହିଁ।"
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "ଆପଣଙ୍କ ଉପଯୋଗକର୍ତ୍ତା ନାମ, ପାସୱର୍ଡ, କିମ୍ବା ଯାଞ୍ଚ କୋଡ୍ କ୍ଲିପବୋର୍ଡକୁ କପି କରିବାକୁ ଆଇଟମ୍ ପାଖରେ 3 ଟି ଶୀଘ୍ର କପି ବଟନ୍ ଯୋଡନ୍ତୁ।"
@@ -5927,7 +5927,7 @@
     "message": "କମ୍ ଦେଖାନ୍ତୁ"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden ଇନପୁଟ୍ ସ୍ଥାନ ଯାଞ୍ଚ କରେ ନାହିଁ, ଶର୍ଟକଟ୍ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ ଆପଣ ସଠିକ୍ ୱିଣ୍ଡୋ ଏବଂ କ୍ଷେତ୍ରରେ ଅଛନ୍ତି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ।"
+    "message": "QLine Vaults ଇନପୁଟ୍ ସ୍ଥାନ ଯାଞ୍ଚ କରେ ନାହିଁ, ଶର୍ଟକଟ୍ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ ଆପଣ ସଠିକ୍ ୱିଣ୍ଡୋ ଏବଂ କ୍ଷେତ୍ରରେ ଅଛନ୍ତି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ।"
   },
   "typeShortcut": {
     "message": "ଟାଇପ୍ ଶର୍ଟକଟ୍"
@@ -6080,7 +6080,7 @@
     "message": "ପ୍ରିମିୟମ୍ ରେ ଅପଗ୍ରେଡ୍ କରନ୍ତୁ"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "ଆପଣଙ୍କ ସଂଗଠନ Bitwarden ରେ ଲଗ ଇନ୍ କରିବାକୁ ମାଷ୍ଟର ପାସୱର୍ଡ ବ୍ୟବହାର କରୁନାହିଁ। ଜାରି ରଖିବାକୁ, ସଂଗଠନ ଏବଂ ଡୋମେନ୍ ଯାଞ୍ଚ କରନ୍ତୁ।"
+    "message": "ଆପଣଙ୍କ ସଂଗଠନ QLine Vaults ରେ ଲଗ ଇନ୍ କରିବାକୁ ମାଷ୍ଟର ପାସୱର୍ଡ ବ୍ୟବହାର କରୁନାହିଁ। ଜାରି ରଖିବାକୁ, ସଂଗଠନ ଏବଂ ଡୋମେନ୍ ଯାଞ୍ଚ କରନ୍ତୁ।"
   },
   "continueWithLogIn": {
     "message": "ଲଗ ଇନ୍ ସହ ଜାରି ରଖନ୍ତୁ"
@@ -6329,10 +6329,10 @@
     "message": "କମା ଦ୍ୱାରା ଅଲଗା କରି ଏକାଧିକ ଇମେଲ୍ ଦିଅନ୍ତୁ।"
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "$LABEL$ ପୁନଃକ୍ରମ କରନ୍ତୁ। ଆଇଟମ୍ ଉପରେ କିମ୍ବା ତଳକୁ ଘୁଞ୍ଚାଇବାକୁ ଆରୋ କୀ ବ୍ୟବହାର କରନ୍ତୁ।",

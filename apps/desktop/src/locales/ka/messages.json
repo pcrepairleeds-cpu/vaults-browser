@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "SSH აგენტის ჩართვა"
   },
   "enableSshAgentDesc": {
-    "message": "ჩართეთ SSH აგენტი, რათა ხელი მოაწეროთ SSH მოთხოვნებს პირდაპირ თქვენი Bitwarden საცავიდან."
+    "message": "ჩართეთ SSH აგენტი, რათა ხელი მოაწეროთ SSH მოთხოვნებს პირდაპირ თქვენი QLine Vaults საცავიდან."
   },
   "enableSshAgentHelp": {
-    "message": "SSH აგენტი არის სერვისი, რომელიც განკუთვნილია დეველოპერებისთვის და საშუალებას გაძლევთ, ხელი მოაწეროთ SSH მოთხოვნებს პირდაპირ თქვენი Bitwarden საცავიდან."
+    "message": "SSH აგენტი არის სერვისი, რომელიც განკუთვნილია დეველოპერებისთვის და საშუალებას გაძლევთ, ხელი მოაწეროთ SSH მოთხოვნებს პირდაპირ თქვენი QLine Vaults საცავიდან."
   },
   "sshAgentPromptBehavior": {
     "message": "SSH აგენტის გამოყენებისას ავტორიზაციის მოთხოვნა"
@@ -781,7 +781,7 @@
     "message": "ბრაუზერთან სინქრონიზაცია"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "$VAULTURL$-თან დასაკავშირებლად, თქვენ უნდა დაასინქრონოთ თქვენი ნაგულისხმევი ბრაუზერი Bitwarden აპთან. ბრაუზერის სინქრონიზაციის შემდეგ თქვენ გადამისამართდებით ამ აპზე.",
+    "message": "$VAULTURL$-თან დასაკავშირებლად, თქვენ უნდა დაასინქრონოთ თქვენი ნაგულისხმევი ბრაუზერი QLine Vaults აპთან. ბრაუზერის სინქრონიზაციის შემდეგ თქვენ გადამისამართდებით ამ აპზე.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "გაშიფვრის შეცდომა"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden-მა ვერ გაშიფრა ქვემოთ ჩამოთვლილი საცავის ელემენტ(ებ)ი."
+    "message": "QLine Vaults-მა ვერ გაშიფრა ქვემოთ ჩამოთვლილი საცავის ელემენტ(ებ)ი."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "დაუკავშირდით მომხმარებელთა წარმატების განყოფილებას",
@@ -1480,7 +1480,7 @@
     "message": "ანგარიშის შექმნა"
   },
   "newToBitwarden": {
-    "message": "ახალი ხართ Bitwarden-ში?"
+    "message": "ახალი ხართ QLine Vaults-ში?"
   },
   "setAStrongPassword": {
     "message": "დააყენეთ ძლიერი პაროლი"
@@ -1492,7 +1492,7 @@
     "message": "შესვლა"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Bitwarden-ში შესვლა"
+    "message": "QLine Vaults-ში შესვლა"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "შეიყვანეთ კოდი, რომელიც გამოგზავნილია თქვენს ელფოსტაზე"
@@ -1650,7 +1650,7 @@
     "message": "მოულოდნელი შეცდომა"
   },
   "closeThisBitwardenWindow": {
-    "message": "დახურეთ ეს Bitwarden ფანჯარა და სცადეთ ხელახლა."
+    "message": "დახურეთ ეს QLine Vaults ფანჯარა და სცადეთ ხელახლა."
   },
   "itemInformation": {
     "message": "ელემენტის ინფორმაცია"
@@ -1724,7 +1724,7 @@
     "message": "ავთენტიკატორი აპი"
   },
   "authenticatorAppDescV2": {
-    "message": "შეიყვანეთ კოდი, რომელიც გენერირებულია აუტენტიფიკატორის აპის მიერ, როგორიცაა Bitwarden Authenticator.",
+    "message": "შეიყვანეთ კოდი, რომელიც გენერირებულია აუტენტიფიკატორის აპის მიერ, როგორიცაა an authenticator app.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "თვითმასპინძლებადი გარემო"
   },
   "selfHostedBaseUrlHint": {
-    "message": "მიუთითეთ თქვენი ლოკალურად მასპინძლებადი Bitwarden ინსტალაციის ძირითადი URL. მაგალითი: https://bitwarden.company.com"
+    "message": "მიუთითეთ თქვენი ლოკალურად მასპინძლებადი QLine Vaults ინსტალაციის ძირითადი URL. მაგალითი: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "გაფართოებული კონფიგურაციისთვის, შეგიძლიათ თითოეული სერვისის ძირითადი URL ცალ-ცალკე მიუთითოთ."
@@ -1872,7 +1872,7 @@
     "message": "დარწმუნებული ხართ, რომ გსურთ თქვენი ანგარიშის დაშიფვრის გასაღების შეცვლა?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "დაშიფვრის გასაღების განახლების შემდეგ, თქვენ უნდა გახვიდეთ და ხელახლა შეხვიდეთ ყველა Bitwarden აპლიკაციაში, რომელსაც ამჟამად იყენებთ (მაგალითად, მობილური აპი ან ბრაუზერის გაფართოებები). გამოსვლისა და ხელახლა შესვლის (რაც ჩამოტვირთავს თქვენს ახალ გასაღებს) შეუსრულებლობამ შეიძლება გამოიწვიოს მონაცემების დაზიანება. ჩვენ შევეცდებით ავტომატურად გამოგიყვანოთ, თუმცა შეიძლება იყოს დაგვიანება."
+    "message": "დაშიფვრის გასაღების განახლების შემდეგ, თქვენ უნდა გახვიდეთ და ხელახლა შეხვიდეთ ყველა QLine Vaults აპლიკაციაში, რომელსაც ამჟამად იყენებთ (მაგალითად, მობილური აპი ან ბრაუზერის გაფართოებები). გამოსვლისა და ხელახლა შესვლის (რაც ჩამოტვირთავს თქვენს ახალ გასაღებს) შეუსრულებლობამ შეიძლება გამოიწვიოს მონაცემების დაზიანება. ჩვენ შევეცდებით ავტომატურად გამოგიყვანოთ, თუმცა შეიძლება იყოს დაგვიანება."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "ნებისმიერი შენახული ანგარიშზე შეზღუდული ექსპორტი გახდება არასწორი."
@@ -1968,7 +1968,7 @@
     "message": "გავაგრძელოთ ვებ აპში?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "თქვენ შეგიძლიათ შეცვალოთ მთავარი პაროლი Bitwarden ვებ აპში."
+    "message": "თქვენ შეგიძლიათ შეცვალოთ მთავარი პაროლი QLine Vaults ვებ აპში."
   },
   "fingerprintPhrase": {
     "message": "ანაბეჭდის ფრაზა",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "ორსაფეხურიანი შესვლა ხდის თქვენს ანგარიშს უფრო უსაფრთხოს, რადგან ის მოითხოვს თქვენი შესვლის დადასტურებას სხვა მოწყობილობით, როგორიცაა უსაფრთხოების გასაღები, აუტენტიფიკატორის აპი, SMS, ტელეფონის ზარი ან ელფოსტა. ორსაფეხურიანი შესვლის დაყენება შესაძლებელია bitwarden.com ვებ საცავში. გსურთ ახლავე ეწვიოთ ვებსაიტს?"
+    "message": "ორსაფეხურიანი შესვლა ხდის თქვენს ანგარიშს უფრო უსაფრთხოს, რადგან ის მოითხოვს თქვენი შესვლის დადასტურებას სხვა მოწყობილობით, როგორიცაა უსაფრთხოების გასაღები, აუტენტიფიკატორის აპი, SMS, ტელეფონის ზარი ან ელფოსტა. ორსაფეხურიანი შესვლის დაყენება შესაძლებელია vaults.qlineit.uk ვებ საცავში. გსურთ ახლავე ეწვიოთ ვებსაიტს?"
   },
   "twoStepLogin": {
     "message": "ორსაფეხურიანი შესვლა"
@@ -2120,19 +2120,19 @@
     "message": "კოპირებისთვის დეტალები არ არის"
   },
   "runInBackground": {
-    "message": "Bitwarden-ის ფონზე მუშაობის შენარჩუნება"
+    "message": "QLine Vaults-ის ფონზე მუშაობის შენარჩუნება"
   },
   "runInBackgroundDesc": {
-    "message": "როცა დახურავთ ფანჯარას, Bitwarden ხელმისაწვდომია უჯრიდან. რეკომენდებულია SSH აგენტის ან ბრაუზერის ინტეგრაციის გამოყენებისას."
+    "message": "როცა დახურავთ ფანჯარას, QLine Vaults ხელმისაწვდომია უჯრიდან. რეკომენდებულია SSH აგენტის ან ბრაუზერის ინტეგრაციის გამოყენებისას."
   },
   "runInBackgroundDescMac": {
-    "message": "როცა დახურავთ ფანჯარას, Bitwarden ხელმისაწვდომია მენიუს ზოლიდან. რეკომენდებულია SSH აგენტის ან ბრაუზერის ინტეგრაციის გამოყენებისას."
+    "message": "როცა დახურავთ ფანჯარას, QLine Vaults ხელმისაწვდომია მენიუს ზოლიდან. რეკომენდებულია SSH აგენტის ან ბრაუზერის ინტეგრაციის გამოყენებისას."
   },
   "openAtLogin": {
     "message": "ავტომატურად გაშვება შესვლისას"
   },
   "openAtLoginDesc": {
-    "message": "გაუშვით Bitwarden დესკტოპ აპლიკაცია ავტომატურად შესვლისას."
+    "message": "გაუშვით QLine Vaults დესკტოპ აპლიკაცია ავტომატურად შესვლისას."
   },
   "language": {
     "message": "ენა"
@@ -2255,7 +2255,7 @@
     "message": "წევრობის მართვა"
   },
   "premiumManageAlert": {
-    "message": "თქვენ შეგიძლიათ მართოთ თქვენი წევრობა bitwarden.com ვებ საცავში. გსურთ ახლავე ეწვიოთ ვებსაიტს?"
+    "message": "თქვენ შეგიძლიათ მართოთ თქვენი წევრობა vaults.qlineit.uk ვებ საცავში. გსურთ ახლავე ეწვიოთ ვებსაიტს?"
   },
   "premiumSignUpStorage": {
     "message": "1 GB დაშიფრული მეხსიერება ფაილების მიმაგრებისთვის."
@@ -2264,7 +2264,7 @@
     "message": "Premium-ის შეძენა"
   },
   "premiumPurchaseAlertV2": {
-    "message": "თქვენ შეგიძლიათ შეიძინოთ Premium Bitwarden ვებ აპის ანგარიშის პარამეტრებიდან."
+    "message": "თქვენ შეგიძლიათ შეიძინოთ Premium QLine Vaults ვებ აპის ანგარიშის პარამეტრებიდან."
   },
   "month": {
     "message": "თვე"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Bitwarden-ის შესახებ"
+    "message": "QLine Vaults-ის შესახებ"
   },
   "services": {
     "message": "სერვისები"
   },
   "hideBitwarden": {
-    "message": "Bitwarden-ის დამალვა"
+    "message": "QLine Vaults-ის დამალვა"
   },
   "hideOthers": {
     "message": "სხვების დამალვა"
@@ -2501,7 +2501,7 @@
     "message": "ყველაფრის ჩვენება"
   },
   "quitBitwarden": {
-    "message": "გამოდით Bitwarden-იდან"
+    "message": "გამოდით QLine Vaults-იდან"
   },
   "valueCopied": {
     "message": "$VALUE$ კოპირებულია",
@@ -2647,13 +2647,13 @@
     "message": "ეს პაროლი გამოყენებული იქნება ამ ფაილის ექსპორტისა და იმპორტისთვის"
   },
   "accountRestrictedOptionDescription": {
-    "message": "გამოიყენეთ თქვენი ანგარიშის დაშიფვრის გასაღები, რომელიც მიღებულია ანგარიშის მომხმარებლის სახელიდან და მთავარი პაროლიდან, ექსპორტის დასაშიფრად და იმპორტის შეზღუდვის მხოლოდ მიმდინარე Bitwarden ანგარიშზე."
+    "message": "გამოიყენეთ თქვენი ანგარიშის დაშიფვრის გასაღები, რომელიც მიღებულია ანგარიშის მომხმარებლის სახელიდან და მთავარი პაროლიდან, ექსპორტის დასაშიფრად და იმპორტის შეზღუდვის მხოლოდ მიმდინარე QLine Vaults ანგარიშზე."
   },
   "passwordProtected": {
     "message": "პაროლით დაცული"
   },
   "passwordProtectedOptionDescription": {
-    "message": "დააყენეთ ფაილის პაროლი ექსპორტის დასაშიფრად და მის ნებისმიერ Bitwarden ანგარიშში იმპორტისთვის პაროლის გამოყენებით გასაშიფრად."
+    "message": "დააყენეთ ფაილის პაროლი ექსპორტის დასაშიფრად და მის ნებისმიერ QLine Vaults ანგარიშში იმპორტისთვის პაროლის გამოყენებით გასაშიფრად."
   },
   "exportTypeHeading": {
     "message": "გატანის ტიპი"
@@ -2684,7 +2684,7 @@
     "message": "ეს ექსპორტი შიფრავს თქვენს მონაცემებს თქვენი ანგარიშის დაშიფვრის გასაღების გამოყენებით. თუ ოდესმე შეცვლით თქვენი ანგარიშის დაშიფვრის გასაღებს, ხელახლა უნდა ექსპორტი გააკეთოთ, რადგან ვერ შეძლებთ ამ ექსპორტის ფაილის გაშიფვრას."
   },
   "encExportAccountWarningDesc": {
-    "message": "ანგარიშის დაშიფვრის გასაღებები უნიკალურია თითოეული Bitwarden მომხმარებლის ანგარიშისთვის, ასე რომ, თქვენ არ შეგიძლიათ დაშიფრული ექსპორტის იმპორტი სხვა ანგარიშში."
+    "message": "ანგარიშის დაშიფვრის გასაღებები უნიკალურია თითოეული QLine Vaults მომხმარებლის ანგარიშისთვის, ასე რომ, თქვენ არ შეგიძლიათ დაშიფრული ექსპორტის იმპორტი სხვა ანგარიშში."
   },
   "noOrganizationsList": {
     "message": "თქვენ არ ეკუთვნით არცერთ ორგანიზაციას. ორგანიზაციები საშუალებას გაძლევთ უსაფრთხოდ გააზიაროთ ელემენტები სხვა მომხმარებლებთან."
@@ -2714,7 +2714,7 @@
     "message": "სუსტი მთავარი პაროლი"
   },
   "weakMasterPasswordDesc": {
-    "message": "თქვენ მიერ არჩეული მთავარი პაროლი სუსტია. თქვენ უნდა გამოიყენოთ ძლიერი მთავარი პაროლი (ან პასფრაზი) თქვენი Bitwarden ანგარიშის სათანადოდ დასაცავად. დარწმუნებული ხართ, რომ გსურთ ამ მთავარი პაროლის გამოყენება?"
+    "message": "თქვენ მიერ არჩეული მთავარი პაროლი სუსტია. თქვენ უნდა გამოიყენოთ ძლიერი მთავარი პაროლი (ან პასფრაზი) თქვენი QLine Vaults ანგარიშის სათანადოდ დასაცავად. დარწმუნებული ხართ, რომ გსურთ ამ მთავარი პაროლის გამოყენება?"
   },
   "pin": {
     "message": "PIN კოდი",
@@ -2724,7 +2724,7 @@
     "message": "PIN-ით განბლოკვა"
   },
   "setYourPinCode": {
-    "message": "დააყენეთ თქვენი PIN კოდი Bitwarden-ის განბლოკვისთვის. თუ ოდესმე მთლიანად გახვალთ აპლიკაციიდან, თქვენი PIN პარამეტრები გადატვირთული იქნება."
+    "message": "დააყენეთ თქვენი PIN კოდი QLine Vaults-ის განბლოკვისთვის. თუ ოდესმე მთლიანად გახვალთ აპლიკაციიდან, თქვენი PIN პარამეტრები გადატვირთული იქნება."
   },
   "pinRequired": {
     "message": "PIN კოდი აუცილებელია."
@@ -2742,7 +2742,7 @@
     "message": "სისტემის ავტორიზაციით განბლოკვა"
   },
   "windowsHelloConsentMessage": {
-    "message": "Bitwarden-ისთვის ვერიფიკაცია."
+    "message": "QLine Vaults-ისთვის ვერიფიკაცია."
   },
   "unlockWithTouchId": {
     "message": "Touch ID-ით განბლოკვა"
@@ -2978,10 +2978,10 @@
     "message": "გახადეთ 2-საფეხურიანი ვერიფიკაცია მარტივი"
   },
   "totpHelper": {
-    "message": "Bitwarden-ს შეუძლია შეინახოს და შეავსოს 2-საფეხურიანი ვერიფიკაციის კოდები. დააკოპირეთ და ჩასვით გასაღები ამ ველში."
+    "message": "QLine Vaults-ს შეუძლია შეინახოს და შეავსოს 2-საფეხურიანი ვერიფიკაციის კოდები. დააკოპირეთ და ჩასვით გასაღები ამ ველში."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden-ს შეუძლია შეინახოს და შეავსოს 2-საფეხურიანი ვერიფიკაციის კოდები. აირჩიეთ კამერის ხატულა ამ ვებსაიტის აუტენტიფიკატორის QR კოდის სკრინშოტის გადასაღებად, ან დააკოპირეთ და ჩასვით გასაღები ამ ველში."
+    "message": "QLine Vaults-ს შეუძლია შეინახოს და შეავსოს 2-საფეხურიანი ვერიფიკაციის კოდები. აირჩიეთ კამერის ხატულა ამ ვებსაიტის აუტენტიფიკატორის QR კოდის სკრინშოტის გადასაღებად, ან დააკოპირეთ და ჩასვით გასაღები ამ ველში."
   },
   "premium": {
     "message": "Premium",
@@ -3067,7 +3067,7 @@
     "message": "ერთი ან მეტი ორგანიზაციის პოლიტიკა მოითხოვს, რომ მთავარი პაროლი აკმაყოფილებდეს შემდეგ მოთხოვნებს:"
   },
   "receiveMarketingEmails": {
-    "message": "მიიღეთ განახლებები Bitwarden-ისგან თქვენს შემოსულებში."
+    "message": "მიიღეთ განახლებები QLine Vaults-ისგან თქვენს შემოსულებში."
   },
   "unsubscribe": {
     "message": "გამოწერის გაუქმება"
@@ -3091,7 +3091,7 @@
     "message": "DuckDuckGo ბრაუზერის ინტეგრაციის დაშვება"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "გამოიყენეთ თქვენი Bitwarden საცავი DuckDuckGo-ით დათვალიერებისას."
+    "message": "გამოიყენეთ თქვენი QLine Vaults საცავი DuckDuckGo-ით დათვალიერებისას."
   },
   "enableHardwareAcceleration": {
     "message": "აპარატურული აჩქარების გამოყენება"
@@ -3103,7 +3103,7 @@
     "message": "დადასტურება"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$-ს სურს Bitwarden-თან დაკავშირება",
+    "message": "$APPID$-ს სურს QLine Vaults-თან დაკავშირება",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "გენერირებულია Bitwarden-ის მიერ.",
+    "message": "გენერირებულია QLine Vaults-ის მიერ.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "ვებსაიტი: $WEBSITE$. გენერირებულია Bitwarden-ის მიერ.",
+    "message": "ვებსაიტი: $WEBSITE$. გენერირებულია QLine Vaults-ის მიერ.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "შეტყობინება გაგზავნილია თქვენს მოწყობილობაზე"
   },
   "notificationSentDevicePart1": {
-    "message": "განბლოკეთ Bitwarden თქვენს მოწყობილობაზე ან "
+    "message": "განბლოკეთ QLine Vaults თქვენს მოწყობილობაზე ან "
   },
   "notificationSentDeviceAnchor": {
     "message": "ვებ აპი"
@@ -4000,7 +4000,7 @@
     "message": "თქვენ მიიღებთ შეტყობინებას, როცა მოთხოვნა დამტკიცდება"
   },
   "needAnotherOption": {
-    "message": "მოწყობილობით შესვლა უნდა იყოს კონფიგურირებული Bitwarden აპის პარამეტრებში. გჭირდებათ სხვა ვარიანტი?"
+    "message": "მოწყობილობით შესვლა უნდა იყოს კონფიგურირებული QLine Vaults აპის პარამეტრებში. გჭირდებათ სხვა ვარიანტი?"
   },
   "viewAllLogInOptions": {
     "message": "ყველა შესვლის ვარიანტის ნახვა"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden გირჩევთ განაახლოთ თქვენი ბიომეტრიული პარამეტრები, რათა პირველ განბლოკვაზე მოითხოვოს მთავარი პაროლი (ან PIN). გსურთ ახლავე განაახლოთ თქვენი პარამეტრები?"
+    "message": "QLine Vaults გირჩევთ განაახლოთ თქვენი ბიომეტრიული პარამეტრები, რათა პირველ განბლოკვაზე მოითხოვოს მთავარი პაროლი (ან PIN). გსურთ ახლავე განაახლოთ თქვენი პარამეტრები?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "რეკომენდებული პარამეტრების განახლება"
@@ -4265,7 +4265,7 @@
     "message": "რა არის მოწყობილობა?"
   },
   "aDeviceIs": {
-    "message": "მოწყობილობა არის Bitwarden აპის უნიკალური ინსტალაცია, სადაც შესული ხართ. ხელახალი ინსტალაცია, აპის მონაცემების გასუფთავება ან ქუქიების გასუფთავება შეიძლება გამოიწვიოს მოწყობილობის რამდენჯერმე გამოჩენა."
+    "message": "მოწყობილობა არის QLine Vaults აპის უნიკალური ინსტალაცია, სადაც შესული ხართ. ხელახალი ინსტალაცია, აპის მონაცემების გასუფთავება ან ქუქიების გასუფთავება შეიძლება გამოიწვიოს მოწყობილობის რამდენჯერმე გამოჩენა."
   },
   "deviceListDescriptionTemp": {
     "message": "თქვენი ანგარიში იყო შესული ქვემოთ ჩამოთვლილ თითოეულ მოწყობილობაზე."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI-ს შესაბამისობის გამოვლენა არის ის, თუ როგორ ამოიცნობს Bitwarden ავტომატური შევსების შეთავაზებებს.",
+    "message": "URI-ს შესაბამისობის გამოვლენა არის ის, თუ როგორ ამოიცნობს QLine Vaults ავტომატური შევსების შეთავაზებებს.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "ჩამოტვირთეთ და გაუზიარეთ დიაგნოსტიკური ანგარიში"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden მხარდაჭერა",
+    "message": "QLine Vaults მხარდაჭერა",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "ბიომეტრიული განბლოკვა მიუწვდომელია სისტემის ფაილების არასწორი კონფიგურაციის გამო."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "ბიომეტრიული განბლოკვა მიუწვდომელია, რადგან ის არ არის ჩართული $EMAIL$-ისთვის Bitwarden დესკტოპ აპში.",
+    "message": "ბიომეტრიული განბლოკვა მიუწვდომელია, რადგან ის არ არის ჩართული $EMAIL$-ისთვის QLine Vaults დესკტოპ აპში.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "ორსაფეხურიანი შესვლის დაყენება"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden გამოგიგზავნით კოდს თქვენს ანგარიშის ელფოსტაზე ახალი მოწყობილობებიდან შესვლების დასადასტურებლად 2025 წლის თებერვლიდან."
+    "message": "QLine Vaults გამოგიგზავნით კოდს თქვენს ანგარიშის ელფოსტაზე ახალი მოწყობილობებიდან შესვლების დასადასტურებლად 2025 წლის თებერვლიდან."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "თქვენ შეგიძლიათ დააყენოთ ორსაფეხურიანი შესვლა, როგორც თქვენი ანგარიშის დაცვის ალტერნატიული გზა, ან შეცვალოთ თქვენი ელფოსტა ისეთით, რომელზეც წვდომა გაქვთ."
@@ -5541,7 +5541,7 @@
     "message": "ეკრანის გადაღების დაშვება"
   },
   "allowScreenshotsDesc": {
-    "message": "დაუშვით Bitwarden დესკტოპ აპლიკაციის გადაღება სკრინშოტებში და ნახვა დისტანციური დესკტოპის სესიებში. ამის გამორთვა ხელს შეუშლის წვდომას ზოგიერთ გარე დისპლეიზე."
+    "message": "დაუშვით QLine Vaults დესკტოპ აპლიკაციის გადაღება სკრინშოტებში და ნახვა დისტანციური დესკტოპის სესიებში. ამის გამორთვა ხელს შეუშლის წვდომას ზოგიერთ გარე დისპლეიზე."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "დაადასტურეთ, რომ ფანჯარა კვლავ ჩანს"
@@ -5687,7 +5687,7 @@
     "message": "ამ პარამეტრის შესახებ"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden გამოიყენებს შენახულ შესვლის URI-ებს იმის დასადგენად, თუ რომელი ხატულა ან პაროლის შეცვლის URL უნდა იქნას გამოყენებული თქვენი გამოცდილების გასაუმჯობესებლად. ამ სერვისის გამოყენებისას არ ხდება ინფორმაციის შეგროვება ან შენახვა."
+    "message": "QLine Vaults გამოიყენებს შენახულ შესვლის URI-ებს იმის დასადგენად, თუ რომელი ხატულა ან პაროლის შეცვლის URL უნდა იქნას გამოყენებული თქვენი გამოცდილების გასაუმჯობესებლად. ამ სერვისის გამოყენებისას არ ხდება ინფორმაციის შეგროვება ან შენახვა."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "ელემენტების გვერდით დაამატეთ 3 სწრაფი კოპირების ღილაკი, რათა დააკოპიროთ თქვენი მომხმარებლის სახელი, პაროლი ან ვერიფიკაციის კოდი ბუფერში."
@@ -5927,7 +5927,7 @@
     "message": "ნაკლების ჩვენება"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden არ ამოწმებს შეყვანის ადგილებს, დარწმუნდით, რომ ხართ სწორ ფანჯარასა და ველში მალსახმობის გამოყენებამდე."
+    "message": "QLine Vaults არ ამოწმებს შეყვანის ადგილებს, დარწმუნდით, რომ ხართ სწორ ფანჯარასა და ველში მალსახმობის გამოყენებამდე."
   },
   "typeShortcut": {
     "message": "მალსახმობის აკრეფა"
@@ -6080,7 +6080,7 @@
     "message": "Premium-ზე განახლება"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "თქვენი ორგანიზაცია აღარ იყენებს მთავარ პაროლებს Bitwarden-ში შესასვლელად. გასაგრძელებლად, დაადასტურეთ ორგანიზაცია და დომენი."
+    "message": "თქვენი ორგანიზაცია აღარ იყენებს მთავარ პაროლებს QLine Vaults-ში შესასვლელად. გასაგრძელებლად, დაადასტურეთ ორგანიზაცია და დომენი."
   },
   "continueWithLogIn": {
     "message": "შესვლის გაგრძელება"
@@ -6329,10 +6329,10 @@
     "message": "შეიყვანეთ მრავალი ელფოსტა მძიმით გამოყოფით."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "$LABEL$-ის გადალაგება. გამოიყენეთ ისრის ღილაკები ელემენტის ზევით ან ქვევით გადასაადგილებლად.",

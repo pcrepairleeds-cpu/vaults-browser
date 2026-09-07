@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -781,7 +781,7 @@
     "message": "Synchronizovat s prohlížečem"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "Chcete-li se připojit k $VAULTURL$, musíte synchronizovat svůj výchozí prohlížeč s aplikací Bitwarden. Po synchronizaci prohlížeče budete přesměrováni zpět do této aplikace.",
+    "message": "Chcete-li se připojit k $VAULTURL$, musíte synchronizovat svůj výchozí prohlížeč s aplikací QLine Vaults. Po synchronizaci prohlížeče budete přesměrováni zpět do této aplikace.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Chyba dešifrování"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden nemohl dešifrovat níže uvedené položky v trezoru."
+    "message": "QLine Vaults nemohl dešifrovat níže uvedené položky v trezoru."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Kontaktujte zákaznickou podporu,",
@@ -1724,7 +1724,7 @@
     "message": "Ověřovací aplikace"
   },
   "authenticatorAppDescV2": {
-    "message": "Zadejte kód vygenerovaný ověřovací aplikací, jako je Bitwarden Authenticator.",
+    "message": "Zadejte kód vygenerovaný ověřovací aplikací, jako je an authenticator app.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Prostředí vlastního serveru"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Zadejte základní URL adresu Vaší vlastní hostované aplikace Bitwarden. Příklad: https://bitwarden.spolecnost.cz"
+    "message": "Zadejte základní URL adresu Vaší vlastní hostované aplikace QLine Vaults. Příklad: https://bitwarden.spolecnost.cz"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Pro rozšířená nastavení můžete zadat základní URL adresu každé služby zvlášť."
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "Dvoufázové přihlášení činí Váš účet mnohem bezpečnějším díky nutnosti po každém úspěšném přihlášení zadat ověřovací kód získaný z bezpečnostního klíče, aplikace, SMS, telefonního hovoru nebo e-mailu. Dvoufázové přihlášení lze aktivovat na webové stránce bitwarden.com. Chcete tuto stránku nyní otevřít?"
+    "message": "Dvoufázové přihlášení činí Váš účet mnohem bezpečnějším díky nutnosti po každém úspěšném přihlášení zadat ověřovací kód získaný z bezpečnostního klíče, aplikace, SMS, telefonního hovoru nebo e-mailu. Dvoufázové přihlášení lze aktivovat na webové stránce vaults.qlineit.uk. Chcete tuto stránku nyní otevřít?"
   },
   "twoStepLogin": {
     "message": "Dvoufázové přihlášení"
@@ -2120,19 +2120,19 @@
     "message": "Žádné podrobnosti ke kopírování"
   },
   "runInBackground": {
-    "message": "Nechat Bitwarden běžet na pozadí"
+    "message": "Nechat QLine Vaults běžet na pozadí"
   },
   "runInBackgroundDesc": {
-    "message": "Když zavřete okno, je Bitwarden bude dostupný z lišty. Doporučeno při použití SSH agenta nebo integrace prohlížeče."
+    "message": "Když zavřete okno, je QLine Vaults bude dostupný z lišty. Doporučeno při použití SSH agenta nebo integrace prohlížeče."
   },
   "runInBackgroundDescMac": {
-    "message": "Když zavřete okno, je Bitwarden bude dostupný z řádku nabídek. Doporučeno při použití SSH agenta nebo integrace prohlížeče."
+    "message": "Když zavřete okno, je QLine Vaults bude dostupný z řádku nabídek. Doporučeno při použití SSH agenta nebo integrace prohlížeče."
   },
   "openAtLogin": {
     "message": "Spustit automaticky při přihlášení"
   },
   "openAtLoginDesc": {
-    "message": "Při přihlášení automaticky spustí aplikaci Bitwarden."
+    "message": "Při přihlášení automaticky spustí aplikaci QLine Vaults."
   },
   "language": {
     "message": "Jazyk"
@@ -2174,7 +2174,7 @@
     "message": "Restartovat pro aktualizaci"
   },
   "restartToUpdateDesc": {
-    "message": "Verze $VERSION_NUM$ je připravena k instalaci. Pro dokončení je potřeba restartovat aplikaci Bitwarden. Chcete nyní provést restart a aktualizaci?",
+    "message": "Verze $VERSION_NUM$ je připravena k instalaci. Pro dokončení je potřeba restartovat aplikaci QLine Vaults. Chcete nyní provést restart a aktualizaci?",
     "placeholders": {
       "version_num": {
         "content": "$1",
@@ -2255,7 +2255,7 @@
     "message": "Spravovat členství"
   },
   "premiumManageAlert": {
-    "message": "Své členství můžete spravovat na webové stránce bitwarden.com. Chcete tuto stránku nyní otevřít?"
+    "message": "Své členství můžete spravovat na webové stránce vaults.qlineit.uk. Chcete tuto stránku nyní otevřít?"
   },
   "premiumSignUpStorage": {
     "message": "1 GB šifrovaného uložiště pro přílohy."
@@ -2264,7 +2264,7 @@
     "message": "Zakoupit členství Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Premium si můžete zakoupit v nastavení účtu ve webové aplikaci Bitwarden."
+    "message": "Premium si můžete zakoupit v nastavení účtu ve webové aplikaci QLine Vaults."
   },
   "month": {
     "message": "měsíc"
@@ -2492,7 +2492,7 @@
     "message": "Služby"
   },
   "hideBitwarden": {
-    "message": "Skrýt Bitwarden"
+    "message": "Skrýt QLine Vaults"
   },
   "hideOthers": {
     "message": "Skrýt ostatní"
@@ -2501,7 +2501,7 @@
     "message": "Zobrazit vše"
   },
   "quitBitwarden": {
-    "message": "Ukončit Bitwarden"
+    "message": "Ukončit QLine Vaults"
   },
   "valueCopied": {
     "message": "Zkopírováno: $VALUE$",
@@ -2714,7 +2714,7 @@
     "message": "Slabé hlavní heslo"
   },
   "weakMasterPasswordDesc": {
-    "message": "Hlavní heslo, které jste si vybrali, je slabé. Pro správnou ochranu účtu Bitwarden byste měli použít silné hlavní heslo (nebo heslovou frázi). Opravdu chcete toto heslo použít?"
+    "message": "Hlavní heslo, které jste si vybrali, je slabé. Pro správnou ochranu účtu QLine Vaults byste měli použít silné hlavní heslo (nebo heslovou frázi). Opravdu chcete toto heslo použít?"
   },
   "pin": {
     "message": "PIN",
@@ -2742,7 +2742,7 @@
     "message": "Odemknout pomocí systémového ověření"
   },
   "windowsHelloConsentMessage": {
-    "message": "Ověřte se pro Bitwarden."
+    "message": "Ověřte se pro QLine Vaults."
   },
   "unlockWithTouchId": {
     "message": "Odemknout pomocí Touch ID"
@@ -2978,10 +2978,10 @@
     "message": "Bezproblémové dvoufázové ověřování"
   },
   "totpHelper": {
-    "message": "Bitwarden umí ukládat a vyplňovat dvoufázové ověřovací kódy. Zkopírujte a vložte klíč do tohoto pole."
+    "message": "QLine Vaults umí ukládat a vyplňovat dvoufázové ověřovací kódy. Zkopírujte a vložte klíč do tohoto pole."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden umí ukládat a vyplňovat dvoufázové ověřovací kódy. Vyberte ikonu fotoaparátu a pořiďte snímek obrazovky ověřovacího QR kódu této webové stránky nebo klíč zkopírujte a vložte do tohoto pole."
+    "message": "QLine Vaults umí ukládat a vyplňovat dvoufázové ověřovací kódy. Vyberte ikonu fotoaparátu a pořiďte snímek obrazovky ověřovacího QR kódu této webové stránky nebo klíč zkopírujte a vložte do tohoto pole."
   },
   "premium": {
     "message": "Premium",
@@ -3979,7 +3979,7 @@
     "message": "Na Vaše zařízení bylo odesláno oznámení"
   },
   "notificationSentDevicePart1": {
-    "message": "Odemknout Bitwarden na Vašem zařízení nebo na "
+    "message": "Odemknout QLine Vaults na Vašem zařízení nebo na "
   },
   "notificationSentDeviceAnchor": {
     "message": "webová aplikace"
@@ -4000,7 +4000,7 @@
     "message": "Budete upozorněni, jakmile bude žádost schválena"
   },
   "needAnotherOption": {
-    "message": "Přihlášení zařízením musí být nastaveno v aplikaci Bitwarden pro počítač. Potřebujete další volby?"
+    "message": "Přihlášení zařízením musí být nastaveno v aplikaci QLine Vaults pro počítač. Potřebujete další volby?"
   },
   "viewAllLogInOptions": {
     "message": "Zobrazit všechny volby přihlášení"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden doporučuje aktualizovat Vaše biometrické nastavení tak, aby bylo při prvním odemknutí vyžadováno hlavní heslo (nebo PIN). Chcete nyní aktualizovat nastavení?"
+    "message": "QLine Vaults doporučuje aktualizovat Vaše biometrické nastavení tak, aby bylo při prvním odemknutí vyžadováno hlavní heslo (nebo PIN). Chcete nyní aktualizovat nastavení?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Aktualizace doporučených nastavení"
@@ -4265,7 +4265,7 @@
     "message": "Co je to zařízení?"
   },
   "aDeviceIs": {
-    "message": "Zařízení je jedinečná instalace aplikace Bitwarden, ve které jste se přihlásili. Přeinstalování, vymazání dat aplikace nebo vymazání souborů cookie může vést k tomu, že se zařízení objeví vícekrát."
+    "message": "Zařízení je jedinečná instalace aplikace QLine Vaults, ve které jste se přihlásili. Přeinstalování, vymazání dat aplikace nebo vymazání souborů cookie může vést k tomu, že se zařízení objeví vícekrát."
   },
   "deviceListDescriptionTemp": {
     "message": "Váš účet byl přihlášen do každého z níže uvedených zařízení."
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Detekce shody URI je způsob, jakým Bitwarden identifikuje návrhy automatického vyplňování.",
+    "message": "Detekce shody URI je způsob, jakým QLine Vaults identifikuje návrhy automatického vyplňování.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Stáhněte si a pak sdílejte diagnostický report s"
   },
   "bitwardenSupport": {
-    "message": "podporou Bitwarden",
+    "message": "podporou QLine Vaults",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "Biometrické odemknutí není dostupné kvůli chybnému nastavení systémových souborů."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "Biometrické odemknutí není k dispozici, protože není povoleno pro $EMAIL$ v desktopové aplikaci Bitwarden.",
+    "message": "Biometrické odemknutí není k dispozici, protože není povoleno pro $EMAIL$ v desktopové aplikaci QLine Vaults.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "Nastavit dvoufázové přihlášení"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden odešle kód na e-mail Vašeho účtu pro ověření přihlášení z nových zařízení počínaje únorem 2025."
+    "message": "QLine Vaults odešle kód na e-mail Vašeho účtu pro ověření přihlášení z nových zařízení počínaje únorem 2025."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "Dvoufázové přihlášení můžete nastavit jako alternativní způsob ochrany Vašeho účtu nebo změnit svůj e-mail na ten, k němuž můžete přistupovat."
@@ -5541,7 +5541,7 @@
     "message": "Povolit záznam obrazovky"
   },
   "allowScreenshotsDesc": {
-    "message": "Povolit zachycení aplikace Bitwarden ve snímcích obrazovky a zobrazení ve vzdálené desktopové relaci. Zakázáním této funkce se zabrání přístupu na některé externí displeje."
+    "message": "Povolit zachycení aplikace QLine Vaults ve snímcích obrazovky a zobrazení ve vzdálené desktopové relaci. Zakázáním této funkce se zabrání přístupu na některé externí displeje."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Potvrdit stále viditelné okno"
@@ -5687,7 +5687,7 @@
     "message": "O tomto nastavení"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden bude používat uložené přihlašovací URI k identifikaci, která ikona nebo změna adresy URL by měla být použita pro zlepšení Vašeho zážitku. Při používání této služby nejsou shromažďovány ani ukládány žádné informace."
+    "message": "QLine Vaults bude používat uložené přihlašovací URI k identifikaci, která ikona nebo změna adresy URL by měla být použita pro zlepšení Vašeho zážitku. Při používání této služby nejsou shromažďovány ani ukládány žádné informace."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Přidá vedle položek 3 tlačítka pro rychlé kopírování, pomocí kterých můžete zkopírovat své uživatelské jméno, heslo nebo ověřovací kód do schránky."
@@ -5927,7 +5927,7 @@
     "message": "Zobrazit méně"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden neověřuje umístění vstupu. Před použitím zkratky se ujistěte, že jste ve správném okně a poli."
+    "message": "QLine Vaults neověřuje umístění vstupu. Před použitím zkratky se ujistěte, že jste ve správném okně a poli."
   },
   "typeShortcut": {
     "message": "Napsat zkratku"
@@ -6329,10 +6329,10 @@
     "message": "Zadejte více e-mailů oddělených čárkou."
   },
   "emailPlaceholder": {
-    "message": "uživatel@bitwarden.com, uživatel@společnost.cz"
+    "message": "uživatel@vaults.qlineit.uk, uživatel@společnost.cz"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "Změnit pořadí $LABEL$. Použijte šipky pro posunutí položky nahoru nebo dolů.",

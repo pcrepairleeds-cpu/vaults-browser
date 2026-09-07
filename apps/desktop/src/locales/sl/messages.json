@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "Omogoči SSH agenta"
   },
   "enableSshAgentDesc": {
-    "message": "Omogočite SSH agenta za podpisovanje SSH zahtev neposredno iz vašega Bitwarden trezorja."
+    "message": "Omogočite SSH agenta za podpisovanje SSH zahtev neposredno iz vašega QLine Vaults trezorja."
   },
   "enableSshAgentHelp": {
-    "message": "SSH agent je storitev za razvijalce, ki vam omogoča podpisovanje SSH zahtev neposredno iz vašega Bitwarden trezorja."
+    "message": "SSH agent je storitev za razvijalce, ki vam omogoča podpisovanje SSH zahtev neposredno iz vašega QLine Vaults trezorja."
   },
   "sshAgentPromptBehavior": {
     "message": "Zahtevaj avtorizacijo pri uporabi SSH agenta"
@@ -781,7 +781,7 @@
     "message": "Uskladi z brskalnikom"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "Za povezavo z $VAULTURL$ morate uskladiti svoj privzeti brskalnik z aplikacijo Bitwarden. Ko bo brskalnik usklajen, boste preusmerjeni nazaj v to aplikacijo.",
+    "message": "Za povezavo z $VAULTURL$ morate uskladiti svoj privzeti brskalnik z aplikacijo QLine Vaults. Ko bo brskalnik usklajen, boste preusmerjeni nazaj v to aplikacijo.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Napaka pri dešifriranju"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden ni mogel dešifrirati spodaj navedenih elementov trezorja."
+    "message": "QLine Vaults ni mogel dešifrirati spodaj navedenih elementov trezorja."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Kontaktirajte podporo za stranke",
@@ -1492,7 +1492,7 @@
     "message": "Prijava"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Prijava v Bitwarden"
+    "message": "Prijava v QLine Vaults"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Vnesite kodo, poslano na vaš e-poštni naslov"
@@ -1650,7 +1650,7 @@
     "message": "Nepričakovana napaka"
   },
   "closeThisBitwardenWindow": {
-    "message": "Zaprite to okno Bitwarden in poskusite znova."
+    "message": "Zaprite to okno QLine Vaults in poskusite znova."
   },
   "itemInformation": {
     "message": "Informacije o elementu"
@@ -1724,7 +1724,7 @@
     "message": "Avtentikacijska aplikacija"
   },
   "authenticatorAppDescV2": {
-    "message": "Vnesite kodo, ki jo ustvari aplikacija za preverjanje pristnosti, kot je Bitwarden Authenticator.",
+    "message": "Vnesite kodo, ki jo ustvari aplikacija za preverjanje pristnosti, kot je an authenticator app.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Okolje z lastnim gostovanjem"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Določite osnovni URL vaše lokalne namestitve Bitwarden. Primer: https://bitwarden.company.com"
+    "message": "Določite osnovni URL vaše lokalne namestitve QLine Vaults. Primer: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Za napredno konfiguracijo lahko neodvisno določite osnovni URL vsake storitve."
@@ -1872,7 +1872,7 @@
     "message": "Ali ste prepričani, da želite zamenjati šifrirni ključ svojega računa?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Po posodobitvi šifrirnega ključa se morate odjaviti in znova prijaviti v vse aplikacije Bitwarden, ki jih trenutno uporabljate (kot so mobilna aplikacija ali razširitve brskalnika). Če se ne odjavite in znova prijavite (kar prenese vaš novi šifrirni ključ), lahko pride do poškodbe podatkov. Poskušali vas bomo samodejno odjaviti, vendar lahko pride do zamude."
+    "message": "Po posodobitvi šifrirnega ključa se morate odjaviti in znova prijaviti v vse aplikacije QLine Vaults, ki jih trenutno uporabljate (kot so mobilna aplikacija ali razširitve brskalnika). Če se ne odjavite in znova prijavite (kar prenese vaš novi šifrirni ključ), lahko pride do poškodbe podatkov. Poskušali vas bomo samodejno odjaviti, vendar lahko pride do zamude."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Vsi shranjeni izvozni podatki, omejeni na račun, bodo postali neveljavni."
@@ -1968,7 +1968,7 @@
     "message": "Nadaljuj na spletno aplikacijo?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Glavno geslo lahko spremenite v spletni aplikaciji Bitwarden."
+    "message": "Glavno geslo lahko spremenite v spletni aplikaciji QLine Vaults."
   },
   "fingerprintPhrase": {
     "message": "Identifikacijsko geslo",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "Avtentikacija v dveh korakih naredi vaš račun bolj varen, saj od vas zahteva, da svojo prijavo preverite z drugo napravo, kot je varnostni ključ, aplikacija za preverjanje pristnosti, SMS, telefonski klic ali e-pošta. V spletnem trezorju bitwarden.com je lahko omogočite prijavo v dveh korakih. Ali želite spletno stran obiskati sedaj?"
+    "message": "Avtentikacija v dveh korakih naredi vaš račun bolj varen, saj od vas zahteva, da svojo prijavo preverite z drugo napravo, kot je varnostni ključ, aplikacija za preverjanje pristnosti, SMS, telefonski klic ali e-pošta. V spletnem trezorju vaults.qlineit.uk je lahko omogočite prijavo v dveh korakih. Ali želite spletno stran obiskati sedaj?"
   },
   "twoStepLogin": {
     "message": "Prijava v dveh korakih"
@@ -2120,19 +2120,19 @@
     "message": "Ni podrobnosti za kopiranje"
   },
   "runInBackground": {
-    "message": "Ohrani Bitwarden v ozadju"
+    "message": "Ohrani QLine Vaults v ozadju"
   },
   "runInBackgroundDesc": {
-    "message": "Ko zaprete okno, je Bitwarden dostopen iz sistemske vrstice. Priporočljivo pri uporabi SSH agenta ali integracije z brskalnikom."
+    "message": "Ko zaprete okno, je QLine Vaults dostopen iz sistemske vrstice. Priporočljivo pri uporabi SSH agenta ali integracije z brskalnikom."
   },
   "runInBackgroundDescMac": {
-    "message": "Ko zaprete okno, je Bitwarden dostopen iz menijske vrstice. Priporočljivo pri uporabi SSH agenta ali integracije z brskalnikom."
+    "message": "Ko zaprete okno, je QLine Vaults dostopen iz menijske vrstice. Priporočljivo pri uporabi SSH agenta ali integracije z brskalnikom."
   },
   "openAtLogin": {
     "message": "Zaženi samodejno ob prijavi"
   },
   "openAtLoginDesc": {
-    "message": "Zaženi namizno aplikacijo Bitwarden samodejno ob prijavi."
+    "message": "Zaženi namizno aplikacijo QLine Vaults samodejno ob prijavi."
   },
   "language": {
     "message": "Jezik"
@@ -2255,7 +2255,7 @@
     "message": "Upravljanje članstva"
   },
   "premiumManageAlert": {
-    "message": "Svoje članstvo lahko upravljate v spletnem trezorju na bitwarden.com. Ali želite zdaj obiskati spletno stran?"
+    "message": "Svoje članstvo lahko upravljate v spletnem trezorju na vaults.qlineit.uk. Ali želite zdaj obiskati spletno stran?"
   },
   "premiumSignUpStorage": {
     "message": "1 GB šifriranega prostora za priloge datotek."
@@ -2264,7 +2264,7 @@
     "message": "Kupite Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Premium lahko kupite v nastavitvah računa v spletni aplikaciji Bitwarden."
+    "message": "Premium lahko kupite v nastavitvah računa v spletni aplikaciji QLine Vaults."
   },
   "month": {
     "message": "mesec"
@@ -2492,7 +2492,7 @@
     "message": "Storitve"
   },
   "hideBitwarden": {
-    "message": "Skrij Bitwarden"
+    "message": "Skrij QLine Vaults"
   },
   "hideOthers": {
     "message": "Skrij druge"
@@ -2647,13 +2647,13 @@
     "message": "To geslo bo uporabljeno za izvoz in uvoz te datoteke"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Uporabite šifrirni ključ svojega računa, ki izhaja iz uporabniškega imena in glavnega gesla, za šifriranje izvoza in omejitev uvoza samo na trenutni račun Bitwarden."
+    "message": "Uporabite šifrirni ključ svojega računa, ki izhaja iz uporabniškega imena in glavnega gesla, za šifriranje izvoza in omejitev uvoza samo na trenutni račun QLine Vaults."
   },
   "passwordProtected": {
     "message": "Zaščiteno z geslom"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Nastavite geslo datoteke za šifriranje izvoza in uvoz v kateri koli račun Bitwarden z uporabo gesla za dešifriranje."
+    "message": "Nastavite geslo datoteke za šifriranje izvoza in uvoz v kateri koli račun QLine Vaults z uporabo gesla za dešifriranje."
   },
   "exportTypeHeading": {
     "message": "Vrsta izvoza"
@@ -2684,7 +2684,7 @@
     "message": "Ta izvoz šifrira vaše podatke z uporabo šifrirnega ključa vašega računa. Če kdaj zamenjate šifrirni ključ računa, morate znova izvoziti, ker te izvozne datoteke ne boste mogli dešifrirati."
   },
   "encExportAccountWarningDesc": {
-    "message": "Šifrirni ključi računa so edinstveni za vsak uporabniški račun Bitwarden, zato ne morete uvozi šifriranega izvoza v drug račun."
+    "message": "Šifrirni ključi računa so edinstveni za vsak uporabniški račun QLine Vaults, zato ne morete uvozi šifriranega izvoza v drug račun."
   },
   "noOrganizationsList": {
     "message": "Ne pripadate nobeni organizaciji. Organizacije vam omogočajo varno skupno rabo elementov z drugimi uporabniki."
@@ -2714,7 +2714,7 @@
     "message": "Šibko glavno geslo"
   },
   "weakMasterPasswordDesc": {
-    "message": "Izbrano glavno geslo je šibko. Za ustrezno zaščito svojega računa Bitwarden bi morali uporabiti močno glavno geslo (ali geselski stavek). Ali ste prepričani, da želite uporabiti to glavno geslo?"
+    "message": "Izbrano glavno geslo je šibko. Za ustrezno zaščito svojega računa QLine Vaults bi morali uporabiti močno glavno geslo (ali geselski stavek). Ali ste prepričani, da želite uporabiti to glavno geslo?"
   },
   "pin": {
     "message": "PIN",
@@ -2742,7 +2742,7 @@
     "message": "Odkleni s sistemsko overitvijo"
   },
   "windowsHelloConsentMessage": {
-    "message": "Preverite za Bitwarden."
+    "message": "Preverite za QLine Vaults."
   },
   "unlockWithTouchId": {
     "message": "Odkleni z biometriko"
@@ -2978,10 +2978,10 @@
     "message": "Naredite dvostopenjsko preverjanje brezhibno"
   },
   "totpHelper": {
-    "message": "Bitwarden lahko shranjuje in izpolnjuje kode za dvostopenjsko preverjanje. Kopirajte in prilepite ključ v to polje."
+    "message": "QLine Vaults lahko shranjuje in izpolnjuje kode za dvostopenjsko preverjanje. Kopirajte in prilepite ključ v to polje."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden lahko shranjuje in izpolnjuje kode za dvostopenjsko preverjanje. Izberite ikono kamere za zajem zaslona QR kode za preverjanje pristnosti te spletne strani ali kopirajte in prilepite ključ v to polje."
+    "message": "QLine Vaults lahko shranjuje in izpolnjuje kode za dvostopenjsko preverjanje. Izberite ikono kamere za zajem zaslona QR kode za preverjanje pristnosti te spletne strani ali kopirajte in prilepite ključ v to polje."
   },
   "premium": {
     "message": "Premium",
@@ -3091,7 +3091,7 @@
     "message": "Dovoli integracijo z brskalnikom DuckDuckGo"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "Uporabite svoj Bitwarden trezor pri brskanju z DuckDuckGo."
+    "message": "Uporabite svoj QLine Vaults trezor pri brskanju z DuckDuckGo."
   },
   "enableHardwareAcceleration": {
     "message": "Uporabi strojno pospeševanje"
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Ustvaril Bitwarden.",
+    "message": "Ustvaril QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Spletna stran: $WEBSITE$. Ustvaril Bitwarden.",
+    "message": "Spletna stran: $WEBSITE$. Ustvaril QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "Obvestilo je bilo poslano na vašo napravo"
   },
   "notificationSentDevicePart1": {
-    "message": "Odklenite Bitwarden na svoji napravi ali v "
+    "message": "Odklenite QLine Vaults na svoji napravi ali v "
   },
   "notificationSentDeviceAnchor": {
     "message": "spletni aplikaciji"
@@ -4000,7 +4000,7 @@
     "message": "Ko bo zahteva odobrena, boste obveščeni"
   },
   "needAnotherOption": {
-    "message": "Prijava z napravo mora biti nastavljena v nastavitvah aplikacije Bitwarden. Potrebujete drugo možnost?"
+    "message": "Prijava z napravo mora biti nastavljena v nastavitvah aplikacije QLine Vaults. Potrebujete drugo možnost?"
   },
   "viewAllLogInOptions": {
     "message": "Prikaži vse možnosti prijave"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden priporoča posodobitev biometričnih nastavitev, tako da je ob prvem odklepanju potrebno glavno geslo (ali PIN). Ali želite zdaj posodobiti svoje nastavitve?"
+    "message": "QLine Vaults priporoča posodobitev biometričnih nastavitev, tako da je ob prvem odklepanju potrebno glavno geslo (ali PIN). Ali želite zdaj posodobiti svoje nastavitve?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Priporočena posodobitev nastavitev"
@@ -4265,7 +4265,7 @@
     "message": "Kaj je naprava?"
   },
   "aDeviceIs": {
-    "message": "Naprava je edinstvena namestitev aplikacije Bitwarden, v kateri ste prijavljeni. Ponovna namestitev, brisanje podatkov aplikacije ali brisanje piškotkov lahko povzroči, da se naprava prikaže večkrat."
+    "message": "Naprava je edinstvena namestitev aplikacije QLine Vaults, v kateri ste prijavljeni. Ponovna namestitev, brisanje podatkov aplikacije ali brisanje piškotkov lahko povzroči, da se naprava prikaže večkrat."
   },
   "deviceListDescriptionTemp": {
     "message": "Vaš račun je bil prijavljen v vsaki od spodnjih naprav."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Zaznavanje ujemanja URI je način, kako Bitwarden prepozna predloge za samodejno izpolnjevanje.",
+    "message": "Zaznavanje ujemanja URI je način, kako QLine Vaults prepozna predloge za samodejno izpolnjevanje.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Prenesite in nato delite diagnostično poročilo z"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden podpora",
+    "message": "QLine Vaults podpora",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "Biometrično odklepanje ni na voljo zaradi nepravilno konfiguriranih sistemskih datotek."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "Biometrično odklepanje ni na voljo, ker ni omogočeno za $EMAIL$ v namizni aplikaciji Bitwarden.",
+    "message": "Biometrično odklepanje ni na voljo, ker ni omogočeno za $EMAIL$ v namizni aplikaciji QLine Vaults.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "Nastavi dvostopenjsko prijavo"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden bo od februarja 2025 pošiljal kodo na vaš e-poštni naslov računa za preverjanje prijav iz novih naprav."
+    "message": "QLine Vaults bo od februarja 2025 pošiljal kodo na vaš e-poštni naslov računa za preverjanje prijav iz novih naprav."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "Dvostopenjsko prijavo lahko nastavite kot alternativni način za zaščito svojega računa ali spremenite svoj e-poštni naslov na takega, do katerega imate dostop."
@@ -5541,7 +5541,7 @@
     "message": "Dovoli zajem zaslona"
   },
   "allowScreenshotsDesc": {
-    "message": "Dovoli, da se namizna aplikacija Bitwarden zajema v posnetkih zaslona in prikaže v sejah oddaljenega namizja. Onemogočanje tega bo preprečilo dostop na nekaterih zunanjih zaslonih."
+    "message": "Dovoli, da se namizna aplikacija QLine Vaults zajema v posnetkih zaslona in prikaže v sejah oddaljenega namizja. Onemogočanje tega bo preprečilo dostop na nekaterih zunanjih zaslonih."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Potrdi, da je okno še vedno vidno"
@@ -5687,7 +5687,7 @@
     "message": "O tej nastavitvi"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden bo uporabil shranjene URI-je prijave za identifikacijo, katero ikono ali URL za spremembo gesla naj uporabi za izboljšanje vaše izkušnje. Pri uporabi te storitve se ne zbirajo ali shranjujejo nobene informacije."
+    "message": "QLine Vaults bo uporabil shranjene URI-je prijave za identifikacijo, katero ikono ali URL za spremembo gesla naj uporabi za izboljšanje vaše izkušnje. Pri uporabi te storitve se ne zbirajo ali shranjujejo nobene informacije."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Dodajte 3 gumbe za hitro kopiranje poleg elementov za kopiranje uporabniškega imena, gesla ali overitvene kode v odložišče."
@@ -5927,7 +5927,7 @@
     "message": "Prikaži manj"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden ne preverja lokacij vnosa, zato se pred uporabo bližnjice prepričajte, da ste v pravilnem oknu in polju."
+    "message": "QLine Vaults ne preverja lokacij vnosa, zato se pred uporabo bližnjice prepričajte, da ste v pravilnem oknu in polju."
   },
   "typeShortcut": {
     "message": "Tipkarska bližnjica"
@@ -6080,7 +6080,7 @@
     "message": "Nadgradi na Premium"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Vaša organizacija za prijavo v Bitwarden ne uporablja več glavnih gesel. Za nadaljevanje potrdite organizacijo in domeno."
+    "message": "Vaša organizacija za prijavo v QLine Vaults ne uporablja več glavnih gesel. Za nadaljevanje potrdite organizacijo in domeno."
   },
   "continueWithLogIn": {
     "message": "Nadaljuj s prijavo"
@@ -6329,10 +6329,10 @@
     "message": "Več e-poštnih naslovov vnesite tako, da jih ločite z vejico."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "Preuredite $LABEL$. Uporabite puščične tipke za premik elementa navzgor ali navzdol.",

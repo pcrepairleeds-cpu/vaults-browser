@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "Activar axente SSH"
   },
   "enableSshAgentDesc": {
-    "message": "Activa o axente SSH para asinar solicitudes SSH directamente desde o teu cofre de Bitwarden."
+    "message": "Activa o axente SSH para asinar solicitudes SSH directamente desde o teu cofre de QLine Vaults."
   },
   "enableSshAgentHelp": {
-    "message": "O axente SSH é un servizo dirixido a desenvolvedores que che permite asinar solicitudes SSH directamente desde o teu cofre de Bitwarden."
+    "message": "O axente SSH é un servizo dirixido a desenvolvedores que che permite asinar solicitudes SSH directamente desde o teu cofre de QLine Vaults."
   },
   "sshAgentPromptBehavior": {
     "message": "Pedir autorización ao usar o axente SSH"
@@ -781,7 +781,7 @@
     "message": "Sincronizar co navegador"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "Para conectarse a $VAULTURL$, tes que sincronizar o teu navegador predeterminado coa aplicación Bitwarden. Serás redirixido de novo a esta aplicación unha vez que o navegador estea sincronizado.",
+    "message": "Para conectarse a $VAULTURL$, tes que sincronizar o teu navegador predeterminado coa aplicación QLine Vaults. Serás redirixido de novo a esta aplicación unha vez que o navegador estea sincronizado.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Erro de descifrado"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden non puido descifrar os elementos do cofre que se indican a continuación."
+    "message": "QLine Vaults non puido descifrar os elementos do cofre que se indican a continuación."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Contactar co éxito do cliente",
@@ -1480,7 +1480,7 @@
     "message": "Crear conta"
   },
   "newToBitwarden": {
-    "message": "Novo en Bitwarden?"
+    "message": "Novo en QLine Vaults?"
   },
   "setAStrongPassword": {
     "message": "Establece un contrasinal forte"
@@ -1492,7 +1492,7 @@
     "message": "Iniciar sesión"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Iniciar sesión en Bitwarden"
+    "message": "Iniciar sesión en QLine Vaults"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Introduce o código enviado ao teu correo"
@@ -1650,7 +1650,7 @@
     "message": "Erro inesperado"
   },
   "closeThisBitwardenWindow": {
-    "message": "Pecha esta xanela de Bitwarden e inténtao de novo."
+    "message": "Pecha esta xanela de QLine Vaults e inténtao de novo."
   },
   "itemInformation": {
     "message": "Información do elemento"
@@ -1724,7 +1724,7 @@
     "message": "Aplicación de autenticación"
   },
   "authenticatorAppDescV2": {
-    "message": "Introduce un código xerado por unha aplicación de autenticación como Bitwarden Authenticator.",
+    "message": "Introduce un código xerado por unha aplicación de autenticación como an authenticator app.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Ambiente autoxestionado"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Especifica a URL base da túa instalación de Bitwarden autoxestionada. Exemplo: https://bitwarden.company.com"
+    "message": "Especifica a URL base da túa instalación de QLine Vaults autoxestionada. Exemplo: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Para configuración avanzada, podes especificar a URL base de cada servizo de forma independente."
@@ -1872,7 +1872,7 @@
     "message": "Estás seguro de que queres rotar a chave de cifrado da túa conta?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Despois de actualizar a túa chave de cifrado, debes pechar sesión e volver iniciar en todas as aplicacións de Bitwarden que esteas usando (como a aplicación móbil ou as extensións do navegador). Non facelo (que descarga a túa nova chave de cifrado) pode provocar corrupción de datos. Intentaremos pechar a túa sesión automaticamente, pero pode haber demora."
+    "message": "Despois de actualizar a túa chave de cifrado, debes pechar sesión e volver iniciar en todas as aplicacións de QLine Vaults que esteas usando (como a aplicación móbil ou as extensións do navegador). Non facelo (que descarga a túa nova chave de cifrado) pode provocar corrupción de datos. Intentaremos pechar a túa sesión automaticamente, pero pode haber demora."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Calquera exportación restrinxida á conta que teñas gardada volverase non válida."
@@ -1968,7 +1968,7 @@
     "message": "Continuar á aplicación web?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Podes cambiar o teu contrasinal mestre na aplicación web de Bitwarden."
+    "message": "Podes cambiar o teu contrasinal mestre na aplicación web de QLine Vaults."
   },
   "fingerprintPhrase": {
     "message": "Frase de pegada",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "O inicio de sesión en dous pasos fai a túa conta máis segura ao requirir que verifiques o teu inicio con outro dispositivo, como unha chave de seguridade, aplicación de autenticación, SMS, chamada telefónica ou correo. Pódese configurar no cofre web de bitwarden.com. Queres visitar o sitio web agora?"
+    "message": "O inicio de sesión en dous pasos fai a túa conta máis segura ao requirir que verifiques o teu inicio con outro dispositivo, como unha chave de seguridade, aplicación de autenticación, SMS, chamada telefónica ou correo. Pódese configurar no cofre web de vaults.qlineit.uk. Queres visitar o sitio web agora?"
   },
   "twoStepLogin": {
     "message": "Inicio de sesión en dous pasos"
@@ -2120,19 +2120,19 @@
     "message": "Non hai detalles que copiar"
   },
   "runInBackground": {
-    "message": "Manter Bitwarden en execución en segundo plano"
+    "message": "Manter QLine Vaults en execución en segundo plano"
   },
   "runInBackgroundDesc": {
-    "message": "Cando peches a xanela, Bitwarden é accesible desde a bandexa. Recomendado ao usar o axente SSH ou a integración co navegador."
+    "message": "Cando peches a xanela, QLine Vaults é accesible desde a bandexa. Recomendado ao usar o axente SSH ou a integración co navegador."
   },
   "runInBackgroundDescMac": {
-    "message": "Cando peches a xanela, Bitwarden é accesible desde a barra de menú. Recomendado ao usar o axente SSH ou a integración co navegador."
+    "message": "Cando peches a xanela, QLine Vaults é accesible desde a barra de menú. Recomendado ao usar o axente SSH ou a integración co navegador."
   },
   "openAtLogin": {
     "message": "Iniciar automaticamente ao iniciar sesión"
   },
   "openAtLoginDesc": {
-    "message": "Iniciar automaticamente a aplicación de escritorio de Bitwarden ao iniciar sesión."
+    "message": "Iniciar automaticamente a aplicación de escritorio de QLine Vaults ao iniciar sesión."
   },
   "language": {
     "message": "Idioma"
@@ -2255,7 +2255,7 @@
     "message": "Xestionar subscrición"
   },
   "premiumManageAlert": {
-    "message": "Podes xestionar a túa subscrición no cofre web de bitwarden.com. Queres visitar o sitio web agora?"
+    "message": "Podes xestionar a túa subscrición no cofre web de vaults.qlineit.uk. Queres visitar o sitio web agora?"
   },
   "premiumSignUpStorage": {
     "message": "1 GB de almacenamento cifrado para anexos de ficheiros."
@@ -2264,7 +2264,7 @@
     "message": "Comprar Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Podes comprar Premium desde a configuración da túa conta na aplicación web de Bitwarden."
+    "message": "Podes comprar Premium desde a configuración da túa conta na aplicación web de QLine Vaults."
   },
   "month": {
     "message": "mes"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Acerca de Bitwarden"
+    "message": "Acerca de QLine Vaults"
   },
   "services": {
     "message": "Servizos"
   },
   "hideBitwarden": {
-    "message": "Ocultar Bitwarden"
+    "message": "Ocultar QLine Vaults"
   },
   "hideOthers": {
     "message": "Ocultar outros"
@@ -2501,7 +2501,7 @@
     "message": "Mostrar todo"
   },
   "quitBitwarden": {
-    "message": "Saír de Bitwarden"
+    "message": "Saír de QLine Vaults"
   },
   "valueCopied": {
     "message": "$VALUE$ copiado",
@@ -2647,13 +2647,13 @@
     "message": "Este contrasinal usarase para exportar e importar este ficheiro"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Usa a túa chave de cifrado da conta, derivada do teu nome de usuario e contrasinal mestre, para cifrar a exportación e restrinxir a importación só á conta actual de Bitwarden."
+    "message": "Usa a túa chave de cifrado da conta, derivada do teu nome de usuario e contrasinal mestre, para cifrar a exportación e restrinxir a importación só á conta actual de QLine Vaults."
   },
   "passwordProtected": {
     "message": "Protexido con contrasinal"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Establece un contrasinal de ficheiro para cifrar a exportación e importala a calquera conta de Bitwarden usando o contrasinal para descifrar."
+    "message": "Establece un contrasinal de ficheiro para cifrar a exportación e importala a calquera conta de QLine Vaults usando o contrasinal para descifrar."
   },
   "exportTypeHeading": {
     "message": "Tipo de exportación"
@@ -2684,7 +2684,7 @@
     "message": "Esta exportación cifra os teus datos usando a chave de cifrado da túa conta. Se algún día rotas a túa chave de cifrado, deberías exportar de novo xa que non poderás descifrar este ficheiro de exportación."
   },
   "encExportAccountWarningDesc": {
-    "message": "As chaves de cifrado de conta son únicas para cada conta de usuario de Bitwarden, polo que non podes importar unha exportación cifrada a unha conta diferente."
+    "message": "As chaves de cifrado de conta son únicas para cada conta de usuario de QLine Vaults, polo que non podes importar unha exportación cifrada a unha conta diferente."
   },
   "noOrganizationsList": {
     "message": "Non pertences a ningunha organización. As organizacións permítenche compartir elementos de forma segura con outros usuarios."
@@ -2714,7 +2714,7 @@
     "message": "Contrasinal mestre débil"
   },
   "weakMasterPasswordDesc": {
-    "message": "O contrasinal mestre que elixiches é débil. Deberías usar un contrasinal mestre forte (ou unha frase de acceso) para protexer adecuadamente a túa conta de Bitwarden. Estás seguro de que queres usar este contrasinal mestre?"
+    "message": "O contrasinal mestre que elixiches é débil. Deberías usar un contrasinal mestre forte (ou unha frase de acceso) para protexer adecuadamente a túa conta de QLine Vaults. Estás seguro de que queres usar este contrasinal mestre?"
   },
   "pin": {
     "message": "PIN",
@@ -2724,7 +2724,7 @@
     "message": "Desbloquear con PIN"
   },
   "setYourPinCode": {
-    "message": "Establece o teu código PIN para desbloquear Bitwarden. A túa configuración de PIN restablecerase se pechas sesión completamente na aplicación."
+    "message": "Establece o teu código PIN para desbloquear QLine Vaults. A túa configuración de PIN restablecerase se pechas sesión completamente na aplicación."
   },
   "pinRequired": {
     "message": "O código PIN é obrigatorio."
@@ -2742,7 +2742,7 @@
     "message": "Desbloquear con autenticación do sistema"
   },
   "windowsHelloConsentMessage": {
-    "message": "Verificar para Bitwarden."
+    "message": "Verificar para QLine Vaults."
   },
   "unlockWithTouchId": {
     "message": "Desbloquear con Touch ID"
@@ -2978,10 +2978,10 @@
     "message": "Fai que a verificación en dous pasos sexa perfecta"
   },
   "totpHelper": {
-    "message": "Bitwarden pode almacenar e encher códigos de verificación en dous pasos. Copia e pega a chave neste campo."
+    "message": "QLine Vaults pode almacenar e encher códigos de verificación en dous pasos. Copia e pega a chave neste campo."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden pode almacenar e encher códigos de verificación en dous pasos. Selecciona a icona da cámara para capturar o código QR do autenticador deste sitio web, ou copia e pega a chave neste campo."
+    "message": "QLine Vaults pode almacenar e encher códigos de verificación en dous pasos. Selecciona a icona da cámara para capturar o código QR do autenticador deste sitio web, ou copia e pega a chave neste campo."
   },
   "premium": {
     "message": "Premium",
@@ -3067,7 +3067,7 @@
     "message": "Unha ou máis políticas da organización requiren que o contrasinal mestre cumpra os seguintes requisitos:"
   },
   "receiveMarketingEmails": {
-    "message": "Recibe actualizacións de Bitwarden na túa caixa de entrada."
+    "message": "Recibe actualizacións de QLine Vaults na túa caixa de entrada."
   },
   "unsubscribe": {
     "message": "Cancelar subscrición"
@@ -3091,7 +3091,7 @@
     "message": "Permitir integración con DuckDuckGo"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "Usa o teu cofre de Bitwarden ao navegar con DuckDuckGo."
+    "message": "Usa o teu cofre de QLine Vaults ao navegar con DuckDuckGo."
   },
   "enableHardwareAcceleration": {
     "message": "Usar aceleración por hardware"
@@ -3103,7 +3103,7 @@
     "message": "Aprobar"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$ quere conectarse a Bitwarden",
+    "message": "$APPID$ quere conectarse a QLine Vaults",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Xerado por Bitwarden.",
+    "message": "Xerado por QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Sitio web: $WEBSITE$. Xerado por Bitwarden.",
+    "message": "Sitio web: $WEBSITE$. Xerado por QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "Enviouse unha notificación ao teu dispositivo"
   },
   "notificationSentDevicePart1": {
-    "message": "Desbloquea Bitwarden no teu dispositivo ou na "
+    "message": "Desbloquea QLine Vaults no teu dispositivo ou na "
   },
   "notificationSentDeviceAnchor": {
     "message": "aplicación web"
@@ -4000,7 +4000,7 @@
     "message": "Recibirás unha notificación cando se aprobe a solicitude"
   },
   "needAnotherOption": {
-    "message": "O inicio de sesión con dispositivo debe configurarse nos axustes da aplicación Bitwarden. Necesitas outra opción?"
+    "message": "O inicio de sesión con dispositivo debe configurarse nos axustes da aplicación QLine Vaults. Necesitas outra opción?"
   },
   "viewAllLogInOptions": {
     "message": "Ver todas as opcións de inicio de sesión"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden recomenda actualizar a túa configuración biométrica para requirir o teu contrasinal mestre (ou PIN) no primeiro desbloqueo. Queres actualizar a configuración agora?"
+    "message": "QLine Vaults recomenda actualizar a túa configuración biométrica para requirir o teu contrasinal mestre (ou PIN) no primeiro desbloqueo. Queres actualizar a configuración agora?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Actualización de configuración recomendada"
@@ -4265,7 +4265,7 @@
     "message": "Que é un dispositivo?"
   },
   "aDeviceIs": {
-    "message": "Un dispositivo é unha instalación única da aplicación Bitwarden onde iniciaches sesión. Reinstalar, borrar datos da aplicación ou borrar as cookies pode facer que un dispositivo apareza varias veces."
+    "message": "Un dispositivo é unha instalación única da aplicación QLine Vaults onde iniciaches sesión. Reinstalar, borrar datos da aplicación ou borrar as cookies pode facer que un dispositivo apareza varias veces."
   },
   "deviceListDescriptionTemp": {
     "message": "A túa conta iniciou sesión en cada un dos dispositivos seguintes."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "A detección de coincidencia de URI é como Bitwarden identifica as suxestións de autocompletado.",
+    "message": "A detección de coincidencia de URI é como QLine Vaults identifica as suxestións de autocompletado.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Descarga e comparte o informe de diagnóstico con"
   },
   "bitwardenSupport": {
-    "message": "soporte de Bitwarden",
+    "message": "soporte de QLine Vaults",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "O desbloqueo biométrico non está dispoñible debido a ficheiros do sistema mal configurados."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "O desbloqueo biométrico non está dispoñible porque non está activado para $EMAIL$ na aplicación de escritorio de Bitwarden.",
+    "message": "O desbloqueo biométrico non está dispoñible porque non está activado para $EMAIL$ na aplicación de escritorio de QLine Vaults.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "Configurar inicio de sesión en dous pasos"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden enviará un código ao teu correo da conta para verificar os inicios de sesión desde novos dispositivos a partir de febreiro de 2025."
+    "message": "QLine Vaults enviará un código ao teu correo da conta para verificar os inicios de sesión desde novos dispositivos a partir de febreiro de 2025."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "Podes configurar o inicio de sesión en dous pasos como unha forma alternativa de protexer a túa conta ou cambiar o teu correo a un ao que teñas acceso."
@@ -5541,7 +5541,7 @@
     "message": "Permitir captura de pantalla"
   },
   "allowScreenshotsDesc": {
-    "message": "Permitir que a aplicación de escritorio de Bitwarden sexa capturada en capturas de pantalla e visualizada en sesións de escritorio remoto. Desactivar isto impedirá o acceso nalgunhas pantallas externas."
+    "message": "Permitir que a aplicación de escritorio de QLine Vaults sexa capturada en capturas de pantalla e visualizada en sesións de escritorio remoto. Desactivar isto impedirá o acceso nalgunhas pantallas externas."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Confirmar que a xanela aínda é visible"
@@ -5687,7 +5687,7 @@
     "message": "Sobre esta configuración"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden usará as URI de inicio de sesión gardadas para identificar que icona ou URL de cambio de contrasinal debería usarse para mellorar a túa experiencia. Non se recolle nin garda información cando usas este servizo."
+    "message": "QLine Vaults usará as URI de inicio de sesión gardadas para identificar que icona ou URL de cambio de contrasinal debería usarse para mellorar a túa experiencia. Non se recolle nin garda información cando usas este servizo."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Engade 3 botóns de copia rápida xunto aos elementos para copiar o teu nome de usuario, contrasinal ou código de verificación ao portapapeis."
@@ -5927,7 +5927,7 @@
     "message": "Mostrar menos"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden non valida as localizacións de entrada, asegúrate de que estás na xanela e campo correctos antes de usar o atallo."
+    "message": "QLine Vaults non valida as localizacións de entrada, asegúrate de que estás na xanela e campo correctos antes de usar o atallo."
   },
   "typeShortcut": {
     "message": "Atallo de escritura"
@@ -6080,7 +6080,7 @@
     "message": "Actualizar a Premium"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "A túa organización xa non usa contrasinais mestres para iniciar sesión en Bitwarden. Para continuar, verifica a organización e o dominio."
+    "message": "A túa organización xa non usa contrasinais mestres para iniciar sesión en QLine Vaults. Para continuar, verifica a organización e o dominio."
   },
   "continueWithLogIn": {
     "message": "Continuar co inicio de sesión"
@@ -6329,10 +6329,10 @@
     "message": "Introduce varios correos separándoos por comas."
   },
   "emailPlaceholder": {
-    "message": "usuario@bitwarden.com , usuario@acme.com"
+    "message": "usuario@vaults.qlineit.uk , usuario@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "usuario@bitwarden.com, usuario@acme.com"
+    "message": "usuario@vaults.qlineit.uk, usuario@acme.com"
   },
   "reorderToggleButton": {
     "message": "Reordenar $LABEL$. Usa a tecla de frecha para mover o elemento arriba ou abaixo.",

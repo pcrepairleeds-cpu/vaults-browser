@@ -3,10 +3,10 @@
   "extraMetadata": {
     "name": "bitwarden"
   },
-  "productName": "Bitwarden",
-  "appId": "com.bitwarden.desktop",
+  "productName": "QLine Vaults",
+  "appId": "uk.qlineit.vaults",
   "buildDependenciesFromSource": true,
-  "copyright": "Copyright © 2015-2026 Bitwarden Inc.",
+  "copyright": "Copyright \u00a9 2026 PC Repair Leeds Ltd, trading as QLine IT",
   "directories": {
     "buildResources": "resources",
     "output": "dist",
@@ -69,7 +69,6 @@
       ],
       "CFBundleDevelopmentRegion": "en"
     },
-    "provisioningProfile": "bitwarden_desktop_developer_id.provisionprofile",
     "singleArchFiles": "node_modules/@bitwarden/desktop-napi/desktop_napi.darwin-*.node",
     "x64ArchFiles": "{**/desktop_napi.darwin-*.node,**/bufferutil/**/darwin-*/*.node}",
     "extraFiles": [
@@ -175,7 +174,7 @@
     "hardenedRuntime": true,
     "extendInfo": {
       "LSMinimumSystemVersion": "12",
-      "ElectronTeamID": "LTZ2PFU5D6"
+      "ElectronTeamID": "958AT6N3BC"
     },
     "provisioningProfile": "bitwarden_desktop_appstore.provisionprofile"
   },

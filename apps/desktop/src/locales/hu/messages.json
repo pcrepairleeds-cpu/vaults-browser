@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden béta",
+    "message": "QLine Vaults béta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "SSH ügynök engedélyezése"
   },
   "enableSshAgentDesc": {
-    "message": "Engedélyezzük az SSH ügynök számára az SSH kérelmek aláírását közvetlenül a Bitwarden széfből."
+    "message": "Engedélyezzük az SSH ügynök számára az SSH kérelmek aláírását közvetlenül a QLine Vaults széfből."
   },
   "enableSshAgentHelp": {
-    "message": "Az SSH ügynök egy fejlesztőknek szánt szolgáltatás, amely lehetővé teszi az SSH kérések közvetlenül a Bitwarden széfből történő aláírását."
+    "message": "Az SSH ügynök egy fejlesztőknek szánt szolgáltatás, amely lehetővé teszi az SSH kérések közvetlenül a QLine Vaults széfből történő aláírását."
   },
   "sshAgentPromptBehavior": {
     "message": "Hitelesíés kérés az SSH ügynök használatakor"
@@ -781,7 +781,7 @@
     "message": "Szinkronizálás böngészővel"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "$VAULTURL$ szolgáltatáshoz kapcsolódáshoz szinkronizálni kell alapértelmezett böngészőt a Bitwarden alkalmazással. A böngésző szinkronizálása után visszakerülünk ebbe az alkalmazásba.",
+    "message": "$VAULTURL$ szolgáltatáshoz kapcsolódáshoz szinkronizálni kell alapértelmezett böngészőt a QLine Vaults alkalmazással. A böngésző szinkronizálása után visszakerülünk ebbe az alkalmazásba.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Visszafejtési hiba"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "A Bitwarden nem tudta visszafejteni az alább felsorolt ​​széf elemeket."
+    "message": "A QLine Vaults nem tudta visszafejteni az alább felsorolt ​​széf elemeket."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Ügyfélszolgálat elérés siker",
@@ -1650,7 +1650,7 @@
     "message": "Váratlan hiba"
   },
   "closeThisBitwardenWindow": {
-    "message": "Zárjuk be ezt a Bitwarden ablakot és próbáljuk újra."
+    "message": "Zárjuk be ezt a QLine Vaults ablakot és próbáljuk újra."
   },
   "itemInformation": {
     "message": "Elem információ"
@@ -1724,7 +1724,7 @@
     "message": "Hitelesítő alkalmazás"
   },
   "authenticatorAppDescV2": {
-    "message": "Adjunk meg egy hitelesítő alkalmazás, például a Bitwarden Authenticator által generált kódot.",
+    "message": "Adjunk meg egy hitelesítő alkalmazás, például a an authenticator app által generált kódot.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Saját üzemeltetésű környezet"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Adjuk meg a helyileg tárolt Bitwarden telepítés alap webcímét. Példa: https://bitwarden.company.com"
+    "message": "Adjuk meg a helyileg tárolt QLine Vaults telepítés alap webcímét. Példa: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Speciális konfigurációhoz külön-külön megadhatjuk az egyes szolgáltatások alap webcímét."
@@ -1872,7 +1872,7 @@
     "message": "Biztosan cserére kerüljön a fiók titkosító kulcsa?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "A titkosítási kulcs frissítése után ki kell jelentkezni és vissza kell jelentkezni az összes jelenleg használt Bitwarden alkalmazásba (például a mobilalkalmazás vagy a böngésző bővítmények). A kijelentkezés és a bejelentkezés elmulasztása (amely letölti az új titkosítási kulcsot) adatvesztést okozhat. Megkíséreljük az automatikusan kijelentkeztetést, azonban ez késhet."
+    "message": "A titkosítási kulcs frissítése után ki kell jelentkezni és vissza kell jelentkezni az összes jelenleg használt QLine Vaults alkalmazásba (például a mobilalkalmazás vagy a böngésző bővítmények). A kijelentkezés és a bejelentkezés elmulasztása (amely letölti az új titkosítási kulcsot) adatvesztést okozhat. Megkíséreljük az automatikusan kijelentkeztetést, azonban ez késhet."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "A fiókhoz korlátozottan mentett exportálások érvénytelenek lesznek."
@@ -1905,7 +1905,7 @@
     "message": "A hivatkozás lejárt."
   },
   "pleaseRestartRegistrationOrTryLoggingIn": {
-    "message": "A Bitwarden képes tárolni és kitölteni a kétlépcsős ellenőrző kódokat. Válasszuk a kamera ikont, hogy képernyőképet készítsünk a webhely hitelesítő QR kódjáról vagy másoljuk ki és illesszük be a kulcsot ebbe a mezőbe."
+    "message": "A QLine Vaults képes tárolni és kitölteni a kétlépcsős ellenőrző kódokat. Válasszuk a kamera ikont, hogy képernyőképet készítsünk a webhely hitelesítő QR kódjáról vagy másoljuk ki és illesszük be a kulcsot ebbe a mezőbe."
   },
   "youMayAlreadyHaveAnAccount": {
     "message": "Már rendelkezünkk fiókkal."
@@ -1968,7 +1968,7 @@
     "message": "Tovább a webes alkalmazáshoz?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "A mesterjelszó a Bitwarden webalkalmazásban módosítható."
+    "message": "A mesterjelszó a QLine Vaults webalkalmazásban módosítható."
   },
   "fingerprintPhrase": {
     "message": "Azonosítókifejezés",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "A kétlépcsős bejelentkezés biztonságosabbá teszi a fiókot azzal, hogy meg kell erősíteni a bejelentkezést egy másik olyan eszközzel mint például biztonsági kulcs, hitelesítő alkalmazás, SMS, telefonhívás vagy email. A kétlépcsős bejelentkezést a bitwarden.com webes széfben lehet megváltoztatni. Szeretnénk felkeresni most a webhelyet?"
+    "message": "A kétlépcsős bejelentkezés biztonságosabbá teszi a fiókot azzal, hogy meg kell erősíteni a bejelentkezést egy másik olyan eszközzel mint például biztonsági kulcs, hitelesítő alkalmazás, SMS, telefonhívás vagy email. A kétlépcsős bejelentkezést a vaults.qlineit.uk webes széfben lehet megváltoztatni. Szeretnénk felkeresni most a webhelyet?"
   },
   "twoStepLogin": {
     "message": "Kétlépcsős bejelentkezés"
@@ -2120,19 +2120,19 @@
     "message": "Nincsenek másolandó adatok."
   },
   "runInBackground": {
-    "message": "Bitwarden futtatásban tartása a háttérben"
+    "message": "QLine Vaults futtatásban tartása a háttérben"
   },
   "runInBackgroundDesc": {
-    "message": "Amikor bezárjuk az ablakot, a Bitwarden elérhető a tálcáról. SSH ügynök vagy böngésző integráció használata esetén ajánlott."
+    "message": "Amikor bezárjuk az ablakot, a QLine Vaults elérhető a tálcáról. SSH ügynök vagy böngésző integráció használata esetén ajánlott."
   },
   "runInBackgroundDescMac": {
-    "message": "Amikor bezárjuk az ablakot, a Bitwarden elérhető a menüsorból. SSH ügynök vagy böngésző integráció használata esetén ajánlott."
+    "message": "Amikor bezárjuk az ablakot, a QLine Vaults elérhető a menüsorból. SSH ügynök vagy böngésző integráció használata esetén ajánlott."
   },
   "openAtLogin": {
     "message": "Automatikus indítás bejelentkezéskor"
   },
   "openAtLoginDesc": {
-    "message": "A Bitwarden asztali alkalmazás automatikus indítása bejelentkezéskor."
+    "message": "A QLine Vaults asztali alkalmazás automatikus indítása bejelentkezéskor."
   },
   "language": {
     "message": "Nyelv"
@@ -2255,7 +2255,7 @@
     "message": "Tagság kezelése"
   },
   "premiumManageAlert": {
-    "message": "Prémium tagság a bitwarden.com webes széfben kezelhető. Szeretnénk most felkeresni a webhelyet?"
+    "message": "Prémium tagság a vaults.qlineit.uk webes széfben kezelhető. Szeretnénk most felkeresni a webhelyet?"
   },
   "premiumSignUpStorage": {
     "message": "1 GB titkosított fájlmelléklet tárhely."
@@ -2264,7 +2264,7 @@
     "message": "Prémium verzió megvásárlása"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Prémium szolgáltatást vásárolhatunk a Bitwarden webalkalmazás fiókbeállításai között."
+    "message": "Prémium szolgáltatást vásárolhatunk a QLine Vaults webalkalmazás fiókbeállításai között."
   },
   "month": {
     "message": "hónap"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Bitwarden névjegy"
+    "message": "QLine Vaults névjegy"
   },
   "services": {
     "message": "Szolgáltatások"
   },
   "hideBitwarden": {
-    "message": "Bitwarden elrejtése"
+    "message": "QLine Vaults elrejtése"
   },
   "hideOthers": {
     "message": "Többi elrejtése"
@@ -2647,13 +2647,13 @@
     "message": "Ezt a jelszó kerül használatba a fájl exportálására és importálására."
   },
   "accountRestrictedOptionDescription": {
-    "message": "Használjuk a fiók felhasználónevéből és mesterjelszavából származó fióktitkosítási kulcsot az exportálás titkosításához és az importálást csak az aktuális Bitwarden fiókra korlátozzuk."
+    "message": "Használjuk a fiók felhasználónevéből és mesterjelszavából származó fióktitkosítási kulcsot az exportálás titkosításához és az importálást csak az aktuális QLine Vaults fiókra korlátozzuk."
   },
   "passwordProtected": {
     "message": "Jelszóval védett"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Állítsunk be egy fájl jelszót az exportálás titkosításához és importáljuk azt bármely Bitwarden fiókba a visszafejtéshez használt jelszó használatával."
+    "message": "Állítsunk be egy fájl jelszót az exportálás titkosításához és importáljuk azt bármely QLine Vaults fiókba a visszafejtéshez használt jelszó használatával."
   },
   "exportTypeHeading": {
     "message": "Exportálási típus"
@@ -2684,7 +2684,7 @@
     "message": "Ez az exportálás titkosítja az adatokat a fiók titkosítási kulcsával. Ha a fiók forgatási kulcsa más lesz, akkor újra exportálni kell, mert nem lehet visszafejteni ezt az exportálási fájlt."
   },
   "encExportAccountWarningDesc": {
-    "message": "A fiók titkosítási kulcsai minden Bitwarden felhasználói fiókhoz egyediek, ezért nem importálhatunk titkosított exportálást egy másik fiókba."
+    "message": "A fiók titkosítási kulcsai minden QLine Vaults felhasználói fiókhoz egyediek, ezért nem importálhatunk titkosított exportálást egy másik fiókba."
   },
   "noOrganizationsList": {
     "message": "Még nem tartozunk egyik szervezethez sem. A szervezetek lehetővé teszik az elemek megosztását más felhasználókkal."
@@ -2714,7 +2714,7 @@
     "message": "Gyenge mesterjelszó"
   },
   "weakMasterPasswordDesc": {
-    "message": "A választott mesterjelszó gyenge. Erős jelszót (vagy kifejezést) kell használni a Bitwarden fiók megfelelő védelme érdekében. Biztosan ezt a mesterjelszót szeretnénk használni?"
+    "message": "A választott mesterjelszó gyenge. Erős jelszót (vagy kifejezést) kell használni a QLine Vaults fiók megfelelő védelme érdekében. Biztosan ezt a mesterjelszót szeretnénk használni?"
   },
   "pin": {
     "message": "Pinkód",
@@ -2724,7 +2724,7 @@
     "message": "Felnyitás pinkóddal"
   },
   "setYourPinCode": {
-    "message": "A pinkód beállítása a Bitwarden feloldásához. A pinkód beállítások alaphelyzetbe kerülnek az alkalmazásból történő teljes kijelentkezés után."
+    "message": "A pinkód beállítása a QLine Vaults feloldásához. A pinkód beállítások alaphelyzetbe kerülnek az alkalmazásból történő teljes kijelentkezés után."
   },
   "pinRequired": {
     "message": "A pinkód szükséges."
@@ -2742,7 +2742,7 @@
     "message": "Feloldás rendszer hitelesítéssel"
   },
   "windowsHelloConsentMessage": {
-    "message": "Bitwarden ellenőrzés."
+    "message": "QLine Vaults ellenőrzés."
   },
   "unlockWithTouchId": {
     "message": "Feloldás Touch ID segítségével"
@@ -2751,7 +2751,7 @@
     "message": "Kiegészítő Touch ID beállítások"
   },
   "touchIdConsentMessage": {
-    "message": "Bitwarden feloldás"
+    "message": "QLine Vaults feloldás"
   },
   "autoPromptTouchId": {
     "message": "Érintés AZ kérése indításkor"
@@ -2978,10 +2978,10 @@
     "message": "Tegyük zökkenőmentessé a kétlépcsős azonosítást."
   },
   "totpHelper": {
-    "message": "A Bitwarden képes tárolni és kitölteni a kétlépcsős ellenőrző kódokat. Másoljuk ki és illesszük be a kulcsot ebbe a mezőbe."
+    "message": "A QLine Vaults képes tárolni és kitölteni a kétlépcsős ellenőrző kódokat. Másoljuk ki és illesszük be a kulcsot ebbe a mezőbe."
   },
   "totpHelperWithCapture": {
-    "message": "A Bitwarden képes tárolni és kitölteni a kétlépcsős ellenőrző kódokat. Válasszuk a kamera ikont, hogy képernyőképet készítsünk a webhely hitelesítő QR kódjáról vagy másoljuk ki és illesszük be a kulcsot ebbe a mezőbe."
+    "message": "A QLine Vaults képes tárolni és kitölteni a kétlépcsős ellenőrző kódokat. Válasszuk a kamera ikont, hogy képernyőképet készítsünk a webhely hitelesítő QR kódjáról vagy másoljuk ki és illesszük be a kulcsot ebbe a mezőbe."
   },
   "premium": {
     "message": "Prémium",
@@ -3091,7 +3091,7 @@
     "message": "DuckDuckGo böngésző integráció engedélyezése"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "A Bitwarden széf használata DuckDuckGo böngésző használatakor."
+    "message": "A QLine Vaults széf használata DuckDuckGo böngésző használatakor."
   },
   "enableHardwareAcceleration": {
     "message": "Hardver gyorsítás használata"
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Generálta: Bitwarden.",
+    "message": "Generálta: QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Webhely: $WEBSITE$. Generálta: Bitwarden.",
+    "message": "Webhely: $WEBSITE$. Generálta: QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "Egy értesítés lett elküldve az eszközre."
   },
   "notificationSentDevicePart1": {
-    "message": "A Bitwarden zárolás feloldása az eszközön vagy: "
+    "message": "A QLine Vaults zárolás feloldása az eszközön vagy: "
   },
   "notificationSentDeviceAnchor": {
     "message": "webalkalmazás"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "A Bitwarden azt javasolja, hogy frissítsük a biometrikus beállításokat, hogy az első feloldáskor megköveteljük a mesterjelszót (vagy a PIN-kódot). Szeretnénk most frissíteni beállításokat?"
+    "message": "A QLine Vaults azt javasolja, hogy frissítsük a biometrikus beállításokat, hogy az első feloldáskor megköveteljük a mesterjelszót (vagy a PIN-kódot). Szeretnénk most frissíteni beállításokat?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Ajánlott beállítások frissítése"
@@ -4265,7 +4265,7 @@
     "message": "Mi az eszköz?"
   },
   "aDeviceIs": {
-    "message": "Az eszköz a Bitwarden alkalmazás egyedi telepítése, amelyre bejelentkeztünk. Az alkalmazás adatok újratelepítése, törlése vagy a sütik törlése azt eredményezheti, hogy egy eszköz többször is megjelenhet."
+    "message": "Az eszköz a QLine Vaults alkalmazás egyedi telepítése, amelyre bejelentkeztünk. Az alkalmazás adatok újratelepítése, törlése vagy a sütik törlése azt eredményezheti, hogy egy eszköz többször is megjelenhet."
   },
   "deviceListDescriptionTemp": {
     "message": "A fiók az alábbi eszközök mindegyikére bejelentkezett."
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Az URI egyezés észlelése az, ahogyan a Bitwarden azonosítja az automatikus kitöltési javaslatokat.",
+    "message": "Az URI egyezés észlelése az, ahogyan a QLine Vaults azonosítja az automatikus kitöltési javaslatokat.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Töltsük le, majd osszuk meg a diagnosztikai jelentést:"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden támogatás",
+    "message": "QLine Vaults támogatás",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "A biometrikus feloldás nem érhető el a rosszul konfigurált rendszerfájlok miatt."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "A biometrikus feloldás nem érhető el, mert nincs engedélyezve $EMAIL$ számára a Bitwarden asztali alkalmazásban.",
+    "message": "A biometrikus feloldás nem érhető el, mert nincs engedélyezve $EMAIL$ számára a QLine Vaults asztali alkalmazásban.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "Kétlépéses bejelentkezés beüzemelése"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "A Bitwarden 2025 februárjától kódot küld a fiókhoz tartozó email címre, amellyel ellenőrizhetők az új eszközökről történő bejelentkezések."
+    "message": "A QLine Vaults 2025 februárjától kódot küld a fiókhoz tartozó email címre, amellyel ellenőrizhetők az új eszközökről történő bejelentkezések."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "A fiók védelmének alternatív módjaként beállíthatunk kétlépéses bejelentkezést vagy módosíthatjuk az email címet egy elérhetőre."
@@ -5541,7 +5541,7 @@
     "message": "Képernyőrögzítés engedélyezése"
   },
   "allowScreenshotsDesc": {
-    "message": "Engedélyezi a Bitwarden asztali alkalmazásnak a képernyőképek rögzítését és távoli asztali munkamenetekben megtekintését. Ennek letiltása megakadályozza a hozzáférést bizonyos külső kijelzőkhöz."
+    "message": "Engedélyezi a QLine Vaults asztali alkalmazásnak a képernyőképek rögzítését és távoli asztali munkamenetekben megtekintését. Ennek letiltása megakadályozza a hozzáférést bizonyos külső kijelzőkhöz."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Erősítsük meg, hogy az ablak továbbra is látható."
@@ -5687,7 +5687,7 @@
     "message": "Információ erről a beállításról"
   },
   "permitCipherDetailsDescription": {
-    "message": "A Bitwarden mentett bejelentkezési webcímeket használ annak azonosítására, hogy melyik ikont vagy jelszó webcímet kell használni az élmény javítása érdekében. A szolgáltatás használatakor nincs információ gyűjtés vagy mentés."
+    "message": "A QLine Vaults mentett bejelentkezési webcímeket használ annak azonosítására, hogy melyik ikont vagy jelszó webcímet kell használni az élmény javítása érdekében. A szolgáltatás használatakor nincs információ gyűjtés vagy mentés."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Adjunk hozzá 3 gyorsmásoló gombot az elemek mellé a felhasználónév, a jelszó vagy az ellenőrző kód vágólapra másolásához."
@@ -5927,7 +5927,7 @@
     "message": "Kevesebb megjelenítése"
   },
   "enableAutotypeDescription": {
-    "message": "A Bitwarden nem érvényesíti a beviteli helyeket, győződjünk meg róla, hogy a megfelelő ablakban és mezőben vagyunk, mielőtt a parancsikont használnánk."
+    "message": "A QLine Vaults nem érvényesíti a beviteli helyeket, győződjünk meg róla, hogy a megfelelő ablakban és mezőben vagyunk, mielőtt a parancsikont használnánk."
   },
   "typeShortcut": {
     "message": "Type shortcut"
@@ -6329,10 +6329,10 @@
     "message": "Írjunk be több email címet vesszővel elválasztva."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "$LABEL$ átrendezése. A nyílbillentyűkkel mozgassuk az elemet felfelé vagy lefelé.",

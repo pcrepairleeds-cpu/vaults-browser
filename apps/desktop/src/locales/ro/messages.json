@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "Activează agentul SSH"
   },
   "enableSshAgentDesc": {
-    "message": "Activează agentul SSH pentru a semna cereri SSH direct din seiful Bitwarden."
+    "message": "Activează agentul SSH pentru a semna cereri SSH direct din seiful QLine Vaults."
   },
   "enableSshAgentHelp": {
-    "message": "Agentul SSH este un serviciu destinat dezvoltatorilor care îți permite să semnezi cereri SSH direct din seiful Bitwarden."
+    "message": "Agentul SSH este un serviciu destinat dezvoltatorilor care îți permite să semnezi cereri SSH direct din seiful QLine Vaults."
   },
   "sshAgentPromptBehavior": {
     "message": "Cere autorizare la utilizarea agentului SSH"
@@ -781,7 +781,7 @@
     "message": "Sincronizează cu browserul"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "Pentru a te conecta la $VAULTURL$, trebuie să sincronizezi browserul implicit cu aplicația Bitwarden. Vei fi redirecționat înapoi la această aplicație după ce browserul este sincronizat.",
+    "message": "Pentru a te conecta la $VAULTURL$, trebuie să sincronizezi browserul implicit cu aplicația QLine Vaults. Vei fi redirecționat înapoi la această aplicație după ce browserul este sincronizat.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Eroare de decriptare"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden nu a putut decripta elementul/ele din seif listate mai jos."
+    "message": "QLine Vaults nu a putut decripta elementul/ele din seif listate mai jos."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Contactează customer success",
@@ -1480,7 +1480,7 @@
     "message": "Creare cont"
   },
   "newToBitwarden": {
-    "message": "Ești nou la Bitwarden?"
+    "message": "Ești nou la QLine Vaults?"
   },
   "setAStrongPassword": {
     "message": "Setează o parolă puternică"
@@ -1492,7 +1492,7 @@
     "message": "Conectare"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Autentifică-te în Bitwarden"
+    "message": "Autentifică-te în QLine Vaults"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Introdu codul trimis pe email"
@@ -1650,7 +1650,7 @@
     "message": "Eroare neașteptată"
   },
   "closeThisBitwardenWindow": {
-    "message": "Închide această fereastră Bitwarden și încearcă din nou."
+    "message": "Închide această fereastră QLine Vaults și încearcă din nou."
   },
   "itemInformation": {
     "message": "Informații despre articol"
@@ -1724,7 +1724,7 @@
     "message": "Aplicația Autentificator"
   },
   "authenticatorAppDescV2": {
-    "message": "Introdu un cod generat de o aplicație de autentificare precum Bitwarden Authenticator.",
+    "message": "Introdu un cod generat de o aplicație de autentificare precum an authenticator app.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Mediul găzduit local"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Specifică URL-ul de bază al instalării Bitwarden găzduite local. Exemplu: https://bitwarden.company.com"
+    "message": "Specifică URL-ul de bază al instalării QLine Vaults găzduite local. Exemplu: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Pentru configurare avansată, poți specifica URL-ul de bază al fiecărui serviciu în mod independent."
@@ -1872,7 +1872,7 @@
     "message": "Ești sigur că dorești să rotești cheia de criptare a contului?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "După actualizarea cheii de criptare, trebuie să te deconectezi și să te reconectezi la toate aplicațiile Bitwarden pe care le utilizezi în prezent (cum ar fi aplicația mobilă sau extensiile de browser). Dacă nu te deconectezi și reconectezi (ceea ce descarcă noua cheie de criptare), poate apărea coruperea datelor. Vom încerca să te deconectăm automat, dar este posibil să existe o întârziere."
+    "message": "După actualizarea cheii de criptare, trebuie să te deconectezi și să te reconectezi la toate aplicațiile QLine Vaults pe care le utilizezi în prezent (cum ar fi aplicația mobilă sau extensiile de browser). Dacă nu te deconectezi și reconectezi (ceea ce descarcă noua cheie de criptare), poate apărea coruperea datelor. Vom încerca să te deconectăm automat, dar este posibil să existe o întârziere."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Orice export restricționat de cont pe care l-ai salvat va deveni invalid."
@@ -1968,7 +1968,7 @@
     "message": "Continui către aplicația web?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Poți schimba parola principală în aplicația web Bitwarden."
+    "message": "Poți schimba parola principală în aplicația web QLine Vaults."
   },
   "fingerprintPhrase": {
     "message": "Frază amprentă",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "Autentificarea în două etape vă face contul mai sigur, cerându-vă să vă verificați autentificarea cu un alt dispozitiv, cum ar fi o cheie de securitate, o aplicație de autentificare, un SMS, un apel telefonic sau un e-mail. Autentificarea în două etape poate fi configurată pe seiful web bitwarden.com. Doriți să vizitați site-ul web acum?"
+    "message": "Autentificarea în două etape vă face contul mai sigur, cerându-vă să vă verificați autentificarea cu un alt dispozitiv, cum ar fi o cheie de securitate, o aplicație de autentificare, un SMS, un apel telefonic sau un e-mail. Autentificarea în două etape poate fi configurată pe seiful web vaults.qlineit.uk. Doriți să vizitați site-ul web acum?"
   },
   "twoStepLogin": {
     "message": "Autentificare în două etape"
@@ -2120,19 +2120,19 @@
     "message": "Nicio detalii de copiat"
   },
   "runInBackground": {
-    "message": "Menține Bitwarden în fundal"
+    "message": "Menține QLine Vaults în fundal"
   },
   "runInBackgroundDesc": {
-    "message": "Când închizi fereastra, Bitwarden este accesibil din zona de notificare. Recomandat când folosești agentul SSH sau integrarea cu browserul."
+    "message": "Când închizi fereastra, QLine Vaults este accesibil din zona de notificare. Recomandat când folosești agentul SSH sau integrarea cu browserul."
   },
   "runInBackgroundDescMac": {
-    "message": "Când închizi fereastra, Bitwarden este accesibil din bara de meniu. Recomandat când folosești agentul SSH sau integrarea cu browserul."
+    "message": "Când închizi fereastra, QLine Vaults este accesibil din bara de meniu. Recomandat când folosești agentul SSH sau integrarea cu browserul."
   },
   "openAtLogin": {
     "message": "Pornire automată la conectare"
   },
   "openAtLoginDesc": {
-    "message": "Pornește automat aplicația Bitwarden desktop la conectare."
+    "message": "Pornește automat aplicația QLine Vaults desktop la conectare."
   },
   "language": {
     "message": "Limbă"
@@ -2174,7 +2174,7 @@
     "message": "Reporniți pentru actualizare"
   },
   "restartToUpdateDesc": {
-    "message": "Versiunea $VERSION_NUM$ este gata pentru instalare. Trebuie să reporniți Bitwarden pentru a finaliza instalarea. Doriți să reporniți și să actualizați acum?",
+    "message": "Versiunea $VERSION_NUM$ este gata pentru instalare. Trebuie să reporniți QLine Vaults pentru a finaliza instalarea. Doriți să reporniți și să actualizați acum?",
     "placeholders": {
       "version_num": {
         "content": "$1",
@@ -2255,7 +2255,7 @@
     "message": "Gestionare abonament"
   },
   "premiumManageAlert": {
-    "message": "Vă puteți gestiona abonamentul pe seiful web bitwarden.com. Doriți să vizitați saitul acum?"
+    "message": "Vă puteți gestiona abonamentul pe seiful web vaults.qlineit.uk. Doriți să vizitați saitul acum?"
   },
   "premiumSignUpStorage": {
     "message": "1 GB spațiu de stocare criptat pentru atașamente de fișiere."
@@ -2264,7 +2264,7 @@
     "message": "Achiziționare abonament Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Poți achiziționa Premium din setările contului din aplicația web Bitwarden."
+    "message": "Poți achiziționa Premium din setările contului din aplicația web QLine Vaults."
   },
   "month": {
     "message": "lună"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Despre Bitwarden"
+    "message": "Despre QLine Vaults"
   },
   "services": {
     "message": "Servicii"
   },
   "hideBitwarden": {
-    "message": "Ascundere Bitwarden"
+    "message": "Ascundere QLine Vaults"
   },
   "hideOthers": {
     "message": "Ascundere celelalte"
@@ -2501,7 +2501,7 @@
     "message": "Afișare tot"
   },
   "quitBitwarden": {
-    "message": "Închidere Bitwarden"
+    "message": "Închidere QLine Vaults"
   },
   "valueCopied": {
     "message": "$VALUE$ s-a copiat",
@@ -2647,13 +2647,13 @@
     "message": "Această parolă va fi utilizată pentru a exporta și importa acest fișier"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Folosește cheia de criptare a contului, derivată din numele de utilizator și parola principală, pentru a cripta exportul și a restricționa importul doar la contul Bitwarden curent."
+    "message": "Folosește cheia de criptare a contului, derivată din numele de utilizator și parola principală, pentru a cripta exportul și a restricționa importul doar la contul QLine Vaults curent."
   },
   "passwordProtected": {
     "message": "Protejat cu parolă"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Setează o parolă pentru fișier pentru a cripta exportul și a-l importa în orice cont Bitwarden folosind parola pentru decriptare."
+    "message": "Setează o parolă pentru fișier pentru a cripta exportul și a-l importa în orice cont QLine Vaults folosind parola pentru decriptare."
   },
   "exportTypeHeading": {
     "message": "Tip export"
@@ -2684,7 +2684,7 @@
     "message": "Acest export criptează datele, utilizând cheia de criptare a contului. Dacă revocați vreodată cheia de criptare a contului dvs., ar trebui să exportați din nou, deoarece nu veți putea decripta acest fișier de export."
   },
   "encExportAccountWarningDesc": {
-    "message": "Cheile de criptare a contului sunt unice fiecărui cont de utilizator Bitwarden, astfel încât nu puteți importa un export criptat într-un cont diferit."
+    "message": "Cheile de criptare a contului sunt unice fiecărui cont de utilizator QLine Vaults, astfel încât nu puteți importa un export criptat într-un cont diferit."
   },
   "noOrganizationsList": {
     "message": "Nu aparțineți niciunei organizații. Organizațiile vă permit să partajați în siguranță articole cu alți utilizatori."
@@ -2714,7 +2714,7 @@
     "message": "Parolă principală slabă"
   },
   "weakMasterPasswordDesc": {
-    "message": "Parola principală aleasă este slabă. Ar trebui să folosiți o parolă principală (sau o frază de acces) puternică pentru a vă proteja corespunzător contul Bitwarden. Sigur doriți să folosiți această parolă principală?"
+    "message": "Parola principală aleasă este slabă. Ar trebui să folosiți o parolă principală (sau o frază de acces) puternică pentru a vă proteja corespunzător contul QLine Vaults. Sigur doriți să folosiți această parolă principală?"
   },
   "pin": {
     "message": "PIN",
@@ -2724,7 +2724,7 @@
     "message": "Deblocare cu codul PIN"
   },
   "setYourPinCode": {
-    "message": "Stabiliți codul PIN de deblocare Bitwarden. Setările codului PIN vor fi reinițializate dacă vă deconectați vreodată din aplicație."
+    "message": "Stabiliți codul PIN de deblocare QLine Vaults. Setările codului PIN vor fi reinițializate dacă vă deconectați vreodată din aplicație."
   },
   "pinRequired": {
     "message": "Codul PIN este necesar."
@@ -2742,7 +2742,7 @@
     "message": "Deblochează cu autentificarea sistemului"
   },
   "windowsHelloConsentMessage": {
-    "message": "Verificați pentru Bitwarden."
+    "message": "Verificați pentru QLine Vaults."
   },
   "unlockWithTouchId": {
     "message": "Deblocare cu Touch ID"
@@ -2978,10 +2978,10 @@
     "message": "Fă verificarea în doi pași fără întreruperi"
   },
   "totpHelper": {
-    "message": "Bitwarden poate stoca și completa codurile de verificare în doi pași. Copiază și inserează cheia în acest câmp."
+    "message": "QLine Vaults poate stoca și completa codurile de verificare în doi pași. Copiază și inserează cheia în acest câmp."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden poate stoca și completa codurile de verificare în doi pași. Selectează pictograma camerei pentru a face o captură de ecran a codului QR al autentificatorului acestui site web sau copiază și inserează cheia în acest câmp."
+    "message": "QLine Vaults poate stoca și completa codurile de verificare în doi pași. Selectează pictograma camerei pentru a face o captură de ecran a codului QR al autentificatorului acestui site web sau copiază și inserează cheia în acest câmp."
   },
   "premium": {
     "message": "Premium",
@@ -3067,7 +3067,7 @@
     "message": "Una sau mai multe politici ale organizației impun ca parola principală să îndeplinească următoarele cerințe:"
   },
   "receiveMarketingEmails": {
-    "message": "Primește actualizări de la Bitwarden în căsuța ta de email."
+    "message": "Primește actualizări de la QLine Vaults în căsuța ta de email."
   },
   "unsubscribe": {
     "message": "Dezabonează-te"
@@ -3091,7 +3091,7 @@
     "message": "Permiteți integrarea de browser DuckDuckGo"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "Utilizați seiful Bitwarden atunci când navigați cu DuckDuckGo."
+    "message": "Utilizați seiful QLine Vaults atunci când navigați cu DuckDuckGo."
   },
   "enableHardwareAcceleration": {
     "message": "Folosește accelerația hardware"
@@ -3103,7 +3103,7 @@
     "message": "Aprobați"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$ vrea să se conecteze la Bitwarden",
+    "message": "$APPID$ vrea să se conecteze la QLine Vaults",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Generat de Bitwarden.",
+    "message": "Generat de QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Site: $WEBSITE$. Generat de Bitwarden.",
+    "message": "Site: $WEBSITE$. Generat de QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "O notificare a fost trimisă pe dispozitivul tău"
   },
   "notificationSentDevicePart1": {
-    "message": "Deblochează Bitwarden pe dispozitivul tău sau în "
+    "message": "Deblochează QLine Vaults pe dispozitivul tău sau în "
   },
   "notificationSentDeviceAnchor": {
     "message": "aplicația web"
@@ -4000,7 +4000,7 @@
     "message": "Vei fi notificat când cererea este aprobată"
   },
   "needAnotherOption": {
-    "message": "Autentificarea cu dispozitiv trebuie configurată în setările aplicației Bitwarden. Ai nevoie de altă opțiune?"
+    "message": "Autentificarea cu dispozitiv trebuie configurată în setările aplicației QLine Vaults. Ai nevoie de altă opțiune?"
   },
   "viewAllLogInOptions": {
     "message": "Vezi toate opțiunile de autentificare"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden recomandă actualizarea setărilor biometrice pentru a cere parola principală (sau PIN) la prima deblocare. Dorești să actualizezi setările acum?"
+    "message": "QLine Vaults recomandă actualizarea setărilor biometrice pentru a cere parola principală (sau PIN) la prima deblocare. Dorești să actualizezi setările acum?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Actualizare recomandată a setărilor"
@@ -4265,7 +4265,7 @@
     "message": "Ce este un dispozitiv?"
   },
   "aDeviceIs": {
-    "message": "Un dispozitiv este o instalare unică a aplicației Bitwarden în care te-ai autentificat. Reinstalarea, ștergerea datelor aplicației sau curățarea cookie-urilor poate duce la apariția unui dispozitiv de mai multe ori."
+    "message": "Un dispozitiv este o instalare unică a aplicației QLine Vaults în care te-ai autentificat. Reinstalarea, ștergerea datelor aplicației sau curățarea cookie-urilor poate duce la apariția unui dispozitiv de mai multe ori."
   },
   "deviceListDescriptionTemp": {
     "message": "Contul tău a fost autentificat pe fiecare dintre dispozitivele de mai jos."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Detectarea potrivirii URI este modul în care Bitwarden identifică sugestiile de completare automată.",
+    "message": "Detectarea potrivirii URI este modul în care QLine Vaults identifică sugestiile de completare automată.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Descarcă și apoi partajează raportul de diagnostic cu"
   },
   "bitwardenSupport": {
-    "message": "Asistența Bitwarden",
+    "message": "Asistența QLine Vaults",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "Deblocarea biometrică nu este disponibilă din cauza unor fișiere de sistem configurate greșit."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "Deblocarea biometrică nu este disponibilă deoarece nu este activată pentru $EMAIL$ în aplicația desktop Bitwarden.",
+    "message": "Deblocarea biometrică nu este disponibilă deoarece nu este activată pentru $EMAIL$ în aplicația desktop QLine Vaults.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "Configurează autentificarea în doi pași"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden va trimite un cod pe adresa de email a contului pentru a verifica autentificările de pe dispozitive noi începând din februarie 2025."
+    "message": "QLine Vaults va trimite un cod pe adresa de email a contului pentru a verifica autentificările de pe dispozitive noi începând din februarie 2025."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "Poți configura autentificarea în doi pași ca alternativă pentru a-ți proteja contul sau poți schimba adresa de email cu una la care ai acces."
@@ -5541,7 +5541,7 @@
     "message": "Permite captura ecranului"
   },
   "allowScreenshotsDesc": {
-    "message": "Permite aplicației desktop Bitwarden să fie capturată în capturi de ecran și vizualizată în sesiuni de desktop la distanță. Dezactivarea acestuia va împiedica accesul pe unele afișaje externe."
+    "message": "Permite aplicației desktop QLine Vaults să fie capturată în capturi de ecran și vizualizată în sesiuni de desktop la distanță. Dezactivarea acestuia va împiedica accesul pe unele afișaje externe."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Confirmă că fereastra este încă vizibilă"
@@ -5687,7 +5687,7 @@
     "message": "Despre această setare"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden va folosi URI-urile de autentificare salvate pentru a identifica ce pictogramă sau URL de schimbare a parolei ar trebui utilizat pentru a-ți îmbunătăți experiența. Nu sunt colectate sau salvate informații atunci când folosești acest serviciu."
+    "message": "QLine Vaults va folosi URI-urile de autentificare salvate pentru a identifica ce pictogramă sau URL de schimbare a parolei ar trebui utilizat pentru a-ți îmbunătăți experiența. Nu sunt colectate sau salvate informații atunci când folosești acest serviciu."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Adaugă 3 butoane de copiere rapidă lângă elemente pentru a copia numele de utilizator, parola sau codul de verificare în clipboard."
@@ -5927,7 +5927,7 @@
     "message": "Afișează mai puțin"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden nu validează locațiile de introducere, asigură-te că ești în fereastra și câmpul corect înainte de a folosi comanda rapidă."
+    "message": "QLine Vaults nu validează locațiile de introducere, asigură-te că ești în fereastra și câmpul corect înainte de a folosi comanda rapidă."
   },
   "typeShortcut": {
     "message": "Comandă rapidă de tipărire"
@@ -6080,7 +6080,7 @@
     "message": "Actualizează la Premium"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Organizația ta nu mai folosește parole principale pentru autentificarea în Bitwarden. Pentru a continua, verifică organizația și domeniul."
+    "message": "Organizația ta nu mai folosește parole principale pentru autentificarea în QLine Vaults. Pentru a continua, verifică organizația și domeniul."
   },
   "continueWithLogIn": {
     "message": "Continuă cu autentificarea"
@@ -6329,10 +6329,10 @@
     "message": "Introdu mai multe emailuri separate prin virgulă."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "Reordonează $LABEL$. Folosește tasta săgeată pentru a muta elementul în sus sau în jos.",

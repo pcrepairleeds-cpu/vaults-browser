@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "SSH agenti fəallaşdır"
   },
   "enableSshAgentDesc": {
-    "message": "SSH tələblərini birbaşa Bitwarden seyfinizdən imzalamaq üçün SSH agentini fəallaşdırın."
+    "message": "SSH tələblərini birbaşa QLine Vaults seyfinizdən imzalamaq üçün SSH agentini fəallaşdırın."
   },
   "enableSshAgentHelp": {
-    "message": "SSH agenti, SSH tələblərini birbaşa Bitwarden seyfinizdən imzalamağa imkan verən gəlişdiricilərə yönəlmiş bir xidmətdir."
+    "message": "SSH agenti, SSH tələblərini birbaşa QLine Vaults seyfinizdən imzalamağa imkan verən gəlişdiricilərə yönəlmiş bir xidmətdir."
   },
   "sshAgentPromptBehavior": {
     "message": "SSH agentini istifadə edərkən səlahiyyətləndirmə üçün soruş"
@@ -781,7 +781,7 @@
     "message": "Brauzerlə sinxronlaşdır"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "$VAULTURL$ ilə bağlantı qurmaq üçün, ilkin brauzerinizi Bitwarden tətbiqi ilə sinxronlaşdırmalısınız. Brauzeriniz sinxronlaşdırıldıqdan sonra bu tətbiqə geri yönləndiriləcəksiniz.",
+    "message": "$VAULTURL$ ilə bağlantı qurmaq üçün, ilkin brauzerinizi QLine Vaults tətbiqi ilə sinxronlaşdırmalısınız. Brauzeriniz sinxronlaşdırıldıqdan sonra bu tətbiqə geri yönləndiriləcəksiniz.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Şifrə açma xətası"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden, aşağıda sadalanan seyf element(lər)inin şifrəsini aça bilmədi."
+    "message": "QLine Vaults, aşağıda sadalanan seyf element(lər)inin şifrəsini aça bilmədi."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Əlavə data itkisini önləmək üçün",
@@ -1480,7 +1480,7 @@
     "message": "Hesab yarat"
   },
   "newToBitwarden": {
-    "message": "Bitwarden-də yenisiniz?"
+    "message": "QLine Vaults-də yenisiniz?"
   },
   "setAStrongPassword": {
     "message": "Güclü bir parol təyin et"
@@ -1492,7 +1492,7 @@
     "message": "Giriş et"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Bitwarden-ə giriş et"
+    "message": "QLine Vaults-ə giriş et"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "E-poçtunuza göndərilən kodu daxil edin"
@@ -1650,7 +1650,7 @@
     "message": "Gözlənilməz xəta"
   },
   "closeThisBitwardenWindow": {
-    "message": "Bu Bitwarden pəncərəsini bağlayıb yenidən sınayın."
+    "message": "Bu QLine Vaults pəncərəsini bağlayıb yenidən sınayın."
   },
   "itemInformation": {
     "message": "Element məlumatları"
@@ -1724,7 +1724,7 @@
     "message": "Kimlik doğrulayıcı tətbiqi"
   },
   "authenticatorAppDescV2": {
-    "message": "Bitwarden Authenticator kimi bir kimlik doğrulama tətbiqi tərəfindən yaradılan kodu daxil edin.",
+    "message": "an authenticator app kimi bir kimlik doğrulama tətbiqi tərəfindən yaradılan kodu daxil edin.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Self-hosted mühit"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Öz-özünə sahiblik edən Bitwarden quraşdırmasının təməl URL-sini müəyyənləşdirin. Nümunə: https://bitwarden.company.com"
+    "message": "Öz-özünə sahiblik edən QLine Vaults quraşdırmasının təməl URL-sini müəyyənləşdirin. Nümunə: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Qabaqcıl konfiqurasiya üçün hər xidmətin təməl URL-sini müstəqil olaraq qeyd edə bilərsiniz."
@@ -1872,7 +1872,7 @@
     "message": "Hesabınızın şifrələmə açarını döndərmək istədiyinizə əminsiniz?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Şifrələmə açarını güncəllədikdən sonra, hazırda istifadə etdiyiniz (mobil tətbiq və ya brauzer uzantıları kimi) bütün Bitwarden tətbiqlərində çıxış edib yenidən giriş etməlisiniz. Çıxış edib təkrar giriş etməmək (yeni şifrələmə açarının endirilməsi prosesi) verilərin zədələnməsi ilə nəticələnə bilər. Sizi avtomatik olaraq çıxış etməyə çalışacağıq, ancaq burada gecikmə ola bilər."
+    "message": "Şifrələmə açarını güncəllədikdən sonra, hazırda istifadə etdiyiniz (mobil tətbiq və ya brauzer uzantıları kimi) bütün QLine Vaults tətbiqlərində çıxış edib yenidən giriş etməlisiniz. Çıxış edib təkrar giriş etməmək (yeni şifrələmə açarının endirilməsi prosesi) verilərin zədələnməsi ilə nəticələnə bilər. Sizi avtomatik olaraq çıxış etməyə çalışacağıq, ancaq burada gecikmə ola bilər."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Məhdudiyyətli hesablara aid saxladığınız xaricə köçürmələr yararsız olacaq."
@@ -1968,7 +1968,7 @@
     "message": "Veb tətbiqlə davam edilsin?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Ana parolunuzu Bitwarden veb tətbiqində dəyişdirə bilərsiniz."
+    "message": "Ana parolunuzu QLine Vaults veb tətbiqində dəyişdirə bilərsiniz."
   },
   "fingerprintPhrase": {
     "message": "Barmaq izi ifadəsi",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "İki addımlı giriş, təhlükəsizlik açarı, kimlik doğrulayıcı tətbiq, SMS, telefon zəngi və ya e-poçt kimi digər cihazlarla girişinizi doğrulamanızı tələb edərək hesabınızı daha da güvənli edir. İki addımlı giriş, bitwarden.com veb seyfində qurula bilər. Veb saytı indi ziyarət etmək istəyirsiniz?"
+    "message": "İki addımlı giriş, təhlükəsizlik açarı, kimlik doğrulayıcı tətbiq, SMS, telefon zəngi və ya e-poçt kimi digər cihazlarla girişinizi doğrulamanızı tələb edərək hesabınızı daha da güvənli edir. İki addımlı giriş, vaults.qlineit.uk veb seyfində qurula bilər. Veb saytı indi ziyarət etmək istəyirsiniz?"
   },
   "twoStepLogin": {
     "message": "İki mərhələli giriş"
@@ -2120,19 +2120,19 @@
     "message": "Kopyalanacaq ayrıntı yoxdur"
   },
   "runInBackground": {
-    "message": "Bitwarden-i arxaplanda çalışan halda saxla"
+    "message": "QLine Vaults-i arxaplanda çalışan halda saxla"
   },
   "runInBackgroundDesc": {
-    "message": "Siz pəncərəni bağladığınız zaman, Bitwarden-ə bildiriş sahəsindən erişə bilərsiniz. SSH agent və ya brauzer inteqrasiyası istifadə edilən zaman tövsiyə olunur."
+    "message": "Siz pəncərəni bağladığınız zaman, QLine Vaults-ə bildiriş sahəsindən erişə bilərsiniz. SSH agent və ya brauzer inteqrasiyası istifadə edilən zaman tövsiyə olunur."
   },
   "runInBackgroundDescMac": {
-    "message": "Siz pəncərəni bağladığınız zaman, Bitwarden-ə menyu çubuğundan erişə bilərsiniz. SSH agent və ya brauzer inteqrasiyası istifadə edilən zaman tövsiyə olunur."
+    "message": "Siz pəncərəni bağladığınız zaman, QLine Vaults-ə menyu çubuğundan erişə bilərsiniz. SSH agent və ya brauzer inteqrasiyası istifadə edilən zaman tövsiyə olunur."
   },
   "openAtLogin": {
     "message": "Giriş ediləndə avtomatik başlat"
   },
   "openAtLoginDesc": {
-    "message": "Giriş ediləndə Bitwarden masaüstü tətbiqini avtomatik başlat."
+    "message": "Giriş ediləndə QLine Vaults masaüstü tətbiqini avtomatik başlat."
   },
   "language": {
     "message": "Dil"
@@ -2255,7 +2255,7 @@
     "message": "Üzvlüyü idarə edin"
   },
   "premiumManageAlert": {
-    "message": "Üzvlüyünüzü bitwarden.com veb seyfində idarə edə bilərsiniz. İndi saytı ziyarət etmək istəyirsiniz?"
+    "message": "Üzvlüyünüzü vaults.qlineit.uk veb seyfində idarə edə bilərsiniz. İndi saytı ziyarət etmək istəyirsiniz?"
   },
   "premiumSignUpStorage": {
     "message": "Fayl qoşmaları üçün 1 GB şifrələnmiş depolama sahəsi."
@@ -2264,7 +2264,7 @@
     "message": "Premium satın al"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Bitwarden veb tətbiqindəki hesab ayarlarınızda Premium satın ala bilərsiniz."
+    "message": "QLine Vaults veb tətbiqindəki hesab ayarlarınızda Premium satın ala bilərsiniz."
   },
   "month": {
     "message": "ay"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Bitwarden haqqında"
+    "message": "QLine Vaults haqqında"
   },
   "services": {
     "message": "Xidmətlər"
   },
   "hideBitwarden": {
-    "message": "Bitwarden-i gizlət"
+    "message": "QLine Vaults-i gizlət"
   },
   "hideOthers": {
     "message": "Digərlərini gizlət"
@@ -2501,7 +2501,7 @@
     "message": "Hamısını göstər"
   },
   "quitBitwarden": {
-    "message": "Bitwarden-dən çıx"
+    "message": "QLine Vaults-dən çıx"
   },
   "valueCopied": {
     "message": "$VALUE$ kopyalandı",
@@ -2647,13 +2647,13 @@
     "message": "Bu parol, bu faylı daxilə və xaricə köçürmək üçün istifadə olunacaq"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Xaricə köçürməni şifrələmək və daxilə köçürməni yalnız mövcud Bitwarden hesabı ilə məhdudlaşdırmaq üçün hesabınızın istifadəçi adı və Ana Parolundan əldə edilən hesab şifrələmə açarınızı istifadə edin."
+    "message": "Xaricə köçürməni şifrələmək və daxilə köçürməni yalnız mövcud QLine Vaults hesabı ilə məhdudlaşdırmaq üçün hesabınızın istifadəçi adı və Ana Parolundan əldə edilən hesab şifrələmə açarınızı istifadə edin."
   },
   "passwordProtected": {
     "message": "Parolla qorunan"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Xaricə köçürməni şifrələmək üçün bir fayl parolu təyin edin və şifrəni açma parolunu istifadə edərək bunu istənilən Bitwarden hesabına köçürün."
+    "message": "Xaricə köçürməni şifrələmək üçün bir fayl parolu təyin edin və şifrəni açma parolunu istifadə edərək bunu istənilən QLine Vaults hesabına köçürün."
   },
   "exportTypeHeading": {
     "message": "Xaricə köçürmə növü"
@@ -2684,7 +2684,7 @@
     "message": "Bu xaricə köçürmə, verilərinizi hesabınızın şifrələmə açarını istifadə edərək şifrələyir. Hesabınızın şifrələmə açarını dəyişdirsəniz, bu faylın şifrəsini aça bilməyəcəksiniz və onu yenidən xaricə köçürməli olacaqsınız."
   },
   "encExportAccountWarningDesc": {
-    "message": "Hesab şifrələmə açarları, hər Bitwarden istifadəçi hesabı üçün unikaldır, buna görə də şifrələnmiş bir xaricə köçürməni, fərqli bir hesaba köçürə bilməzsiniz."
+    "message": "Hesab şifrələmə açarları, hər QLine Vaults istifadəçi hesabı üçün unikaldır, buna görə də şifrələnmiş bir xaricə köçürməni, fərqli bir hesaba köçürə bilməzsiniz."
   },
   "noOrganizationsList": {
     "message": "Heç bir təşkilata aid deyilsiniz. Təşkilatlar, elementlərinizi digər istifadəçilərlə güvənli şəkildə paylaşmağınızı təmin edir."
@@ -2714,7 +2714,7 @@
     "message": "Zəif ana parol"
   },
   "weakMasterPasswordDesc": {
-    "message": "Seçdiyiniz ana parol zəifdir. Bitwarden hesabınızı daha yaxşı qorumaq üçün güclü bir ana parol (və ya uzun ifadə) istifadə etməlisiniz. Bu ana parol istifadə etmək istədiyinizə əminsiniz?"
+    "message": "Seçdiyiniz ana parol zəifdir. QLine Vaults hesabınızı daha yaxşı qorumaq üçün güclü bir ana parol (və ya uzun ifadə) istifadə etməlisiniz. Bu ana parol istifadə etmək istədiyinizə əminsiniz?"
   },
   "pin": {
     "message": "PIN",
@@ -2724,7 +2724,7 @@
     "message": "PIN ilə kilidi açın"
   },
   "setYourPinCode": {
-    "message": "Bitwarden-in kilidini açmaq üçün PIN kod ayarlayın. Hər tətbiqdən tam çıxış edəndə PIN ayarlarınız sıfırlanacaq."
+    "message": "QLine Vaults-in kilidini açmaq üçün PIN kod ayarlayın. Hər tətbiqdən tam çıxış edəndə PIN ayarlarınız sıfırlanacaq."
   },
   "pinRequired": {
     "message": "PIN kod lazımdır."
@@ -2742,7 +2742,7 @@
     "message": "Sistem kimlik doğrulaması ilə kilidi aç"
   },
   "windowsHelloConsentMessage": {
-    "message": "Bitwarden üçün doğrula."
+    "message": "QLine Vaults üçün doğrula."
   },
   "unlockWithTouchId": {
     "message": "Touch ID kilidini aç"
@@ -2978,10 +2978,10 @@
     "message": "2 addımlı doğrulamanı problemsiz edin"
   },
   "totpHelper": {
-    "message": "Bitwarden, 2 addımlı doğrulama kodlarını saxlaya və doldura bilər. Açarı kopyalayıb bu xanaya yapışdırın."
+    "message": "QLine Vaults, 2 addımlı doğrulama kodlarını saxlaya və doldura bilər. Açarı kopyalayıb bu xanaya yapışdırın."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden, 2 addımlı doğrulama kodlarını saxlaya və doldura bilər. Bu veb saytdakı kimlik doğrulayıcı QR kodunun ekran şəklini çəkmək üçün kamera ikonunu seçin, ya da açarı kopyalayıb bu xanaya yapışdırın."
+    "message": "QLine Vaults, 2 addımlı doğrulama kodlarını saxlaya və doldura bilər. Bu veb saytdakı kimlik doğrulayıcı QR kodunun ekran şəklini çəkmək üçün kamera ikonunu seçin, ya da açarı kopyalayıb bu xanaya yapışdırın."
   },
   "premium": {
     "message": "Premium",
@@ -3067,7 +3067,7 @@
     "message": "Bir və ya daha çox təşkilat siyasəti, aşağıdakı tələbləri qarşılamaq üçün ana parolu tələb edir:"
   },
   "receiveMarketingEmails": {
-    "message": "Bitwarden yenilikləri barədə məktub alın."
+    "message": "QLine Vaults yenilikləri barədə məktub alın."
   },
   "unsubscribe": {
     "message": "Abunəlikdən çıx"
@@ -3091,7 +3091,7 @@
     "message": "DuckDuckGo brauzer inteqrasiyasına icazə ver"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "DuckDuckGo ilə gəzinərkən Bitwarden seyfinizi istifadə edin."
+    "message": "DuckDuckGo ilə gəzinərkən QLine Vaults seyfinizi istifadə edin."
   },
   "enableHardwareAcceleration": {
     "message": "Donanım sürətləndirməsini istifadə et"
@@ -3103,7 +3103,7 @@
     "message": "Təsdiqlə"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$, Bitwarden ilə bağlantı qurmaq istəyir",
+    "message": "$APPID$, QLine Vaults ilə bağlantı qurmaq istəyir",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwarden tərəfindən yaradılıb.",
+    "message": "QLine Vaults tərəfindən yaradılıb.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Veb sayt: $WEBSITE$. Bitwarden tərəfindən yaradılıb.",
+    "message": "Veb sayt: $WEBSITE$. QLine Vaults tərəfindən yaradılıb.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "Cihazınıza bir bildiriş göndərildi"
   },
   "notificationSentDevicePart1": {
-    "message": "Cihazınızda Bitwarden kilidini açın, ya da "
+    "message": "Cihazınızda QLine Vaults kilidini açın, ya da "
   },
   "notificationSentDeviceAnchor": {
     "message": "veb tətbiqinizdə"
@@ -4000,7 +4000,7 @@
     "message": "Tələbiniz təsdiqləndikdə məlumatlandırılacaqsınız"
   },
   "needAnotherOption": {
-    "message": "Cihazla giriş etmə, Bitwarden tətbiqinin ayarlarında qurulmalıdır. Başqa bir seçimə ehtiyacınız var?"
+    "message": "Cihazla giriş etmə, QLine Vaults tətbiqinin ayarlarında qurulmalıdır. Başqa bir seçimə ehtiyacınız var?"
   },
   "viewAllLogInOptions": {
     "message": "Bütün giriş seçimlərinə bax"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden, kilidi ilk açanda ana parolunuzu (və ya PIN-inizi) tələb edəcək biometrik ayarları güncəlləməyi tövsiyə edir. Ayarlarınızı indi güncəlləmək istəyirsiniz?"
+    "message": "QLine Vaults, kilidi ilk açanda ana parolunuzu (və ya PIN-inizi) tələb edəcək biometrik ayarları güncəlləməyi tövsiyə edir. Ayarlarınızı indi güncəlləmək istəyirsiniz?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Tövsiyə edilən Ayarlar Güncəlləməsi"
@@ -4265,7 +4265,7 @@
     "message": "Cihaz nədir?"
   },
   "aDeviceIs": {
-    "message": "Cihaz, giriş etdiyiniz Bitwarden tətbiqinin unikal quraşdırmasıdır. Yenidən quraşdırılması, tətbiq verilərinin təmizlənməsi və ya çərəzlərin təmizlənməsi, cihazın bir neçə dəfə görünməsinə səbəb ola bilər."
+    "message": "Cihaz, giriş etdiyiniz QLine Vaults tətbiqinin unikal quraşdırmasıdır. Yenidən quraşdırılması, tətbiq verilərinin təmizlənməsi və ya çərəzlərin təmizlənməsi, cihazın bir neçə dəfə görünməsinə səbəb ola bilər."
   },
   "deviceListDescriptionTemp": {
     "message": "Aşağıdakı cihazların hər birində hesabınıza giriş edilib."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "Bitwarden-ə yüklə.",
+    "message": "QLine Vaults-ə yüklə.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI uyuşma aşkarlaması, Bitwarden-in avto-doldurma təkliflərini necə müəyyən etdiyini göstərir.",
+    "message": "URI uyuşma aşkarlaması, QLine Vaults-in avto-doldurma təkliflərini necə müəyyən etdiyini göstərir.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Diaqnostika hesabatını endirib paylaşın"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden dəstək",
+    "message": "QLine Vaults dəstək",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "Yanlış konfiqurasiya edilmiş sistem fayllarına görə biometrik kilid açma əlçatmazdır."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "Bitwarden masaüstü tətbiqində $EMAIL$ üçün fəal olmadığına görə biometrik kilid açma əlçatmazdır.",
+    "message": "QLine Vaults masaüstü tətbiqində $EMAIL$ üçün fəal olmadığına görə biometrik kilid açma əlçatmazdır.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "İki addımlı girişi qur"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden, 2025-ci ilin Fevral ayından etibarən yeni cihazlardan gələn girişləri doğrulamaq üçün hesabınızın e-poçtuna bir kod göndərəcək."
+    "message": "QLine Vaults, 2025-ci ilin Fevral ayından etibarən yeni cihazlardan gələn girişləri doğrulamaq üçün hesabınızın e-poçtuna bir kod göndərəcək."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "Hesabınızı qorumaq üçün alternativ bir yol kimi iki addımlı girişi qura və ya e-poçtunuzu erişə biləcəyiniz bir e-poçtla dəyişdirə bilərsiniz."
@@ -5541,7 +5541,7 @@
     "message": "Ekranı çəkməyə icazə ver"
   },
   "allowScreenshotsDesc": {
-    "message": "Bitwarden masaüstü tətbiqinin ekran şəkillərində yaxalanmasına və uzaq masaüstü sessiyalarında nümayiş etdirilməsinə icazə verin. Bunu sıradan çıxartsanız, bəzi xarici ekranlarda erişim əngəllənəcək."
+    "message": "QLine Vaults masaüstü tətbiqinin ekran şəkillərində yaxalanmasına və uzaq masaüstü sessiyalarında nümayiş etdirilməsinə icazə verin. Bunu sıradan çıxartsanız, bəzi xarici ekranlarda erişim əngəllənəcək."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Pəncərənin hələ də göründüyünü təsdiqlə"
@@ -5687,7 +5687,7 @@
     "message": "Bu ayar barədə"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden, təcrübənizi təkmilləşdirmək üçün hansı ikonun və ya parol dəyişdirmə URL-sinin istifadə olunmalı olduğunu müəyyənləşdirmək məqsədilə saxlanılmış giriş URL-lərini istifadə edəcək. Bu xidməti istifadə etdiyiniz zaman heç bir məlumat yığılmır və ya saxlanılmır."
+    "message": "QLine Vaults, təcrübənizi təkmilləşdirmək üçün hansı ikonun və ya parol dəyişdirmə URL-sinin istifadə olunmalı olduğunu müəyyənləşdirmək məqsədilə saxlanılmış giriş URL-lərini istifadə edəcək. Bu xidməti istifadə etdiyiniz zaman heç bir məlumat yığılmır və ya saxlanılmır."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "İstifadəçi adınızı, parolunuzu və ya doğrulama kodunuzu lövhəyə kopyalamaq üçün elementlərin yanına 3 cəld kopyalama düyməsi əlavə edin."
@@ -5927,7 +5927,7 @@
     "message": "Daha az göstər"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden, giriş yerlərini doğrulamır, qısayolu istifadə etməzdən əvvəl doğru pəncərədə və xanada olduğunuza əmin olun."
+    "message": "QLine Vaults, giriş yerlərini doğrulamır, qısayolu istifadə etməzdən əvvəl doğru pəncərədə və xanada olduğunuza əmin olun."
   },
   "typeShortcut": {
     "message": "Yazma qısayolu"
@@ -6080,7 +6080,7 @@
     "message": "\"Premium\"a yüksəlt"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Təşkilatınız, artıq Bitwarden-ə giriş etmək üçün ana parol istifadə etmir. Davam etmək üçün təşkilatı və domeni doğrulayın."
+    "message": "Təşkilatınız, artıq QLine Vaults-ə giriş etmək üçün ana parol istifadə etmir. Davam etmək üçün təşkilatı və domeni doğrulayın."
   },
   "continueWithLogIn": {
     "message": "Giriş etməyə davam"
@@ -6329,10 +6329,10 @@
     "message": "Birdən çox e-poçtu daxil edərkən vergül istifadə edin."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "$LABEL$ - yenidən sırala. Ox düyməsi ilə elementi yuxarı və ya aşağı daşıyın.",

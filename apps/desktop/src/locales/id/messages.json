@@ -1,9 +1,9 @@
 {
   "bitwarden": {
-    "message": "Bitwarden"
+    "message": "QLine Vaults"
   },
   "bitwardenBeta": {
-    "message": "Bitwarden Beta",
+    "message": "QLine Vaults Beta",
     "description": "Product name for the beta channel; shown in the tray tooltip and About dialog"
   },
   "filters": {
@@ -748,10 +748,10 @@
     "message": "Aktifkan agen SSH"
   },
   "enableSshAgentDesc": {
-    "message": "Aktifkan agen SSH untuk menandatangani permintaan SSH langsung dari brankas Bitwarden Anda."
+    "message": "Aktifkan agen SSH untuk menandatangani permintaan SSH langsung dari brankas QLine Vaults Anda."
   },
   "enableSshAgentHelp": {
-    "message": "Agen SSH adalah layanan yang ditujukan untuk pengembang yang memungkinkan Anda menandatangani permintaan SSH langsung dari brankas Bitwarden Anda."
+    "message": "Agen SSH adalah layanan yang ditujukan untuk pengembang yang memungkinkan Anda menandatangani permintaan SSH langsung dari brankas QLine Vaults Anda."
   },
   "sshAgentPromptBehavior": {
     "message": "Minta otorisasi saat menggunakan agen SSH"
@@ -781,7 +781,7 @@
     "message": "Sinkronkan dengan peramban"
   },
   "acquireCookieSpeedbumpContent": {
-    "message": "Untuk terhubung ke $VAULTURL$, Anda perlu menyinkronkan peramban default Anda dengan aplikasi Bitwarden. Anda akan dialihkan kembali ke aplikasi ini setelah peramban Anda disinkronkan.",
+    "message": "Untuk terhubung ke $VAULTURL$, Anda perlu menyinkronkan peramban default Anda dengan aplikasi QLine Vaults. Anda akan dialihkan kembali ke aplikasi ini setelah peramban Anda disinkronkan.",
     "description": "A speedbump message (dialog) shown when the user needs to sync with the browser to acquire an SSO cookie.",
     "placeholders": {
       "vaultUrl": {
@@ -803,7 +803,7 @@
     "message": "Kesalahan dekripsi"
   },
   "couldNotDecryptVaultItemsBelow": {
-    "message": "Bitwarden tidak dapat mendekripsi item brankas yang tercantum di bawah."
+    "message": "QLine Vaults tidak dapat mendekripsi item brankas yang tercantum di bawah."
   },
   "contactCSToAvoidDataLossPart1": {
     "message": "Hubungi customer success",
@@ -1480,7 +1480,7 @@
     "message": "Buat Akun"
   },
   "newToBitwarden": {
-    "message": "Baru di Bitwarden?"
+    "message": "Baru di QLine Vaults?"
   },
   "setAStrongPassword": {
     "message": "Tetapkan kata sandi yang kuat"
@@ -1492,7 +1492,7 @@
     "message": "Masuk"
   },
   "loginPageEmailEntryScreenTitle": {
-    "message": "Masuk ke Bitwarden"
+    "message": "Masuk ke QLine Vaults"
   },
   "enterTheCodeSentToYourEmail": {
     "message": "Masukkan kode yang dikirim ke email Anda"
@@ -1650,7 +1650,7 @@
     "message": "Kesalahan tak terduga"
   },
   "closeThisBitwardenWindow": {
-    "message": "Tutup jendela Bitwarden ini dan coba lagi."
+    "message": "Tutup jendela QLine Vaults ini dan coba lagi."
   },
   "itemInformation": {
     "message": "Informasi Item"
@@ -1724,7 +1724,7 @@
     "message": "Aplikasi Autentikasi"
   },
   "authenticatorAppDescV2": {
-    "message": "Masukkan kode yang dihasilkan oleh aplikasi autentikator seperti Bitwarden Authenticator.",
+    "message": "Masukkan kode yang dihasilkan oleh aplikasi autentikator seperti an authenticator app.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1781,7 +1781,7 @@
     "message": "Lingkungan Hos-mandiri"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Tentukan URL dasar instalasi Bitwarden yang dihosting secara lokal. Contoh: https://bitwarden.company.com"
+    "message": "Tentukan URL dasar instalasi QLine Vaults yang dihosting secara lokal. Contoh: https://vaults.qlineit.ukpany.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Untuk konfigurasi lanjutan, Anda dapat menentukan URL dasar setiap layanan secara independen."
@@ -1872,7 +1872,7 @@
     "message": "Apakah Anda yakin ingin memutar kunci enkripsi akun Anda?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Setelah memperbarui kunci enkripsi Anda, Anda diharuskan untuk keluar dan masuk kembali ke semua aplikasi Bitwarden yang sedang Anda gunakan (seperti aplikasi seluler atau ekstensi peramban). Gagal keluar dan masuk kembali (yang mengunduh kunci enkripsi baru Anda) dapat mengakibatkan kerusakan data. Kami akan mencoba mengeluarkan Anda secara otomatis, namun mungkin tertunda."
+    "message": "Setelah memperbarui kunci enkripsi Anda, Anda diharuskan untuk keluar dan masuk kembali ke semua aplikasi QLine Vaults yang sedang Anda gunakan (seperti aplikasi seluler atau ekstensi peramban). Gagal keluar dan masuk kembali (yang mengunduh kunci enkripsi baru Anda) dapat mengakibatkan kerusakan data. Kami akan mencoba mengeluarkan Anda secara otomatis, namun mungkin tertunda."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Setiap ekspor terbatas akun yang Anda simpan akan menjadi tidak valid."
@@ -1968,7 +1968,7 @@
     "message": "Lanjutkan ke aplikasi web?"
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Anda bisa mengganti kata sandi utama Anda di aplikasi web Bitwarden."
+    "message": "Anda bisa mengganti kata sandi utama Anda di aplikasi web QLine Vaults."
   },
   "fingerprintPhrase": {
     "message": "Frase Fingerprint",
@@ -2037,7 +2037,7 @@
     }
   },
   "twoStepLoginConfirmation": {
-    "message": "Info masuk dua langkah membuat akun Anda lebih aman dengan mengharuskan Anda memverifikasi info masuk Anda dengan peranti lain seperti kode keamanan, aplikasi autentikasi, SMS, panggilan telepon, atau email. Info masuk dua langkah dapat diaktifkan di brankas web bitwarden.com. Anda ingin mengunjungi situs web sekarang?"
+    "message": "Info masuk dua langkah membuat akun Anda lebih aman dengan mengharuskan Anda memverifikasi info masuk Anda dengan peranti lain seperti kode keamanan, aplikasi autentikasi, SMS, panggilan telepon, atau email. Info masuk dua langkah dapat diaktifkan di brankas web vaults.qlineit.uk. Anda ingin mengunjungi situs web sekarang?"
   },
   "twoStepLogin": {
     "message": "Info masuk dua langkah"
@@ -2120,19 +2120,19 @@
     "message": "Tidak ada detail untuk disalin"
   },
   "runInBackground": {
-    "message": "Jalankan Bitwarden di latar belakang"
+    "message": "Jalankan QLine Vaults di latar belakang"
   },
   "runInBackgroundDesc": {
-    "message": "Saat Anda menutup jendela, Bitwarden dapat diakses dari baki. Direkomendasikan saat menggunakan agen SSH atau integrasi peramban."
+    "message": "Saat Anda menutup jendela, QLine Vaults dapat diakses dari baki. Direkomendasikan saat menggunakan agen SSH atau integrasi peramban."
   },
   "runInBackgroundDescMac": {
-    "message": "Saat Anda menutup jendela, Bitwarden dapat diakses dari bilah menu. Direkomendasikan saat menggunakan agen SSH atau integrasi peramban."
+    "message": "Saat Anda menutup jendela, QLine Vaults dapat diakses dari bilah menu. Direkomendasikan saat menggunakan agen SSH atau integrasi peramban."
   },
   "openAtLogin": {
     "message": "Mulai secara otomatis saat login"
   },
   "openAtLoginDesc": {
-    "message": "Jalankan aplikasi Bitwarden Desktop secara otomatis saat login."
+    "message": "Jalankan aplikasi QLine Vaults Desktop secara otomatis saat login."
   },
   "language": {
     "message": "Bahasa"
@@ -2174,7 +2174,7 @@
     "message": "Mulai ulang untuk Perbarui"
   },
   "restartToUpdateDesc": {
-    "message": "Version $VERSION_NUM$ is ready to install. You must restart Bitwarden to complete the installation. Do you want to restart and update now?",
+    "message": "Version $VERSION_NUM$ is ready to install. You must restart QLine Vaults to complete the installation. Do you want to restart and update now?",
     "placeholders": {
       "version_num": {
         "content": "$1",
@@ -2255,7 +2255,7 @@
     "message": "Kelola Keanggotaan"
   },
   "premiumManageAlert": {
-    "message": "Anda dapat mengelola keanggotaan anda di Brankas Web bitwarden.com. Apakah anda ingin mengunjungi situs web itu sekarang?"
+    "message": "Anda dapat mengelola keanggotaan anda di Brankas Web vaults.qlineit.uk. Apakah anda ingin mengunjungi situs web itu sekarang?"
   },
   "premiumSignUpStorage": {
     "message": "1 GB penyimpanan berkas yang dienkripsi."
@@ -2264,7 +2264,7 @@
     "message": "Beli Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Anda dapat membeli Premium dari pengaturan akun Anda di aplikasi web Bitwarden."
+    "message": "Anda dapat membeli Premium dari pengaturan akun Anda di aplikasi web QLine Vaults."
   },
   "month": {
     "message": "bulan"
@@ -2486,13 +2486,13 @@
     "description": "Bring all windows to front (foreground)"
   },
   "aboutBitwarden": {
-    "message": "Tentang Bitwarden"
+    "message": "Tentang QLine Vaults"
   },
   "services": {
     "message": "Layanan"
   },
   "hideBitwarden": {
-    "message": "Sembunyikan Bitwarden"
+    "message": "Sembunyikan QLine Vaults"
   },
   "hideOthers": {
     "message": "Sembunyikan Lainnya"
@@ -2501,7 +2501,7 @@
     "message": "Tampilkan Semua"
   },
   "quitBitwarden": {
-    "message": "Keluar dari Bitwarden"
+    "message": "Keluar dari QLine Vaults"
   },
   "valueCopied": {
     "message": "$VALUE$ disalin",
@@ -2647,13 +2647,13 @@
     "message": "Kata sandi ini akan digunakan untuk mengekspor dan mengimpor file ini"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Gunakan kunci enkripsi akun Anda, yang berasal dari nama pengguna dan Kata Sandi Utama akun Anda, untuk mengenkripsi ekspor dan membatasi impor hanya untuk akun Bitwarden saat ini."
+    "message": "Gunakan kunci enkripsi akun Anda, yang berasal dari nama pengguna dan Kata Sandi Utama akun Anda, untuk mengenkripsi ekspor dan membatasi impor hanya untuk akun QLine Vaults saat ini."
   },
   "passwordProtected": {
     "message": "Dilindungi kata sandi"
   },
   "passwordProtectedOptionDescription": {
-    "message": "Tetapkan kata sandi file untuk mengenkripsi ekspor dan mengimpornya ke akun Bitwarden mana pun menggunakan kata sandi untuk dekripsi."
+    "message": "Tetapkan kata sandi file untuk mengenkripsi ekspor dan mengimpornya ke akun QLine Vaults mana pun menggunakan kata sandi untuk dekripsi."
   },
   "exportTypeHeading": {
     "message": "Jenis ekspor"
@@ -2684,7 +2684,7 @@
     "message": "Ekspor ini mengenkripsi data Anda menggunakan kunci enkripsi akun Anda. Jika Anda pernah merotasi kunci enkripsi akun Anda, Anda harus mengekspor lagi karena Anda tidak akan dapat mendekripsi file ekspor ini."
   },
   "encExportAccountWarningDesc": {
-    "message": "Kunci enkripsi akun unik untuk setiap akun pengguna Bitwarden, jadi Anda tidak dapat mengimpor ekspor terenkripsi ke akun lain."
+    "message": "Kunci enkripsi akun unik untuk setiap akun pengguna QLine Vaults, jadi Anda tidak dapat mengimpor ekspor terenkripsi ke akun lain."
   },
   "noOrganizationsList": {
     "message": "Anda tidak berada dalam organisasi apapun. Organisasi memungkinkan Anda dengan aman berbagi item dengan pengguna lainnya."
@@ -2714,7 +2714,7 @@
     "message": "Kata Sandi Utama Lemah"
   },
   "weakMasterPasswordDesc": {
-    "message": "Sandi utama yang Anda pilih itu lemah. Anda harus menggunakan sandi yang kuat (atau sebuah passphrase) untuk melindungi akun Bitwarden Anda. Apakah Anda yakin ingin menggunakan sandi ini?"
+    "message": "Sandi utama yang Anda pilih itu lemah. Anda harus menggunakan sandi yang kuat (atau sebuah passphrase) untuk melindungi akun QLine Vaults Anda. Apakah Anda yakin ingin menggunakan sandi ini?"
   },
   "pin": {
     "message": "PIN",
@@ -2724,7 +2724,7 @@
     "message": "Buka kunci dengan PIN"
   },
   "setYourPinCode": {
-    "message": "Setel kode PIN Anda untuk membuka kunci Bitwarden. Pengaturan PIN Anda akan diatur ulang jika Anda pernah keluar secara menyeluruh dari aplikasi."
+    "message": "Setel kode PIN Anda untuk membuka kunci QLine Vaults. Pengaturan PIN Anda akan diatur ulang jika Anda pernah keluar secara menyeluruh dari aplikasi."
   },
   "pinRequired": {
     "message": "Diperlukan kode PIN."
@@ -2742,7 +2742,7 @@
     "message": "Buka kunci dengan autentikasi sistem"
   },
   "windowsHelloConsentMessage": {
-    "message": "Verifikasi untuk Bitwarden."
+    "message": "Verifikasi untuk QLine Vaults."
   },
   "unlockWithTouchId": {
     "message": "Buka kunci dengan Touch ID"
@@ -2751,7 +2751,7 @@
     "message": "Pengaturan Touch ID tambahan"
   },
   "touchIdConsentMessage": {
-    "message": "Verifikasi untuk Bitwarden."
+    "message": "Verifikasi untuk QLine Vaults."
   },
   "autoPromptTouchId": {
     "message": "Minta Touch ID saat diluncurkan"
@@ -2978,10 +2978,10 @@
     "message": "Buat verifikasi 2 langkah menjadi mulus"
   },
   "totpHelper": {
-    "message": "Bitwarden dapat menyimpan dan mengisi kode verifikasi 2 langkah. Salin dan tempel kunci ke bidang ini."
+    "message": "QLine Vaults dapat menyimpan dan mengisi kode verifikasi 2 langkah. Salin dan tempel kunci ke bidang ini."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden dapat menyimpan dan mengisi kode verifikasi 2 langkah. Pilih ikon kamera untuk mengambil tangkapan layar kode QR autentikator situs web ini, atau salin dan tempel kunci ke bidang ini."
+    "message": "QLine Vaults dapat menyimpan dan mengisi kode verifikasi 2 langkah. Pilih ikon kamera untuk mengambil tangkapan layar kode QR autentikator situs web ini, atau salin dan tempel kunci ke bidang ini."
   },
   "premium": {
     "message": "Premium",
@@ -3067,7 +3067,7 @@
     "message": "Satu atau lebih kebijakan organisasi mengharuskan kata sandi utama memenuhi persyaratan berikut:"
   },
   "receiveMarketingEmails": {
-    "message": "Terima pembaruan dari Bitwarden di kotak masuk Anda."
+    "message": "Terima pembaruan dari QLine Vaults di kotak masuk Anda."
   },
   "unsubscribe": {
     "message": "Berhenti berlangganan"
@@ -3091,7 +3091,7 @@
     "message": "Izinkan integrasi browser DuckDuckGo"
   },
   "enableDuckDuckGoBrowserIntegrationDesc": {
-    "message": "Gunakan brankas Bitwarden Anda saat menjelajah dengan DuckDuckGo."
+    "message": "Gunakan brankas QLine Vaults Anda saat menjelajah dengan DuckDuckGo."
   },
   "enableHardwareAcceleration": {
     "message": "Gunakan akselerasi perangkat keras"
@@ -3103,7 +3103,7 @@
     "message": "Menyetujui"
   },
   "verifyNativeMessagingConnectionTitle": {
-    "message": "$APPID$ ingin menyambungkan ke Bitwarden",
+    "message": "$APPID$ ingin menyambungkan ke QLine Vaults",
     "placeholders": {
       "appid": {
         "content": "$1",
@@ -3803,11 +3803,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Dihasilkan oleh Bitwarden.",
+    "message": "Dihasilkan oleh QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Situs web: $WEBSITE$. Dihasilkan oleh Bitwarden.",
+    "message": "Situs web: $WEBSITE$. Dihasilkan oleh QLine Vaults.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -3979,7 +3979,7 @@
     "message": "Notifikasi dikirim ke perangkat Anda"
   },
   "notificationSentDevicePart1": {
-    "message": "Buka kunci Bitwarden di perangkat Anda atau di "
+    "message": "Buka kunci QLine Vaults di perangkat Anda atau di "
   },
   "notificationSentDeviceAnchor": {
     "message": "aplikasi web"
@@ -4000,7 +4000,7 @@
     "message": "Anda akan diberi tahu setelah permintaan disetujui"
   },
   "needAnotherOption": {
-    "message": "Masuk dengan perangkat harus diatur dalam pengaturan aplikasi Bitwarden. Perlu opsi lain?"
+    "message": "Masuk dengan perangkat harus diatur dalam pengaturan aplikasi QLine Vaults. Perlu opsi lain?"
   },
   "viewAllLogInOptions": {
     "message": "Lihat semua opsi masuk"
@@ -4180,7 +4180,7 @@
     }
   },
   "windowsBiometricUpdateWarning": {
-    "message": "Bitwarden merekomendasikan untuk memperbarui pengaturan biometrik Anda untuk memerlukan kata sandi utama (atau PIN) pada buka kunci pertama. Apakah Anda ingin memperbarui pengaturan Anda sekarang?"
+    "message": "QLine Vaults merekomendasikan untuk memperbarui pengaturan biometrik Anda untuk memerlukan kata sandi utama (atau PIN) pada buka kunci pertama. Apakah Anda ingin memperbarui pengaturan Anda sekarang?"
   },
   "windowsBiometricUpdateWarningTitle": {
     "message": "Pembaruan Pengaturan yang Direkomendasikan"
@@ -4265,7 +4265,7 @@
     "message": "Apa itu perangkat?"
   },
   "aDeviceIs": {
-    "message": "Perangkat adalah instalasi unik dari aplikasi Bitwarden tempat Anda masuk. Menginstal ulang, menghapus data aplikasi, atau menghapus cookie Anda dapat mengakibatkan perangkat muncul beberapa kali."
+    "message": "Perangkat adalah instalasi unik dari aplikasi QLine Vaults tempat Anda masuk. Menginstal ulang, menghapus data aplikasi, atau menghapus cookie Anda dapat mengakibatkan perangkat muncul beberapa kali."
   },
   "deviceListDescriptionTemp": {
     "message": "Akun Anda masuk ke setiap perangkat di bawah ini."
@@ -4834,7 +4834,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to QLine Vaults.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5238,7 +5238,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Deteksi kecocokan URI adalah cara Bitwarden mengidentifikasi saran isi otomatis.",
+    "message": "Deteksi kecocokan URI adalah cara QLine Vaults mengidentifikasi saran isi otomatis.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -5277,7 +5277,7 @@
     "message": "Unduh lalu bagikan laporan diagnostik dengan"
   },
   "bitwardenSupport": {
-    "message": "Dukungan Bitwarden",
+    "message": "Dukungan QLine Vaults",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -5377,7 +5377,7 @@
     "message": "Buka kunci biometrik tidak tersedia karena file sistem yang salah konfigurasi."
   },
   "biometricsStatusHelptextNotEnabledLocally": {
-    "message": "Buka kunci biometrik tidak tersedia karena tidak diaktifkan untuk $EMAIL$ di aplikasi desktop Bitwarden.",
+    "message": "Buka kunci biometrik tidak tersedia karena tidak diaktifkan untuk $EMAIL$ di aplikasi desktop QLine Vaults.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -5464,7 +5464,7 @@
     "message": "Atur login dua langkah"
   },
   "newDeviceVerificationNoticeContentPage1": {
-    "message": "Bitwarden akan mengirimkan kode ke email akun Anda untuk memverifikasi login dari perangkat baru mulai Februari 2025."
+    "message": "QLine Vaults akan mengirimkan kode ke email akun Anda untuk memverifikasi login dari perangkat baru mulai Februari 2025."
   },
   "newDeviceVerificationNoticeContentPage2": {
     "message": "Anda dapat mengatur login dua langkah sebagai cara alternatif untuk melindungi akun Anda atau mengubah email Anda ke yang dapat Anda akses."
@@ -5541,7 +5541,7 @@
     "message": "Izinkan tangkapan layar"
   },
   "allowScreenshotsDesc": {
-    "message": "Izinkan aplikasi desktop Bitwarden untuk ditangkap dalam tangkapan layar dan dilihat dalam sesi desktop jarak jauh. Menonaktifkan ini akan mencegah akses pada beberapa tampilan eksternal."
+    "message": "Izinkan aplikasi desktop QLine Vaults untuk ditangkap dalam tangkapan layar dan dilihat dalam sesi desktop jarak jauh. Menonaktifkan ini akan mencegah akses pada beberapa tampilan eksternal."
   },
   "confirmWindowStillVisibleTitle": {
     "message": "Konfirmasi jendela masih terlihat"
@@ -5687,7 +5687,7 @@
     "message": "Tentang pengaturan ini"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden akan menggunakan URI login yang disimpan untuk mengidentifikasi ikon mana atau URL ubah kata sandi yang harus digunakan untuk meningkatkan pengalaman Anda. Tidak ada informasi yang dikumpulkan atau disimpan saat Anda menggunakan layanan ini."
+    "message": "QLine Vaults akan menggunakan URI login yang disimpan untuk mengidentifikasi ikon mana atau URL ubah kata sandi yang harus digunakan untuk meningkatkan pengalaman Anda. Tidak ada informasi yang dikumpulkan atau disimpan saat Anda menggunakan layanan ini."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Tambahkan 3 tombol salin cepat di samping item untuk menyalin nama pengguna, kata sandi, atau kode verifikasi ke clipboard."
@@ -5927,7 +5927,7 @@
     "message": "Tampilkan lebih sedikit"
   },
   "enableAutotypeDescription": {
-    "message": "Bitwarden tidak memvalidasi lokasi input, pastikan Anda berada di jendela dan bidang yang tepat sebelum menggunakan pintasan."
+    "message": "QLine Vaults tidak memvalidasi lokasi input, pastikan Anda berada di jendela dan bidang yang tepat sebelum menggunakan pintasan."
   },
   "typeShortcut": {
     "message": "Ketik pintasan"
@@ -6080,7 +6080,7 @@
     "message": "Tingkatkan ke Premium"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Organisasi Anda tidak lagi menggunakan kata sandi utama untuk masuk ke Bitwarden. Untuk melanjutkan, verifikasi organisasi dan domain."
+    "message": "Organisasi Anda tidak lagi menggunakan kata sandi utama untuk masuk ke QLine Vaults. Untuk melanjutkan, verifikasi organisasi dan domain."
   },
   "continueWithLogIn": {
     "message": "Lanjutkan dengan masuk"
@@ -6329,10 +6329,10 @@
     "message": "Masukkan beberapa email dengan memisahkan dengan koma."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@vaults.qlineit.uk , user@acme.com"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@vaults.qlineit.uk, user@acme.com"
   },
   "reorderToggleButton": {
     "message": "Urutkan ulang $LABEL$. Gunakan tombol panah untuk memindahkan item ke atas atau bawah.",

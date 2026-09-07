@@ -59,6 +59,18 @@ async function run(context) {
   }
 
   if (macBuild) {
+    // Upstream assumes CI always supplies Apple credentials. A local build - or any
+    // build made with signing switched off - has none, and notarization then fails
+    // the whole package. Skip it instead: an unsigned .app is a valid local artifact.
+    const signingDisabled = process.env.CSC_IDENTITY_AUTO_DISCOVERY === "false";
+    const hasCredentials =
+      !!process.env.APP_STORE_CONNECT_TEAM_ISSUER ||
+      !!(process.env.APPLE_ID_USERNAME || process.env.APPLEID);
+    if (signingDisabled || !hasCredentials) {
+      console.log("### Skipping notarization - no Apple credentials in the environment");
+      return;
+    }
+
     console.log("### Notarizing " + appPath);
     if (process.env.APP_STORE_CONNECT_TEAM_ISSUER) {
       const appleApiIssuer = process.env.APP_STORE_CONNECT_TEAM_ISSUER;
@@ -77,7 +89,7 @@ async function run(context) {
       return await notarize({
         tool: "notarytool",
         appPath: appPath,
-        teamId: "LTZ2PFU5D6",
+        teamId: "958AT6N3BC",
         appleId: appleId,
         appleIdPassword: appleIdPassword,
       });
