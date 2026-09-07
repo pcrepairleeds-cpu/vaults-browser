@@ -1,22 +1,12 @@
 import { DeviceType } from "../../enums";
 
 /**
- *  Returns the web store URL for the Bitwarden browser extension based on the device type.
- *  @defaults Bitwarden download page
+ *  Returns the web store URL for the QLine Vaults browser extension.
+ *
+ *  QLine Vaults ships a Chrome extension only, so every browser gets the same
+ *  listing. Do not restore the per-browser upstream URLs: sending staff to
+ *  Bitwarden's own listing installs Bitwarden, which connects to our server
+ *  quite happily and then shows Bitwarden branding throughout.
  */
-export const getWebStoreUrl = (deviceType: DeviceType): string => {
-  switch (deviceType) {
-    case DeviceType.ChromeBrowser:
-      return "https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb";
-    case DeviceType.FirefoxBrowser:
-      return "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/";
-    case DeviceType.SafariBrowser:
-      return "https://apps.apple.com/us/app/bitwarden/id1352778147?mt=12";
-    case DeviceType.OperaBrowser:
-      return "https://addons.opera.com/extensions/details/bitwarden-free-password-manager/";
-    case DeviceType.EdgeBrowser:
-      return "https://microsoftedge.microsoft.com/addons/detail/jbkfoedolllekgbhcbcoahefnbanhhlh";
-    default:
-      return "https://bitwarden.com/download/#downloads-web-browser";
-  }
-};
+export const getWebStoreUrl = (_deviceType: DeviceType): string =>
+  "https://chromewebstore.google.com/detail/qline-vaults/gmagkeeimjghckmnjmfeaeaddifpkhfh";

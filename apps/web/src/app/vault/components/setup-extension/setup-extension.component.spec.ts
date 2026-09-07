@@ -64,7 +64,9 @@ describe("SetupExtensionComponent", () => {
   });
 
   it("sets webStoreUrl", () => {
-    expect(component["webStoreUrl"]).toBe("https://bitwarden.com/download/#downloads-web-browser");
+    expect(component["webStoreUrl"]).toBe(
+      "https://chromewebstore.google.com/detail/qline-vaults/gmagkeeimjghckmnjmfeaeaddifpkhfh",
+    );
   });
 
   describe("initialization", () => {

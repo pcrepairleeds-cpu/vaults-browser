@@ -4,6 +4,7 @@ import { map } from "rxjs";
 
 import { DeviceType } from "@bitwarden/common/enums";
 import { PlatformUtilsService } from "@bitwarden/common/platform/abstractions/platform-utils.service";
+import { getWebStoreUrl } from "@bitwarden/common/vault/utils/get-web-store-url";
 import { LinkModule } from "@bitwarden/components";
 import { I18nPipe } from "@bitwarden/ui-common";
 
@@ -11,19 +12,6 @@ import {
   BrowserExtensionPromptService,
   BrowserPromptState,
 } from "../../services/browser-extension-prompt.service";
-
-/** Device specific Urls for the extension  */
-const WebStoreUrls: Partial<Record<DeviceType, string>> = {
-  [DeviceType.ChromeBrowser]:
-    "https://chrome.google.com/webstore/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb",
-  [DeviceType.FirefoxBrowser]:
-    "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/",
-  [DeviceType.SafariBrowser]: "https://apps.apple.com/us/app/bitwarden/id1352778147?mt=12",
-  [DeviceType.OperaBrowser]:
-    "https://addons.opera.com/extensions/details/bitwarden-free-password-manager/",
-  [DeviceType.EdgeBrowser]:
-    "https://microsoftedge.microsoft.com/addons/detail/jbkfoedolllekgbhcbcoahefnbanhhlh",
-};
 
 // FIXME(https://bitwarden.atlassian.net/browse/CL-764): Migrate to OnPush
 // eslint-disable-next-line @angular-eslint/prefer-on-push-component-change-detection
@@ -44,7 +32,7 @@ export class BrowserExtensionPromptInstallComponent implements OnInit {
   /**
    * Installation link for the extension
    */
-  protected webStoreUrl: string = "https://bitwarden.com/download/#downloads-web-browser";
+  protected webStoreUrl: string = getWebStoreUrl(DeviceType.ChromeBrowser);
 
   constructor(
     private browserExtensionPromptService: BrowserExtensionPromptService,
@@ -55,13 +43,8 @@ export class BrowserExtensionPromptInstallComponent implements OnInit {
     this.setBrowserStoreLink();
   }
 
-  /** If available, set web store specific URL for the extension */
+  /** Set the QLine Vaults web store URL for the extension */
   private setBrowserStoreLink(): void {
-    const deviceType = this.platformService.getDevice();
-    const platformSpecificUrl = WebStoreUrls[deviceType];
-
-    if (platformSpecificUrl) {
-      this.webStoreUrl = platformSpecificUrl;
-    }
+    this.webStoreUrl = getWebStoreUrl(this.platformService.getDevice());
   }
 }

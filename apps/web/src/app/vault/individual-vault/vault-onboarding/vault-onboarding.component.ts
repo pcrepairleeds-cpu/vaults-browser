@@ -18,6 +18,7 @@ import { getUserId } from "@bitwarden/common/auth/services/account.service";
 import { PlatformUtilsService } from "@bitwarden/common/platform/abstractions/platform-utils.service";
 import { VaultMessages } from "@bitwarden/common/vault/enums/vault-messages.enum";
 import { CipherViewLike } from "@bitwarden/common/vault/utils/cipher-view-like-utils";
+import { getWebStoreUrl } from "@bitwarden/common/vault/utils/get-web-store-url";
 import { I18nPipe } from "@bitwarden/ui-common";
 
 import { OnboardingTaskComponent } from "../../components/onboarding/onboarding-task.component";
@@ -162,27 +163,7 @@ export class VaultOnboardingComponent implements OnInit, OnDestroy {
   }
 
   setInstallExtLink() {
-    if (this.platformUtilsService.isChrome()) {
-      this.extensionUrl.set(
-        "https://chromewebstore.google.com/detail/bitwarden-password-manager/nngceckbapebfimnlniiiahkandclblb",
-      );
-    } else if (this.platformUtilsService.isFirefox()) {
-      this.extensionUrl.set(
-        "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/",
-      );
-    } else if (this.platformUtilsService.isSafari()) {
-      this.extensionUrl.set("https://apps.apple.com/us/app/bitwarden/id1352778147?mt=12");
-    } else if (this.platformUtilsService.isOpera()) {
-      this.extensionUrl.set(
-        "https://addons.opera.com/extensions/details/bitwarden-free-password-manager/",
-      );
-    } else if (this.platformUtilsService.isEdge()) {
-      this.extensionUrl.set(
-        "https://microsoftedge.microsoft.com/addons/detail/jbkfoedolllekgbhcbcoahefnbanhhlh",
-      );
-    } else {
-      this.extensionUrl.set("https://bitwarden.com/download/#downloads-web-browser");
-    }
+    this.extensionUrl.set(getWebStoreUrl(this.platformUtilsService.getDevice()));
   }
 
   navigateToExtension() {

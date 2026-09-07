@@ -20,7 +20,7 @@ import {
 } from "@bitwarden/common/admin-console/abstractions/organization/organization.service.abstraction";
 import { PolicyService } from "@bitwarden/common/admin-console/abstractions/policy/policy.service.abstraction";
 import { ProviderService } from "@bitwarden/common/admin-console/abstractions/provider.service";
-import { OrganizationUserType, ProviderType } from "@bitwarden/common/admin-console/enums";
+import { ProviderType } from "@bitwarden/common/admin-console/enums";
 import { Organization } from "@bitwarden/common/admin-console/models/domain/organization";
 import { Provider } from "@bitwarden/common/admin-console/models/domain/provider";
 import { AccountService } from "@bitwarden/common/auth/abstractions/account.service";
@@ -204,22 +204,12 @@ export class ProductSwitcherService {
             ? "Business Unit Portal"
             : "Provider Portal";
 
-        const orgsMarketingRoute = this.platformUtilsService.isSelfHost()
-          ? {
-              route: "https://bitwarden.com/products/business/",
-              external: true,
-            }
-          : {
-              route: "/create-organization",
-              external: false,
-            };
-
-        // Check if SM ads should be disabled for any organization
-        // SM ads are disabled if the user is a regular User (not Admin or Owner)
-        // in an organization that has useDisableSMAdsForUsers enabled
-        const shouldDisableSMAds = orgs.some(
-          (org) => org.useDisableSMAdsForUsers === true && org.type === OrganizationUserType.User,
-        );
+        // QLine Vaults is always self-hosted, and organisations are created in the
+        // app itself - never send staff to an upstream sales page.
+        const orgsMarketingRoute = {
+          route: "/create-organization",
+          external: false,
+        };
 
         const products = {
           pm: {
@@ -227,8 +217,8 @@ export class ProductSwitcherService {
             icon: "bwi-lock",
             appRoute: "/vault",
             marketingRoute: {
-              route: "https://bitwarden.com/products/personal/",
-              external: true,
+              route: "/vault",
+              external: false,
             },
             isActive:
               !this.router.url.includes("/sm/") &&
@@ -254,8 +244,8 @@ export class ProductSwitcherService {
             icon: vfo1Enabled ? "bwi-admin-console" : "bwi-business",
             appRoute: ["/organizations", acOrg?.id],
             marketingRoute: {
-              route: "https://bitwarden.com/products/business/",
-              external: true,
+              route: "/create-organization",
+              external: false,
             },
             isActive: this.router.url.includes("/organizations/"),
           },
@@ -279,11 +269,10 @@ export class ProductSwitcherService {
         const bento: ProductSwitcherItem[] = [products.pm];
         const other: ProductSwitcherItem[] = [];
 
+        // QLine Vaults does not offer Secrets Manager. Upstream advertised it here
+        // to users who did not have it; that advert is removed.
         if (smOrg) {
           bento.push(products.sm);
-        } else if (!shouldDisableSMAds) {
-          // Only show SM in "other" section if ads are not disabled
-          other.push(products.sm);
         }
 
         if (acOrg) {
