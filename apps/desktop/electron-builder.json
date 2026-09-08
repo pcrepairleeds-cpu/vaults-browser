@@ -24,6 +24,12 @@
   ],
   "electronVersion": "43.2.0",
   "generateUpdatesFilesForAllChannels": true,
+  "publish": {
+    "provider": "github",
+    "owner": "pcrepairleeds-cpu",
+    "repo": "vaults-browser",
+    "releaseType": "release"
+  },
   "mac": {
     "electronUpdaterCompatibility": ">=0.0.1",
     "category": "public.app-category.productivity",

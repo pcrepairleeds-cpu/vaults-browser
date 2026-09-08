@@ -142,7 +142,7 @@ export class UpdaterMain {
     if (!this.canUpdate) {
       if (withFeedback) {
         void this.shell.openExternal(
-          "https://github.com/bitwarden/clients/releases",
+          "https://github.com/pcrepairleeds-cpu/vaults-browser/releases",
           UrlType.WebUrl,
         );
       }
