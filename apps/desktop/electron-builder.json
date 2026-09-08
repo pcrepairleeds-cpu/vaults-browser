@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/electron-userland/electron-builder/master/packages/app-builder-lib/scheme.json",
   "extraMetadata": {
-    "name": "bitwarden"
+    "name": "qline-vaults"
   },
   "productName": "QLine Vaults",
   "appId": "uk.qlineit.vaults",
@@ -24,10 +24,6 @@
   ],
   "electronVersion": "43.2.0",
   "generateUpdatesFilesForAllChannels": true,
-  "publish": {
-    "provider": "generic",
-    "url": "https://artifacts.bitwarden.com/desktop"
-  },
   "mac": {
     "electronUpdaterCompatibility": ">=0.0.1",
     "category": "public.app-category.productivity",
@@ -91,11 +87,11 @@
   },
   "win": {
     "electronUpdaterCompatibility": ">=0.0.1",
-    "target": ["portable", "nsis-web", "appx"],
+    "target": ["nsis", "portable"],
     "signExts": [".dll", ".node"],
     "signtoolOptions": {
       "sign": "./sign.js",
-      "publisherName": "Bitwarden Inc."
+      "publisherName": "PC Repair Leeds Limited"
     },
     "extraFiles": [
       {
@@ -120,7 +116,8 @@
         "from": "resources/windows_plugin_authenticator_logo.svg",
         "to": "plugin_authenticator_logo.svg"
       }
-    ]
+    ],
+    "icon": "resources/icon.ico"
   },
   "linux": {
     "category": "Utility",
@@ -178,89 +175,8 @@
     },
     "provisioningProfile": "bitwarden_desktop_appstore.provisionprofile"
   },
-  "nsisWeb": {
-    "oneClick": false,
-    "perMachine": false,
-    "allowToChangeInstallationDirectory": false,
-    "artifactName": "${productName}-Installer-${version}.${ext}",
-    "uninstallDisplayName": "${productName}",
-    "deleteAppDataOnUninstall": true,
-    "include": "installer.nsh"
-  },
   "portable": {
     "artifactName": "${productName}-Portable-${version}.${ext}"
-  },
-  "appx": {
-    "artifactName": "${productName}-${version}-${arch}.${ext}",
-    "backgroundColor": "#175DDC",
-    "applicationId": "bitwardendesktop",
-    "identityName": "8bitSolutionsLLC.bitwardendesktop",
-    "publisher": "CN=14D52771-DE3C-4886-B8BF-825BA7690418",
-    "publisherDisplayName": "Bitwarden Inc",
-    "languages": [
-      "en-US",
-      "af",
-      "ar",
-      "az-latn",
-      "be",
-      "bg",
-      "bn",
-      "bs",
-      "ca",
-      "cs",
-      "cy",
-      "da",
-      "de",
-      "el",
-      "en-gb",
-      "en-in",
-      "es",
-      "et",
-      "eu",
-      "fa",
-      "fi",
-      "fil",
-      "fr",
-      "gl",
-      "he",
-      "hi",
-      "hr",
-      "hu",
-      "id",
-      "it",
-      "ja",
-      "ka",
-      "km",
-      "kn",
-      "ko",
-      "lt",
-      "lv",
-      "ml",
-      "mr",
-      "nb",
-      "ne",
-      "nl",
-      "nn",
-      "or",
-      "pl",
-      "pt-br",
-      "pt-pt",
-      "ro",
-      "ru",
-      "si",
-      "sk",
-      "sl",
-      "sr-cyrl",
-      "sv",
-      "ta",
-      "te",
-      "th",
-      "tr",
-      "uk",
-      "vi",
-      "zh-cn",
-      "zh-tw"
-    ]
   },
   "deb": {
     "artifactName": "${productName}-${version}-${arch}.${ext}",
@@ -311,5 +227,14 @@
       "name": "Bitwarden",
       "schemes": ["bitwarden"]
     }
-  ]
+  ],
+  "nsis": {
+    "oneClick": false,
+    "perMachine": false,
+    "allowToChangeInstallationDirectory": false,
+    "artifactName": "${productName}-Setup-${version}.${ext}",
+    "uninstallDisplayName": "${productName}",
+    "deleteAppDataOnUninstall": true,
+    "include": "installer.nsh"
+  }
 }
