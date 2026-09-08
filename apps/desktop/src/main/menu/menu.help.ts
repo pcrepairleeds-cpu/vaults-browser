@@ -84,6 +84,15 @@ export class HelpMenu implements IMenubarMenu {
   private get legalSubmenu(): MenuItemConstructorOptions[] {
     return [
       {
+        id: "termsOfService",
+        label: this.localize("termsOfService"),
+        click: () =>
+          this.shell.openExternal(
+            "https://github.com/pcrepairleeds-cpu/vaults-browser/blob/qline-vaults-branding/TERMS.md",
+            UrlType.WebUrl,
+          ),
+      },
+      {
         id: "privacyPolicy",
         label: this.localize("privacyPolicy"),
         click: () =>
