@@ -2,10 +2,10 @@
   "name": "@bitwarden/desktop",
   "productName": "Bitwarden",
   "desktopName": "bitwarden.desktop",
-  "description": "A secure and free password manager for all of your devices.",
+  "description": "QLine Vaults \u2014 the QLine IT password manager.",
   "version": "2026.9.0",
-  "author": "Bitwarden Inc. <hello@bitwarden.com> (https://bitwarden.com)",
-  "homepage": "https://bitwarden.com",
+  "author": "PC Repair Leeds Limited <support@qlineit.com> (https://qlineit.com)",
+  "homepage": "https://qlineit.com",
   "license": "GPL-3.0",
   "main": "main.js",
   "repository": {
