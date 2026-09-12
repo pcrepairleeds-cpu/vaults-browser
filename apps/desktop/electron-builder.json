@@ -97,7 +97,7 @@
     "signExts": [".dll", ".node"],
     "signtoolOptions": {
       "sign": "./sign.js",
-      "publisherName": "PC Repair Leeds Limited"
+      "publisherName": "PC REPAIR LEEDS LIMITED"
     },
     "extraFiles": [
       {
