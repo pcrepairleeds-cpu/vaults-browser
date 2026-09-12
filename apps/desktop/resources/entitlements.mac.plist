@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Developer ID distribution entitlements for QLine Vaults.
+
+  DO NOT add com.apple.application-identifier or
+  com.apple.developer.team-identifier here. Both are only valid when the app
+  carries a matching provisioning profile. Upstream Bitwarden includes them
+  because their release pipeline embeds a Developer ID provisioning profile;
+  QLine's does not. Signed with either key and no profile, macOS refuses to
+  launch the app at all: "Launch failed / Launchd job spawn failed", the process
+  is SIGKILLed before it starts, and no crash report is written. Gatekeeper and
+  notarisation still pass, so nothing catches it except running the app.
+
+  Verified 12 Sep 2026 by re-signing the shipped build with each variant:
+  application-identifier present -> exit 137; team-identifier alone -> exit 137;
+  allow-jit alone -> launches and runs.
+
+  allow-jit is required by Electron's JavaScript engine. Nothing else is needed:
+  in particular do NOT add disable-library-validation or
+  allow-unsigned-executable-memory, which would weaken the hardened runtime on a
+  password manager for no reason.
+-->
 <plist version="1.0">
 <dict>
-	<key>com.apple.application-identifier</key>
-	<string>958AT6N3BC.uk.qlineit.vaults</string>
-	<key>com.apple.developer.team-identifier</key>
-	<string>958AT6N3BC</string>
 	<key>com.apple.security.cs.allow-jit</key>
 	<true/>
 </dict>
