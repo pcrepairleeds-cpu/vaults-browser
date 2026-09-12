@@ -48,7 +48,10 @@ export class MainContextMenuHandler {
     return [
       {
         id: ROOT_ID,
-        title: "Bitwarden",
+        // Every other item here is translated; this one was hardcoded upstream,
+        // so it survived the rebrand and showed "Bitwarden" in the right-click
+        // menu on every website. extName is "QLine Vaults".
+        title: this.i18nService.t("extName"),
       },
       {
         id: AUTOFILL_ID,
